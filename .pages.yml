@@ -1,0 +1,60 @@
+media: media
+content:
+  - name: home
+    label: Accueil
+    type: file
+    path: index.md
+    fields:
+      - name: layout
+        type: string
+        hidden: true
+        default: home
+      - name: title
+        label: Titre
+        type: string
+      - name: hero_title
+        label: Accroche principale
+        type: string
+      - name: description
+        label: Présentation et description pour les moteurs de recherche
+        type: text
+      - name: body
+        label: Présentation de l’association
+        type: rich-text
+      - name: activities
+        label: Découvrir la communauté
+        type: object
+        list: true
+        fields:
+          - name: title
+            label: Titre
+            type: string
+          - name: description
+            label: Description
+            type: text
+          - name: url
+            label: Lien vers le forum
+            type: string
+      - name: highlights
+        label: Sélection du forum
+        type: object
+        list: true
+        fields:
+          - name: title
+            label: Titre
+            type: string
+          - name: category
+            label: Rubrique
+            type: string
+          - name: description
+            label: Description
+            type: text
+          - name: url
+            label: Lien vers la discussion
+            type: string
+      - name: membership_title
+        label: Titre du bloc adhésion
+        type: string
+      - name: membership_description
+        label: Texte du bloc adhésion
+        type: text

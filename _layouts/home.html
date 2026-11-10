@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="{{ site.lang | escape }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+    <meta name="description" content="{{ page.description | escape }}">
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#contenu">Aller au contenu</a>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="FreeLUG, accueil">
+          <img class="brand-logo" src="{{ '/media/freelug-logo.png' | relative_url }}" alt="FreeLUG" width="100" height="77">
+          <span class="brand-tagline">La passion des briques,<br>ensemble.</span>
+        </a>
+        <nav aria-label="Navigation principale">
+          <a href="#association">L’association</a>
+          <a href="https://forum.freelug.org/">Le forum</a>
+          <a class="member-link" href="https://adherents.freelug.org/">Espace adhérents <span aria-hidden="true">↗</span></a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="contenu">
+      <section class="hero" aria-labelledby="titre-accueil">
+        <div class="container hero-inner">
+          <div class="hero-copy">
+            <p class="eyebrow">Bienvenue chez FreeLUG</p>
+            <h1 id="titre-accueil">{{ page.hero_title | escape }}</h1>
+            <p class="hero-description">{{ page.description | escape }}</p>
+            <div class="button-row">
+              <a class="button button-primary" href="https://forum.freelug.org/">Rejoindre la discussion <span aria-hidden="true">→</span></a>
+              <a class="button button-secondary" href="#association">Découvrir l’association</a>
+            </div>
+            <p class="hero-note">Créer. Partager. Se rencontrer.</p>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <img src="{{ '/media/materiel.png' | relative_url }}" alt="" width="600" height="443" fetchpriority="high">
+          </div>
+        </div>
+      </section>
+
+      <section class="section container introduction" id="association" aria-labelledby="titre-association">
+        <p class="eyebrow" id="titre-association">L’association</p>
+        <div class="editorial">{{ content }}</div>
+      </section>
+
+      <section class="section section-muted" aria-labelledby="titre-decouvrir">
+        <div class="container">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">À chacun sa façon de construire</p>
+              <h2 id="titre-decouvrir">Une passion, plein de façons de la partager</h2>
+            </div>
+            <a class="text-link" href="https://forum.freelug.org/categories">Toutes les rubriques <span aria-hidden="true">→</span></a>
+          </div>
+          <div class="card-grid">
+            {% for item in page.activities %}
+            <article class="card">
+              <span class="card-number" aria-hidden="true">0{{ forloop.index }}</span>
+              <h3>{{ item.title | escape }}</h3>
+              <p>{{ item.description | escape }}</p>
+              <a class="text-link card-link" href="{{ item.url | escape }}">Explorer <span class="visually-hidden"> : {{ item.title | escape }}</span><span aria-hidden="true">→</span></a>
+            </article>
+            {% endfor %}
+          </div>
+        </div>
+      </section>
+
+      <section class="section container" aria-labelledby="titre-forum">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">La communauté en action</p>
+            <h2 id="titre-forum">À découvrir sur le forum</h2>
+          </div>
+          <a class="text-link" href="https://forum.freelug.org/latest">Les dernières discussions <span aria-hidden="true">→</span></a>
+        </div>
+        <p class="section-description">Une sélection pour commencer votre visite. Retrouvez les échanges et leurs mises à jour directement sur le forum.</p>
+        <div class="highlight-grid">
+          {% for item in page.highlights %}
+          <article class="highlight">
+            <p class="tag">{{ item.category | escape }}</p>
+            <h3><a href="{{ item.url | escape }}">{{ item.title | escape }}</a></h3>
+            <p>{{ item.description | escape }}</p>
+            <a class="text-link" href="{{ item.url | escape }}">Lire la discussion <span class="visually-hidden"> : {{ item.title | escape }}</span><span aria-hidden="true">↗</span></a>
+          </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="container membership" aria-labelledby="titre-adhesion">
+        <div>
+          <p class="eyebrow">Et si on construisait la suite ensemble ?</p>
+          <h2 id="titre-adhesion">{{ page.membership_title | escape }}</h2>
+          <p>{{ page.membership_description | escape }}</p>
+        </div>
+        <div class="membership-actions">
+          <a class="button button-primary" href="https://adherents.freelug.org/adherer/FreeLUG">Adhérer à FreeLUG <span aria-hidden="true">→</span></a>
+          <a href="https://adherents.freelug.org/">Déjà adhérent ? Mon espace personnel</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div><a class="footer-brand" href="{{ '/' | relative_url }}"><img src="{{ '/media/freelug-logo.png' | relative_url }}" alt="FreeLUG, accueil" width="100" height="77" loading="lazy"></a><p>La passion des briques, ensemble.</p></div>
+        <nav aria-label="Liens utiles">
+          <a href="https://forum.freelug.org/">Forum</a>
+          <a href="https://adherents.freelug.org/">Espace adhérents</a>
+          <a href="https://adherents.freelug.org/mentions-legales">Mentions légales</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

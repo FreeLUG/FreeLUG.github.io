@@ -1,0 +1,9 @@
+title: FreeLUG
+lang: fr
+url: https://freelug.github.io
+baseurl: ""
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
