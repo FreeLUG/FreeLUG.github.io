@@ -3,9 +3,9 @@
   "inventory_verified_complete": true,
   "inventory_source_url": "https://www.freelug.org/spip.php?page=plan&tri=par_rubrique",
   "sections": 77,
-  "articles": 181,
+  "articles": 367,
   "known_source_articles": 1841,
-  "known_articles_remaining": 1659,
+  "known_articles_remaining": 1473,
   "excluded_article_ids": [
     18
   ],
