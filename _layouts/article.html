@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="container">
+  {% include breadcrumbs.html %}
+  <article class="reading-column">
+    <header class="page-heading">
+      <p class="eyebrow">Les publications FreeLUG</p>
+      <h1>{{ page.title | escape }}</h1>
+      <div class="article-meta">
+        {% if page.published_at and page.published_at != "" %}<time datetime="{{ page.published_at | escape }}">Publié le {% include date.html value=page.published_at %}</time>{% endif %}
+        {% if page.authors.size > 0 %}<p>Par {{ page.authors | join: ", " | escape }}</p>{% endif %}
+      </div>
+    </header>
+    {% if page.source_url and page.source_url != "" %}<p class="archive-notice">Un article de l’histoire de FreeLUG. Les informations et liens correspondent à sa date de publication.</p>{% endif %}
+    <div class="article-body">{{ content }}</div>
+    <footer class="article-footer">
+      {% assign section = site.sections | where: "permalink", page.section | first %}
+      {% if section %}<a class="button button-secondary" href="{{ section.url | relative_url }}">← {{ section.title | escape }}</a>{% endif %}
+      {% if page.source_url and page.source_url != "" %}<a class="text-link" href="{{ page.source_url | escape }}">Voir la publication d’origine <span aria-hidden="true">↗</span></a>{% endif %}
+    </footer>
+  </article>
+</div>

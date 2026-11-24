@@ -1,0 +1,13 @@
+<nav class="breadcrumbs" aria-label="Fil d’Ariane">
+  <ol>
+    <li><a href="{{ '/' | relative_url }}">Accueil</a></li>
+    {% if page.collection == "sections" %}
+      {% assign parent = site.sections | where: "permalink", page.parent | first %}
+      {% if parent %}{% include section-trail.html section=parent %}{% endif %}
+    {% elsif page.section %}
+      {% assign section = site.sections | where: "permalink", page.section | first %}
+      {% if section %}{% include section-trail.html section=section %}{% endif %}
+    {% endif %}
+    <li aria-current="page">{{ page.title | escape }}</li>
+  </ol>
+</nav>

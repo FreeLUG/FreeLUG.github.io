@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="{{ site.lang | escape }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+    <meta name="description" content="{{ page.description | escape }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#contenu">Aller au contenu</a>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="FreeLUG, accueil">
+          <img class="brand-logo" src="{{ '/media/freelug-logo.png' | relative_url }}" alt="FreeLUG" width="100" height="77">
+          <span class="brand-tagline">La passion des briques,<br>ensemble.</span>
+        </a>
+        <nav aria-label="Navigation principale">
+          {% for item in site.data.navigation %}
+          <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title | escape }}</a>
+          {% endfor %}
+          <a href="https://forum.freelug.org/">Forum</a>
+          <a class="member-link" href="https://adherents.freelug.org/adherer/FreeLUG">Adhérer <span aria-hidden="true">↗</span></a>
+        </nav>
+      </div>
+    </header>
+    <main id="contenu">{{ content }}</main>
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div><a class="footer-brand" href="{{ '/' | relative_url }}"><img src="{{ '/media/freelug-logo.png' | relative_url }}" alt="FreeLUG, accueil" width="100" height="77" loading="lazy"></a><p>La passion des briques, ensemble.</p></div>
+        <nav aria-label="Liens utiles">
+          <a href="{{ '/association/' | relative_url }}">L’association</a>
+          <a href="https://forum.freelug.org/">Forum</a>
+          <a href="https://adherents.freelug.org/mentions-legales">Mentions légales</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

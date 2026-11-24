@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<section class="container section reading-column">
+  <p class="eyebrow">{{ page.eyebrow | escape }}</p>
+  <h1>{{ page.title | escape }}</h1>
+  {{ content }}
+  <div class="button-row">
+    {% for item in site.data.navigation %}
+    <a class="button button-secondary" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+    {% endfor %}
+  </div>
+  <p class="legacy-status" role="status"></p>
+  <script src="{{ '/assets/js/legacy.js' | relative_url }}" data-map="{{ '/assets/legacy-urls.json' | relative_url }}" defer></script>
+</section>

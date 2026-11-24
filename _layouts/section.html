@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<div class="container">
+  {% include breadcrumbs.html %}
+  <header class="page-heading">
+    <p class="eyebrow">Explorer FreeLUG</p>
+    <h1>{{ page.title | escape }}</h1>
+    <div class="editorial">{{ content }}</div>
+  </header>
+
+  {% if site.data.migration.complete == false and site.data.migration.pending_sections contains page.source_id %}
+  <p class="source-link">Reprise en cours : tous les articles de cette rubrique ne sont pas encore disponibles ici. Les publications restantes sont consultables sur le site historique, dont le lien figure en bas de page.</p>
+  {% endif %}
+
+  {% assign children = site.sections | where: "parent", page.permalink | sort_natural: "title" %}
+  {% if children.size > 0 %}
+  <section class="archive-section" aria-labelledby="titre-sous-rubriques">
+    <h2 id="titre-sous-rubriques">Les rubriques</h2>
+    <div class="category-grid">
+      {% for child in children %}
+      {% assign child_articles = site.articles | where: "section", child.permalink %}
+      {% assign grandchildren = site.sections | where: "parent", child.permalink %}
+      <article class="card">
+        <h3><a href="{{ child.url | relative_url }}">{{ child.title | escape }}</a></h3>
+        <p>{{ child_articles.size }} article{% if child_articles.size != 1 %}s{% endif %}{% if grandchildren.size > 0 %} · {{ grandchildren.size }} sous-rubrique{% if grandchildren.size != 1 %}s{% endif %}{% endif %}</p>
+        <a class="text-link card-link" href="{{ child.url | relative_url }}">Explorer <span class="visually-hidden">{{ child.title | escape }}</span><span aria-hidden="true">→</span></a>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% assign articles = site.articles | where: "section", page.permalink | sort: "published_at" | reverse %}
+  {% if articles.size > 0 %}
+  <section class="archive-section" aria-labelledby="titre-articles" data-archive>
+    <div class="section-heading">
+      <h2 id="titre-articles">Les articles <span class="article-count">({{ articles.size }})</span></h2>
+      <div class="archive-search" hidden>
+        <label for="recherche-articles">Rechercher dans cette rubrique</label>
+        <input id="recherche-articles" type="search" placeholder="Un titre, une année, un auteur…" autocomplete="off">
+      </div>
+    </div>
+    <p class="archive-result visually-hidden" role="status" aria-live="polite"></p>
+    <div class="article-list">
+      {% for item in articles %}
+      <article class="archive-entry" data-entry>
+        {% if item.published_at and item.published_at != "" %}<time datetime="{{ item.published_at | escape }}">{% include date.html value=item.published_at %}</time>{% endif %}
+        <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
+        {% if item.authors.size > 0 %}<p class="article-authors">{{ item.authors | join: ", " | escape }}</p>{% endif %}
+        <p>{{ item.description | escape }}</p>
+      </article>
+      {% endfor %}
+    </div>
+    <p class="archive-empty" hidden>Aucun article ne correspond à votre recherche.</p>
+  </section>
+  <script src="{{ '/assets/js/archive.js' | relative_url }}" defer></script>
+  {% endif %}
+  {% if page.source_url and page.source_url != "" %}<p class="source-link"><a href="{{ page.source_url | escape }}">Cette rubrique sur le site historique <span aria-hidden="true">↗</span></a></p>{% endif %}
+</div>
