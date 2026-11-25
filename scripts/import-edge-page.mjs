@@ -158,7 +158,8 @@ export async function importEdgePage(file, destination = root) {
           node.nodeName === 'EMBED' || (node.nodeName === '#text' && !node.textContent.trim())) ||
         embeds[0].getAttribute('src') !== url ||
         embeds[0].getAttribute('type') !== 'application/x-shockwave-flash' ||
-        !/^http:\/\/www\.youtube\.com\/v\/[a-zA-Z0-9_-]{11}&hl=fr_FR&fs=1$/.test(url || '')) continue;
+        !(/^http:\/\/www\.youtube\.com\/v\/[a-zA-Z0-9_-]{11}(?:&hl=fr_FR&fs=1|\?fs=1&hl=fr_FR)$/.test(url || '') ||
+          /^http:\/\/www\.dailymotion\.com\/swf\/[a-zA-Z0-9]+_[a-zA-Z0-9_-]+&colors=background:[a-fA-F0-9]{6};&related=1$/.test(url || ''))) continue;
     videoLink(object, url);
   }
   for (const embed of Array.from(editorial.querySelectorAll('embed'))) {

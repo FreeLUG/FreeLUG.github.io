@@ -83,10 +83,12 @@ les liens vers les documents.
 Les lecteurs YouTube dont l’URL originale est explicitement conservée dans les
 métadonnées de la capture MHTML deviennent aussi des liens Markdown, avec leur
 identifiant de liste de lecture lorsqu’il est reconnu, sans accès au site externe.
-Les anciens lecteurs Flash YouTube et `videos.freelug.org`
+Les anciens lecteurs Flash YouTube, Dailymotion et `videos.freelug.org`
 reconnus conservent également leurs URL vidéo explicites sous forme de liens,
 sans importer ni exécuter le lecteur. Les sources ambiguës et les autres
 intégrations restent en attente de traitement éditorial.
+Les deux variantes historiques YouTube `&hl=fr_FR&fs=1` et `?fs=1&hl=fr_FR`
+conservent leur URL exacte ; les paramètres supplémentaires ne sont pas acceptés.
 Les profils publics des auteurs seront repris après les rubriques et articles.
 
 La rubrique **Statuts** contient ses quatre documents. Le scan original du

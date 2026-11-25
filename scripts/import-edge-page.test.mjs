@@ -265,17 +265,27 @@ test('known legacy Flash players preserve exact source links and surrounding tex
   const { page, site, directory, html } = await fixture(t);
   await writeFile(path.join(directory, 'article123_files', 'train.jpg'), 'fixture-image');
   const youtube = 'http://www.youtube.com/v/91HYV2iPpk8&hl=fr_FR&fs=1';
+  const youtubeQuery = 'http://www.youtube.com/v/kYN0ua-SQGo?fs=1&hl=fr_FR';
+  const dailymotion = 'http://www.dailymotion.com/swf/x9v6jt_la-taverne-intergalactique_creation&colors=background:DEDEDE;&related=1';
   const video = 'http://videos.freelug.org/uploads/KnLbaymbqAiJJkIJUbDL.flv';
   await writeFile(page, html.replace('La fin du récit.', `Avant les vidéos.
     <object><param name="movie" value="${youtube}"><param name="allowFullScreen" value="true">
     <embed src="${youtube}" type="application/x-shockwave-flash"></object>
+    <object><param name="movie" value="${youtubeQuery.replaceAll('&', '&amp;')}">
+    <embed src="${youtubeQuery.replaceAll('&', '&amp;')}" type="application/x-shockwave-flash"></object>
+    <object><param name="movie" value="${dailymotion}">
+    <embed src="${dailymotion}" type="application/x-shockwave-flash"></object>
     <p>Une légende.</p><embed src="http://videos.freelug.org/flvplayer.swf"
     flashvars="file=${video}&amp;autostart=false"><p>La fin du récit.</p>`));
   const result = await importEdgePage(page, site);
   assert.ok(result.originalMediaLinks.includes(youtube));
+  assert.ok(result.originalMediaLinks.includes(youtubeQuery));
+  assert.ok(result.originalMediaLinks.includes(dailymotion));
   assert.ok(result.originalMediaLinks.includes(video));
   const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtube})`));
+  assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtubeQuery})`));
+  assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${dailymotion})`));
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${video})`));
   assert.match(markdown, /Avant les vidéos\./);
   assert.match(markdown, /Une légende\./);
@@ -286,8 +296,14 @@ test('known legacy Flash players preserve exact source links and surrounding tex
 test('ambiguous or unsupported Flash players cannot publish incomplete content', async t => {
   const { page, site, html } = await fixture(t);
   const youtube = 'http://www.youtube.com/v/91HYV2iPpk8&hl=fr_FR&fs=1';
+  const youtubeQuery = 'http://www.youtube.com/v/kYN0ua-SQGo?fs=1&hl=fr_FR&redirect=example.org';
+  const dailymotion = 'http://www.dailymotion.com/swf/x9v6jt_la-taverne-intergalactique_creation&colors=background:DEDEDE;&related=1';
   const video = 'http://videos.freelug.org/uploads/KnLbaymbqAiJJkIJUbDL.flv';
   for (const player of [
+    `<object><param name="movie" value="${youtubeQuery}"><embed src="${youtubeQuery}" type="application/x-shockwave-flash"></object>`,
+    `<object><param name="movie" value="${dailymotion}"><embed src="${dailymotion.replace('x9v6jt', 'x12345')}" type="application/x-shockwave-flash"></object>`,
+    `<object><param name="movie" value="${dailymotion.replace('www.dailymotion.com', 'www.dailymotion.com.example.org')}"><embed src="${dailymotion.replace('www.dailymotion.com', 'www.dailymotion.com.example.org')}" type="application/x-shockwave-flash"></object>`,
+    `<object><param name="movie" value="${dailymotion}&redirect=example.org"><embed src="${dailymotion}&redirect=example.org" type="application/x-shockwave-flash"></object>`,
     `<object><param name="movie" value="${youtube}"><embed src="${youtube.replace('91HYV2iPpk8', 'tZsrcXokSS8')}" type="application/x-shockwave-flash"></object>`,
     `<object><param name="movie" value="${youtube}"><embed src="${youtube}" type="application/x-shockwave-flash"><p>Editorial fallback</p></object>`,
     `<object><param name="movie" value="${youtube.replace('www.youtube.com', 'www.youtube.com.example.org')}"><embed src="${youtube}" type="application/x-shockwave-flash"></object>`,
