@@ -103,6 +103,46 @@ test('a stale browser save cannot be mistaken for the requested article', async 
   await assert.rejects(readFile(path.join(site, '_articles', '122.md')), /ENOENT/);
 });
 
+test('native public media becomes editable source links without player controls', async t => {
+  const { page, site, directory, html } = await fixture(t);
+  await writeFile(path.join(directory, 'article123_files', 'train.jpg'), 'fixture-image');
+  await writeFile(page, html.replace('La fin du récit.', `La fin du récit.
+    <figure><div class="mejs__container"><div class="mejs__mediaelement">
+    <video src="https://www.freelug.org/IMG/mp4/train.mp4">
+    <source src="https://www.freelug.org/IMG/mp4/train.mp4" type="video/mp4">
+    <img src="./article123_files/player-icon.svg" alt="Impossible de lire la video">
+    </video></div><div style="background:black"><svg><title>Player control</title></svg></div></div>
+    <figcaption>Le train en mouvement.</figcaption></figure>
+    <audio><source src="/IMG/mp3/train.mp3" type="audio/mpeg"></audio>`));
+  const result = await importEdgePage(page, site);
+  assert.deepEqual(result.originalMediaLinks, [
+    'https://www.freelug.org/IMG/jpg/original.jpg',
+    'https://www.freelug.org/IMG/mp4/train.mp4',
+    'https://www.freelug.org/IMG/mp3/train.mp3'
+  ]);
+  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  assert.equal(markdown.match(/train\.mp4/g)?.length, 1);
+  assert.match(markdown, /\[Vidéo de la publication d’origine\]\(https:\/\/www\.freelug\.org\/IMG\/mp4\/train\.mp4\)/);
+  assert.match(markdown, /\[Audio de la publication d’origine\]\(https:\/\/www\.freelug\.org\/IMG\/mp3\/train\.mp3\)/);
+  assert.match(markdown, /Le train en mouvement\./);
+  assert.doesNotMatch(markdown, /Player control|Impossible de lire|<video|<audio|<svg/);
+});
+
+test('media without verified public source URLs remains unpublished', async t => {
+  const { page, site, html } = await fixture(t);
+  for (const media of [
+    '<video></video>',
+    '<video src="https://adherents.freelug.org/IMG/video.mp4"></video>',
+    '<video src="https://example.org/IMG/video.mp4"></video>',
+    '<video src="javascript:alert(1)"></video>',
+    '<div class="mejs__container"><video src="/IMG/a.mp4"></video><video src="/IMG/b.mp4"></video></div>'
+  ]) {
+    await writeFile(page, html.replace('La fin du récit.', media));
+    await assert.rejects(importEdgePage(page, site), /media without a source URL|media requiring editorial migration|ambiguous media player/);
+    await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+  }
+});
+
 test('pages saved from the excluded membership portal cannot be imported', async t => {
   const { page, site, html } = await fixture(t);
   await writeFile(page, html.replace('https://www.freelug.org/spip.php?article123 -->', 'https://adherents.freelug.org/adherer/FreeLUG -->'));
@@ -142,4 +182,39 @@ test('incomplete single-file archives or missing bundled images cannot be publis
   await writeFile(file, archive.replace('Content-Location: https://www.freelug.org/local/train.jpg', 'Content-Location: https://www.freelug.org/local/different.jpg'));
   await assert.rejects(importEdgePage(file, site), /Media missing from the saved archive/);
   await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+});
+
+function archiveWithFrame(archive, location) {
+  const frame = `--test-boundary\r\nContent-Type: text/html\r\nContent-ID: <video-frame>\r\n${
+    location ? `Content-Location: ${location}\r\n` : ''
+  }Content-Transfer-Encoding: base64\r\n\r\n${Buffer.from('<html><body></body></html>').toString('base64')}\r\n`;
+  return archive.replace('La fin du r=c3=a9cit.', `Avant le lecteur.<iframe src=3D"cid:video-frame"></iframe><p>La fin du r=c3=a9cit.</p>`)
+    .replace('--test-boundary--\r\n', frame + '--test-boundary--\r\n');
+}
+
+test('archived YouTube iframe provenance becomes a Markdown link while captions remain', async t => {
+  const { file, site, archive } = await singleFileFixture(t);
+  const video = 'https://www.youtube.com/embed/e1iTxVdjk8k';
+  await writeFile(file, archiveWithFrame(archive, video));
+  const result = await importEdgePage(file, site);
+  assert.ok(result.originalMediaLinks.includes(video));
+  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  assert.match(markdown, /Avant le lecteur\./);
+  assert.match(markdown, /\[Vidéo de la publication d’origine\]\(https:\/\/www\.youtube\.com\/embed\/e1iTxVdjk8k\)/);
+  assert.match(markdown, /La fin du récit\./);
+  assert.doesNotMatch(markdown, /<iframe|cid:video-frame/);
+});
+
+test('iframes without verified supported archive provenance remain unpublished', async t => {
+  const { file, site, archive } = await singleFileFixture(t);
+  for (const location of [
+    undefined,
+    'https://www.youtube.com.example.org/embed/e1iTxVdjk8k',
+    'https://adherents.freelug.org/embed/e1iTxVdjk8k',
+    'https://www.youtube.com/embed/not-a-video-id'
+  ]) {
+    await writeFile(file, archiveWithFrame(archive, location));
+    await assert.rejects(importEdgePage(file, site), /embedded content requiring editorial migration/);
+    await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+  }
 });

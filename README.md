@@ -70,6 +70,16 @@ Les anciennes entrées qui redirigent hors du site sont conservées sous forme
 de notices Markdown, avec le titre et la date du plan public et un lien vers
 la publication d’origine. Le contenu des sites externes n’est pas recopié ;
 aucun auteur n’est déduit de ces liens.
+Les médias indisponibles font l’objet d’une note explicite dans le Markdown :
+l’article 418 conserve le texte alternatif de son icône d’aide absente, et
+l’article 1298 conserve le lien vidéo présent dans le texte à la place du lecteur
+vide de la capture. Aucun contenu externe n’a été importé pour ces substitutions.
+Les lecteurs vidéo et audio natifs sont remplacés par des liens Markdown vers
+leurs fichiers publics sous `www.freelug.org/IMG/`, sans recopier les commandes
+du lecteur ni télécharger automatiquement les fichiers multimédias.
+Les lecteurs YouTube dont l’URL originale est explicitement conservée dans les
+métadonnées de la capture MHTML deviennent aussi des liens Markdown, sans accès
+au site externe. Les autres intégrations restent en attente de traitement éditorial.
 Les profils publics des auteurs seront repris après les rubriques et articles.
 
 La rubrique **Statuts** contient ses quatre documents. Le scan original du

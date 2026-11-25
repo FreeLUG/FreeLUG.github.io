@@ -101,6 +101,42 @@ export async function importEdgePage(file, destination = root) {
       editorial.appendChild(extra);
     }
   }
+  for (const player of Array.from(editorial.querySelectorAll('video, audio'))) {
+    const sources = [...new Set([player.getAttribute('src'),
+      ...Array.from(player.querySelectorAll('source[src]'), node => node.getAttribute('src'))].filter(Boolean))];
+    if (!sources.length) throw new Error(`Article ${id} contains media without a source URL.`);
+    const container = player.closest('.mejs__container') || player;
+    if (container !== player && container.querySelectorAll('video, audio').length !== 1) {
+      throw new Error(`Article ${id} contains an ambiguous media player.`);
+    }
+    const paragraph = document.createElement('p');
+    for (const raw of sources) {
+      const url = new URL(raw, sourceUrl);
+      if (!['https:', 'http:'].includes(url.protocol) || url.hostname !== 'www.freelug.org' ||
+          url.username || url.password || !url.pathname.startsWith('/IMG/')) {
+        throw new Error(`Article ${id} contains media requiring editorial migration: ${raw}`);
+      }
+      const link = document.createElement('a');
+      link.setAttribute('href', url.href);
+      link.textContent = player.nodeName === 'VIDEO' ? 'Vidéo de la publication d’origine' : 'Audio de la publication d’origine';
+      if (paragraph.childNodes.length) paragraph.appendChild(document.createTextNode(' · '));
+      paragraph.appendChild(link);
+    }
+    container.replaceWith(paragraph);
+  }
+  const originals = new Set();
+  for (const frame of Array.from(editorial.querySelectorAll('iframe'))) {
+    const resource = archive?.resources.get(frame.getAttribute('src'));
+    const location = resource?.location;
+    if (resource?.type !== 'text/html' || !/^https:\/\/www\.youtube\.com\/embed\/[a-zA-Z0-9_-]{11}$/.test(location || '')) continue;
+    const paragraph = document.createElement('p');
+    const link = document.createElement('a');
+    link.setAttribute('href', location);
+    link.textContent = 'Vidéo de la publication d’origine';
+    paragraph.appendChild(link);
+    frame.replaceWith(paragraph);
+    originals.add(location);
+  }
   if (editorial.querySelector('iframe, object, embed, video, audio, source, svg, [style*="background"]')) {
     throw new Error(`Article ${id} contains embedded content requiring editorial migration.`);
   }
@@ -110,7 +146,6 @@ export async function importEdgePage(file, destination = root) {
   const urlMap = JSON.parse(await readFile(urlMapPath, 'utf8'));
   urlMap[`article${id}`] = `/articles/${id}/`;
   const assets = new Map();
-  const originals = new Set();
   const localFile = async raw => {
     let bytes;
     let extension;
