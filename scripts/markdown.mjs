@@ -46,6 +46,21 @@ export function toMarkdown(html) {
     replacement: (_, node) => {
       const rows = Array.from(node.querySelectorAll('tr'));
       if (node.querySelector('table') || node.querySelector('[colspan], [rowspan]')) {
+        const rounds = rows.map(row => Array.from(row.children));
+        const widths = rounds.map(cells => cells.reduce((sum, cell) =>
+          sum + Number(cell.getAttribute('colspan') || 1), 0));
+        if (!node.querySelector('table, [rowspan]') && node.classList.contains('classement') &&
+            rounds.length && rounds.every(cells => cells.length > 1 &&
+              cells[0].nodeName === 'TH' && !cells[0].hasAttribute('colspan') &&
+              cells[0].textContent.trim() && cells.slice(1).every(cell => cell.nodeName === 'TD' &&
+                (!cell.hasAttribute('colspan') || /^[1-9]\d*$/.test(cell.getAttribute('colspan'))))) &&
+            widths.every(width => Number.isSafeInteger(width) && width === widths[0])) {
+          const caption = node.querySelector('caption');
+          return '\n\n' + (caption ? service.turndown(caption.innerHTML) + '\n\n' : '') +
+            rounds.map(cells => `**${service.turndown(cells[0].innerHTML)}**\n\n` +
+              cells.slice(1).map(cell => '- ' + service.turndown(cell.innerHTML)
+                .replace(/\n/g, '\n  ')).join('\n')).join('\n\n') + '\n\n';
+        }
         throw new Error('A complex table needs editorial conversion to Markdown before import.');
       }
       const values = rows.map(row => Array.from(row.children).map(cell =>

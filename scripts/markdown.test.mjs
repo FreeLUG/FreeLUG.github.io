@@ -87,6 +87,25 @@ test('SPIP footnotes remain linked using Markdown footnotes', () => {
   assert.doesNotMatch(markdown, /#nb1|#nh1/);
 });
 
+test('labelled tournament brackets preserve rounds and scores as Markdown lists', () => {
+  const html = `<table class="classement"><caption>Tournoi</caption>
+    <tr><th>Quart</th><td>A - B<br>4</td><td>C - D<br>0</td></tr>
+    <tr><th>Finale</th><td colspan="2"><a href="/equipe/">A - B</a><br>3</td></tr></table>`;
+  const markdown = toMarkdown(`<p>Avant.</p>${html}<p>Apres.</p>`);
+  assert.match(markdown, /Tournoi\n\n\*\*Quart\*\*\n\n- A - B {2}\n {2}4\n- C - D {2}\n {2}0/);
+  assert.match(markdown, /\*\*Finale\*\*\n\n- \[A - B\]\(\/equipe\/\) {2}\n {2}3/);
+  assert.match(markdown, /^Avant\./);
+  assert.match(markdown, /Apres\.\n$/);
+  assert.doesNotMatch(markdown, /<table|colspan/);
+  for (const unsupported of [
+    html.replace('colspan="2"', 'rowspan="2"'),
+    html.replace('colspan="2"', 'colspan="0"'),
+    html.replace('colspan="2"', 'colspan="3"'),
+    html.replace('<th>Finale</th>', '<td>Finale</td>'),
+    html.replace('A - B<br>4', '<table><tr><td>A</td></tr></table>')
+  ]) assert.throws(() => toMarkdown(unsupported), /complex table/);
+});
+
 test('SPIP wrapped references and container notes preserve named and repeated footnotes', () => {
   const markdown = toMarkdown(`<p>Pièce<span class="spip_note_ref"> [<a href="#nb_2A" id="nh_2A">*</a>]</span>.
     Encore<span class="spip_note_ref"> [<a href="#nb_2A">*</a>]</span>.

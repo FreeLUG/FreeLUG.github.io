@@ -87,8 +87,16 @@ Les anciens lecteurs Flash YouTube, Dailymotion et `videos.freelug.org`
 reconnus conservent également leurs URL vidéo explicites sous forme de liens,
 sans importer ni exécuter le lecteur. Les sources ambiguës et les autres
 intégrations restent en attente de traitement éditorial.
-Les deux variantes historiques YouTube `&hl=fr_FR&fs=1` et `?fs=1&hl=fr_FR`
-conservent leur URL exacte ; les paramètres supplémentaires ne sont pas acceptés.
+Les variantes historiques YouTube `&hl=fr_FR&fs=1`, `&hl=fr&fs=1` et
+`?fs=1&hl=fr_FR` conservent leur URL exacte, y compris le séparateur final `&`
+du premier format lorsqu’il est présent ; les paramètres supplémentaires ne
+sont pas acceptés. Un objet contenant uniquement un lecteur avec une URL
+explicite reconnue peut être converti sans paramètre `movie`, mais les sources
+concurrentes et le texte de remplacement empêchent la conversion.
+Les tableaux de tournoi `classement` avec une étiquette par ligne et des cellules
+fusionnées uniquement horizontalement deviennent des listes Markdown par tour,
+en conservant chaque équipe et score. Les autres tableaux complexes restent
+en attente de traitement éditorial.
 Les profils publics des auteurs seront repris après les rubriques et articles.
 
 La rubrique **Statuts** contient ses quatre documents. Le scan original du
