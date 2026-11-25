@@ -34,7 +34,7 @@ export function chromeArchive(text) {
     let bytes;
     if (encoding === 'base64') {
       const encoded = body.replace(/\s/g, '');
-      if (!/^(?:[a-zA-Z0-9+/]{4})*(?:[a-zA-Z0-9+/]{2}==|[a-zA-Z0-9+/]{3}=)?$/.test(encoded)) {
+      if (encoded.length % 4 !== 0 || !/^[a-zA-Z0-9+/]*={0,2}$/.test(encoded)) {
         throw new Error('Invalid base64 archive resource.');
       }
       bytes = Buffer.from(encoded, 'base64');
@@ -98,6 +98,14 @@ export async function importEdgePage(file, destination = root) {
       for (const decoration of Array.from(extra.querySelectorAll('.read-more.hide, .icon.i-icon, .spip_document_icone > .img[style*="background"]'))) {
         decoration.remove();
       }
+      for (const thumbnail of Array.from(extra.querySelectorAll('.logo-img-wrapper.spip_logo.spip_logos > span.img'))) {
+        const match = thumbnail.getAttribute('style')?.match(/^display:block;position:relative;height:0;width:100%;padding-bottom:\d+(?:\.\d+)?%;overflow:hidden;background:url\((local\/cache-vignettes\/[a-zA-Z0-9_/?=.-]+)\) no-repeat center;background-size:100%;$/);
+        if (!match || thumbnail.textContent.trim() || thumbnail.children.length) continue;
+        const image = document.createElement('img');
+        image.setAttribute('src', match[1]);
+        image.setAttribute('alt', '');
+        thumbnail.replaceWith(image);
+      }
       editorial.appendChild(extra);
     }
   }
@@ -125,17 +133,41 @@ export async function importEdgePage(file, destination = root) {
     container.replaceWith(paragraph);
   }
   const originals = new Set();
+  const videoLink = (player, url) => {
+    const paragraph = document.createElement('p');
+    const link = document.createElement('a');
+    link.setAttribute('href', url);
+    link.textContent = 'Vidéo de la publication d’origine';
+    paragraph.appendChild(link);
+    player.replaceWith(paragraph);
+    originals.add(url);
+  };
   for (const frame of Array.from(editorial.querySelectorAll('iframe'))) {
     const resource = archive?.resources.get(frame.getAttribute('src'));
     const location = resource?.location;
-    if (resource?.type !== 'text/html' || !/^https:\/\/www\.youtube\.com\/embed\/[a-zA-Z0-9_-]{11}$/.test(location || '')) continue;
-    const paragraph = document.createElement('p');
-    const link = document.createElement('a');
-    link.setAttribute('href', location);
-    link.textContent = 'Vidéo de la publication d’origine';
-    paragraph.appendChild(link);
-    frame.replaceWith(paragraph);
-    originals.add(location);
+    if (resource?.type !== 'text/html' ||
+        !/^https:\/\/www\.youtube\.com\/embed\/[a-zA-Z0-9_-]{11}(?:\?list=[a-zA-Z0-9_-]{24})?$/.test(location || '')) continue;
+    videoLink(frame, location);
+  }
+  for (const object of Array.from(editorial.querySelectorAll('object'))) {
+    const movies = object.querySelectorAll('param[name="movie"]');
+    const embeds = object.querySelectorAll('embed');
+    const url = movies[0]?.getAttribute('value');
+    if (movies.length !== 1 || embeds.length !== 1 ||
+        !Array.from(object.childNodes).every(node => node.nodeName === 'PARAM' ||
+          node.nodeName === 'EMBED' || (node.nodeName === '#text' && !node.textContent.trim())) ||
+        embeds[0].getAttribute('src') !== url ||
+        embeds[0].getAttribute('type') !== 'application/x-shockwave-flash' ||
+        !/^http:\/\/www\.youtube\.com\/v\/[a-zA-Z0-9_-]{11}&hl=fr_FR&fs=1$/.test(url || '')) continue;
+    videoLink(object, url);
+  }
+  for (const embed of Array.from(editorial.querySelectorAll('embed'))) {
+    if (embed.parentNode.closest('object') ||
+        embed.getAttribute('src') !== 'http://videos.freelug.org/flvplayer.swf') continue;
+    const sources = new URLSearchParams(embed.getAttribute('flashvars') || '').getAll('file');
+    if (sources.length !== 1 ||
+        !/^http:\/\/videos\.freelug\.org\/uploads\/[a-zA-Z0-9]{20}\.flv$/.test(sources[0])) continue;
+    videoLink(embed, sources[0]);
   }
   if (editorial.querySelector('iframe, object, embed, video, audio, source, svg, [style*="background"]')) {
     throw new Error(`Article ${id} contains embedded content requiring editorial migration.`);

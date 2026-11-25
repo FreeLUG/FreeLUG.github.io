@@ -77,9 +77,16 @@ vide de la capture. Aucun contenu externe n’a été importé pour ces substitu
 Les lecteurs vidéo et audio natifs sont remplacés par des liens Markdown vers
 leurs fichiers publics sous `www.freelug.org/IMG/`, sans recopier les commandes
 du lecteur ni télécharger automatiquement les fichiers multimédias.
+Les vignettes CSS reconnues des documents joints deviennent des images Markdown
+uniquement lorsque leurs fichiers sont présents dans la capture, sans supprimer
+les liens vers les documents.
 Les lecteurs YouTube dont l’URL originale est explicitement conservée dans les
-métadonnées de la capture MHTML deviennent aussi des liens Markdown, sans accès
-au site externe. Les autres intégrations restent en attente de traitement éditorial.
+métadonnées de la capture MHTML deviennent aussi des liens Markdown, avec leur
+identifiant de liste de lecture lorsqu’il est reconnu, sans accès au site externe.
+Les anciens lecteurs Flash YouTube et `videos.freelug.org`
+reconnus conservent également leurs URL vidéo explicites sous forme de liens,
+sans importer ni exécuter le lecteur. Les sources ambiguës et les autres
+intégrations restent en attente de traitement éditorial.
 Les profils publics des auteurs seront repris après les rubriques et articles.
 
 La rubrique **Statuts** contient ses quatre documents. Le scan original du

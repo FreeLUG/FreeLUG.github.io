@@ -4,7 +4,7 @@ import { mkdtemp, mkdir, writeFile, readFile, readdir, rm } from 'node:fs/promis
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { parse } from 'yaml';
-import { importEdgePage } from './import-edge-page.mjs';
+import { chromeArchive, importEdgePage } from './import-edge-page.mjs';
 
 async function fixture(t) {
   const directory = await mkdtemp(path.join(tmpdir(), 'freelug-edge-'));
@@ -175,6 +175,22 @@ test('Chrome single-file saves preserve UTF-8 editorial text and bundled binary 
   await assert.rejects(importEdgePage(file, site), /public https:\/\/www\.freelug\.org/);
 });
 
+test('large Base64 resources decode without stack overflow and malformed encodings remain blocked', async t => {
+  const { archive } = await singleFileFixture(t);
+  const original = Buffer.from('fixture-image').toString('base64');
+  const bytes = Buffer.alloc(8 * 1024 * 1024, 0xab);
+  const encoded = bytes.toString('base64');
+  const captured = chromeArchive(archive.replace(original, encoded));
+  assert.deepEqual(captured.resources.get('https://www.freelug.org/local/train.jpg').bytes, bytes);
+  for (const invalid of ['A', 'AA=', 'A===', '=AAA', 'AA=A', 'AAA!', encoded.slice(0, -4) + 'AA=A']) {
+    assert.throws(() => chromeArchive(archive.replace(original, invalid)), /Invalid base64 archive resource/);
+  }
+  for (const valid of ['AA==', 'AAA=', 'AAAA', '']) {
+    assert.deepEqual(chromeArchive(archive.replace(original, valid)).resources.get(
+      'https://www.freelug.org/local/train.jpg').bytes, Buffer.from(valid, 'base64'));
+  }
+});
+
 test('incomplete single-file archives or missing bundled images cannot be published', async t => {
   const { file, site, archive } = await singleFileFixture(t);
   await writeFile(file, archive.replace('--test-boundary--\r\n', ''));
@@ -182,6 +198,26 @@ test('incomplete single-file archives or missing bundled images cannot be publis
   await writeFile(file, archive.replace('Content-Location: https://www.freelug.org/local/train.jpg', 'Content-Location: https://www.freelug.org/local/different.jpg'));
   await assert.rejects(importEdgePage(file, site), /Media missing from the saved archive/);
   await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+});
+
+test('archived document CSS thumbnails become bundled Markdown images without dropping the attachment', async t => {
+  const { file, site, archive } = await singleFileFixture(t);
+  const thumbnail = 'local/cache-vignettes/L300xH226/Knob-39491.jpg?1794587955';
+  const edited = archive.replace('</article>', `<aside class=3D"documents"><a
+    href=3D"https://www.freelug.org/IMG/pdf/Transmission_mono.pdf"><span
+    class=3D"logo-img-wrapper spip_logo spip_logos"><span class=3D"img"
+    style=3D"display:block;position:relative;height:0;width:100%;padding-bottom:75.33%;overflow:hidden;background:url(${thumbnail}) no-repeat center;background-size:100%;"> </span></span>transmission mono directive</a></aside></article>`);
+  await writeFile(file, edited);
+  await assert.rejects(importEdgePage(file, site), /Media missing from the saved archive/);
+  await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+  const resource = `--test-boundary\r\nContent-Type: image/jpeg\r\nContent-Location: https://www.freelug.org/${thumbnail}\r\nContent-Transfer-Encoding: base64\r\n\r\n${Buffer.from('thumbnail').toString('base64')}\r\n`;
+  await writeFile(file, edited.replace('--test-boundary--\r\n', resource + '--test-boundary--\r\n'));
+  const result = await importEdgePage(file, site);
+  assert.equal(result.imagesAndFiles, 2);
+  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  assert.match(markdown, /!\[\]\(\/media\/archive\/[a-f0-9]{24}\.jpg\)/);
+  assert.match(markdown, /transmission mono directive\]\(https:\/\/www\.freelug\.org\/IMG\/pdf\/Transmission_mono\.pdf\)/);
+  assert.doesNotMatch(markdown, /background:|<span/);
 });
 
 function archiveWithFrame(archive, location) {
@@ -193,16 +229,20 @@ function archiveWithFrame(archive, location) {
 }
 
 test('archived YouTube iframe provenance becomes a Markdown link while captions remain', async t => {
-  const { file, site, archive } = await singleFileFixture(t);
-  const video = 'https://www.youtube.com/embed/e1iTxVdjk8k';
-  await writeFile(file, archiveWithFrame(archive, video));
-  const result = await importEdgePage(file, site);
-  assert.ok(result.originalMediaLinks.includes(video));
-  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
-  assert.match(markdown, /Avant le lecteur\./);
-  assert.match(markdown, /\[Vidéo de la publication d’origine\]\(https:\/\/www\.youtube\.com\/embed\/e1iTxVdjk8k\)/);
-  assert.match(markdown, /La fin du récit\./);
-  assert.doesNotMatch(markdown, /<iframe|cid:video-frame/);
+  for (const video of [
+    'https://www.youtube.com/embed/e1iTxVdjk8k',
+    'https://www.youtube.com/embed/ao9KO8sisGE?list=UUVl1h9UPBYDfjDrtkFBY0kQ'
+  ]) {
+    const { file, site, archive } = await singleFileFixture(t);
+    await writeFile(file, archiveWithFrame(archive, video));
+    const result = await importEdgePage(file, site);
+    assert.ok(result.originalMediaLinks.includes(video));
+    const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+    assert.match(markdown, /Avant le lecteur\./);
+    assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${video})`));
+    assert.match(markdown, /La fin du récit\./);
+    assert.doesNotMatch(markdown, /<iframe|cid:video-frame/);
+  }
 });
 
 test('iframes without verified supported archive provenance remain unpublished', async t => {
@@ -211,10 +251,53 @@ test('iframes without verified supported archive provenance remain unpublished',
     undefined,
     'https://www.youtube.com.example.org/embed/e1iTxVdjk8k',
     'https://adherents.freelug.org/embed/e1iTxVdjk8k',
-    'https://www.youtube.com/embed/not-a-video-id'
+    'https://www.youtube.com/embed/not-a-video-id',
+    'https://www.youtube.com/embed/ao9KO8sisGE?list=invalid',
+    'https://www.youtube.com/embed/ao9KO8sisGE?list=UUVl1h9UPBYDfjDrtkFBY0kQ&redirect=example.org'
   ]) {
     await writeFile(file, archiveWithFrame(archive, location));
     await assert.rejects(importEdgePage(file, site), /embedded content requiring editorial migration/);
+    await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+  }
+});
+
+test('known legacy Flash players preserve exact source links and surrounding text', async t => {
+  const { page, site, directory, html } = await fixture(t);
+  await writeFile(path.join(directory, 'article123_files', 'train.jpg'), 'fixture-image');
+  const youtube = 'http://www.youtube.com/v/91HYV2iPpk8&hl=fr_FR&fs=1';
+  const video = 'http://videos.freelug.org/uploads/KnLbaymbqAiJJkIJUbDL.flv';
+  await writeFile(page, html.replace('La fin du récit.', `Avant les vidéos.
+    <object><param name="movie" value="${youtube}"><param name="allowFullScreen" value="true">
+    <embed src="${youtube}" type="application/x-shockwave-flash"></object>
+    <p>Une légende.</p><embed src="http://videos.freelug.org/flvplayer.swf"
+    flashvars="file=${video}&amp;autostart=false"><p>La fin du récit.</p>`));
+  const result = await importEdgePage(page, site);
+  assert.ok(result.originalMediaLinks.includes(youtube));
+  assert.ok(result.originalMediaLinks.includes(video));
+  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtube})`));
+  assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${video})`));
+  assert.match(markdown, /Avant les vidéos\./);
+  assert.match(markdown, /Une légende\./);
+  assert.match(markdown, /La fin du récit\./);
+  assert.doesNotMatch(markdown, /<object|<embed|flvplayer\.swf|autostart/);
+});
+
+test('ambiguous or unsupported Flash players cannot publish incomplete content', async t => {
+  const { page, site, html } = await fixture(t);
+  const youtube = 'http://www.youtube.com/v/91HYV2iPpk8&hl=fr_FR&fs=1';
+  const video = 'http://videos.freelug.org/uploads/KnLbaymbqAiJJkIJUbDL.flv';
+  for (const player of [
+    `<object><param name="movie" value="${youtube}"><embed src="${youtube.replace('91HYV2iPpk8', 'tZsrcXokSS8')}" type="application/x-shockwave-flash"></object>`,
+    `<object><param name="movie" value="${youtube}"><embed src="${youtube}" type="application/x-shockwave-flash"><p>Editorial fallback</p></object>`,
+    `<object><param name="movie" value="${youtube.replace('www.youtube.com', 'www.youtube.com.example.org')}"><embed src="${youtube}" type="application/x-shockwave-flash"></object>`,
+    `<embed src="http://videos.freelug.org/flvplayer.swf" flashvars="file=${video}&amp;file=${video}">`,
+    '<embed src="http://videos.freelug.org/flvplayer.swf" flashvars="file=https://adherents.freelug.org/video.flv">',
+    '<embed src="http://videos.freelug.org/flvplayer.swf" flashvars="file=javascript:alert(1)">',
+    `<embed src="http://videos.freelug.org.example.org/flvplayer.swf" flashvars="file=${video}">`
+  ]) {
+    await writeFile(page, html.replace('La fin du récit.', player));
+    await assert.rejects(importEdgePage(page, site), /embedded content requiring editorial migration/);
     await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
   }
 });
