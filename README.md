@@ -90,7 +90,7 @@ intégrations restent en attente de traitement éditorial.
 Les variantes historiques YouTube `&hl=fr_FR&fs=1`, `&hl=fr&fs=1`, `?hl=fr&fs=1` et
 `?fs=1&hl=fr_FR` conservent leur URL exacte, y compris le séparateur final `&`
 du premier format lorsqu’il est présent ; les paramètres supplémentaires ne
-sont pas acceptés. La variante HTTPS `?version=3&hl=fr_FR` conserve aussi
+sont pas acceptés. La variante HTTP ou HTTPS `?version=3&hl=fr_FR` conserve aussi
 son URL exacte. Un objet contenant uniquement un lecteur avec une URL
 explicite reconnue peut être converti sans paramètre `movie`, mais les sources
 concurrentes et le texte de remplacement empêchent la conversion.
@@ -99,6 +99,10 @@ fusionnées uniquement horizontalement deviennent des listes Markdown par tour,
 en conservant chaque équipe et score. Les autres tableaux complexes restent
 en attente de traitement éditorial.
 Les profils publics des auteurs seront repris après les rubriques et articles.
+Le parseur MHTML accepte ces captures uniquement avec l’option explicite
+`chromeArchive(contenu, 'author')` et une URL publique exacte `?auteurID`.
+L’import des articles reste limité aux URL `?articleID` ; cette option ne publie
+pas de profil et n’autorise ni les redirections externes ni les espaces membres.
 
 La rubrique **Statuts** contient ses quatre documents. Le scan original du
 récépissé est conservé dans `media/archive/`. Les textes complets déjà capturés

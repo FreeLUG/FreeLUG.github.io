@@ -175,6 +175,42 @@ test('Chrome single-file saves preserve UTF-8 editorial text and bundled binary 
   await assert.rejects(importEdgePage(file, site), /public https:\/\/www\.freelug\.org/);
 });
 
+test('public author archives require explicit opt-in and cannot enter the article importer', async t => {
+  const { file, site, archive } = await singleFileFixture(t);
+  const authorArchive = archive.replaceAll('?article123', '?auteur2');
+  const captured = chromeArchive(authorArchive, 'author');
+  assert.equal(captured.sourceUrl, 'https://www.freelug.org/spip.php?auteur2');
+  assert.match(captured.html, /Notre train/);
+  assert.equal(captured.resources.get('https://www.freelug.org/local/train.jpg').bytes.toString(), 'fixture-image');
+  assert.throws(() => chromeArchive(authorArchive), /public https:\/\/www\.freelug\.org article source/);
+  await writeFile(file, authorArchive);
+  await assert.rejects(importEdgePage(file, site), /public https:\/\/www\.freelug\.org article source/);
+  await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+});
+
+test('author archive opt-in rejects unrelated sources and incomplete source provenance', async t => {
+  const { archive } = await singleFileFixture(t);
+  const authorArchive = archive.replaceAll('?article123', '?auteur2');
+  for (const url of [
+    'https://www.freelug.org/spip.php?article123',
+    'https://www.freelug.org/spip.php?auteur0',
+    'https://www.freelug.org/spip.php?auteur02',
+    'https://www.freelug.org/spip.php?auteur2&extra=1',
+    'https://www.freelug.org/spip.php?page=login',
+    'https://adherents.freelug.org/spip.php?auteur2',
+    'https://www.freelug.org.evil.test/spip.php?auteur2',
+    'http://www.freelug.org/spip.php?auteur2'
+  ]) {
+    assert.throws(() => chromeArchive(authorArchive.replace(
+      'Snapshot-Content-Location: https://www.freelug.org/spip.php?auteur2',
+      `Snapshot-Content-Location: ${url}`), 'author'), /public https:\/\/www\.freelug\.org author source/);
+  }
+  assert.throws(() => chromeArchive(authorArchive.replace(
+    '\r\nContent-Location: https://www.freelug.org/spip.php?auteur2\r\n',
+    '\r\nContent-Location: https://www.freelug.org/spip.php?auteur1\r\n'), 'author'), /saved author is missing/);
+  assert.throws(() => chromeArchive(authorArchive, 'other'), /Unsupported public archive page kind/);
+});
+
 test('large Base64 resources decode without stack overflow and malformed encodings remain blocked', async t => {
   const { archive } = await singleFileFixture(t);
   const original = Buffer.from('fixture-image').toString('base64');
@@ -270,6 +306,7 @@ test('known legacy Flash players preserve exact source links and surrounding tex
   const youtubeFrench = 'http://www.youtube.com/v/q1SoIk6BGSE&hl=fr&fs=1';
   const youtubeFrenchQuery = 'http://www.youtube.com/v/Fwy79krvjiM?hl=fr&fs=1';
   const youtubeVersion3 = 'https://www.youtube.com/v/PH2EDUXljYM?version=3&hl=fr_FR';
+  const youtubeHttpVersion3 = 'http://www.youtube.com/v/bA0gXISnxoI?version=3&hl=fr_FR';
   const dailymotion = 'http://www.dailymotion.com/swf/x9v6jt_la-taverne-intergalactique_creation&colors=background:DEDEDE;&related=1';
   const video = 'http://videos.freelug.org/uploads/KnLbaymbqAiJJkIJUbDL.flv';
   await writeFile(page, html.replace('La fin du récit.', `Avant les vidéos.
@@ -284,6 +321,8 @@ test('known legacy Flash players preserve exact source links and surrounding tex
     <embed src="${youtubeFrenchQuery.replaceAll('&', '&amp;')}" type="application/x-shockwave-flash"></object>
     <object><param name="movie" value="${youtubeVersion3.replaceAll('&', '&amp;')}">
     <embed src="${youtubeVersion3.replaceAll('&', '&amp;')}" type="application/x-shockwave-flash"></object>
+    <object><param name="movie" value="${youtubeHttpVersion3.replaceAll('&', '&amp;')}">
+    <embed src="${youtubeHttpVersion3.replaceAll('&', '&amp;')}" type="application/x-shockwave-flash"></object>
     <object><param name="movie" value="${dailymotion}">
     <embed src="${dailymotion}" type="application/x-shockwave-flash"></object>
     <p>Une légende.</p><embed src="http://videos.freelug.org/flvplayer.swf"
@@ -295,6 +334,7 @@ test('known legacy Flash players preserve exact source links and surrounding tex
   assert.ok(result.originalMediaLinks.includes(youtubeFrench));
   assert.ok(result.originalMediaLinks.includes(youtubeFrenchQuery));
   assert.ok(result.originalMediaLinks.includes(youtubeVersion3));
+  assert.ok(result.originalMediaLinks.includes(youtubeHttpVersion3));
   assert.ok(result.originalMediaLinks.includes(dailymotion));
   assert.ok(result.originalMediaLinks.includes(video));
   const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
@@ -304,6 +344,7 @@ test('known legacy Flash players preserve exact source links and surrounding tex
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtubeFrench})`));
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtubeFrenchQuery})`));
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtubeVersion3})`));
+  assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtubeHttpVersion3})`));
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${dailymotion})`));
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${video})`));
   assert.match(markdown, /Avant les vidéos\./);
@@ -320,6 +361,8 @@ test('ambiguous or unsupported Flash players cannot publish incomplete content',
   const dailymotion = 'http://www.dailymotion.com/swf/x9v6jt_la-taverne-intergalactique_creation&colors=background:DEDEDE;&related=1';
   const video = 'http://videos.freelug.org/uploads/KnLbaymbqAiJJkIJUbDL.flv';
   for (const player of [
+    '<object><param name="movie" value="http://www.youtube.com/v/bA0gXISnxoI?version=3&hl=fr_FR&redirect=example.org"><embed src="http://www.youtube.com/v/bA0gXISnxoI?version=3&hl=fr_FR&redirect=example.org" type="application/x-shockwave-flash"></object>',
+    '<object><param name="movie" value="http://www.youtube.com.example.org/v/bA0gXISnxoI?version=3&hl=fr_FR"><embed src="http://www.youtube.com.example.org/v/bA0gXISnxoI?version=3&hl=fr_FR" type="application/x-shockwave-flash"></object>',
     `<object><param name="movie" value="${youtubeVersion3}&redirect=example.org"><embed src="${youtubeVersion3}&redirect=example.org" type="application/x-shockwave-flash"></object>`,
     `<object><param name="movie" value="${youtubeVersion3.replace('www.youtube.com', 'www.youtube.com.example.org')}"><embed src="${youtubeVersion3.replace('www.youtube.com', 'www.youtube.com.example.org')}" type="application/x-shockwave-flash"></object>`,
     '<object><param name="movie" value="http://www.youtube.com/v/Fwy79krvjiM?hl=fr&fs=1&redirect=example.org"><embed src="http://www.youtube.com/v/Fwy79krvjiM?hl=fr&fs=1&redirect=example.org" type="application/x-shockwave-flash"></object>',

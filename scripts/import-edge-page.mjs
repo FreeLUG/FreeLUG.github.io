@@ -9,13 +9,17 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const roots = { 1: '/regions/', 4: '/association/', 17: '/themes/' };
 const json = value => JSON.stringify(value, null, 2) + '\n';
 
-export function chromeArchive(text) {
+export function chromeArchive(text, pageKind = 'article') {
+  if (pageKind !== 'article' && pageKind !== 'author') throw new Error('Unsupported public archive page kind.');
   const normalized = text.replace(/\r\n/g, '\n');
   const headerEnd = normalized.indexOf('\n\n');
   const header = normalized.slice(0, headerEnd).replace(/\n[ \t]+/g, ' ');
   const sourceUrl = header.match(/^Snapshot-Content-Location: (.+)$/m)?.[1];
-  if (!/^https:\/\/www\.freelug\.org\/spip\.php\?article\d+$/.test(sourceUrl || '')) {
-    throw new Error('Expected a Chrome archive from the public https://www.freelug.org article source.');
+  const sourcePattern = pageKind === 'article'
+    ? /^https:\/\/www\.freelug\.org\/spip\.php\?article\d+$/
+    : /^https:\/\/www\.freelug\.org\/spip\.php\?auteur[1-9]\d*$/;
+  if (!sourcePattern.test(sourceUrl || '')) {
+    throw new Error(`Expected a Chrome archive from the public https://www.freelug.org ${pageKind} source.`);
   }
   const boundary = header.match(/boundary="([a-zA-Z0-9_-]+)"/)?.[1];
   if (!/^From: <Saved by Blink>$/m.test(header) || !/Content-Type: multipart\/related;/i.test(header) || !boundary) {
@@ -55,7 +59,7 @@ export function chromeArchive(text) {
     }
   }
   const main = resources.get(sourceUrl);
-  if (!main || main.type !== 'text/html') throw new Error('The saved article is missing from the archive.');
+  if (!main || main.type !== 'text/html') throw new Error(`The saved ${pageKind} is missing from the archive.`);
   return { sourceUrl, html: main.bytes.toString('utf8'), resources };
 }
 
@@ -160,7 +164,7 @@ export async function importEdgePage(file, destination = root) {
         embeds[0].getAttribute('src') !== url ||
         embeds[0].getAttribute('type') !== 'application/x-shockwave-flash' ||
         !(/^http:\/\/www\.youtube\.com\/v\/[a-zA-Z0-9_-]{11}(?:&hl=fr(?:_FR)?&fs=1&?|\?fs=1&hl=fr_FR|\?hl=fr&fs=1)$/.test(url || '') ||
-          /^https:\/\/www\.youtube\.com\/v\/[a-zA-Z0-9_-]{11}\?version=3&hl=fr_FR$/.test(url || '') ||
+          /^https?:\/\/www\.youtube\.com\/v\/[a-zA-Z0-9_-]{11}\?version=3&hl=fr_FR$/.test(url || '') ||
           /^http:\/\/www\.dailymotion\.com\/swf\/[a-zA-Z0-9]+_[a-zA-Z0-9_-]+&colors=background:[a-fA-F0-9]{6};&related=1$/.test(url || ''))) continue;
     videoLink(object, url);
   }
