@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="container">
+  {% include breadcrumbs.html %}
+  <article class="reading-column">
+    <header class="page-heading">
+      <p class="eyebrow">Les auteurs FreeLUG</p>
+      {% if page.image and page.image != "" %}<img src="{{ page.image | relative_url }}" width="80" height="80" alt="">{% endif %}
+      <h1>{{ page.title | escape }}</h1>
+    </header>
+    {% if page.source_url and page.source_url != "" %}<p class="archive-notice">Un profil public de l’histoire de FreeLUG. La présentation et les liens sont conservés tels qu’ils étaient publiés à l’époque.</p>{% endif %}
+    <div class="article-body">{{ content }}</div>
+    {% if page.source_url and page.source_url != "" %}<p class="source-link"><a href="{{ page.source_url | escape }}">Voir le profil public d’origine <span aria-hidden="true">↗</span></a></p>{% endif %}
+  </article>
+  {% assign articles = site.articles | where_exp: "item", "page.articles contains item.permalink" | sort: "published_at" | reverse %}
+  {% if articles.size > 0 %}
+    {% include article-list.html articles=articles search_label="Rechercher parmi les articles de cet auteur" %}
+  {% endif %}
+</div>

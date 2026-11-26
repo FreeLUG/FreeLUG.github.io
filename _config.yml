@@ -7,6 +7,8 @@ collections:
     output: true
   articles:
     output: true
+  authors:
+    output: true
 defaults:
   - scope:
       path: ""
@@ -18,6 +20,11 @@ defaults:
       type: articles
     values:
       layout: article
+  - scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
 exclude:
   - README.md
   - Gemfile

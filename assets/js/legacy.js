@@ -1,6 +1,6 @@
 const legacyScript = document.currentScript;
-const legacyKey = location.search.slice(1).match(/^(article|rubrique)(\d+)(?:&|$)/)?.[0].replace(/&$/, '') ||
-  location.pathname.match(/\/((?:article|rubrique)\d+)\.html$/)?.[1];
+const legacyKey = location.search.slice(1).match(/^(article|rubrique|auteur)(\d+)(?:&|$)/)?.[0].replace(/&$/, '') ||
+  location.pathname.match(/\/((?:article|rubrique|auteur)\d+)\.html$/)?.[1];
 if (legacyKey) {
   fetch(legacyScript.dataset.map)
     .then(response => {

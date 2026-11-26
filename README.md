@@ -13,12 +13,12 @@ amélioration JavaScript facultative ; tous les articles restent accessibles san
 3. Autoriser l’application GitHub Pages CMS pour `FreeLUG/FreeLUG.github.io`.
    L’approbation d’un propriétaire de l’organisation peut être nécessaire.
 4. Sélectionner le dépôt et la branche à modifier.
-5. Choisir **Accueil**, **Rubriques**, **Articles**,
+5. Choisir **Accueil**, **Rubriques**, **Articles**, **Auteurs**,
    **Navigation et cartes des rubriques** ou **Page introuvable**, puis enregistrer
    les modifications.
 
 L’accueil est dans [index.md](index.md), les rubriques dans `_sections/*.md`,
-les articles dans `_articles/*.md`, la navigation dans
+les articles dans `_articles/*.md`, les profils publics dans `_authors/*.md`, la navigation dans
 [_data/navigation.yml](_data/navigation.yml), le schéma de l’éditeur dans
 [.pages.yml](.pages.yml) et les images téléversées dans [media](media/).
 Conserver `layout: home` dans les métadonnées de la page.
@@ -48,6 +48,22 @@ ses articles et ses sous-rubriques et retirer son éventuel lien de navigation.
 Les champs historiques sont en lecture seule et restent vides pour les nouveaux
 contenus. Les gabarits HTML dans [_layouts](_layouts/) sont réservés à la mise
 en page, pas à la rédaction.
+
+### Modifier les auteurs
+
+Dans **Auteurs**, modifier le nom public, le portrait, la présentation Markdown,
+les liens publics et la sélection **Articles de cet auteur**. Cette sélection
+alimente la liste du profil ; seuls les articles déjà présents dans cette
+archive sont proposés. Elle ne prétend pas reproduire tous les articles du
+site historique, dont certains sont hors périmètre ou encore en attente.
+
+Les crédits textuels des articles sont conservés sans changement. Un crédit
+devient un lien vers un profil uniquement si cet article y est sélectionné et
+si son texte correspond au nom public ou à un crédit historique vérifié.
+Les correspondances ambiguës restent du texte : aucune identité n’est déduite
+du seul nom. Pour un nouvel auteur, utiliser le même nom public dans le profil
+et dans les crédits de ses articles, puis sélectionner ces articles dans son
+profil. Les anciens noms vérifiés sont en lecture seule.
 
 ### Importer le site historique
 
@@ -98,11 +114,27 @@ Les tableaux de tournoi `classement` avec une étiquette par ligne et des cellul
 fusionnées uniquement horizontalement deviennent des listes Markdown par tour,
 en conservant chaque équipe et score. Les autres tableaux complexes restent
 en attente de traitement éditorial.
-Les profils publics des auteurs seront repris après les rubriques et articles.
+Les 230 profils publics identifiés dans les signatures des articles capturés
+sont repris en Markdown, avec leurs portraits et leurs présentations lorsqu’elles
+existent. Les liens personnels sont conservés sans consulter leurs destinations.
+Un profil sans biographie garde un corps Markdown vide ; aucun texte n’est inventé.
 Le parseur MHTML accepte ces captures uniquement avec l’option explicite
 `chromeArchive(contenu, 'author')` et une URL publique exacte `?auteurID`.
 L’import des articles reste limité aux URL `?articleID` ; cette option ne publie
 pas de profil et n’autorise ni les redirections externes ni les espaces membres.
+Pour convertir un profil capturé et son entrée dans l’inventaire des signatures
+publiques vérifiées :
+
+```powershell
+node scripts\import-author-page.mjs C:\captures\auteur2.mhtml C:\captures\public-author-inventory.json
+```
+
+Cet inventaire associe chaque auteur à son `id`, son `source_url`, ses `names`
+et aux identifiants `articles` lus dans les signatures des sources sauvegardées,
+jamais aux seules listes paginées des profils. L’import préserve les médias
+embarqués, refuse d’écraser un profil existant et signale les associations dont
+l’article n’est pas encore publié. Après reprise de ces articles, les ajouter
+dans la sélection du profil via Pages CMS.
 
 La rubrique **Statuts** contient ses quatre documents. Le scan original du
 récépissé est conservé dans `media/archive/`. Les textes complets déjà capturés

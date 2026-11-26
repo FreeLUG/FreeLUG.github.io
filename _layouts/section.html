@@ -33,28 +33,7 @@ layout: default
 
   {% assign articles = site.articles | where: "section", page.permalink | sort: "published_at" | reverse %}
   {% if articles.size > 0 %}
-  <section class="archive-section" aria-labelledby="titre-articles" data-archive>
-    <div class="section-heading">
-      <h2 id="titre-articles">Les articles <span class="article-count">({{ articles.size }})</span></h2>
-      <div class="archive-search" hidden>
-        <label for="recherche-articles">Rechercher dans cette rubrique</label>
-        <input id="recherche-articles" type="search" placeholder="Un titre, une année, un auteur…" autocomplete="off">
-      </div>
-    </div>
-    <p class="archive-result visually-hidden" role="status" aria-live="polite"></p>
-    <div class="article-list">
-      {% for item in articles %}
-      <article class="archive-entry" data-entry>
-        {% if item.published_at and item.published_at != "" %}<time datetime="{{ item.published_at | escape }}">{% include date.html value=item.published_at %}</time>{% endif %}
-        <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
-        {% if item.authors.size > 0 %}<p class="article-authors">{{ item.authors | join: ", " | escape }}</p>{% endif %}
-        <p>{{ item.description | escape }}</p>
-      </article>
-      {% endfor %}
-    </div>
-    <p class="archive-empty" hidden>Aucun article ne correspond à votre recherche.</p>
-  </section>
-  <script src="{{ '/assets/js/archive.js' | relative_url }}" defer></script>
+  {% include article-list.html articles=articles search_label="Rechercher dans cette rubrique" %}
   {% endif %}
   {% if page.source_url and page.source_url != "" %}<p class="source-link"><a href="{{ page.source_url | escape }}">Cette rubrique sur le site historique <span aria-hidden="true">↗</span></a></p>{% endif %}
 </div>

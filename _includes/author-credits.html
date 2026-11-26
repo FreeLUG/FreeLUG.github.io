@@ -1,0 +1,13 @@
+{%- assign profiles = site.authors | where_exp: "profile", "profile.articles contains include.article.permalink" -%}
+{%- for credit in include.article.authors -%}
+  {%- assign matches = 0 -%}
+  {%- assign credit_profile = nil -%}
+  {%- for profile in profiles -%}
+    {%- if profile.title == credit or profile.source_names contains credit -%}
+      {%- assign matches = matches | plus: 1 -%}
+      {%- assign credit_profile = profile -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if matches == 1 -%}<a href="{{ credit_profile.url | relative_url }}">{{ credit | escape }}</a>{%- else -%}{{ credit | escape }}{%- endif -%}
+  {%- unless forloop.last -%}, {% endunless -%}
+{%- endfor -%}

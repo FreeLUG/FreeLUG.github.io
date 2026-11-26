@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtemp, mkdir, writeFile, readFile, readdir, rm } from 'node:fs/promises';
+import { access, mkdtemp, mkdir, writeFile, readFile, readdir, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { createHash } from 'node:crypto';
 import { spawnSync } from 'node:child_process';
@@ -22,7 +22,7 @@ test('CMS-managed content has valid, non-circular section relationships', async 
   parse(await readFile(path.join(root, '_config.yml'), 'utf8'));
   const documents = {};
   const permalinks = new Set();
-  for (const name of ['sections', 'articles']) {
+  for (const name of ['sections', 'articles', 'authors']) {
     const schema = cms.content.find(item => item.name === name);
     documents[name] = await Promise.all((await readdir(path.join(root, schema.path)))
       .filter(file => file.endsWith('.md')).map(async file =>
@@ -48,6 +48,12 @@ test('CMS-managed content has valid, non-circular section relationships', async 
     }
   }
   for (const article of documents.articles) assert.ok(sections.has(article.section), `Missing section: ${article.title}`);
+  const articleUrls = new Set(documents.articles.map(article => article.permalink));
+  for (const author of documents.authors) {
+    assert.ok(Array.isArray(author.articles), `Missing article relationships: ${author.title}`);
+    for (const url of author.articles) assert.ok(articleUrls.has(url), `Missing author article: ${url}`);
+    if (author.image) await access(path.join(root, ...author.image.split('/').filter(Boolean)));
+  }
   const navigation = parse(await readFile(path.join(root, '_data', 'navigation.yml'), 'utf8'));
   for (const item of navigation) assert.ok(sections.has(item.url), `Missing navigation destination: ${item.url}`);
 });

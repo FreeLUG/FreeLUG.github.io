@@ -9,7 +9,7 @@ layout: default
       <h1>{{ page.title | escape }}</h1>
       <div class="article-meta">
         {% if page.published_at and page.published_at != "" %}<time datetime="{{ page.published_at | escape }}">Publié le {% include date.html value=page.published_at %}</time>{% endif %}
-        {% if page.authors.size > 0 %}<p>Par {{ page.authors | join: ", " | escape }}</p>{% endif %}
+        {% if page.authors.size > 0 %}<p>Par {% include author-credits.html article=page %}</p>{% endif %}
       </div>
     </header>
     {% if page.source_url and page.source_url != "" %}<p class="archive-notice">Un article de l’histoire de FreeLUG. Les informations et liens correspondent à sa date de publication.</p>{% endif %}

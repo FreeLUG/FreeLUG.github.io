@@ -63,6 +63,21 @@ export function chromeArchive(text, pageKind = 'article') {
   return { sourceUrl, html: main.bytes.toString('utf8'), resources };
 }
 
+export function archiveMedia(archive, raw) {
+  const url = new URL(raw, archive.sourceUrl);
+  const resource = archive.resources.get(url.href);
+  if (!resource) throw new Error(`Media missing from the saved archive: ${raw}`);
+  const bytes = resource.bytes;
+  let extension = path.extname(url.pathname).toLowerCase();
+  if (!/^\.[a-z0-9]{1,6}$/.test(extension)) {
+    extension = { 'image/jpeg': '.jpg', 'image/png': '.png', 'image/gif': '.gif', 'image/webp': '.webp', 'image/svg+xml': '.svg' }[resource.type];
+  }
+  if (!bytes.length) throw new Error(`Empty saved media: ${raw}`);
+  if (!extension || !/^\.[a-z0-9]{1,6}$/.test(extension)) throw new Error(`Unknown media extension: ${raw}`);
+  const name = createHash('sha256').update(bytes).digest('hex').slice(0, 24) + extension;
+  return { name, bytes, url: `/media/archive/${name}`, type: resource.type };
+}
+
 export async function importEdgePage(file, destination = root) {
   const saved = await readFile(file, 'utf8');
   const archive = path.extname(file).toLowerCase() === '.mhtml' ? chromeArchive(saved) : null;
@@ -189,14 +204,9 @@ export async function importEdgePage(file, destination = root) {
     let bytes;
     let extension;
     if (archive) {
-      const url = new URL(raw, sourceUrl);
-      const resource = archive.resources.get(url.href);
-      if (!resource) throw new Error(`Media missing from the saved archive: ${raw}`);
-      bytes = resource.bytes;
-      extension = path.extname(url.pathname).toLowerCase();
-      if (!/^\.[a-z0-9]{1,6}$/.test(extension)) {
-        extension = { 'image/jpeg': '.jpg', 'image/png': '.png', 'image/gif': '.gif', 'image/webp': '.webp', 'image/svg+xml': '.svg' }[resource.type];
-      }
+      const asset = archiveMedia(archive, raw);
+      assets.set(asset.name, asset.bytes);
+      return asset.url;
     } else {
       const resolved = path.resolve(path.dirname(file), decodeURIComponent(raw.split(/[?#]/)[0]));
       const relative = path.relative(path.dirname(file), resolved);
