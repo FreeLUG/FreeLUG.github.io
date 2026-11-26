@@ -269,6 +269,7 @@ test('known legacy Flash players preserve exact source links and surrounding tex
   const youtubeEmbedOnly = 'http://www.youtube.com/v/ymmevWsavZ4&hl=fr_FR&fs=1&';
   const youtubeFrench = 'http://www.youtube.com/v/q1SoIk6BGSE&hl=fr&fs=1';
   const youtubeFrenchQuery = 'http://www.youtube.com/v/Fwy79krvjiM?hl=fr&fs=1';
+  const youtubeVersion3 = 'https://www.youtube.com/v/PH2EDUXljYM?version=3&hl=fr_FR';
   const dailymotion = 'http://www.dailymotion.com/swf/x9v6jt_la-taverne-intergalactique_creation&colors=background:DEDEDE;&related=1';
   const video = 'http://videos.freelug.org/uploads/KnLbaymbqAiJJkIJUbDL.flv';
   await writeFile(page, html.replace('La fin du récit.', `Avant les vidéos.
@@ -281,6 +282,8 @@ test('known legacy Flash players preserve exact source links and surrounding tex
     <embed src="${youtubeFrench.replaceAll('&', '&amp;')}" type="application/x-shockwave-flash"></object>
     <object><param name="movie" value="${youtubeFrenchQuery.replaceAll('&', '&amp;')}">
     <embed src="${youtubeFrenchQuery.replaceAll('&', '&amp;')}" type="application/x-shockwave-flash"></object>
+    <object><param name="movie" value="${youtubeVersion3.replaceAll('&', '&amp;')}">
+    <embed src="${youtubeVersion3.replaceAll('&', '&amp;')}" type="application/x-shockwave-flash"></object>
     <object><param name="movie" value="${dailymotion}">
     <embed src="${dailymotion}" type="application/x-shockwave-flash"></object>
     <p>Une légende.</p><embed src="http://videos.freelug.org/flvplayer.swf"
@@ -291,6 +294,7 @@ test('known legacy Flash players preserve exact source links and surrounding tex
   assert.ok(result.originalMediaLinks.includes(youtubeEmbedOnly));
   assert.ok(result.originalMediaLinks.includes(youtubeFrench));
   assert.ok(result.originalMediaLinks.includes(youtubeFrenchQuery));
+  assert.ok(result.originalMediaLinks.includes(youtubeVersion3));
   assert.ok(result.originalMediaLinks.includes(dailymotion));
   assert.ok(result.originalMediaLinks.includes(video));
   const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
@@ -299,6 +303,7 @@ test('known legacy Flash players preserve exact source links and surrounding tex
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtubeEmbedOnly})`));
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtubeFrench})`));
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtubeFrenchQuery})`));
+  assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtubeVersion3})`));
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${dailymotion})`));
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${video})`));
   assert.match(markdown, /Avant les vidéos\./);
@@ -311,9 +316,12 @@ test('ambiguous or unsupported Flash players cannot publish incomplete content',
   const { page, site, html } = await fixture(t);
   const youtube = 'http://www.youtube.com/v/91HYV2iPpk8&hl=fr_FR&fs=1';
   const youtubeQuery = 'http://www.youtube.com/v/kYN0ua-SQGo?fs=1&hl=fr_FR&redirect=example.org';
+  const youtubeVersion3 = 'https://www.youtube.com/v/PH2EDUXljYM?version=3&hl=fr_FR';
   const dailymotion = 'http://www.dailymotion.com/swf/x9v6jt_la-taverne-intergalactique_creation&colors=background:DEDEDE;&related=1';
   const video = 'http://videos.freelug.org/uploads/KnLbaymbqAiJJkIJUbDL.flv';
   for (const player of [
+    `<object><param name="movie" value="${youtubeVersion3}&redirect=example.org"><embed src="${youtubeVersion3}&redirect=example.org" type="application/x-shockwave-flash"></object>`,
+    `<object><param name="movie" value="${youtubeVersion3.replace('www.youtube.com', 'www.youtube.com.example.org')}"><embed src="${youtubeVersion3.replace('www.youtube.com', 'www.youtube.com.example.org')}" type="application/x-shockwave-flash"></object>`,
     '<object><param name="movie" value="http://www.youtube.com/v/Fwy79krvjiM?hl=fr&fs=1&redirect=example.org"><embed src="http://www.youtube.com/v/Fwy79krvjiM?hl=fr&fs=1&redirect=example.org" type="application/x-shockwave-flash"></object>',
     `<object data="https://example.org/other"><embed src="${youtube}" type="application/x-shockwave-flash"></object>`,
     `<object><param name="other" value="unknown"><embed src="${youtube}" type="application/x-shockwave-flash"></object>`,
