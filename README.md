@@ -87,7 +87,7 @@ Les anciens lecteurs Flash YouTube, Dailymotion et `videos.freelug.org`
 reconnus conservent également leurs URL vidéo explicites sous forme de liens,
 sans importer ni exécuter le lecteur. Les sources ambiguës et les autres
 intégrations restent en attente de traitement éditorial.
-Les variantes historiques YouTube `&hl=fr_FR&fs=1`, `&hl=fr&fs=1` et
+Les variantes historiques YouTube `&hl=fr_FR&fs=1`, `&hl=fr&fs=1`, `?hl=fr&fs=1` et
 `?fs=1&hl=fr_FR` conservent leur URL exacte, y compris le séparateur final `&`
 du premier format lorsqu’il est présent ; les paramètres supplémentaires ne
 sont pas acceptés. Un objet contenant uniquement un lecteur avec une URL
