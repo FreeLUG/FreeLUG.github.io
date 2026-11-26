@@ -119,6 +119,18 @@ test('SPIP wrapped references and container notes preserve named and repeated fo
   assert.doesNotMatch(markdown, /#nb|#nh|\\\[/);
 });
 
+test('SPIP numbered footnote groups preserve distinct references and definitions', () => {
+  const markdown = toMarkdown(`<p>Premier<span class="spip_note_ref">[<a href="#nb1-1" id="nh1-1">1</a>]</span>.
+    Second<span class="spip_note_ref">[<a href="#nb2-1" id="nh2-1">1</a>]</span>.</p>
+    <div class="notes"><div id="nb1-1"><p><span class="spip_note_ref">[<a class="spip_note" href="#nh1-1">1</a>]</span>Première note.</p></div>
+    <div id="nb2-1"><p><span class="spip_note_ref">[<a class="spip_note" href="#nh2-1">1</a>]</span>Deuxième note.</p></div></div>`);
+  assert.match(markdown, /Premier\[\^1-1\]/);
+  assert.match(markdown, /Second\[\^2-1\]/);
+  assert.match(markdown, /\[\^1-1\]: Première note\./);
+  assert.match(markdown, /\[\^2-1\]: Deuxième note\./);
+  assert.doesNotMatch(markdown, /#nb|#nh|\\\[/);
+});
+
 test('Liquid examples are protected from Jekyll evaluation', () => {
   const markdown = toMarkdown('<pre><code>{{ page.title }}\n{% endraw %}</code></pre>');
   assert.match(markdown, /\{\{ '\{\{' \}\} page.title \}\}/);

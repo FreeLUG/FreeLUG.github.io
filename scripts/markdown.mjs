@@ -2,9 +2,9 @@ import TurndownService from 'turndown';
 import { gfm } from 'turndown-plugin-gfm';
 
 export function toMarkdown(html) {
-  const noteId = /^nb(?:\d+|_[a-z0-9_]+)$/i;
-  const noteReference = /^#nb(\d+|_[a-z0-9_]+)$/i;
-  const noteBacklink = /^#nh(?:\d+|_[a-z0-9_]+)$/i;
+  const noteId = /^nb(?:\d+(?:-\d+)?|_[a-z0-9_]+)$/i;
+  const noteReference = /^#nb(\d+(?:-\d+)?|_[a-z0-9_]+)$/i;
+  const noteBacklink = /^#nh(?:\d+(?:-\d+)?|_[a-z0-9_]+)$/i;
   const service = new TurndownService({
     headingStyle: 'atx', codeBlockStyle: 'fenced', bulletListMarker: '-'
   });

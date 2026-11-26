@@ -128,6 +128,8 @@ Cette commande ne fait aucune requête réseau. Elle conserve le texte, les
 crédits, les notes et les documents joints, ainsi que les images affichées
 enregistrées par le navigateur. Elle refuse d’écraser
 un article existant ou de publier un article dont une image enregistrée manque.
+Les notes SPIP, y compris les groupes numérotés, deviennent des notes Markdown
+avec leurs références et leur texte.
 Les liens vers des originaux haute définition sur le site historique sont
 conservés et signalés dans le résultat ; ils ne sont pas téléchargés implicitement.
 Les contenus incorporés et tableaux complexes nécessitent une reprise éditoriale.
