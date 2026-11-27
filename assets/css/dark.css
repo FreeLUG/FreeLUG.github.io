@@ -1,0 +1,20 @@
+:root {
+  color-scheme: dark;
+  --blue: #a9caff;
+  --blue-dark: #c9ddff;
+  --ink: #edf2f8;
+  --muted: #becbd9;
+  --line: #526174;
+  --wash: #1c2938;
+}
+body { background: #121b26; }
+a:focus-visible, .archive-search input:focus-visible, .theme-toggle:focus-visible { outline-color: #ffce80; }
+.skip-link, .card, .button-secondary, .archive-search input { background: #253344; }
+.hero { background: linear-gradient(110deg, #25374d, #121b26 80%); }
+.button-primary { background: #a9caff; color: #112238; }
+.button-primary:hover { background: #c9ddff; }
+.card-number, .membership { background: #293d54; }
+.membership { border-color: var(--line); }
+.brand-logo, .footer-brand img, .archive-thumbnail,
+.section-thumbnail:not([src*="/media/section-icons/"]) { background: #fff; border-radius: 4px; }
+.section-thumbnail[src*="/media/section-icons/"] { filter: brightness(0) invert(1); }
