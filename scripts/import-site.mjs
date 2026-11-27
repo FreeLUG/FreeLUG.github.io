@@ -160,6 +160,18 @@ async function generate() {
     }
   };
   for (const section of sections) validateParents(section.id);
+  const articleGroup = id => {
+    let root = id;
+    const visited = new Set([root]);
+    while (parentOf.has(root)) {
+      root = parentOf.get(root);
+      if (visited.has(root)) throw new Error(`Circular section tree: ${id}`);
+      visited.add(root);
+    }
+    const permalink = roots[root];
+    if (!permalink) throw new Error(`Article section ${id} is outside the configured roots.`);
+    return permalink.slice(1, -1);
+  };
   const documents = [];
   for (const section of sections) {
     const permalink = sectionUrl(section.id);
@@ -176,7 +188,7 @@ async function generate() {
     urlMap[`article${article.id}`] = articleUrl(article.id);
     const section = inventory.sections[article.section];
     if (!section) throw new Error(`Missing section for article ${article.id}`);
-    documents.push({ directory: '_articles', id: article.id, data: {
+    documents.push({ directory: path.join('_articles', articleGroup(article.section)), id: article.id, data: {
       layout: 'article', title: article.title, source_id: article.id,
       permalink: articleUrl(article.id), source_url: article.url,
       published_at: article.date, authors: article.authors,
@@ -184,6 +196,7 @@ async function generate() {
     }, body: toMarkdown(rewrite(article.html)) });
   }
   for (const document of documents) {
+    await mkdir(path.join(destination, document.directory), { recursive: true });
     await writeFile(path.join(destination, document.directory, `${document.id}.md`), frontmatter(document.data) + '\n' + document.body);
   }
   for (const name of assets) await copyFile(path.join(cache, 'assets', name), path.join(destination, 'media', 'archive', name));

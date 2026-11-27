@@ -13,7 +13,11 @@ layout: default
     <div class="article-body">{{ content }}</div>
     {% if page.source_url and page.source_url != "" %}<p class="source-link"><a href="{{ page.source_url | escape }}">Voir le profil public d’origine <span aria-hidden="true">↗</span></a></p>{% endif %}
   </article>
-  {% assign articles = site.articles | where_exp: "item", "page.articles contains item.permalink" | sort: "published_at" | reverse %}
+  {% assign selected_articles = '' | split: ',' %}
+  {% for permalink in page.association_articles %}{% assign selected_articles = selected_articles | push: permalink %}{% endfor %}
+  {% for permalink in page.regions_articles %}{% assign selected_articles = selected_articles | push: permalink %}{% endfor %}
+  {% for permalink in page.themes_articles %}{% assign selected_articles = selected_articles | push: permalink %}{% endfor %}
+  {% assign articles = site.articles | where_exp: "item", "selected_articles contains item.permalink" | sort: "published_at" | reverse %}
   {% if articles.size > 0 %}
     {% include article-list.html articles=articles search_label="Rechercher parmi les articles de cet auteur" %}
   {% endif %}
