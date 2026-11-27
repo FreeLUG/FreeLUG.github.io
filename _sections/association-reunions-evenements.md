@@ -2,6 +2,7 @@
 layout: "section"
 title: "Réunions & Evénements"
 source_id: 55
+image: /media/section-icons/calendar-days.svg
 permalink: "/association/reunions-evenements/"
 source_url: "https://freelug.org/spip.php?rubrique55"
 description: "Les réunions et événements de l’association FreeLUG."

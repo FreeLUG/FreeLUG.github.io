@@ -62,5 +62,5 @@ for (const [url, section] of [[`${baseurl}/`, null], ...sections]) {
 
 assert.ok(headings > 0, 'No section heading thumbnails were checked');
 assert.ok(cards > 0, 'No section card thumbnails were checked');
-assert.ok(textOnly > 0, 'No sections without thumbnails were checked');
+assert.equal(headings, sections.size, 'Every section must have a thumbnail');
 console.log(JSON.stringify({ headings, cards, textOnly, failures: 0 }));
