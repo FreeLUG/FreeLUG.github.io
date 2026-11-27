@@ -91,6 +91,19 @@ le champ en lecture seule **Vignette d’origine** conserve leur URL source.
 La vignette générique du site historique est conservée lorsqu’une rubrique
 l’utilise, et son fichier est partagé entre les rubriques concernées.
 
+Les vignettes régionales récupérées sont enregistrées dans `media/regions/`
+et utilisent les mêmes vues et champs Pages CMS. Pour importer la vignette
+d’une rubrique depuis une capture MHTML enregistrée dans Chrome :
+
+```bash
+node scripts/import-section-thumbnail.mjs /chemin/rubrique25.mhtml
+```
+
+La capture doit provenir de `https://www.freelug.org/spip.php?rubriqueID` et
+contenir la vignette originale. L’import conserve le texte et les relations,
+ne télécharge aucun fichier supplémentaire et refuse de remplacer une vignette
+éditoriale existante. Une capture incomplète n’est pas publiée.
+
 Dans **Articles**, ajouter un titre, une adresse unique (par exemple
 `/articles/ma-creation/`), sélectionner la rubrique, puis rédiger le contenu.
 La date, les auteurs et le résumé sont modifiables dans le même formulaire.
