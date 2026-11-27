@@ -5,6 +5,7 @@ import domino from '@mixmark-io/domino';
 import { parse } from 'yaml';
 import { archiveMedia, chromeArchive } from './import-edge-page.mjs';
 import { toMarkdown } from './markdown.mjs';
+import { historicalContent } from './historical-content.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -62,15 +63,14 @@ export async function importAuthorPage(file, identity, destination = root) {
   }
   const articles = [];
   const pendingArticles = [];
+  const published = await historicalContent(destination, '_articles');
   for (const articleId of new Set(identity.articles)) {
-    let text;
-    try {
-      text = await readFile(path.join(destination, '_articles', `${articleId}.md`), 'utf8');
-    } catch (error) {
-      if (error.code !== 'ENOENT') throw error;
+    const entry = published.get(articleId) || [...published.values()].find(item => path.basename(item.file) === `${articleId}.md`);
+    if (!entry) {
       pendingArticles.push(articleId);
       continue;
     }
+    const text = entry.text;
     const metadata = text.match(/^---\r?\n([\s\S]*?)\r?\n---/);
     const article = metadata && parse(metadata[1]);
     if (!article || article.source_id !== articleId ||

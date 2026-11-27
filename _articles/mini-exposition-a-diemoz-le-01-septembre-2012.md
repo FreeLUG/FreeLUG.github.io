@@ -1,0 +1,34 @@
+---
+title: "Mini Exposition à Diemoz le 01 Septembre 2012"
+permalink: "/articles/mini-exposition-a-diemoz-le-01-septembre-2012/"
+section: "/regions/rhone-alpes/"
+published_at: "2012-09-06T07:00:24Z"
+authors: [ "Didier ENJARY", "Yannick VIGNAT" ]
+description: "A l’occasion du Forum des Associations de Diémoz, nous avons
+  présenté un petit layout sur le stand du Sou des Ecoles, association avec
+  laquelle nous organisons la future Briqu’Expo."
+source_id: 1524
+source_url: "https://www.freelug.org/spip.php?article1524"
+---
+
+A l’occasion du Forum des Associations de Diémoz, nous avons présenté un petit layout sur le stand du Sou des Ecoles, association avec laquelle nous organisons la future Briqu’Expo.
+
+[![](/media/archive/bd5b7d50b13ac3ef9c33ddd8.jpg)](https://www.freelug.org/IMG/jpg/IMG_1519.jpg)
+
+[![](/media/archive/28c1b011a39c5c73a0413bd3.jpg)](https://www.freelug.org/IMG/jpg/IMG_1496.jpg)
+
+Même si nous n’avons pas fait une grosse exposition, nous voulions présenter des thèmes variés. Evidemment les grands classiques étaient présents : Train, City, Star Wars, mais aussi, du Technic, du NXT, et quelques autres thèmes intégrés dans le Diorama, tels que Pharaoh’s Quest, Super Hero et Monster Fighters.
+
+[![](/media/archive/b93a2fc60ae30d167dc59df2.jpg)](https://www.freelug.org/IMG/jpg/IMG_1498.jpg)
+
+Pour beaucoup de visiteurs, c’était une première : les enfants et adultes contemplaient avec émerveillement ces quelques tables joliment décorées.
+
+[![](/media/archive/1a5bb03b830f5e6f218b8962.jpg)](https://www.freelug.org/IMG/jpg/IMG_1514-2.jpg)
+
+Le thème de la Briqu’Expo à venir étant "les héros", il est fort à parier que nous les retrouvions dans les situations les plus cocasses, ce qui était déjà le cas.
+
+[![](/media/archive/b0a587a02a60cba6818f3bd6.jpg)](https://www.freelug.org/IMG/jpg/IMG_1521.jpg)
+
+Rendez-vous les 14-15 septembre 2013 au même endroit mais cette fois avec une surface dédiée à nos chères briques de 800m² !
+
+[Plus de photos](http://photos.freelug.org/main.php/v/yannoch06/Expositions/2012+-+Forum+des+Associations+Diemoz/).

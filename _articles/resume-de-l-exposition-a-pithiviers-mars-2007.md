@@ -1,0 +1,55 @@
+---
+title: "Résumé de l’exposition à Pithiviers, mars 2007"
+permalink: "/articles/resume-de-l-exposition-a-pithiviers-mars-2007/"
+section: "/regions/centre/"
+published_at: "2007-04-19T07:32:59Z"
+authors: [ "Denis LAURENCON", "Gilles Micheletti" ]
+description: "Pithiviers-loisirs-passions a invité FreeLUG pour son exposition
+  Modélisme les 10 et 11 mars 2007."
+source_id: 597
+source_url: "https://www.freelug.org/spip.php?article597"
+---
+
+Pithiviers-loisirs-passions a invité FreeLUG pour son exposition Modélisme les 10 et 11 mars 2007.
+
+Invités par l’association Pithiviers-loisirs-passions (suite à une rencontre lors du salon des passionnés de La Ville Du Bois en 2005), trois membres de FreeLUG ont donné le spectacle les 10 et 11 mars 2007 dans la salle des fêtes de Pithiviers(45).
+
+[![](/media/archive/27015990fbb451028c99f1cc.jpg)](https://www.freelug.org/IMG/jpg/DSCN3338.jpg)
+
+**Vue d’ensemble**
+
+Parmi de nombreux exposants de maquettes (trains, camion, voitures, maisons, avions, ...) les petites briques n’ont pas faillis à leur réputation.
+
+Un diorama de 8m par 1,5m a été offert aux yeux ébahis des visiteurs. Le module de Jérémy mettait en scène la gare, la caserne de pompier et le quartier général de la police
+
+[![](/media/archive/d921c0ad9544428916d41f21.jpg)](https://www.freelug.org/IMG/jpg/didier_3.jpg)
+
+**Module de Thaaz**
+
+tandis que le rappel des métiers anciens (fabrication du papier) était assuré par Denis avec son moulin à papier animé.
+
+[![](/media/archive/810ede25b80dd8d767aaf3c6.jpg)](https://www.freelug.org/IMG/jpg/DSCN3334.jpg)
+
+**Module de DenisL**
+
+Enfin le campement indien et le fort de Gilles terminaient de donner un aperçu de ce que peut réaliser une poignée de passionnés.
+
+[![](/media/archive/5f2092c0bf5bf61cd1518c55.jpg)](https://www.freelug.org/IMG/jpg/DSCN3325.jpg)
+
+**Module de Gmi**
+
+Une petite boîte à dons animée a retenu l’intérêt de quelques visiteurs curieux.
+
+[![](/media/archive/75e28ccb65b89035531a8a6c.jpg)](https://www.freelug.org/IMG/jpg/DSCN3326.jpg)
+
+**Boîte à Dons**
+
+Bénéficiant d’une excellente organisation de la part de Pithiviers-loisirs-passions et d’une très grande qualité des prestations des autres exposants, notre séjour à Pithiviers restera un très bon moment de rencontres et de convivialité.
+
+Merci à Frogleap et Qdm pour leur participation.
+
+Merci aux visiteurs Freelugiens qui ont fait le déplacement pour nous encourager et/ou nous aider au rangement final.
+
+Plus de photos :  
+**–** [Galerie Qdm](http://gallery.freelug.org/main.php/v/La-Gallerie-de-qdm/Expositions/2007-Pithiviers/)  
+**–** [Galerie DenisL](http://gallery.freelug.org/main.php/v/dlaurencon/pithiviers/)

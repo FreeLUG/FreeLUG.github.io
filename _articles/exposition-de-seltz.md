@@ -1,0 +1,42 @@
+---
+title: "Exposition de Seltz"
+permalink: "/articles/exposition-de-seltz/"
+section: "/regions/alsace/"
+published_at: "2004-02-02T19:03:53Z"
+authors: [ "Marc" ]
+description: "par Marc Schickelé"
+source_id: 208
+source_url: "https://www.freelug.org/spip.php?article208"
+---
+
+**par [Marc Schickelé](mailto:marc.schickele@free.fr)**
+
+Le 24 et 25 janvier, j’ai participé au nom de Freelug à la première expo de modélisme organisé par le syndicat d’initiative de Seltz. Commme d’habitude, le public est ébahi devant notre stand.
+
+J’étais épaulé par deux nouveaux adhérents : **Philippe Chatin** et **Marc Klein**.
+
+Voici quelques extraits, mais des [videos](http://sam.rotule.free.fr/seltz2004/page_01.htm) et des photos complémentaires sont disponibles sur [Freelug](http://photos.freelug.org/category.php?cat=43&expand=all) et [Brickshelf](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=70142).
+
+![](/media/archive/866cb4c5bd68f904183828e4.jpg)
+
+**Que de monde...**
+
+![](/media/archive/0a20424a004464abcafcb5b7.jpg)
+
+**Vue sur la ville...**
+
+![](/media/archive/7b6fc68e848f970aaf5abaa1.jpg)
+
+**Démonstration convainquante de MLCAD par Marc Klein, au premier plan le semi-remorque de Philippe.**
+
+![](/media/archive/00a463bf4f44f1369b508446.jpg)
+
+**Un powerpuller avec un moteur en étoile...Si si ! çà existe !**
+
+![](/media/archive/e1cfd80dff15ff6574970677.jpg)
+
+**3...2...1...Vraooouuummmm ! Alexandre (mon fils) surveille la ligne d’arrivée.**
+
+![](/media/archive/7f08682d94f57f23411efa39.jpg)
+
+**Des modélistes convertis aux Moto-racers**

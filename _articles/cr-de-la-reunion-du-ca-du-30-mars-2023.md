@@ -1,0 +1,192 @@
+---
+title: "CR de la réunion du CA du 30 mars 2023"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-30-mars-2023/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2023-05-04T19:03:31Z"
+authors: [ "Chrystelle AUBIN-MAQUET", "Pierre CHARLES (Tribolego)" ]
+description: "CR de la réunion du CA du 30 mars 2023"
+source_id: 3251
+source_url: "https://www.freelug.org/spip.php?article3251"
+---
+
+CR de la réunion du CA du 30 mars 2023
+
+## Ordre du jour
+
+_Début de séance : 21h10_
+
+_Présents (12) :_  
+**–** Erik Amzallag  
+**–** Chrystelle Aubin-Maquet  
+**–** Olivier Barbier  
+**–** Emmanuel Bonnard  
+**–** Pierre Charles  
+**–** François Disdier  
+**–** Florent Dumenil  
+**–** Jean-Jacques Favot  
+**–** Sébastien Hamon  
+**–** Richard Lemeiter  
+**–** Didier Malon  
+**–** Stéphane Paradot
+
+_Ordre du jour :_  
+**–** Choix de la date des réunions mensuelles  
+**–** Répartition des postes du CA  
+**–** Répartition des tâches non attribuées  
+**–** Répartition des missions
+
+* * *
+
+## Choix de la date des réunions mensuelles
+
+Suite au balayage des contraintes de chacun, il a été décidé à l’unanimité de réaliser les réunions mensuelles du CA les premiers jeudis du mois à 20h30.
+
+* * *
+
+## Répartition des postes du CA
+
+L’élection du bureau et des postes prédéfinis lors de notre réunion de préparation s’est faite fonction par fonction.  
+Dans l’ordre voici les postes, les candidats et les résultats des votes :
+
+**président**  
+_candidat :_  
+**–** Erik  
+_vote :_  
+**–** Pour : 12
+
+**vice-président**  
+_candidat :_  
+**–** Emmanuel  
+_vote :_  
+**–** Pour : 11  
+**–** Abstention : 1
+
+**secrétaire**  
+_candidat :_  
+**–** Chrystelle  
+_vote :_  
+**–** Pour : 10  
+**–** Abstention : 2
+
+**secrétaire adjoint**  
+_candidats :_  
+**–** Pierre  
+**–** Florent  
+_vote :_  
+**–** Pierre : 8  
+**–** Florent : 1  
+**–** Abstention : 3
+
+**Trésorier**  
+_candidat :_  
+**–** Richard  
+_vote :_  
+**–** Pour : 12
+
+**Trésorier adjoint**  
+_candidat :_  
+**–** Olivier  
+_vote :_  
+**–** Pour : 12
+
+**Responsable dotation envers BE / COR / GFC**  
+_candidat :_  
+**–** Stephane  
+_vote :_  
+**–** Pour : 11  
+**–** Abstention : 1
+
+**Community manager**  
+_candidat :_  
+**–** François  
+_vote :_  
+**–** Pour : 11  
+**–** Abstention : 1
+
+**Responsable matériel**  
+_candidat :_  
+**–** Sébastien  
+_vote :_  
+**–** Pour : 11  
+**–** Abstention : 1
+
+**Responsable suivi Expo/BE/Animation/REF/COR**  
+_candidat :_  
+**–** Jean-Jacques  
+_vote :_  
+**–** Pour : 12
+
+**Responsable suivi Expo/BE/Animation/REF/COR adjoint**  
+_candidat :_  
+**–** Florent  
+_vote :_  
+**–** Pour : 12
+
+**Community manager adjoint**  
+Il est proposé à Didier de prendre le poste de community manager adjoint pour aider François à organiser nos réseaux sociaux. Poste qu’il accepte.
+
+* * *
+
+## Répartition des tâches non attribuées
+
+**Boite contact**  
+_Responsables :_ président / vice-président / secrétaire / secrétaire adjoint.  
+Coordination entre les 4 responsables prévue hors réunion.
+
+**Gestion des commandes : vêtements, badges**  
+_Responsable :_ Emmanuel
+
+**Gestion des cartes adhérents**  
+Emmanuel se charge de contacter Xavier C. qui s’occupe de cette tâche (hors CA), pour savoir s’il souhaite continuer.  
+Florent se propose éventuellement dans le cas où Xavier souhaite arrêter.
+
+**Gestion Bulk**  
+_Tuteur :_ Erik, car il souhaite passer la main  
+_Responsable :_ Sébastien, Stéphane  
+_Aide hors CA :_ Marc T. qui est impliqué sur ce sujet depuis plusieurs années.  
+_Tâches :_ Annonce, validation des participants (CA tranche en cas de problème) choix des pièces avec binôme sur proposition des participants, lancement des commandes, organisation tri et transfert.
+
+**Gestion des goodies : envois**  
+Pour ce sujet, une discussion va être amorcée sur le forum au vu de la complexité.
+
+**Admins (listes, forum, site)**  
+_Responsable :_ Erik, Sébastien  
+Pierre est en soutien sur les listes et se propose pour aider sur le forum.
+
+**Publication des articles**  
+Actuellement, Jérôme T. s’en charge (hors CA).
+
+**Création carte adhérents**  
+Les règles sont à définir pour 2024. Une implication du GFC (Groupe FreeLUG Concours) est prévue.
+
+* * *
+
+## Répartition des missions
+
+**Règles d’accessibilité au bulk**  
+_Délai :_ avant fin avril et validation au CA début mai  
+_prise en charge :_ Erik, Emmanuel, Chrystelle
+
+**Règles sur l’utilisation des réseaux sociaux**  
+_Délai :_ avant fin avril validation au CA début mai  
+_prise en charge :_ François, Pierre
+
+**Règles d’engagements des frais FreeLUG vers les Adhérents**  
+[Sur la base de l’article Démarches à suivre pour coordonner une participation à une exposition](/articles/demarches-a-suivre-pour-coordonner-une-participation-a-une-exposition/)  
+_Délai :_ Non défini mais un retour est attendu pour fin avril.  
+_prise en charge :_ Richard, Florent
+
+**Règles d’utilisation de notre logo sur les affiches tiers et moyen de communication + charte graphique à mettre à jour**  
+_Délai :_ Non défini mais un retour est attendu pour fin avril.  
+_prise en charge :_ Jean-Jacques, Pierre
+
+**Mise à jour du règlement des CoR**  
+_Délai :_ Non défini mais un retour est attendu pour fin avril.  
+_prise en charge :_ Erik, Stéphane, Pierre
+
+* * *
+
+_Fin de séance : 22h43_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

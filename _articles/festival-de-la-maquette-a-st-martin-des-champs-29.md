@@ -1,0 +1,31 @@
+---
+title: "Festival de la maquette à St Martin Des Champs (29)"
+permalink: "/articles/festival-de-la-maquette-a-st-martin-des-champs-29/"
+section: "/regions/bretagne/"
+published_at: "2014-07-06T07:30:01Z"
+authors: [ "damien bresson" ]
+description: "Le 24 et 25 mai avait lieu le 7 ème festival de la maquette à St
+  Martin Des Champs juste à côté de Morlaix, à la salle omnisports de Gouelou.
+  Un espace LEGO était présent avec Roger, Marc D et les jeunes du clubs : Théo
+  et Gaëtan. Il y avait deux villes, du Technic et les robots Mindstorms. Nous
+  avons commencé à monter le vendredi en début de soirée, le montage s’est fini
+  le samedi matin peu de temps avant l’ouverture, l’expo a ouvert au public à
+  11h00. J’ai rajouté une dernière partie avec les gardes-côtes et leur bateaux
+  ainsi que les pompiers, voleurs et policiers. On avait l’hydravion des gardes
+  côtes et deux ponts de chaque côté pour le train. Le samedi, il y a eu du
+  monde, le soir on finit un peu plus tard parce que des visiteurs n’avaient pas
+  encore vu la partie LEGO. L’ambiance était sympa avec les maquettistes et
+  l’ensemble des exposants, le soir on a eu un kig ha farz qui était très bon.
+  Le dimanche on a ouvert un peu plus tôt et nous avons eu des visiteurs, le
+  reste de la journée c’est bien passé dans la bonne ambiance."
+source_id: 1843
+source_url: "https://www.freelug.org/spip.php?article1843"
+---
+
+Le 24 et 25 mai avait lieu le 7 ème festival de la maquette à St Martin Des Champs juste à côté de Morlaix, à la salle omnisports de Gouelou.  
+Un espace LEGO était présent avec Roger, Marc D et les jeunes du clubs : Théo et Gaëtan. Il y avait deux villes, du Technic et les robots Mindstorms.  
+Nous avons commencé à monter le vendredi en début de soirée, le montage s’est fini le samedi matin peu de temps avant l’ouverture, l’expo a ouvert au public à 11h00. J’ai rajouté une dernière partie avec les gardes-côtes et leur bateaux ainsi que les pompiers, voleurs et policiers. On avait l’hydravion des gardes côtes et deux ponts de chaque côté pour le train. Le samedi, il y a eu du monde, le soir on finit un peu plus tard parce que des visiteurs n’avaient pas encore vu la partie LEGO. L’ambiance était sympa avec les maquettistes et l’ensemble des exposants, le soir on a eu un kig ha farz qui était très bon. Le dimanche on a ouvert un peu plus tôt et nous avons eu des visiteurs, le reste de la journée c’est bien passé dans la bonne ambiance.
+
+922 entrées payantes et environ 300 à 400 enfants, en 2012, il y a eu 750 entrées payantes et les enfants 100 à 150 environ, Roger a gagné une coupe pour le prix du public et Marc D, une médaille.
+
+Le club nous donne rendez-vous dans 2 ans pour St Martin Des Champs 2016.

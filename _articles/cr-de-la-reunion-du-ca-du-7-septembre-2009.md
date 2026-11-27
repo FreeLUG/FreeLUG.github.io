@@ -1,0 +1,82 @@
+---
+title: "CR de la réunion du CA du 7 septembre 2009"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-7-septembre-2009/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2009-10-03T15:25:30Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "CR de la réunion du CA du 7 septembre 2009"
+source_id: 991
+source_url: "https://www.freelug.org/spip.php?article991"
+---
+
+CR de la réunion du CA du 7 septembre 2009
+
+## Ordre du jour
+
+_Début de séance : 20h04_
+
+_Présents (6) :_  
+**–** Erik Amzallag  
+**–** Emmanuel Bonnard  
+**–** Pierrick Dauny  
+**–** Marc Schickelé  
+**–** Jérôme Teissier  
+**–** Xavier Viallefont
+
+_Excusés (2) :_  
+**–** Pierre Charles  
+**–** Gaël Frazier
+
+_Absents (4) :_  
+**–** Jean-Louis Bergamo  
+**–** Nicolas Huyard  
+**–** Didier Malon  
+**–** Richard Lemeiter
+
+_Ordre du jour :_  
+**–** Points hors réunion  
+**–** Point sur l’envoi des briques/badges  
+**–** Point trésorie  
+**–** point LUGBULK
+
+## Résumé des points abordés le 3 août
+
+_Présents :_  
+**–** Erik Amzallag, Pierre Charles, Pierrick Dauny, Richard Lemeiter
+
+**Demande de prêt de nappes pour Cholet**
+
+Jean-Claude Petit fait une demande de prêt pour les nappes pour l’exposition de Cholet du 23/24 octobre. Les nappes lui seront transmises.
+
+**Validation de participation hors réunion**
+
+**–** _Forum des associations à Saint-Martin des Champs_  
+21 septembre, par Jean-Marc  
+**–** _stand LEGO à Roscoff dans le cadre de la journée du Patrimoine_  
+, par Jean-Marc  
+**–** _Salon de la maquette à Saint-Lô_ 3 et 4 octobre 2009, par Jean-Marc
+
+**Participation au Festival du train en Rouergue**
+
+FreeLUG est invitée pour la seconde fois à participer au Festival du train en Rouergue les 29 et 30 Mai 2010. L’accord est donné.
+
+**Points trésorie**
+
+**–** vente d’une partie du lot PaB à 1001bricks.
+
+## Point sur l’envoi des briques/badges
+
+Les derniers badges et briques sont sur le point d’être envoyés. Il nous manque toujours un badge et nous n’avons pas de nouvelles du graveur.
+
+## Point trésorie
+
+Le trésorier étant en congé, les choses n’ont pas évolué.
+
+## Point LUGBULK
+
+Visiblement, il y a peu d’enthousiasme pour cette commande.
+
+_Fin de séance : 20h30_
+
+Pour toute remarque ou commentaire, merci de contacter le CA.

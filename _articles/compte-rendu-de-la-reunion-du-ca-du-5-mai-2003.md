@@ -1,0 +1,114 @@
+---
+title: "Compte-rendu de la reunion du CA du 5 mai 2003"
+permalink: "/articles/compte-rendu-de-la-reunion-du-ca-du-5-mai-2003/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2003-05-07T09:44:46Z"
+authors: [ "Jean-Louis \"JLB\" Bergamo" ]
+description: "Etaient présents :Pascal Brugier : président Loys Bailly :
+  vice-président Gael Frazier : Trésorier Marc schickele : Trésorier adjointYann
+  Laurent : Secrétaire général Jean Louis Bergamo : Secrétaire
+  adjointJean-Baptiste Peaquin : membre CAGilles Micheletti : membre du CAPascal
+  Bréard : membre du CA"
+source_id: 99
+source_url: "https://www.freelug.org/spip.php?article99"
+---
+
+## Compte-rendu de la reunion du CA du 5 mai 2003
+
+**Etaient présents :**  
+Pascal Brugier : président  
+Loys Bailly : vice-président  
+Gael Frazier : Trésorier  
+Marc schickele : Trésorier adjoint  
+Yann Laurent : Secrétaire général  
+Jean Louis Bergamo : Secrétaire adjoint  
+Jean-Baptiste Peaquin : membre CA  
+Gilles Micheletti : membre du CA  
+Pascal Bréard : membre du CA
+
+**Etait absent :**  
+Jérôme Teissier : membre CA
+
+La séance débute a 20h15.
+
+Les points à voir sont :
+
+-   1 Organisation de l’AG
+    -   1.1 Validation de la date de l’AG au 22 mai 2003.
+    -   1.2 Envoi des convocations.
+-   2 déroulement de l’AG
+    -   2.1 élection des membres du CA
+    -   2.2 vote sur le rapport moral
+    -   2.3 Vote sur le budget
+    -   2.4principe du question réponse
+-   3 mettre en place la procédure, pour les différents vote et contenus des chapitres de l’Ag...
+
+Tous les votes se sont faits à main levée (enfin la  
+version électronique de la main levée)
+
+## 1 Organisation de l’AG
+
+**1.1 - Validation de la date du 22 mai 2003**
+
+Après vote, tout le monde est d’accord sur cette date.
+
+**1.2 - envoi de mail de convocation**
+
+envoi du mail de convocation demain (06-05-03) dans la journee après lecture et validation : action des deux secretaires.
+
+## 2 déroulement de l’AG
+
+**2.1 - Election des membres du CA**
+
+La date limite des candidatures est fixée au samedi 17 mai 8h00 par email, avec lettre de motivation. Tout le monde est d’accord.
+
+Le nombre de membre du CA est fixé à 12. Tout le monde est d’accord.
+
+**Rappel** : le CA sera composé de 12 membres, qui vont  
+élire le bureau composé de 6 administrateurs :  
+**–** président et vice président  
+**–** secrétaire général et secrétaire adjoint  
+**–** trésorier et trésorier adjoint
+
+**Rappel des statuts**  :  
+Le conseil d’administration se réunit au moins une  
+fois tous les six mois sur convocation du président ou  
+sur demande de la moitié de ses membres.  
+Les décisions sont prises à la majorité des voix.  
+Le président dispose d’une voix prépondérante.  
+Les réunions font l’objet d’un procès-verbal.
+
+**2.2 - vote sur le rapport moral**  
+Modifications à apporter au rapport moral rédigé par  
+le président :  
+**–** enlever la notion de région dans la slide 18, ok pour tous. Idem pour toutes les autres slides.
+
+La forme de la présentation du rapport moral (jusqu’à la slide 27) est acceptée par tous.
+
+**2.3 - Vote sur le budget**
+
+La forme de la présentation du budget est acceptée par  
+tous.
+
+**2.4 - Questions réponses**
+
+L’accent sera mis sur les questions préparées, si il reste du temps, on traitera des questions libres !
+
+## 3 - Mise en place de l’AG et animation
+
+Yann animera la session et décidera de règles avec  
+Gael.
+
+**Discussion à prevoir lors des prochaines réunions du CA**
+
+**–** Tarifs spéciaux (familles nombreuses, autres….)  
+**–** News letter pour les personnes non connectées au net.  
+**–** T-shirts
+
+Remarque de Pascal Brugier sur ces points :  
+a - ne pas véritablement être d’accord sur des membres gratuits, sauf si des super collaborateurs ;  
+b - être d’accord pour étudier une cotisation ’famille’ à 25 euro  
+c - être d’accord pour une news letter, mais tout les mois cela semble un travail énorme...
+
+L’ordre du jour ayant été épuisé, la seance est levée a 21h50.

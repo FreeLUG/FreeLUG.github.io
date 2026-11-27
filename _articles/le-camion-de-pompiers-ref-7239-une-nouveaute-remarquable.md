@@ -1,0 +1,108 @@
+---
+title: "Le camion de pompiers réf 7239, une nouveauté remarquable !"
+permalink: "/articles/le-camion-de-pompiers-ref-7239-une-nouveaute-remarquable/"
+section: "/themes/ville-city/"
+published_at: "2005-01-29T18:43:41Z"
+authors: [ "Eric \"f1tvf\" Létang" ]
+description: "Suite à l’achat de ce nouveau modéle que je trouvais attrayant et
+  à la pression de certains membres sur l’IRC de FREELUG (amical bien sûr ;-).
+  Je vous livre içi une petite présentation de ce modéle .... A consommer sans
+  modération .... :)"
+source_id: 353
+source_url: "https://www.freelug.org/spip.php?article353"
+---
+
+Suite à l’achat de ce nouveau modéle que je trouvais attrayant et à la pression de certains membres sur l’IRC de FREELUG (amical bien sûr ;-). Je vous livre içi une petite présentation de ce modéle .... A consommer sans modération .... :)
+
+## Bonjour à tous,
+
+Commençons par une photo :
+
+![](/media/archive/c24d8ae2a4cb37982cb1df05.jpg)
+
+**Modéle 7239**
+
+Boite face avant
+
+![](/media/archive/982ca0d15bfa0c031ec4cbc8.jpg)
+
+**Boite face arrière**
+
+Face arrière de la boite
+
+Voilà donc ce modéle LEGO référence 7239, nouvauté de cette nouvelle année 2005. Les premières images nous sont parvenus fin 2004, avare que nous sommes de tout savoir avant les autres... !
+
+A l’ouverture de la boite :
+
+![](/media/archive/6d1b861b840057d38963deff.jpg)
+
+**Contenu**
+
+Contenu de la boite
+
+![](/media/archive/325939e718923a75fec2d5f4.jpg)
+
+**Plans**
+
+Plans pour la construction du modéle
+
+![](/media/archive/414212655dc91fb1f5e702c5.jpg)
+
+**Autocollants**
+
+Planche des autocollants
+
+Autant de sachets, autant de notices ! Voiçi donc un premier point marquant, il y a plusieurs plans !  
+**1 ère remarque :** Il y a 1 pièces qui se balade dans la boite ainsi que l’autocollant, au risque de le retrouver détérioré.
+
+Le montage s’avère facile, pas à priori d’incompréhension particuliére ( mais il est vrai que je suis rompu à cet exercice depuis longtemps ).  
+Voiçi les 3 parties assemblées :
+
+![](/media/archive/c6c8baadc5fa3349d7cdeed9.jpg)
+
+**Montage des 3 parties**
+
+![](/media/archive/4622a24cbd631ff506a7fc64.jpg)
+
+**Montage final**
+
+Les différentes parties fonctionnels sont faciles à manoeuvrer ( attention à bien fixer l’échelle sur son support ).  
+**2 éme remarque :** L’échelle ne peut pas pivoter, il faut orienté le véhicule dans la bonne direction !
+
+![](/media/archive/f379df80299cbd2d724ac476.jpg)
+
+**Les accessoires**
+
+Accessoires pour les interventions des pompiers
+
+Le camion et sa remorque comprennent beaucoup de cases de rangement, c’est appréciable !  
+**3 éme remarque :**C’est là le plus gros reproche ! Il y a trop peu de matériel : pas de pelle, de pioche, de scie à métaux, de marteau, de piolet, de lance à incendie, de clef à molette, etc ... Certaines fixations prévues restent vides !
+
+![](/media/archive/fed32bebe1d074b209e7196d.jpg)
+
+**Modéles alternatifs**
+
+Voiçi la seule et unique photo des modéles alternatifs.
+
+**Remarque 4 :**Les modéles alternatifs sont encore et toujours quasi-absents . Ce qui n’est pas du tout aisé d’essayer de les montés avec une seule photo !  
+Mais heureusement les AFOL’s sont là !  
+Je me suis donc inspiré de cette gallerie pour réaliser le mien :  
+[http://brickshelf.com/cgi-bin/galle...](http://brickshelf.com/cgi-bin/gallery.cgi?f=110152)
+
+![](/media/archive/b862e8194fad00e2a37a4805.jpg)
+
+**Le modéle alternatif n°2**
+
+Modéle alternatif
+
+Voiçi içi les premiers camions tout neufs de la future Caserne :
+
+![](/media/archive/e899084604cc49057669093a.jpg)
+
+**les 2 camions**
+
+C’est un modéle trés réaliste à mon goût et qui se rapproche beaucoup du matériel actuel. J’ai eu beaucoup de plaisir à le monter. J’espère que vous serez tentés de faire de même !
+
+Bien Cordialement
+
+Eric L.

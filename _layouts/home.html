@@ -29,7 +29,11 @@ layout: default
           </div>
           <div class="category-grid">
             {% for item in site.data.navigation %}
+            {% assign section = site.sections | where: "permalink", item.url | first %}
             <article class="card">
+              {% if section.image and section.image != "" %}
+              <img class="section-thumbnail" src="{{ section.image | relative_url }}" alt="" width="100" height="100" loading="lazy">
+              {% endif %}
               <p class="eyebrow">{{ item.eyebrow | escape }}</p>
               <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
               <p>{{ item.description | escape }}</p>

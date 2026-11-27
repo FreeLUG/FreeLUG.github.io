@@ -1,0 +1,31 @@
+---
+title: "Exposition LEGO à Saizerais (54), 4 et 5 décembre"
+permalink: "/articles/exposition-lego-a-saizerais-54-4-et-5-decembre/"
+section: "/regions/lorraine/"
+published_at: "2010-12-04T13:30:00Z"
+authors: []
+description: "Découvrir ou redécouvrir les belles briques LEGO, c’est à
+  Saizerais à deux pas de Nancy (Lorraine). Première rencontre dans notre
+  région, notre ambition est de devenir un événement incontournable grâce à
+  votre présence et votre implication pour ceux qui le désirent."
+source_id: 1226
+source_url: "https://www.freelug.org/spip.php?article1226"
+---
+
+Découvrir ou redécouvrir les belles briques LEGO, c’est à Saizerais à deux pas de Nancy (Lorraine).
+
+Première rencontre dans notre région, notre ambition est de devenir un événement incontournable grâce à votre présence et votre implication pour ceux qui le désirent.
+
+Vous pourrez le samedi 4 décembre de 14h30 à 18h et le dimanche 5 décembre de 11h à 17h vous émerveillez devant la petite brique indémodable.
+
+Il y aura du City, du StarWars, des monuments...
+
+Entrée libre.
+
+Participer à des ateliers de montage, participer à un ateliers jeux de société LEGO (Harry Potter, Minotaurus, Lunar Command, Ramses Pyramid, Creationary...) ou simplement regarder sans modération l’exposition dédiée à la brique danoise.
+
+Pour ceux qui veulent exposer, il est encore temps (date limite d’inscription 1 décembre).
+
+Tous les détails sur [http://www.saizerais.com/](https://www.saizerais.com/)
+
+[![](/media/archive/9a773f0696aa26a94f473eb8.jpg)](https://www.freelug.org/IMG/jpg/saizerais_2010_affiche.jpg)

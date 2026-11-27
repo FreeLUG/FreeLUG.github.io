@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtemp, mkdir, writeFile, readFile, readdir, rm } from 'node:fs/promises';
+import { mkdtemp, mkdir, writeFile, readFile, readdir, rm, rename } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { parse } from 'yaml';
@@ -62,6 +62,21 @@ test('missing or escaping saved media fails before publishing an incomplete arti
   await writeFile(page, html.replace('./article123_files/train.jpg', '../private.jpg'));
   await assert.rejects(importEdgePage(page, site), /escapes the page directory/);
   await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+});
+
+test('migrated sites import descriptive filenames and reject duplicates by historical ID', async t => {
+  const { page, site, directory } = await fixture(t);
+  await writeFile(path.join(directory, 'article123_files/train.jpg'), 'fixture-image');
+  await writeFile(path.join(site, '_data/url-redirects.json'), '{}');
+  await writeFile(path.join(site, '_sections/42.md'), '---\ntitle: Train\nsource_id: 42\npermalink: /themes/train/\n---\n');
+  await rename(path.join(site, '_sections/42.md'), path.join(site, '_sections/themes-train.md'));
+  await writeFile(path.join(site, '_data/legacy_urls.json'), '{"rubrique42":"/themes/train/"}');
+  await importEdgePage(page, site);
+  const text = await readFile(path.join(site, '_articles/notre-train.md'), 'utf8');
+  assert.equal(parse(text.match(/^---\n([\s\S]*?)\n---/)[1]).permalink, '/articles/notre-train/');
+  assert.match(text, /section: "\/themes\/train\/"/);
+  await assert.rejects(importEdgePage(page, site), /refusing to overwrite/);
+  await assert.rejects(readFile(path.join(site, '_articles/123.md')), /ENOENT/);
 });
 
 test('editorial footer notes and attached documents are preserved without comments or sidebar content', async t => {

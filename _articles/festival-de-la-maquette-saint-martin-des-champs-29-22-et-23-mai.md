@@ -1,0 +1,20 @@
+---
+title: "Festival de la maquette, Saint-Martin-des-Champs (29), 22 et 23 mai"
+permalink: "/articles/festival-de-la-maquette-saint-martin-des-champs-29-22-et-23-mai/"
+section: "/regions/bretagne/"
+published_at: "2010-05-22T12:00:00Z"
+authors: [ "Jean-Marc Barré" ]
+description: "FreeLUG, ainsi que qu’un membre de BeLUG et des représentants de
+  Legopirates présenteront leurs créations lors du Festival de la maquette, de
+  la figurine et du modèle réduit de Saint-Martin-des-Champs, organisé par le
+  club Maquettisme Saint-Martinois."
+source_id: 1048
+source_url: "https://www.freelug.org/spip.php?article1048"
+---
+
+FreeLUG, ainsi que qu’un membre de BeLUG et des représentants de Legopirates présenteront leurs créations lors du Festival de la maquette, de la figurine et du modèle réduit de Saint-Martin-des-Champs, organisé par le club Maquettisme Saint-Martinois.
+
+Informations pratiques :  
+**–** Date : les 22 et 23 mai 2010  
+**–** Horaires : samedi de 14h à 18h30 , dimanche de 10h à 18h  
+**–** Lieu : salle omnisports du Gouélou, Saint-Martin-des-Champs, à côté de Morlaix.

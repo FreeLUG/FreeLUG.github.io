@@ -1,0 +1,53 @@
+---
+title: "Revue du set Dacta 9695"
+permalink: "/articles/revue-du-set-dacta-9695/"
+section: "/themes/mindstorms/"
+published_at: "2010-10-15T11:46:13Z"
+authors: [ "Sylvain Cacheux" ]
+description: "En complément du set Dacta 9688 (renewable energy set), j’ai aussi
+  commandé le 9695. Petite revue."
+source_id: 1202
+source_url: "https://www.freelug.org/spip.php?article1202"
+---
+
+En complément du set [Dacta 9688 (renewable energy set)](/articles/revue-du-set-dacta-9688-renewable-energy-set/), j’ai aussi commandé le 9695. Petite revue.
+
+Lors de ma commande du 9688, j’ai découvert sur le site du marchand le set 9695. J’en ai pris un, il me paraissait intéressant.
+
+Bonne affaire ?
+
+Pour vous en faire un idée, voici quelques éléments de réponse sous forme de photos :
+
+[![](/media/archive/9265efa4495c458950496498.jpg)](https://www.freelug.org/IMG/jpg/Lego_Dacta_9695_-_01_-_Dessus.jpg)
+
+[![](/media/archive/eacab3fd977c5929e114797e.jpg)](https://www.freelug.org/IMG/jpg/Lego_Dacta_9695_-_02_-_Cote.jpg)
+
+[![](/media/archive/0bda40a8325c706a07ceafde.jpg)](https://www.freelug.org/IMG/jpg/Lego_Dacta_9695_-_03_-_Dessus_2_.jpg)
+
+Quand on ouvre la boîte, via un système de fermeture que je trouve astucieux (à base d’ergots), on trouve un riche contenu :
+
+[![](/media/archive/c28cb38ebc27b4fd2373a0c8.jpg)](https://www.freelug.org/IMG/jpg/Lego_Dacta_9695_-_04_-_Contenu_1.jpg)
+
+La boîte comporte deux étages de rangement :
+
+[![](/media/archive/59ac7b27e08a45441bc1cbe8.jpg)](https://www.freelug.org/IMG/jpg/Lego_Dacta_9695_-_05_-_Rangement_1.jpg)
+
+[![](/media/archive/d0280e00bd50f9eba27f601b.jpg)](https://www.freelug.org/IMG/jpg/Lego_Dacta_9695_-_06_-_Contenu_2.jpg)
+
+Une fois trié/rangé, ça donne ça :
+
+[![](/media/archive/6f64e754fc26ee699c127c74.jpg)](https://www.freelug.org/IMG/jpg/Lego_Dacta_9695_-_07_-_Contenu_3.jpg)
+
+[![](/media/archive/d5520ddf426dc4487e2af2bd.jpg)](https://www.freelug.org/IMG/jpg/Lego_Dacta_9695_-_08_-_Contenu_4.jpg)
+
+L’étage de rangement supérieur est fermé par la plaque cartonnée, en plus du dessus en plastique. Je pense que cette plaque cartonnée est nécessaire car elle doit empêcher les petites pièces de sortir, le plastique de fermeture n’étant pas vraiment totalement étanche.
+
+Au dos de cette plaque cartonnée, il y a la liste des pièces :
+
+[![](/media/archive/b4e625e3fbb574df98260a4d.jpg)](https://www.freelug.org/IMG/jpg/Lego_Dacta_9695_-_09_-_Liste_contenu.jpg)
+
+Un set plutôt complet, avec plein de liftarms, des engrenages, des minifigs (sisi, des minifigs, pas de bonhommes Technic...), des courroies, des roues et chenilles, et des connecteurs à foison.
+
+Pour 85 €, 817 pièces (environ), je trouve que c’est bon marché.
+
+En complément du 9688, je pense que c’est très bien, vu que ce set ne contient aucune pièce classique LEGO. Au niveau tarif, les 2 pour 200 € font un ensemble à un tarif correct.

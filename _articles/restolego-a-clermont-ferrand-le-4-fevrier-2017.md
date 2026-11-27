@@ -1,0 +1,32 @@
+---
+title: "RestoLEGO à Clermont-Ferrand le 4 février 2017"
+permalink: "/articles/restolego-a-clermont-ferrand-le-4-fevrier-2017/"
+section: "/regions/auvergne/"
+published_at: "2017-03-05T12:21:49Z"
+authors:
+  [
+    "Florent MOREAU",
+    "Philippe \"Frogleap\" LABEL",
+    "Samir LRHOUL",
+    "Sebastien BOUJU",
+    "Stephanie Lafontaine",
+    "Thomas LAFONTAINE"
+  ]
+description: "Le samedi 4 février 2017, un restoLEGO a été organisé à
+  Clermont-Ferrand pour profiter de la présence des adhérents FreeLUG venus à
+  l’AFOL’s day au LEGO store du centre commercial Jaude 2."
+source_id: 2583
+source_url: "https://www.freelug.org/spip.php?article2583"
+---
+
+Le samedi 4 février 2017, un restoLEGO a été organisé à Clermont-Ferrand pour profiter de la présence des adhérents FreeLUG venus à l’AFOL’s day au LEGO store du centre commercial Jaude 2.
+
+Nous avons passé un excellent moment de convivialité autour de sushis et autres plats japonais servis à volonté sur un buffet tournant.
+
+Quelques animations ont été organisées avec la réalisation flash de MOCs sur la base de consignes de construction posées sur le champ : le MOC le plus haut sachant tenir debout tout seul avec 20 briques tirées au hasard dans un sac de vrac ; le MOC le plus large, toujours avec 20 briques.
+
+[![](/media/archive/99ccd7ad0f6bde0ceeb08bdd.jpg)](https://www.freelug.org/IMG/jpg/DSC_0572petite.jpg)
+
+Des boites de LEGO, issues de la dotation support de FreeLUG affectée au CoR Massif-Central, ont été offertes aux gagnants de ces concours et des sachets de vrac furent distribués à tous les participants.
+
+Merci à tous les adhérent(e)s qui sont venu(e)s participer à cette animation enthousiasmante.

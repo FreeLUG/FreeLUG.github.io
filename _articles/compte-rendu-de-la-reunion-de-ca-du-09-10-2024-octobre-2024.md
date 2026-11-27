@@ -1,0 +1,173 @@
+---
+title: "Compte-rendu de la réunion de CA du 09/10/2024 (Octobre 2024)"
+permalink: "/articles/compte-rendu-de-la-reunion-de-ca-du-09-10-2024-octobre-2024/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2024-10-17T10:17:22Z"
+authors: [ "Didier MALON" ]
+description: "Début de séance (20h55)"
+source_id: 3281
+source_url: "https://www.freelug.org/spip.php?article3281"
+---
+
+**Début de séance (20h55)**
+
+Veuillez trouver ci-dessous le compte-rendu de la réunion du Conseil d’Administration de l’Association FreeLUG d’Octobre 2024.
+
+**Participants :**
+
+• Didier Malon : Secrétaire  
+• Nicolas Charnay : Trésorier  
+• Sébastien Hamon : Secrétaire adjoint et responsable matériel  
+• Nicolas Weeger : Trésorier adjoint  
+• Stéphane Paradot : Vice Président  
+• François Disdier : Community Manager
+
+**Excusés :**
+
+• Emmanuel Bonnard : Président  
+• Erik Amzallag : Responsable suivi Expo/Animation/REF/COR
+
+**Ordre du jour :**
+
+1.  Validation des expositions/animations à venir :
+    1.  Régularisation pour la demande de Joël PERROT pour une exposition réalisée les 28 et 29 Septembre à Saint-Pourcin sur Sioule dans l’allier (vote Loomio).
+    2.  Régularisation pour la demande de Charles FOULON pour une exposition à Divion (62) les 26 et 27 Octobre avec ChtiLUG.
+    3.  Confirmation des dates pour expo de Villebon du 3 au 5 Octobre 2025 (contact Mairie).
+    4.  Retour sur la demande d’exposition les 19 et 20 Avril 2025 à Saint-Michel sur Orge (échange avec les organisateurs à Orléans).
+    5.  Demande de Jérôme TESSIER pour une participation à la Convention SW à Cusset les 26 et 27 Avril 2025 (besoin mosaïque).
+    6.  Demande d’expo les 16 et 17 Novembre 2024 à Sou des Ecoles Veyrins Thuelin (38)
+    7.  Demande de participation à l’exposition Fabrique Ta Brique (invitation de glabrique) les 1er et 2 Février 2025 à la Braconnière (53).
+    8.  Exposition à Cambianes et Meynac les 9 et 10 Novembre pour le CoR Occitanie.
+    9.  Demande de Star Leader et Pierre Béniton pour une expo les 7 et 8 Juin dans le cadre de la convention Geek à Pierre Bénite (69)
+2.  Besoins matériels :
+    1.  Validation récompenses pour les ateliers fleurs pour la Maison du Danemark : Détail des répartitions :
+    2.  IdF : 6 participants récompensés avec set 10369,
+    3.  CoR Occitanie : 6 participants,
+    4.  CoR Rhône Alpes : 3 participants
+    5.  CoR Nord : 10 participants
+    6.  CoR Auvergne : 4 participants
+    7.  Normandie : 10 participants
+    8.  Etat des lieux avant la BE de Villiers.
+    9.  Réalisation des badges pour exposants Castanet.
+    10.  Bilan inventaire réalisé par Sébastien (mail du 6/10) => Proposition de rajout d’une colonne précisant la provenance des biens.
+3.  Questions diverses
+    1.  Gestion du site briquexpo.org
+    2.  Réservation de la salle pour AG 2025
+4.  Point sur les actions en cours
+
+**1 - Validation des expositions/animations à venir :**
+
+**• Régularisation pour la demande de Joël PERROT pour une exposition réalisée les 28 et 29 Septembre à Saint-Pourcin sur Sioule dans l’allier (vote Loomio).**
+
+La demande de Joël PERROT a été approuvée suite à un vote Loomio le 21/09.
+
+**• Régularisation pour la demande de Charles FOULON pour une exposition à Divion (62) les 26 et 27 Octobre avec ChtiLUG.**
+
+La demande de Charles FOULON a été approuvée suite à décision du CoR Nord.
+
+**• Confirmation des dates pour expo de Villebon du 3 au 5 Octobre 2025 (contact Mairie).**
+
+Didier est toujours en attente des organisateurs d’une réunion de préparation, d’après l’intitulé des mails échangés avec la mairie, il s’agirait d’une exposition de trains, par conséquent une Briqu’Expo n’est pas actuellement envisagée.
+
+Une autre association locale de Villebon a également pris contact avec nous lors de l’exposition d’Orléans pour un autre évènement sur la même commune. Nous sommes donc en attente d’informations complémentaires.
+
+**• Retour sur la demande d’exposition les 19 et 20 Avril 2025 à Saint-Michel sur Orge (échange avec les organisateurs à Orléans).**
+
+Faisant suite à la réponse négative de notre part, motivée par la demande de payer nos repas, les organisateurs, rencontrés lors de l’exposition d’Orléans nous autoriseraient à participer sans prise en charge des repas, en cas de désistement d’un exposant déjà sélectionné. Nous sommes donc en liste d’attente, au cas où nous aurions des volontaires et notre éventuelle participation ne se ferait pas dans le cadre d’une Briqu’Expo.
+
+**• Demande de Jérôme TESSIER pour une participation à la Convention SW à Cusset les 26 et 27 Avril 2025 (besoin mosaïque).**
+
+Jérôme souhaiterait de l’assistance concernant la préparation d’une mosaïque pour cet évènement. Sébastien se charge de contacter Jérôme pour lui expliquer les dispositions d’organisation d’une mosaïque. **\=> Action Sébastien (10-01)  
+**
+
+**• Demande d’expo les 16 et 17 Novembre 2024 à Sou des Ecoles Veyrins Thuelin (38)**
+
+Demande transmise trop tardivement pour permettre notre participation à cet évènement. Loys notre adhérent sur le 38 ne connait pas les organisateurs qui manifestaient nous avoir déjà sollicité par le passé.
+
+Compte-tenu du faible délai et du manque d’antériorité, la demande n’est pas validée. Sébastien se charge de la réponse. **\=> Action Sébastien (10-02)**
+
+**• Demande de participation à l’exposition Fabrique Ta Brique (invitation de Glabrique) les 1er et 2 Février 2025 à la Braconnière (53).**
+
+Nous avons déjà eu des contacts avec l’association Glabrique. La fiche d’invitation ne donne pas trop de détail concernant l’organisation de l’exposition (thème général de l’exposition, exposition payante ou pas, conditions d’accueil). Nous décidons donc de revenir vers Glabrique pour avoir plus d’infos avant de valider le principe d’une participation et de faire appel à nos adhérents. **\=> Action Didier (10-03)**
+
+Un mail d’inscription a été partagé sur la liste CA le 5/10.
+
+• Exposition à Cambianes et Meynac les 9 et 10 Novembre pour le CoR Occitanie.
+
+La demande de Nicolas CHARNAY a été approuvée suite à décision du CoR Occitanie.
+
+• Demande de Star Leader et Pierre Béniton pour une expo les 7 et 8 Juin dans le cadre de la convention Geek à Pierre Bénite (69).
+
+Même position que pour l’exposition Fabrique Ta Brique, les éléments actuellement en notre possession ne nous permettent pas de valider le principe. Nous contactons les organisateurs pour avoir plus d’information. **\=> Action Didier (10-04)**
+
+Pour ces deux expositions (Braconnière et Pierre Bénite), Nicolas C. remarque qu’il serait sans doute judicieux de lister les critères nécessaires à la prise de décision. Ces critères sont en principe listés dans[l’article d’Erik consacré à la préparation d’une exposition.](/articles/demarches-a-suivre-pour-coordonner-une-participation-a-une-exposition/)
+
+**2 - Besoins matériels :**
+
+**• Validation récompenses pour les ateliers fleurs pour la Maison du Danemark :**
+
+Validation de la proposition de Sébastien HAMON concernant la distribution de 33 sets 60326, prélevés sur le stock FreeLUG.
+
+Sébastien précise que les sets, offerts par LEGO et déposés au stock par Didier, seront réintégrés au stock LEGO FR. La distribution des sets 60326 sera effectuée lors de la prochaine AG via les responsables des CoR/Régions ou avec la distribution des Bulks, avec priorité de remise en mains propres.
+
+**• Etat des lieux avant la BE de Villiers.**
+
+Les 4 caisses de briques jaunes ont été mises à disposition de l’école pour le concours des classes. Les briques mosaïques sont stockées chez Didier et seront complétées par ce qu’Erik remontera de Castanet. L’inventaire est à jour sur le site.
+
+Nicolas C. précise qu’à l’issue de la BE de Castanet, se pose la question de la localisation de 50 briques Lavande qui manque à l’inventaire. **\=> Action Sébastien / Nicolas C. (10-05)**
+
+**• Réalisation des badges pour exposants Castanet.**
+
+18 badges ont été réalisés par Nicolas C. pour les exposants de Castanet. Au-delà de cette réalisation, nous devrions aborder dans une prochaine réunion de CA le lancement d’une nouvelle commande générale auprès des adhérents.
+
+**• Bilan inventaire réalisé par Sébastien (mail du 6/10) => Proposition de rajout d’une colonne précisant la provenance des biens.**
+
+Sébastien étudiera avec Erik la faisabilité de l’ajout d’une colonne supplémentaire pour enregister la provenance des biens. Nicolas C. a aussi des remarques à échanger sur le sujet, une réunion spécifique entre toutes les parties concernées serait souhaitable. **\=> Action Sébastien (10-06)**
+
+**3 - Questions diverses :**
+
+**• Gestion du site briquexpo.org**
+
+Pas d’élément nouveau à ajouter par rapport à ce qui avait été échangé le mois dernier.
+
+**• Réservation de la salle pour AG 2025**
+
+Après quelques semaines de délais, la mairie de Saint-Michel-sur-Orge a répondu à notre demande de réservation et a hélas confirmé l’indisponibilité des 2 salles visées aux dates prévues en Mars. Une autre salle d’une capacité de 80 places nous est proposée pour les 29 et 30 Mars. Cette proposition est pour l’instant retenue, mais nous allons voir en parallèle si nos bonnes relations avec la Mairie de Villiers-sur-Orge ne nous permettraient pas d’utiliser les facilités de la salle où nous organisons notre BE.
+
+**• Payement des cotisations  
+**
+
+Nicolas W. fait remarquer qu’un adhérent qui n’avait pas encore payé sa cotisation en 2024, vient de s’acquitter de sa cotisation. Comme elle intervient après le premier Octobre, cette cotisation couvrira 2025. L’adhérent est donc confirmé non inscrit en 2024 et sera réinscrit pour 2025.
+
+**4 - Point sur les actions en cours :**
+
+Voir la liste récapitulative en fin de ce compte-rendu.
+
+**Fin de séance (22h24)**
+
+**Récapitulatif des actions :**
+
+Les lignes en italiques indiquent les actions closes.
+
+Item Action Acteurs Echéance  
+04-06 Mise en place d’un outil de planning des besoins Sébastien A définir  
+04-07 Budget des CoR. Amélioration du suivi Nicolas C. Action récurrente  
+05-01 Demande de devis d’extension de garantie d’assurance Emmanuel Juin  
+05-08 Amélioration de la visibilité du calendrier des évènements sur le forum Erik A définir  
+06-06 Collecte des devis briques gravées pour Roanne et Octogone 2024 Didier En cours Didier Sera en fonction du nombre de participants  
+_07-01 Voir avec Pascal Brugier pour réponse pour Saint-Michel sur Orge 2025 Didier Message adressé le 04/09/2024  
+07-02 Confirmer intérêt pour expo Villebon 2025 Didier Message adressé le 04/09/2024 => Réunion préparatoire sous peu._  
+07-05 Analyse du besoin en caisses pour CoR Occitanie Erik & Nicolas C. Durant la REF  
+07-07 Faire le point sur les commandes de vêtements Emmanuel Dès que possible  
+_08-01 Demander à Catherine les détails pour les expositions de Divion et Callais. Didier Message envoyé le 09/09/2024_  
+08-02 Demande à Dominique des précisions quant aux modalités d’organisation de son exposition de Saint-Soupplets Erik En cours  
+_08-03 Prise en charge de la distribution des sets 10369 en IdF, l’intégration des sets 10338 et 76297 au stock FreeLUG et établissement de la liste de tous les participants aux ateliers Fleurs Didier Sets 10338 et 76297 déposés au stock d’Orléans, sets 10369 distribués._  
+08-04 Nicolas se rapproche d’Erik pour finaliser le point concernant le site briquexpo.org Erik & Nicolas C. En cours  
+_08-05 Emmanuel se charge de contacter François afin de discuter des raisons de ses absences et de sa motivation à continuer d’œuvrer au sein du CA Emmanuel Réalisé_  
+10-01 Sébastien se charge de contacter Jérôme pour lui expliquer les dispositions d’organisation d’une mosaïque Sébastien En cours  
+10-02 Réponse aux organisateurs pour l’expo des 16 et 17 Novembre 2024 à Sou des Ecoles Veyrins Thuelin (38) Sébastien Mail envoyé le 12/10/2024  
+10-03 Demande d’informations supplémentaires pour l’exposition Fabrique Ta Brique (invitation de Glabrique) des 1er et 2 Février 2025 à la Braconnière (53) Didier En cours  
+10-04 Demande d’informations supplémentaires pour l’exposition des 7 et 8 Juin dans le cadre de la convention Geek à Pierre Bénite (69) Didier En cours  
+10-05 Localisation de 50 briques Lavande Sébastien / Nicolas C. En cours  
+10-06 Oragnisation d’une réunion spécifique avec Erik et Nicolas C. concernant l’amélioration de la gestion du matériel Sébastien En cours

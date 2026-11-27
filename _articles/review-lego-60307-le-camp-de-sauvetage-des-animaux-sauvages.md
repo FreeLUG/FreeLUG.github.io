@@ -1,0 +1,114 @@
+---
+title: "[REVIEW] LEGO 60307 - Le camp de sauvetage des animaux sauvages"
+permalink: "/articles/review-lego-60307-le-camp-de-sauvetage-des-animaux-sauvages/"
+section: "/themes/ville-city/"
+published_at: "2021-08-14T19:26:25Z"
+authors: [ "efde71" ]
+description: "Partons à la découverte de cette boite qui nous invite au voyage en Afrique !"
+source_id: 3120
+source_url: "https://www.freelug.org/spip.php?article3120"
+---
+
+Partons à la découverte de cette boite qui nous invite au voyage en Afrique !
+
+[![](/media/archive/f12d0ef6f7de9a66a1c9459d.jpg)](https://www.freelug.org/IMG/jpg/sam_3600.jpg)
+
+Le set comprend 503 pièces avec six personnages, une famille de lions, deux singes, un aigle et surtout l’éléphant ! Pour un prix de 109,99 € soit un rapport prix/pièces de 0,2 euros, c’est très cher. On paye clairement les métapièces et l’éléphant !  
+Une petite vue arrière donne une idée des mises en scène possibles :
+
+[![](/media/archive/614f3babc5d7d44c983a71db.jpg)](https://www.freelug.org/IMG/jpg/sam_3601.jpg)
+
+Venons au principal : le contenu de la boite :
+
+[![](/media/archive/0c08c4a5853fc0c811f2bf7f.jpg)](https://www.freelug.org/IMG/jpg/sam_3602.jpg)
+
+Et voilà une petite feuille de sticker !
+
+[![](/media/archive/9e1f91d0ebc923230bc7ad9c.jpg)](https://www.freelug.org/IMG/jpg/sam_3603.jpg)
+
+**Sachet un :**  
+Deux personnages, mixte
+
+[![](/media/archive/2369b6120b248b6269fb4b83.jpg)](https://www.freelug.org/IMG/jpg/sam_3606.jpg)
+
+et d’autres petits éléments de jouabilité
+
+[![](/media/archive/b13ce7947aee057634904b84.jpg)](https://www.freelug.org/IMG/jpg/sam_3608.jpg)
+
+[![](/media/archive/9cf309e2ccd8855f96bbbcc9.jpg)](https://www.freelug.org/IMG/jpg/sam_3609.jpg)
+
+[![](/media/archive/c99f4ec700ff5e301111c6a4.jpg)](https://www.freelug.org/IMG/jpg/sam_3610.jpg)
+
+[![](/media/archive/6e911df279de5a119677b173.jpg)](https://www.freelug.org/IMG/jpg/sam_3611.jpg)
+
+**Sachet deux :**  
+Un arbre qui sera accompagné par un aigle et deux lions
+
+[![](/media/archive/6c4c98556cfec38b5c290b4e.jpg)](https://www.freelug.org/IMG/jpg/sam_3613.jpg)
+
+[![](/media/archive/bafe8cb865212bf7a263cd80.jpg)](https://www.freelug.org/IMG/jpg/sam_3614.jpg)
+
+[![](/media/archive/16f8247891705cd39f3fa211.jpg)](https://www.freelug.org/IMG/jpg/sam_3615.jpg)
+
+[![](/media/archive/9839a2976273d4d302a24cac.jpg)](https://www.freelug.org/IMG/jpg/sam_3616.jpg)
+
+**Sachet trois :**  
+Deux personnages de plus, mixte, dont une vétérinaire
+
+[![](/media/archive/1b4060340e1d6cd6c5cca545.jpg)](https://www.freelug.org/IMG/jpg/sam_3618.jpg)
+
+Et le début du camion :
+
+[![](/media/archive/63b48d71a9cb3528ddd02b64.jpg)](https://www.freelug.org/IMG/jpg/sam_3620.jpg)
+
+[![](/media/archive/b9b7f4c09af895ad37bfe4e7.jpg)](https://www.freelug.org/IMG/jpg/sam_3621.jpg)
+
+**Sachet quatre :**  
+Un éléphant :
+
+[![](/media/archive/2d6509f5b937bcc5b1d7ba70.jpg)](https://www.freelug.org/IMG/jpg/sam_3623.jpg)
+
+et on continue le camion :
+
+[![](/media/archive/b09bd987d0819867ac3f6c80.jpg)](https://www.freelug.org/IMG/jpg/sam_3625.jpg)
+
+[![](/media/archive/667a6cd8cd51e2dd449552ec.jpg)](https://www.freelug.org/IMG/jpg/sam_3626.jpg)
+
+**Sachet cinq :**  
+Deux personnages mixtes de plus :
+
+[![](/media/archive/d03cfa7b18cabc7dc53aa62c.jpg)](https://www.freelug.org/IMG/jpg/sam_3628.jpg)
+
+On poursuit avec un bateau :
+
+[![](/media/archive/835118d0f1145c3f9ce1e1e9.jpg)](https://www.freelug.org/IMG/jpg/sam_3631.jpg)
+
+Deux petits singes jouent avec des caisses :
+
+[![](/media/archive/456814aa4f2679cd2ca8d149.jpg)](https://www.freelug.org/IMG/jpg/sam_3632.jpg)
+
+Et on avance, une cabane perchée :
+
+[![](/media/archive/5b54b86fec89166c36f5975f.jpg)](https://www.freelug.org/IMG/jpg/sam_3633.jpg)
+
+[![](/media/archive/cad8c22181cb4a93d9bfc651.jpg)](https://www.freelug.org/IMG/jpg/sam_3635.jpg)
+
+**Sachet six :**  
+On finit la cabane avec sa petite rivière :
+
+[![](/media/archive/988e7d8ebc3db07e8b9d2712.jpg)](https://www.freelug.org/IMG/jpg/sam_3637.jpg)
+
+[![](/media/archive/bbb8559d73f7aa852254409d.jpg)](https://www.freelug.org/IMG/jpg/sam_3638.jpg)
+
+[![](/media/archive/67384b12ae7ea4f32cf56b4b.jpg)](https://www.freelug.org/IMG/jpg/sam_3639.jpg)
+
+Voilà fini, une petite photo de famille !
+
+[![](/media/archive/d3e418904b807d02a7398a01.jpg)](https://www.freelug.org/IMG/jpg/sam_3640.jpg)
+
+Et pour terminer les extra parts :
+
+[![](/media/archive/c00a4ae24583ac16a7b7c932.jpg)](https://www.freelug.org/IMG/jpg/sam_3642.jpg)
+
+**Conclusion**  
+Que dire : c’est cher, très cher, mais mine de rien, il y a du volume et de quoi jouer. Pour moi, dix ou vingt euros de moins me paraît plutôt logique. Enfin, moi je cherche les animaux, et je crains que le prix au détail va faire très mal… Surtout l’éléphant !

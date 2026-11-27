@@ -1,0 +1,77 @@
+---
+title: "CR de la réunion du CA du 9 Juillet 2007"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-9-juillet-2007/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2007-07-24T18:20:03Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "CR de la réunion du CA du 9 Juillet 2007"
+source_id: 630
+source_url: "https://www.freelug.org/spip.php?article630"
+---
+
+CR de la réunion du CA du 9 Juillet 2007
+
+## Ordre du jour
+
+_Ordre du jour :_  
+**–** quorum pour les prises de décision  
+**–** commande des badges par Nicolas  
+**–** point sur la commande des vêtements  
+**–** convention Star Wars d’octobre au grand REX  
+**–** écussons pour la REF  
+**–** exposition Modelexpo de Neuville de Poitou (86) aux dates du 06 et 07 octobre.
+
+_Présents (10) :_  
+**–** Erik Amzallag  
+**–** Jean-Louis Bergamo  
+**–** Pascal Brugier  
+**–** Didier Enjary  
+**–** Gaël Frazier  
+**–** Eric Létang  
+**–** Didier Malon  
+**–** Gilles Micheletti  
+**–** Alain Parra  
+**–** Marc Schickelé
+
+_Excusé (1) :_  
+**–** Emmanuel Bonnard
+
+_Absent (1) :_  
+**–** Nicolas Huyard
+
+_Début de séance : 20h09_
+
+## Quorum pour les prises de décision
+
+Didier Malon propose la mise en place d’un quorum pour les prises de décision réalisées en dehors des réunions mensuelles.
+
+Il est décidé la procédure qui suit :  
+**–** intitulé dans l’objet du mail VOTE CA afin d’identifier clairement le sujet du mail ;  
+**–** délai de 3 jours ouvrables pour répondre ;  
+**–** relance possible au bout des trois jours ;  
+**–** si les 50% des voix + 1 ne sont pas exprimés, la décision est reportée à la réunion mensuelle.
+
+_Vote :_  
+**–** pour : 7  
+**–** contre : 1
+
+## Commande des badges par Nicolas
+
+Nicolas est absent. Pas plus de nouvelles pour le moment.
+
+## Point sur la commande des vêtements
+
+Les vêtements devraient être prêts pour la fin de la semaine (donc indisponibles avant la REF).
+
+## Convention Star Wars d’octobre au grand REX
+
+LEGO Fr nous a contacté pour une éventuelle participation à la convention StarWars d’Octobre au Grand Rex (Paris). Pas plus de nouvelles pour le moment.
+
+## Ecussons pour la REF
+
+Gilles proposait de réaliser des écussons pour la REF avec le logo de la rencontre. Finalement, par manque de temps, ce ne sera pas possible.
+
+## Exposition Modelexpo de Neuville de Poitou
+
+Pascal a reçu une invitation pour participer à Modelexpo à Neuville de Poitou en octobre 2007. Il doit faire suivre le dossier d’inscription.

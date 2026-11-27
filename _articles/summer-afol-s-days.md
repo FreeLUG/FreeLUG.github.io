@@ -1,0 +1,71 @@
+---
+title: "Summer Afol’s Days"
+permalink: "/articles/summer-afol-s-days/"
+section: "/association/reunions-evenements/"
+published_at: "2005-05-17T19:37:06Z"
+authors: [ "Nicolas HUYARD" ]
+description: "Après Rennes en 2003 et Grenoble en 2004, cette année Freelug a le
+  plaisir de vous inviter pour \"les Summer Afol’s Days\" à Reims, durant le
+  week-end du 9 et 10 juillet 2005"
+source_id: 393
+source_url: "https://www.freelug.org/spip.php?article393"
+---
+
+Après Rennes en 2003 et Grenoble en 2004,  
+cette année Freelug a le plaisir de vous inviter pour "les Summer Afol’s Days" à Reims, durant le week-end du 9 et 10 juillet 2005
+
+Cet été le centre international de séjour (CIS)de Reims nous accueille pour un week-end,  
+Ce week-end est l’occasion de nous rencontrer, de présenter vos Moc et de passer un agréable moment ensemble.
+
+Reims est une ville culturelle avec sa cathédrale, ses musées, son champagne, c’est une ville pour toute la famille.
+
+L’adresse du CIS :  
+Centre International de Séjour  
+Parc Léo Lagrange - Chaussée Bocquaine  
+51100 Reims  
+Tél. 03 26 40 52 60  
+Fax 03 26 47 35 70  
+Web/E-mail : [www.cis-reims.com](https://www.cis-reims.com/) / info@cis-reims.com
+
+Situé à proximité du centre ville, desservi par de nombreux bus il fera le bonheur des WAFOL (women of AFOL) qui souhaitent s’évader un moment.
+
+**Informations pratiques :**  
+Le Cis propose un hébergement :  
+Tarifs par personne par nuit petit déjeuner inclus
+
+**Douche/WC :**  
+**–** 1 lit 32€  
+**–** 2 lits 19,5€  
+**–** 3 lits 16,5€
+
+**Lavabo :**  
+**–** 1 lit 21€  
+**–** 2 lits 15,5€
+
+**Le Cis propose une restauration :**  
+**–** Repas (entrée + plat + dessert) 8,8€ par personne  
+**–** Supplément boisson 1,9€
+
+**Au programme de ce week-end :**  
+**–** une rampe infernale Version 2  
+**–** Le concours de réalisation d’un pont le plus solide et le plus léger  
+**–** Le projet Brickciel  
+**–** un petit concours Mindstorm  
+**–** un GBB (revision ici : [Goûter "Grand Bidule à Balles"](/articles/gouter-grand-bidule-a-balles/) )  
+**–** Draft,  
+**–** présentation des techniques de constructions  
+**–** et bien d’autres choses vous seront présentées durant ce week-end.
+
+Le samedi soir un diner sera organisé à l’extérieur du centre dans un restaurant de la ville.
+
+Les inscriptions vont débuter dans quelques jours sur la liste de diffusion Freelug.  
+Pour profiter du tarif de groupe de l’hébergement merci de vous inscrire avant le 10 juin 2005
+
+Pour vous inscrire vous pouvez utilisez l’adresse suivante :  
+reims@freelug.org
+
+Le site internet dédié :
+
+[http://reims.freelug.org/](http://reims.freelug.org/)
+
+A très bientôt

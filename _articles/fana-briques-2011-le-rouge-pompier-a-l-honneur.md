@@ -1,0 +1,88 @@
+---
+title: "Fana’briques 2011, le rouge pompier à l’honneur"
+permalink: "/articles/fana-briques-2011-le-rouge-pompier-a-l-honneur/"
+section: "/regions/alsace/"
+published_at: "2012-04-30T06:02:06Z"
+authors:
+  [
+    "Daniel STOEFFLER",
+    "Daniela Drost",
+    "Eric \"f1tvf\" Létang",
+    "Erik \"brickerik\" Amzallag",
+    "Gilles Micheletti",
+    "Jean-Yves BROT",
+    "joebar67",
+    "Laurent THEVENARD",
+    "Marc",
+    "Marc KLEIN",
+    "Philo",
+    "Pierre LAURENGE",
+    "Simon PINTA",
+    "Sylvain Cacheux",
+    "THIERRY MEYER",
+    "Vincent Patteyn"
+  ]
+description: "Fana’Briques 2011, la grande exposition de LEGO à la française,
+  réalisée par une grande équipe et c’est tout à son honneur, des choses encore
+  plus époustouflantes et merveilleuses cette année. Un nombre impressionnant de
+  visiteurs !"
+source_id: 1356
+source_url: "https://www.freelug.org/spip.php?article1356"
+---
+
+Fana’Briques 2011, la grande exposition de LEGO à la française, réalisée par une grande équipe et c’est tout à son honneur, des choses encore plus époustouflantes et merveilleuses cette année. Un nombre impressionnant de visiteurs !
+
+![](/media/archive/c2c9b4f42e647ccbb29b7ae4.jpg)
+
+Cette année beaucoup de changement à Fana’Briques !
+
+Une ouverture dès le vendredi soir : une nocturne !  
+Avec la diffusion d’un brickfilm réalisé par toute une équipe de passionnés stop motion, des mois et des mois de préparation pour arriver au résultat final, un film d’une demi heure !  
+Un grand succès car dès ce premier jour plus de 1000 spectateurs !
+
+Le samedi, le grand week-end commence, des animations LEGO énormes, une mosaique géante qui a demandé des milliers de mains et 2 jours complets de travail pour une fresque sur le thème pompier :
+
+![](/media/archive/f3eb84809957b81d3f325ace.jpg)
+
+**Une fresque géante à Fana’briques en 2011**
+
+De multiples jeux pour le public , les célèbres terrains de basket , le jeu des contes réalisé par Daniela :
+
+![](/media/archive/d6bf5ae3b3eff13cc2fa0b19.jpg)
+
+La fusée géante LEGO qui s’est aussi déclinée en une animation pyramide :
+
+![](/media/archive/82028f1a93ac9d6c074418e8.jpg)
+
+Des réalisations à couper le souffle : la cathédrale de Cologne à l’échelle Minifig , + d’1 million de pièces , quelques 2 années de travail :
+
+![](/media/archive/f364be90a0b431b9c2832c51.jpg)
+
+Des villes énormes, des robots extraordinaires , des grues géantes hautes comme le ciel !  
+Des centaines de créations dans tout les domaines :
+
+![](/media/archive/328f073a085eb4de3ce9cd7f.jpg)
+
+![](/media/archive/841bb6a06c81a9858c930ed5.jpg)
+
+![](/media/archive/e832b9c92b0d504ef80d827a.jpg)
+
+![](/media/archive/bf286bd642127c3ce15de00e.jpg)
+
+![](/media/archive/fa9c9010ae4f8d02b96ff419.jpg)
+
+![](/media/archive/558ca620c695b6a8044be1a4.jpg)
+
+![](/media/archive/22a161690919ba5fee94d80a.jpg)
+
+La première apparition de la ville dans les nuages, le thème SteamPunk :
+
+![](/media/archive/33785e1b38a76b5a81f5261a.jpg)
+
+Galerie photos des adhérents et autres :  
+**–** [Galerie Brickerik](http://photos.freelug.org/main.php/v/brickerik/expositions/2011/Fanabriques/)  
+**–** [Galerie Sixstuds](http://photos.freelug.org/main.php/v/6studs/Expos/FB+2011/)  
+**–** [Galerie SystemDbrick](http://photos.freelug.org/main.php/v/f1tvf/expositions/fana2011/)  
+**–** [Galerie Philo](http://photos.freelug.org/main.php/v/philo/fanab2011/)
+
+Fana’briques ? Nous y retournons tous en 2012 !

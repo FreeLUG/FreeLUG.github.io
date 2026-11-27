@@ -1,0 +1,27 @@
+---
+title: "Téléthon 2009 à Criquetot l’Esneval (76)"
+permalink: "/articles/telethon-2009-a-criquetot-l-esneval-76/"
+section: "/regions/haute-normandie/"
+published_at: "2009-12-04T13:00:00Z"
+authors: [ "LeGnome" ]
+description: "Participation au Téléthon 2009 à Criquetot l’Esneval (76) les 4 et
+  5 décembre."
+source_id: 998
+source_url: "https://www.freelug.org/spip.php?article998"
+---
+
+Participation au Téléthon 2009 à Criquetot l’Esneval (76) les 4 et 5 décembre.
+
+![](/media/archive/6da676c9a9046bddcb66d81e.gif)
+
+Cette année, nous avons été contactés pour la première fois pour participer au Téléthon.
+
+Les Pompiers de la petite ville de Criquetot l’Esneval (76), nous accueillent dans leur caserne (renseignez-vous avant de venir, car la Grippe A pourrait nous obliger à changer de lieu).
+
+Nous présenterons une ville en LEGO, avec bien entendu des pompiers à l’action.
+
+Un fil rouge sera également en place : la réalisation du logo du Téléthon en briques (mosaïque) en fonction des dons. Trois plaques 48x48 seront à recouvrir... Un grand défi !
+
+Pour cette première, nous devrons assurer la permanence en continu durant toute la durée de l’évènement...
+
+Nous espérons vous voir nombreux !

@@ -1,0 +1,99 @@
+---
+title: "CR de la réunion du CA du 07 juin 2022"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-07-juin-2022/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2022-07-28T08:10:23Z"
+authors: [ "Chrystelle AUBIN-MAQUET" ]
+description: "CR de la réunion du CA du 07 juin 2022"
+source_id: 3219
+source_url: "https://www.freelug.org/spip.php?article3219"
+---
+
+CR de la réunion du CA du 07 juin 2022
+
+## Ordre du jour
+
+_Début de séance : 20h50_
+
+_Présents (8) :_
+
+**–** Chrystelle Aubin-Maquet  
+**–** Olivier Barbier  
+**–** Emmanuel Bonnard  
+**–** Pierre Charles  
+**–** Sébastien Hamon  
+**–** Richard Lemeiter  
+**–** Didier Malon  
+**–** François Disdier
+
+_Excusés (4) :_  
+**–** Erik Amzallag  
+**–** Stéphane Paradot  
+**–** Florent Dumenil  
+**–** Jean-Jacques Favot
+
+_Absents (0) :_
+
+**Ordre du jour :**
+
+**–** 1. Point sur les Briqu’Expo  
+**–** 2. Demandes diverses (expo, animation...)  
+**–** 3. Point sur la maquette LEGO City  
+**–** 4. Point sur la REF 2022  
+**–** 5. Point sur le LugBulk  
+**–** 6. Questions diverses (commande de vêtements)
+
+_1\. Point sur les Briqu’Expo :_  
+a. Briqu’Expo Val-de-Loire  
+Le bilan est en cours et les premières tendances sont plutôt positives. Il y a eu peu de fréquentation. De belles rencontres entre exposants et visiteurs.
+
+b. Briqu’Expo Wavrin  
+La LGV sera de sortie cette année. Une construction sera spécialement faite pour le CoRNord.  
+Une réunion est prévue la semaine prochaine pour valider les bulletins de préinscriptions des exposants.  
+A voir pour le BulkEvent avec Richard et Laurent.
+
+c. Briqu’Expo Castanet  
+Un point sera fait par Manu avec Erik cette semaine car c’est lui qui est en relation avec Nicolas et Landry.
+
+_2\. Demande diverses :_
+
+a. Demande d’exposition à Villiers sur Orge  
+Le Comité des fêtes nous sollicite pour organiser une exposition au profit de l’association de parents d’élèves. Didier prend le dossier en main.
+
+b. Demande de Caty et Pierre A  
+Ils demandent s’ils peuvent faire une animation au nom de FreeLUG lors d’une fête privée. Le CA donne son aval et Chrystelle leur envoie un mail.
+
+c. Artenay : Festi’VAG (week-end des 11 et 12 juin)  
+Manu est en charge du dossier. Il y a 5 Freelugiens le samedi et 4 le dimanche.
+
+d. Autres manifestations  
+Il faudra privilégier l’outil Loomio pour les futures demandes d’expo avec un petit dossier pour gagner du temps en CA.  
+D’ailleurs l’exposition de Longpont sur Orge a été acceptée par sondage.
+
+_3\. Maquette Lego City :_  
+Didier nous informe que le dossier suit son cours. Les sets provenant de LEGO Fr pour la construction de la maquette ont été livrés auprès des participants de l’association.
+
+_4\. Point sur la REF 2022 :_  
+Pour faire avancer le dossier,  
+**–** Manu doit envoyer un message pour faire un appel  
+**–** Sinon comme l’an dernier, il pourra être organisé des BBQ locaux.
+
+_5\. LugBulk :_  
+Le pointage des compléments est en cours suite aux relances faites la veille.  
+Les paiements vers le prestataire s’en occupant chez LEGO ont été faits (pour rappel nous sommes contraints de faire plusieurs virements successifs pour nous acquitter de la facture).  
+Le Bulk devrait arriver courant juillet.
+
+_6\. Questions diverses :_  
+a. Commande de vêtements FreeLUG.  
+Il y a eu plusieurs demandes donc il est nécessaire de relancer une commande, d’autant plus si on souhaite la livrer avec le Bulk.  
+Afin de réduire les coûts et avoir un meilleur tarif, Manu propose de s’associer avec l’association Brique Mulsanne (accord du CA).
+
+Le CoRNord est en réflexion pour faire faire des T-shirts "organisateurs" pour la Briqu’Expo Wavrin. On en reparle au prochain CA quand la réflexion aura avancée de leur côté.  
+Manu prend le dossier en charge.
+
+b. Il est demandé à chaque président, trésorier et secrétaire de faire une liste des tâches qu’ils font quotidiennement afin de ne pas être pris au dépourvu si un changement doit se faire un jour.
+
+_Fin de séance : 22h40_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

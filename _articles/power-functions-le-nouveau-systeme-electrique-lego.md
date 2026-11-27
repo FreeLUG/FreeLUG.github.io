@@ -1,0 +1,135 @@
+---
+title: "Power Functions : le nouveau système électrique LEGO"
+permalink: "/articles/power-functions-le-nouveau-systeme-electrique-lego/"
+section: "/themes/technic/"
+published_at: "2007-08-08T19:39:21Z"
+authors: [ "Didier ENJARY", "Erik \"brickerik\" Amzallag", "Philo" ]
+description: "Power Functions est le nouveau système électrique par la compagnie
+  LEGO apparaissant cette année dans les modèles Technic et Creator."
+source_id: 645
+source_url: "https://www.freelug.org/spip.php?article645"
+---
+
+_Power Functions_ est le nouveau système électrique par la compagnie LEGO apparaissant cette année dans les modèles Technic et Creator.
+
+## Présentation des éléments _Power Functions_
+
+![](/media/archive/0c62179baa2ce6448b4c826d.jpg)
+
+La famille _Power Functions_ est composée d’un boîtier de piles, d’une télécommande, d’un récepteur, de moteurs et d’un nouveau système de prises électriques et de fils. Faisons ensemble le tour de ces éléments.
+
+![](/media/archive/0dea3782bfe8f8753b7e319c.jpg)
+
+Le boîtier de piles fournit l’alimentation électrique au système. Un indicateur lumineux vert indique l’état de marche. L’interrupteur orange à trois positions permet de faire fonctionner un moteur dans un sens ou dans un autre. En position centrale, rien n’est alimenté. La prise est de type femelle et dans tout le système, les prises femelles fournissent le courant de la même façon que les prises de courant alternatif domestiques. Le boîtier de piles nécessite 6 piles AA.
+
+![](/media/archive/1067575b0b0844f91f7dfcc6.jpg)
+
+Les moteurs ont une grande réduction interne, tournant doucement et délivrant une grande puissance. Référez-vous aux mesures techniques à la fin de l’article. Ils sont alimentés par un câble intégré. Il y a deux types de moteurs : un "normal" et un XL.
+
+Le petit moteur possède des tenons mais également des fixations Technic comme illustré sur l’image ci-dessous. Il fait 6 tenons de long et 3 tenons de large.
+
+Le moteur XL est seulement "studless" (pas de tenon) et son diamètre de 5 tenons.
+
+![](/media/archive/c0c59a1e91cc4f1a233df296.jpg)
+
+La télécommande et le récepteur fonctionnent ensemble : la télécommande envoie des signaux infrarouge au récepteur. Le système possède quatre canaux, et un sélecteur de canal se trouve sur la télécommande ainsi que sur le récepteur. Pour communiquer ensemble, les éléments doivent être sur le même canal.
+
+Le récepteur possède deux sorties, codées en rouge et bleu, correspondant aux deux boutons de la télécommande. De cette façon, vous pouvez contrôler jusqu’à huit fonctions dans vos modèles.
+
+![](/media/archive/f3188d7bc3b001722a76a7f2.jpg)
+
+Tout comme les moteurs, le récepteur est alimenté par un câble attaché. Comme pour le boîtier de piles, les sorties sont de type femelle.
+
+![](/media/archive/aa7ce01ef2298f61d9010210.jpg)
+
+La télécommande inclut également deux petits inverseurs de chaque coté du sélecteur de canal, chacun contrôlant un bouton. Ils permettent d’inverser la direction de chaque sortie. La télécommande nécessite 3 piles AAA.
+
+Les prises _Power Functions_ sont d’un nouveau type. Il y a quatre contacts offrant de nouvelles possibilités pour le futur. Un câble d’extension permet une compatibilité avec le système 9V existant et le NXT.
+
+![](/media/archive/26355bf2a9d13e018b06a1b2.jpg)
+
+## Le fonctionnement du système _Power Functions_
+
+_Power Functions_ est une gamme de motorisation et d’accessoires de contrôle introduits à l’automne 2007. _Power Functions_ va remplacer progressivement le système 9V actuel tout en maintenant la compatibilité.
+
+Le câble est composé de quatre fils et terminé par un nouveau connecteur empilable. Ce connecteur est asymétrique, ainsi il permet toujours un branchement dans le bon sens.
+
+Deux des fils (ce sont les fils d’alimentation) transmettent le courant depuis le boîtier de piles vers tous les accessoires qui en ont besoin, tel que le récepteur infrarouge. Comme tous les éléments ont des entrées et des sorties, les éléments peuvent être facilement chaînés.
+
+Les deux autres fils servent à des signaux de contrôles. Ceux-ci peuvent être employés dans les sorties (le récepteur crée les commandes C1/C2 selon les commandes IR) ou les entrées (le moteur est alimenté par C1/C2 et tourne selon leur état).
+
+![](/media/archive/0957f1b9d3181dc34ad9b8e2.jpg)
+
+Les tables et le diagramme ci-dessous expliquent comment le système fonctionne.
+
+![](/media/archive/e6381ec50365847a8933678d.jpg)
+
+| Nom du signal | Description |
+| --- | --- |
+| +9V | Alimentation électrique |
+| 0V (masse) | Alimentation électrique |
+| C1 | Signal de contrôle |
+| C2 | Signal de contrôle |
+
+| Commande IR | C1 | C2 | Moteur |
+| --- | --- | --- | --- |
+| Avant | 9V | 0V | Sens des aiguilles d’une montre |
+| Arrière | 0V | 9V | Sens inverse du sens des aiguilles |
+| Stop | 0V | 0V | Arrêt |
+
+Et vous, qu’allez-vous créer avec cette nouvelle gamme ?
+
+## Etude comparative des moteurs, par Philo
+
+Nous allons comparer ici les moteurs PF avec les deux versions du micro-moteur : la version 71427 produite entre 1997 et 2002 et la version 43362 produite entre 2002 et 2006. Extérieurement, ces deux versions sont identiques mais ils diffèrent notamment par leur poids, le 43362 étant nettement plus léger.
+
+_Toutes les mesures ci-dessous ont été effectuées à l’aide d’une alimentation de laboratoire._
+
+![](/media/archive/5ad0bcf33c795f2043a8b4ab.gif)
+
+Le moteur PF normal a un poids comparable aux moteurs 9V. Le moteur PF XL est plus lourd, sans surprise pour un moteur si puissant.
+
+![](/media/archive/159d38538d46dc74155ca5b7.gif)
+
+Volume de l’enveloppe du moteur.
+
+![](/media/archive/203dc0b22140889f0980c869.gif)
+
+Le moteur PF XL tourne doucement, fournissant un couple impressionnant. Encore une fois, le PF normal est similaire aux moteurs 9V.
+
+![](/media/archive/bc1e18b49b9962ddd55cbca7.gif)
+
+Un point faible des moteurs PF : leur courant à vide est élevé, trahissant un frottement interne élevé. Ils ne sont pas adaptés à des emplois "basse puissance" comme par exemple l’alimentation par panneau solaire. Le 71427 est exceptionnellement adapté à cet usage.
+
+![](/media/archive/7159413c22a586961f032a69.gif)
+
+Le couple maximum délivré par le moteur (moteur bloqué). Le moteur PF normal délivre deux fois plus de couple que les 9V, alors que le XL les surpasse tous allant jusqu’à pouvoir tordre un axe Technic.
+
+![](/media/archive/e620004777df7c34e1e59d72.gif)
+
+Le couple élevé a un prix : la consommation électrique. Notez que le courant de décrochage dépasse le courant maximum délivré par le récepteur infrarouge PowerFunctions (800mA) ainsi que celui de sa protection interne. Le couple maximum n’est obtenu qu’en branchant le moteur directement sur le boitier de pile et pour un court instant.
+
+![](/media/archive/56ff2b7dc6ac7d0a9edae9f6.gif)
+
+![](/media/archive/dbefa552fcf159f7acec00ab.gif)
+
+La puissance mécanique maximale est atteinte pour une charge et une vitesse de rotation correspondant à la moitié de la vitesse de rotation à vide. Les moteurs PF dépassent leurs aînés mais avec une perte d’efficacité. L’efficacité est le rapport entre la puissance mécanique délivrée et la puissance électrique fournie. Notez que la meilleure efficacité est obtenue lorsque la charge cause une réduction de la vitesse de un quart.
+
+![](/media/archive/78d65419bf1f0171f4735321.gif)
+
+Rapport de la puissance mécanique au poids du moteur.
+
+![](/media/archive/ea498c4de79db33de835cb56.gif)
+
+Rapport de la puissance mécanique au volume du moteur.
+
+Les conclusions sont claires. Les moteurs PF surpassent leur aînés dans tous les domaines sauf en ce qui concerne l’efficacité énergétique, et ce parfois de manière très importante.
+
+**Courbes de puissance des moteurs PF connectés au récepteur IR.  
+**
+
+Les diagrammes ci-dessus ne disent pas tout. En effet, les moteurs sont alimentés par les récepteurs IR qui ont leurs limitations. Les courbes ci-dessous montrent l’évolution de la puissance mécanique des moteurs alimentés par un récepteur IR. Ces valeurs ont été mesurées à 9V (piles alcalines) et à 7,2V (piles rechargeables NiMH).
+
+![](/media/archive/2d4c593c7c6603208b95c3df.gif)
+
+![](/media/archive/68d623be46da0fdc8a2ead1c.gif)

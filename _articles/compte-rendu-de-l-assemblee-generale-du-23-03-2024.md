@@ -1,0 +1,141 @@
+---
+title: "Compte-rendu de l’Assemblée Générale du 23/03/2024"
+permalink: "/articles/compte-rendu-de-l-assemblee-generale-du-23-03-2024/"
+section: "/association/reunions-evenements/assemblees-generales/"
+published_at: "2024-04-12T07:21:22Z"
+authors: [ "Didier MALON" ]
+description: "Ce samedi 23 Mars 2024 s’est tenue l’Assemblée Générale de notre
+  association FreeLUG, l’occasion de passer en revue le bilan de nos activités
+  (rapport financier, rapport moral) et de procéder au renouvellement d’une
+  partie des membres du bureau. En préliminaire une réunion extraordinaire a
+  permis de présenter une mise à jour de nos status afin de répondre à un
+  problème de fonctionnement du CA rencontré sur les exercices précédents."
+source_id: 3273
+source_url: "https://www.freelug.org/spip.php?article3273"
+---
+
+Ce samedi 23 Mars 2024 s’est tenue l’Assemblée Générale de notre association FreeLUG, l’occasion de passer en revue le bilan de nos activités (rapport financier, rapport moral) et de procéder au renouvellement d’une partie des membres du bureau. En préliminaire une réunion extraordinaire a permis de présenter une mise à jour de nos status afin de répondre à un problème de fonctionnement du CA rencontré sur les exercices précédents.
+
+## Déroulement de l’Assemblée Générale (15h05) :
+
+L’Assemblée Générale 2024 débute, ce samedi 23 Mars 2024 en présence de 48 adhérents rassemblés en salle, 35 adhérents représentés et 10 autre adhérents présents connectés en ligne.
+
+Il y a donc un total de 48+35=83 votants.
+
+Elle a permis de passer en revue les points suivants :
+
+-   Assemblée Générale Extraordinaire, consacrée à une mise à jour d’un point des statuts.
+-   Assemblée Générale Ordinaires, consacrée à la présentation des rapports d’activité morale et financier.
+-   Renouvellement des postes vacants au sein du Conseil d’Administration.
+-   Rappel concernant l’Affiliation à la FFMF.
+
+## Assemblée Générale Extraordinaire
+
+Cette Assemblée Générale Extraordinaire a été décidée par les membres du CA de FreeLUG suite à un problème de fonctionnement du CA rencontré sur le dernier exercice 2023, où nous avons été confrontés à un défaut d’engagement d’un des membres du CA qui ne s’est pas manifesté sur une quelconque activité CA pendant plus de 10 mois.
+
+Au final, il nous a confirmé son désengagement, mais il aurait fallu attendre sa résiliation de l’association pour non renouvellement ou la fin de son mandat pour pouvoir libérer son poste et faire appel à de nouveaux candidats pour le remplacer, car aucun mécanisme n’était prévu dans nos statuts pour traiter ce cas de figure.
+
+Pour éviter le renouvellement d’une telle situation et permettre aux membres du CA de réagir plus rapidement pour pallier tout défaut d’un de ses membres, une mise à jour de l’article 11 des statuts de l’association est soumise à l’approbation.
+
+À la suite du débat en salle, la proposition suivante est soumise au vote des votants.
+
+Modification de l’article 11 des statuts :
+
+Nouveau paragraphe soumis au vote (inséré avant le paragraphe concernant les sièges vacants) :
+
+_En cas de manquements injustifiés et/ou répétés aux devoirs tels que l’absence de participation à la prise de décision ou aux débats, un membre du Conseil d’Administration peut en être exclu sur vote du Conseil d’Administration lors d’une réunion extraordinaire._
+
+Question préalable au vote : En cas d’exclusion, le poste vacant peut-il être réattribué à un autre membre ?  
+Réponse : Oui, au sein du CA la décision peut être prise de réattribuer les fonctions à un membre déjà présent au sein du CA ou de faire appel à du volontariat ou de lancer de nouvelles élections. Pour mémoire voici ce qui est déjà inscrit dans nos statuts :
+
+_En cas de vacances, le Conseil d’Administration en place peut décider de :_
+
+_-   procéder à des élections partielles (en assemblée générale ordinaire ou extraordinaire, avec les mêmes conditions qu’une élection normale), aboutissant à un mandat couvrant la durée du mandat normal restant ;_-   _nommer une personne remplissant les conditions pour se porter candidat, jusqu’à la prochaine assemblée générale ordinaire, cette personne ne pouvant occuper un poste du bureau._
+
+**Vote concernant la mise à jour des statuts (15h25) :**
+
+-   Exprimés : 82
+-   Votes pour : 77
+-   Votes contre : 0
+-   Votes blancs : 3
+-   Abstention : 2
+
+Résultat : La mise à jour des statuts est adoptée.
+
+## Assemblée Générale Ordinaire
+
+L’Assemblée Générale Ordinaire démarre par le traditionnel mot du Président de FreeLUG Erik Amzallag, axé cette année sur le renouvellement.
+
+FreeLUG existe maintenant depuis 2003 et au cours de ses 21 années d’existences beaucoup d’évolutions ont été rencontrées, avec un accroissement de nos activités, l’augmentation du nombre de nos adhérents, nos relations avec les instances de LEGO France et LEGO Danemark, le développement des COR et les évolutions personnelles de nos membres et des différents acteurs impliqués dans la vie de l’association.
+
+Fort est de constater un certain essoufflement, comme en témoignent nos difficultés à tenir les délais sur nos engagements, la mobilisation des adhérents sur les évènements et publications et l’investissement dans la vie de l’association où nous avons par exemple pour cette année 7 postes vacants au sein du CA et seulement 3 candidats qui se sont présentés. Erik lance donc un appel général à la mobilisation.
+
+**Rapport moral**
+
+La présentation du rapport moral consiste à passer en revue les effectifs inscrits à l’association au 1er Janvier 2024, à dresser le bilan des activités de l’année 2023, à présenter les prochaines activités connues pour 2024, faire le point sur les activités des COR et terminer par la récompense de quelques membres s’étant distingués par leur activité sur les années précédentes.
+
+Voir les supports de présentation de l’AGO 2024 pour plus de détails sur le rapport moral.
+
+Il faut cependant noter que nous proposons un renforcement des règles d’éligibilité au bulk 2025 afin de répondre d’avantage aux objectifs de représentation de nos activités, les achats bulk étant prioritairement consacrés à la réalisation de projets exposés (en exposition ou au travers d’articles ou via les concours).
+
+Remerciements à Marie-Laure et Denis pour l’organisation de la REF 2023. L’appel à propositions pour la REF 2024 sera lancé prochainement, un projet avait déjà été lancé en 2023 sur la région Loire.
+
+Un appel doit également être lancé pour le renouvellement de 3 membres du GFC.
+
+**Vote concernant l’approbation du rapport moral (16h23) :**
+
+-   Exprimés : 82
+-   Votes pour : 81
+-   Votes contre : 0
+-   Abstention : 1
+
+Résultat : Le rapport moral est approuvé.
+
+**Rapport Financier**
+
+Suite au départ de nos trésoriers, le rapport financier est présenté par notre vice-président.
+
+Le rapport financier 2023 présente un déficit de 2 189,67€ qui s’explique principalement par les actions mises en œuvre pour la célébration des 20 ans de FreeLUG.
+
+Les flux de trésorerie nous permettent de gérer les commandes auprès de LEGO et nous ont permis cette année d’avoir quelques produits financiers sur nos livrets de compte entre l’encaissement des commandes auprès des adhérents et l’émission de la facture, nos principales rentrées d’argent, hors cotisation, sont liées à l’organisation de nos Briqu’Expos.
+
+Nous avons certains frais de fonctionnement (assurance, stockage matériel, dépôt des noms de domaine) qui restent incontournables, ainsi que échéances en termes de renouvellement de matériels soumis à date de péremption (nappes, trousses à pharmacie).
+
+Nous conservons néanmoins un résultat prévisionnel de 4 439,34€ pour 2024.
+
+Voir les supports de présentation de l’AGO 2024 pour plus de détails sur le rapport financier.
+
+**Vote concernant l’approbation du rapport financier (16h43) :**
+
+-   Exprimés : 83
+-   Votes pour : 74
+-   Votes contre : 8
+-   Abstention : 1
+
+Résultat : Le rapport financier est approuvé.
+
+## Renouvellement du CA
+
+Le CA fait état de ses difficultés de fonctionnement avec outre le problème d’absence évoqué précédemment, des délais dans la réalisation des différents chantier engagés.
+
+5 Membres du CA étaient en fin de mandat, auxquels s’ajoutent 2 démissionnaires. Il en résulte donc 7 postes à pourvoir et nous n’avons reçu que 4 candidatures, dont une non éligible à cause de la condition d’ancienneté non atteinte.
+
+**Vote concernant le renouvellement du CA (16h55) :**
+
+-   Emmanuel BONNARD : 81 voix
+-   Nicolas CHARNAY : 80 voix
+-   Nicolas WEEGER : 77 voix
+
+Résultat : Les trois candidats sont élus.
+
+## Rappel concernant l’affiliation FFMF
+
+FreeLUG est affilié à la Fédération Française de Modélisme Ferroviaire, ce qui nous permet de participer facilement à des expositions organisées par d’autres clubs affiliés où nous présentons nos réalisations plus axées sur un public familial que les seuls passionnés de modélisme.
+
+A ce titre FreeLUG prend en charge la cotisation individuelle de 18 adhérents FreeLUG auprès de la FFMF. Un appel à volontaires avait été lancé en 2023. Les volontaires ayant répondus au nouvel appel 2024 et étant à jour de cotisation à l’ouverture de l’AG sont reconduits pour 2024.
+
+Un nouvel appel général sera lancé en 2024 pour le renouvellement 2025.
+
+N’hésitez pas à aller consulter le site de la FFMF afin de voir s’il n’y a pas près de chez vous des expositions/animations auxquelles vous pourriez vous associer.
+
+**Clôture de l’AG 2024 ce samedi 23 Mars 2024 (17h12).**

@@ -1,0 +1,19 @@
+---
+title: "Expo modélisme à Seltz"
+permalink: "/articles/expo-modelisme-a-seltz/"
+section: "/regions/alsace/"
+published_at: "2004-01-04T19:15:37Z"
+authors: [ "Marc" ]
+description: "L’Office de Tourisme de Seltz (67) organise le 24 et 25 janvier
+  une expo de modélisme à la Salle polyvalente du village. Bien sûr, FreeLUG
+  sera de la partie. Je serais le seul représentant... actuellement je suis
+  également le seul en Alsace :-( ... mais plus pour longtemps, car je vais
+  avoir un peu de renfort :-)) Pour les renseignements, contactez-moi : marc
+  Schickelé"
+source_id: 197
+source_url: "https://www.freelug.org/spip.php?article197"
+---
+
+L’Office de Tourisme de Seltz (67) organise le 24 et 25 janvier une expo de modélisme à la Salle polyvalente du village.  
+Bien sûr, FreeLUG sera de la partie. Je serais le seul représentant... actuellement je suis également le seul en Alsace :-( ... mais plus pour longtemps, car je vais avoir un peu de renfort :-))  
+Pour les renseignements, contactez-moi : marc Schickelé

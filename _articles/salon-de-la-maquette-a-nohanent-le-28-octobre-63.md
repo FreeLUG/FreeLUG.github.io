@@ -1,0 +1,21 @@
+---
+title: "Salon de la maquette à Nohanent le 28 octobre (63)"
+permalink: "/articles/salon-de-la-maquette-a-nohanent-le-28-octobre-63/"
+section: "/regions/auvergne/"
+published_at: "2007-10-28T09:00:00Z"
+authors: [ "Jac" ]
+description: "Le dimanche 28 octobre 2007, la commission d’action culturelle de
+  la ville de Nohanent (prononcés Nonent !), organise une exposition de la
+  maquette dans sa salle polyvalente. Ce sera \"une journée d’animation sur le
+  thème des loisirs de construction, de créations et d’objets agréables à
+  observer\". L’ouverture au public sera de 10h00 à 12h30 et de 13h30 à 18h00,
+  entrée libre."
+source_id: 660
+source_url: "https://www.freelug.org/spip.php?article660"
+---
+
+Le dimanche 28 octobre 2007, la commission d’action culturelle de la ville de Nohanent (prononcés Nonent !), organise une exposition de la maquette dans sa salle polyvalente. Ce sera "une journée d’animation sur le thème des loisirs de construction, de créations et d’objets agréables à observer". L’ouverture au public sera de 10h00 à 12h30 et de 13h30 à 18h00, entrée libre.
+
+Nous avons reçu une lettre d’invitation, lors de l’Assemblée Générale, en Février 2007. La délégation Auvergnate est à nouveau prise à contribution, pour présenter son savoir faire dans la matière. Deux stands seront présentés, celui de Johan, et le mien.
+
+Nohanent est située en banlieue proche de Clermont Ferrand. Nous vous attendons avec plaisir pour discuter de cette passion qui nous anîme, et vous présenter nos constructions...

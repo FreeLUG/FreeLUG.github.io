@@ -1,0 +1,75 @@
+---
+title: "CR de la réunion du CA du 10 avril 2019"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-10-avril-2019/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2019-09-01T12:45:04Z"
+authors: [ "Jac", "Philippe ZYTKA", "Sébastien HAMON" ]
+description: "CR de la réunion du CA du 10 avril 2019"
+source_id: 2949
+source_url: "https://www.freelug.org/spip.php?article2949"
+---
+
+CR de la réunion du CA du 10 avril 2019
+
+## Ordre du jour
+
+_Début de séance : 20h40_
+
+_Présents (7) :_  
+**–** Xavier Viallefont  
+**–** Sébastien Hamon  
+**–** Richard Lemeiter  
+**–** Philippe Label  
+**–** Pierrick Francou  
+**–** Alexis Philippot  
+**–** Xavier Claudel
+
+_Excusés (4) :_  
+**–** Pierre Charles (en retard)  
+**–** Jérôme Teissier  
+**–** Philippe Zytka  
+**–** Erik Amzallag
+
+_Absents (1) :_  
+Pierre Laurenge
+
+_Ordre du jour :_
+
+**–** Point expositions  
+**–** Point Briqu’Event  
+**–** Info Bulk Events  
+**–** Badges et vêtements FreeLUG  
+**–** Point adhérents
+
+## Point expositions
+
+L’association FreeLUG a été invitée à participer à une exposition LEGO multi thème qui aura lieu à Saint Babel (63) les 18 et 19 Mai 2019. Cette exposition a été validée par les membres du CA.
+
+L’association FreeLUG a été invitée à participer à une exposition de modélisme multi thème qui aura lieu à Blanzy (71) les 18 et 19 Octobre 2019. Cette exposition a été validée par les membres du CA.
+
+## Point Briqu’Event
+
+-   Briqu’Expo Aubiet, Les organisateurs préparent le transfert du matériel nécessaire en fonction des disponibilités. Ils doivent aussi faire en sorte qu’il reparte au bon endroit pour les expositions suivantes. Mais tout sera près pour l’exposition, dans une semaine.
+
+-   Briqu’Expo Irigny, les organisateurs sont en pleine préparation, l’exposition est dans un mois.
+
+-   Briqu’Expo Wavrin, les organisateurs nous ont envoyé une proposition d’affiche. Elle plait à tous et va être soumise à TLC pour leur accord, malgré la présence d’une minifig. L’appel à exposants devrait être lancé dans les jours qui viennent.
+
+-   Briqu’Convention Villeurbanne, l’exposition s’est très bien déroulé dans une très bonne ambiance. Il n’y a plus qu’à attendre le bilan. Nous attendons aussi la confirmation sur le nombre de visiteurs qui attendrait les 800.
+
+## Info Bulk Events
+
+TLC a mis en place un nouveau fonctionnement pour les commandes "Bulk Events". Nous avons toujours la possibilité de commander des briques en grosses quantités pour un événement spécifique, mais sous certaines conditions, projet date et exposition. N’hésitez pas à faire votre demande directement sur la liste CA nous vous expliquerons clairement la démarche à suivre.
+
+## Badges et vêtements FreeLUG
+
+Les vêtements et badges sont très demandés. Nous allons mettre en place une nouvelle commande, mais nous voudrions d’abord connaître les besoins de chacun.
+
+## Point adhérents
+
+A fin février nous sommes 317 adhérents.
+
+_Fin de séance : 22h00_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

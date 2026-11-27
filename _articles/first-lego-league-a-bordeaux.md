@@ -1,0 +1,27 @@
+---
+title: "First LEGO League à Bordeaux"
+permalink: "/articles/first-lego-league-a-bordeaux/"
+section: "/regions/aquitaine/"
+published_at: "2019-03-10T17:56:42Z"
+authors: [ "damien bresson" ]
+description: "Le 19 janvier a eu lieu la First LEGO League à l’Einserb Matmeca
+  sur le campus de Talence."
+source_id: 2927
+source_url: "https://www.freelug.org/spip.php?article2927"
+---
+
+Le 19 janvier a eu lieu la First LEGO League à l’Einserb Matmeca sur le campus de Talence.
+
+90 enfants environ ont participé à cette compétition, cette année est le thème de l’espace, les enfants ont construit un robot par équipe et les programmés pour qu’il se déplace, ramasse des objets, déposer des objets.
+
+Une épreuve :  
+**–** esprit d’équipe  
+**–** design du robot  
+**–** projet de recherche  
+**–** Match de robotique avec plusieurs missions.
+
+Ils ont des points en fonction des épreuves et un classement par épreuve et générale à lieu à la fin de la journée et cette année 2 équipes ont était qualifiés pour la finale nationale qui aura lieu à Saint-Étienne le 23 mars.
+
+En plus de la compétition y avait une partie exposants, j’avais apportés mes robots pour faire une animation avec les enfants, ils ont pu les piloter et voir en gros la programmation.
+
+Voir en ligne : [site First LEGO League](http://firstlegoleaguefrance.fr/)

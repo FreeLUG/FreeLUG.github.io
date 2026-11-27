@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{{ site.lang | escape }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, follow">
+    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+    <script src="{{ '/assets/js/legacy.js' | relative_url }}" data-map="{{ '/assets/legacy-urls.json' | relative_url }}" defer></script>
+  </head>
+  <body>
+    <h1>{{ page.title | escape }}</h1>
+    <p class="legacy-status" role="status">Recherche de la publication…</p>
+    <p><a href="{{ '/' | relative_url }}">Accueil FreeLUG</a></p>
+  </body>
+</html>

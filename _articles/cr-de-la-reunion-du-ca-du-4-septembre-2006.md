@@ -1,0 +1,119 @@
+---
+title: "CR de la réunion du CA du 4 Septembre 2006"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-4-septembre-2006/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2006-10-26T13:30:57Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "CR de la réunion du CA du 4 Septembre 2006"
+source_id: 525
+source_url: "https://www.freelug.org/spip.php?article525"
+---
+
+CR de la réunion du CA du 4 Septembre 2006
+
+## Ordre du jour
+
+Ordre du jour :  
+**–** Lancement de la campagne de renouvellement des cotisations  
+**–** Lancement les appels pour logo de la carte de membre 2007  
+**–** Lancement les appels à candidatures pour la Rencontre Estivale FreeLUG 2007  
+**–** Lancement de la vente des écussons et maisons Velux  
+**–** Création de listes par région/département/ville (sur demande d’adhérents interessés), pour faciliter les échanges entre gens proches géographiquement.  
+**–** Vente (ou pas) des boites RCX que l’association détient (3). Modalité de vente (si décision positive).  
+**–** Demande de prise en charge des frais d’hébergement pour l’exposition de Skaerbaek au Danemark du 29 septembre au 3 octobre  
+**–** Demande de lancement d’un concours de MOC pour l’AG 2007 toutes catégories confondues  
+**–** Demande d’accord de participation à une exposition organisée par le club Omnibus à Bourgoin Jallieu, le 28 janvier 2007  
+**–** Demande d’accord de participation à une exposition à Cholet les 14 et 15 octobre  
+**–** Demande d’accord de participation à une exposition à Relecq Kerhuon prés de Brest les 21 et 22 octobre  
+**–** Demande d’accord de participation à une exposition à Lorient au salon national les 18 et 19 novembre  
+**–** Demande d’accord de participation à la Semaine du train en gare de Morlaix du 20 au 25 novembre  
+**–** Fanabrique 2007 se tiendra le 29/6-1/7 2007  
+**–** Est-ce que FreeLUG pourrait négocier une réduction sur le S@H ?
+
+_Présents (11) :_  
+**–** Erik Amzallag  
+**–** Jean-Louis Bergamo  
+**–** Emmanuel Bonnard  
+**–** Pascal Brugier  
+**–** Gaël Frazier  
+**–** Nicolas Huyard  
+**–** Philippe Label  
+**–** Yann Laurent  
+**–** Eric Letang  
+**–** Didier Malon  
+**–** Marc Schickelé
+
+_Absent (1) :_  
+**–** Pascal Bréard
+
+_Début de séance : 20h05_
+
+## Lancement de la campagne de renouvellement des cotisations
+
+Le renouvellement des cotisations pour 2007 débutera le 1er Octobre 2006. Le renouvellement est dû pour le 31 décembre 2006 au plus tard, pour faciliter les traitements informatiques.
+
+Le tarif des cotisations reste inchangé :  
+**–** 15 euro pour un adulte ;  
+**–** 10 euro pour un membre jeune (moins de 16 ans) ;  
+**–** Cotisation famille : premier adulte plein tarif, membres suivants demi-tarifs ( soit 7,50 euro pour un adulte et 5 euro par enfant) ;  
+**–** 8 euro pour une personne morale.
+
+## Lancement de l’appel pour le logo de la carte de membre 2007
+
+Le thème de cette année sera soit le Moyen-Age (Castle) soit l’Espace (Space). La meilleure proposition de logo sera retenue. Le thème non retenu sera pour l’année 2008.
+
+## Lancement des appels à candidatures pour la Rencontre Estivale FreeLUG 2007
+
+Les dossiers de candidatures sont à faire parvenir au Conseil d’Administration avant le 31 décembre 2006.
+
+## Lancement de la vente des écussons et maisons Velux
+
+Le site pour la vente en ligne est toujours en test.
+
+## Création de listes par région/département/ville (sur demande d’adhérents interessés), pour faciliter les échanges d’emails entre gens proches géographiquement.
+
+L’accord est donné. La demande de création devra être adressée aux administrateurs du site.
+
+## Vente (ou pas) des boites RCX que l’association détient (3). Modalité de vente (si décision positive).
+
+Il a été proposé de vendre les trois boites RCX que l’association a en sa possession, dû au fait qu’elles ne servent peu.
+
+Vote :  
+**–** Pour la vente : 8  
+**–** Contre la vente : 3
+
+Modalité de vente :  
+Le prix de vente est fixé à 100 euro. Un tirage au sort aura lieu entre les personnes souhaitant acquérir une boite. Les personnes ayant permis à l’association de recueillir ces boites et qui souhaiteraient participer au tirage disposeront de quatre jetons au lieu d’un. Il s’agit des membres suivants :  
+**–** Jean-Louis Bergamo  
+**–** Emmanuel Bonnard  
+**–** Philippe Hurbain  
+**–** Gaël Frazier  
+**–** Richard Olivero
+
+## Demande de prise en charge des frais d’hébergement pour l’exposition de Skaerbaek au Danemark du 29 septembre au 3 octobre
+
+Ces frais s’élèvent environ à 260 euros. Cette subvention ne servant qu’à quelques membres pour une exposition où FreeLUG est invitée, la requête est refusée par le Conseil d’Administration.
+
+## Demande de lancement d’un concours de MOC pour l’AG 2007 toutes catégories confondues
+
+Eric fera parvenir au Conseil plus de détails.
+
+## Demande d’accord de participation à une exposition organisée par le club Omnibus à Bourgoin Jallieu, le 28 janvier 2007
+
+L’accord est donné. Loys en est le responsable.
+
+## Demande d’accord de participations à diverses expositions dans le grand ouest par Jean-Marc
+
+Les expositions sont les suivantes :  
+**–** Cholet les 14 et 15 octobre ;  
+**–** Relecq Kerhuon prés de Brest les 21 et 22 octobre ;  
+**–** Lorient au salon national les 18 et 19 novembre ;  
+**–** La Semaine du train en gare de Morlaix du 20 au 25 novembre.  
+Le Conseil demande à Jean-Marc de lui parvenir plus de détails.
+
+## Est-ce que FreeLUG pourrait négocier une réduction sur le S@H ?
+
+Il va être regardé ce qu’il peut être fait du côté du Shop@Home, même si il faut avoir peu d’espoir. Il semblerait que LEGO Fr soit une meilleure piste. Le Conseil doit se renseigner sur les possibilités dont une association peut bénéficier.
+
+_Fin de séance : 21h40_

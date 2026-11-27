@@ -1,0 +1,461 @@
+---
+title: "Base de données pour modèles de trains français"
+permalink: "/articles/base-de-donnees-pour-modeles-de-trains-francais/"
+section: "/themes/train/"
+published_at: "2006-10-17T11:28:08Z"
+authors:
+  [
+    "Didier ENJARY",
+    "Erik \"brickerik\" Amzallag",
+    "Paul MAUDUIT",
+    "Stéphane BENARD"
+  ]
+description: "Petit à petit, le nombre de maquettes de locomotives (et autres
+  matériels roulants) créées par des fans adultes de LEGO ne cesse d’augmenter."
+source_id: 535
+source_url: "https://www.freelug.org/spip.php?article535"
+---
+
+Petit à petit, le nombre de maquettes de locomotives (et autres matériels roulants) créées par des fans adultes de LEGO ne cesse d’augmenter.
+
+Cet article a pour but de recenser ces maquettes. Vous pourrez ainsi, si vous le désirez, prendre connaissance de ce qui a déjà été fait avant de vous lancer dans la reproduction d’un modèle. Toutefois, nous nous sommes limités aux modèles ayant circulé en France.
+
+La liste ci-dessous présente les modèles avec un lien vers une galerie de photos de la maquette correspondante. Ces photos permettent souvent à elles seules de reproduire la maquette en les étudiant de près. Parfois vous trouverez aussi un lien vers le ficher CAO (MLCAD) de la maquette. Au mieux, le lien vers la notice de montage est donné.
+
+## Locomotives électriques
+
+**BBB6002**
+
+![](/media/archive/ef3d246f20a22ace2f27a635.jpg)
+
+  
+**–** Auteur : Philippe Label (fr)  
+**–** Galerie : [http://photos.freelug.org/main.php/...](http://photos.freelug.org/main.php/v/Frogleap/Le-grenier-aux-Lego/Trains/BBB-6002/)
+
+**BB7200**
+
+![](/media/archive/b239657eb3b8ec66065bbbe0.jpg)
+
+  
+**–** Auteur : Alban Nanty (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=152867)  
+**–** Fichier CAD : [http://www.brickshelf.com/gallery/B...](http://www.brickshelf.com/gallery/Banban/BB7200-Loco/bb7200.mpd)
+
+![](/media/archive/c0e7e58aeed5357f44270dd9.jpg)
+
+  
+**–** Auteur : Loys Bailly (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=181302)
+
+![](/media/archive/ef397b5c927fd29f4b43c3dc.jpg)
+
+  
+**–** Auteur : Emmanuel Bernard (fr)  
+**–** Galerie : [http://www.oab.fr/LEGO/train%20LEGO...](http://www.oab.fr/LEGO/train%20LEGO%20SNCF.htm)
+
+**BB8500**
+
+![](/media/archive/7b148ee3ec16e6314f65bae8.jpg)
+
+  
+**–** Auteur : Paul Mauduit (fr)  
+**–** Galerie : [https://www.flickr.com/photos/13110...](https://www.flickr.com/photos/131103326@N05/albums/72157677744469852)
+
+**BB8501**
+
+![](/media/archive/8966ac6a5857549fb2aa9af6.jpg)
+
+  
+**–** Auteur : Philippe Label (fr)  
+**–** Galerie : [http://photos.freelug.org/main.php/...](http://photos.freelug.org/main.php/v/Frogleap/Le-grenier-aux-Lego/Trains/BB-8501/)
+
+**BB9200 Capitole**
+
+![](/media/archive/9e141f621ef434850c2b5556.jpg)
+
+  
+**–** Auteur : Timothy Gould (au)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=172809)  
+**–** Fichier CAD : [http://www.brickshelf.com/gallery/t...](http://www.brickshelf.com/gallery/timgould/Trains/TrainMPDs/capitole_v1.mpd)
+
+**BB15000**
+
+![](/media/archive/5ff206b7edc77995db5eeb8d.jpg)
+
+  
+**–** Auteur : Loys Bailly (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=181303)
+
+**BB17000/BB25500**
+
+![](/media/archive/419bdfcb95f12177b1677f37.jpg)
+
+  
+**–** Auteur : Erik Amzallag (fr)  
+**–** Galerie : [http://photos.freelug.org/main.php/...](http://photos.freelug.org/main.php/v/brickerik/Moc/trains/BB17000/)
+
+**BB 26000 Sybic**
+
+![](/media/archive/682215281f9b752783808a5d.jpg)
+
+  
+**–** Auteur : Tim Gould (au)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=184763)  
+**–** Fichier CAD : [http://www.brickshelf.com/gallery/t...](http://www.brickshelf.com/gallery/timgould/Trains/TrainMPDs/sybic.mpd)
+
+**BB 75000**  
+**–** Auteur : Denis Huot (fr)  
+**–** Notice : [La BB 675084 Infra : la notice](/articles/la-bb-675084-infra-la-notice/)
+
+**CC6500**
+
+![](/media/archive/739bf30d59cbb71b74d85c60.jpg)
+
+  
+**–** Auteur : Alain Parra (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=383080)  
+**–** Article : [MOC - Locomotive CC 6500 RC / 1ère partie](/articles/moc-locomotive-cc-6500-rc-1ere-partie/)  
+**–** Notice : [MOC - Locomotive CC 6500 RC / 3ème et dernière partie](/articles/moc-locomotive-cc-6500-rc-3eme-et-derniere-partie/)
+
+**CC40100**
+
+![](/media/archive/ea82de81873de188f541f39d.jpg)
+
+  
+**–** Auteur : Nicolas Filatre (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=241208)
+
+**Traxx E 186 Euro Cargo Rail**
+
+![](/media/archive/03f4e13827795cc66d5700b1.jpg)
+
+  
+**–** Auteur : Paul Mauduit (fr)  
+**–** Galerie : [https://www.flickr.com/photos/13110...](https://www.flickr.com/photos/131103326@N05/albums/72157655805189312)
+
+## TGV
+
+**Duplex**
+
+![](/media/archive/c6fe879e22c1e014221b3f01.gif)
+
+  
+**–** Auteur : James Mathis (us)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27375)  
+**–** Notice : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27376)
+
+**PBKA**
+
+![](/media/archive/5488d4590c8a5ab6a29c2c79.gif)
+
+  
+**–** Auteur : James Mathis (us)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=26383)  
+**–** Fichier CAD : [http://www.brickshelf.com/gallery/j...](http://www.brickshelf.com/gallery/jamathis/Trains/Passenger/ThalysPBKA/v1/z_thalys_v1.mpd)
+
+**Nord**
+
+![](/media/archive/5198eaac7a3f77f973811da0.gif)
+
+  
+**–** Auteur : James Mathis (us)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=28106)  
+**–** Fichier CAD : [http://www.brickshelf.com/gallery/j...](http://www.brickshelf.com/gallery/jamathis/Trains/Passenger/TGVNord/v1/z_tgv_nord_v3.mpd)
+
+**Postal**
+
+![](/media/archive/74d5d68d9dc6bff9b912a0e0.jpg)
+
+  
+**–** Auteur : Xavier Viallefont (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=173965)
+
+## Automotrices électriques
+
+**MS 61 rénovée**
+
+![](/media/archive/2d64693d1124f9f7efa3175e.jpg)
+
+  
+**–** Auteur : Arnaud/74louloute (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=397017)
+
+**Z6300**
+
+![](/media/archive/8f910caebe853f37b23c0a7c.jpg)
+
+  
+**–** Auteur : Erik Amzallag (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=229986)  
+**–** Galerie : [http://photos.freelug.org/main.php/...](http://photos.freelug.org/main.php/v/brickerik/Moc/trains/Z6300/)
+
+**Z20500**
+
+![](/media/archive/b01d0145fd5df4fa67990055.jpg)
+
+  
+**–** Auteur : Pascal Brugier (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=34212)
+
+## Automotrices thermiques
+
+**X4300**
+
+![](/media/archive/a76a475920cc85f6754f27db.jpg)
+
+  
+**–** Auteur : Nicolas Filatre (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=268540)
+
+## Locomotives diesels
+
+**BB61000**
+
+![](/media/archive/fc40a574698f511bd50f8850.jpg)
+
+  
+**–** Auteur : Nicolas de Strasbourg (fr)  
+**–** Galerie : [http://lego.nico.free.fr/lego-fret.htm](http://lego.nico.free.fr/lego-fret.htm)
+
+**BB62400 bleue et jaune/grise**
+
+![](/media/archive/8403d428e4d376c6ea1bbdc3.jpg)
+
+  
+**–** Auteur : Philippe Label (fr)  
+**–** Galerie : [http://photos.freelug.org/main.php/...](http://photos.freelug.org/main.php/v/Frogleap/Le-grenier-aux-Lego/Trains/BB62400/)
+
+**BB63000 Arzens**
+
+![](/media/archive/9852edbd38677f0188b1eb38.jpg)
+
+  
+**–** Auteur : Pascal Bréard (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=117364)  
+**–** Fichier CAD : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=119539)  
+**–** Notice : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=119428)
+
+**BB63000 Fret**
+
+![](/media/archive/207933862d0ee8b46829621a.jpg)
+
+  
+**–** Auteur : Pascal Bréard (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=43244)
+
+**BB67000**
+
+![](/media/archive/4760b6e74abe5b89bbc256d8.jpg)
+
+  
+**–** Auteur : Jérôme Tessier (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=209565)
+
+**BB 67400**
+
+![](/media/archive/03a4ee5f5c74bbbbacf052e1.jpg)
+
+  
+**–** Auteur : Paul Mauduit (fr)  
+**–** Galerie : [https://www.flickr.com/photos/13110...](https://www.flickr.com/photos/131103326@N05/albums/72157650643451006)
+
+**A1A A1A 68000**
+
+![](/media/archive/cea1109de3ffa32858460897.jpg)
+
+  
+**–** Auteur : Philippe Label (fr)  
+**–** Galerie : [http://photos.freelug.org/main.php/...](http://photos.freelug.org/main.php/v/Frogleap/Le-grenier-aux-Lego/Trains/A1A-A1A-68000/)
+
+**CC72000**
+
+![](/media/archive/fbf000fc1b29b205aa59f370.jpg)
+
+  
+**–** Auteur : Alain Parra (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=383081)  
+**–** Article et notice : [MOC : CC 72000 « PFS Ready »](/articles/moc-cc-72000-pfs-ready/)
+
+## Autorails (diesel)
+
+**X-73500**
+
+![](/media/archive/1bc9bf2a5f52672ab0345922.jpg)
+
+  
+**–** Auteur : Nicolas de Strasbourg (fr)  
+**–** Galerie : [http://lego.nico.free.fr/autorail.htm](http://lego.nico.free.fr/autorail.htm)
+
+## Vapeurs
+
+**030TB**
+
+![](/media/archive/24524746f5aaf8ff92035b0c.jpg)
+
+  
+**–** Auteur : Nicolas de Strasbourg (fr)  
+**–** Galerie : [http://lego.nico.free.fr/legodecauv...](http://lego.nico.free.fr/legodecauville.htm)
+
+**141R**
+
+![](/media/archive/85b61e7df3dc0ee41c78d85e.jpg)
+
+  
+**–** Auteur : Richard Lemeiter  
+**–** Galerie : [http://photos.freelug.org/main.php/...](http://photos.freelug.org/main.php/v/Charlie/ATAT/141R840/)
+
+## Locotracteurs, draisine et autres matériels moteurs
+
+**Draisine**
+
+![](/media/archive/0d716f57584788bb58e2a662.jpg)
+
+  
+**–** Auteur : Loys Bailly (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=182663)  
+**–** Fichier CAD : [http://www.brickshelf.com/gallery/C...](http://www.brickshelf.com/gallery/Chimere/MOCs/Draisine/draisine.mpd)
+
+**Draisine**
+
+![](/media/archive/05e57682bed06e10b21b9734.jpg)
+
+  
+**–** Auteur : Jérôme Teissier (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=209812)
+
+**Y 8000**
+
+![](/media/archive/e7c9ce93416fa9349ab66ee5.jpg)
+
+  
+**–** Auteur : Paul Mauduit (fr)  
+**–** Galerie : [https://www.flickr.com/photos/13110...](https://www.flickr.com/photos/131103326@N05/albums/72157650309610670)
+
+## Wagons
+
+**Wagon multimodal Modalohr**
+
+![](/media/archive/d81a37c3841c7d5cca1db453.jpg)
+
+  
+**–** Auteur : Alban Nanty (fr)  
+**–** Notice : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=164651)
+
+**Grue ferroviaire**
+
+![](/media/archive/b69ac9086596f6d26c9305f7.jpg)
+
+  
+**–** Auteur : Philippe Label (fr)  
+**–** Galerie : [http://photos.freelug.org/main.php/...](http://photos.freelug.org/main.php/v/Frogleap/Le-grenier-aux-Lego/Syst_mes-de-levage/Grue-Ferroviaire/)  
+**–** Notice : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=155125)
+
+**Réfrigéré STEF**
+
+![](/media/archive/7f8f1365597e377d2d3ac65a.jpg)
+
+  
+**–** Auteur : Didier Enjary (fr)  
+**–** Notice : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=184519)
+
+**Wagon plat**
+
+![](/media/archive/6d9d4f3eba43caf2ef9af38a.jpg)
+
+  
+**–** Auteur : Didier Enjary (fr)  
+**–** Notice : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=210483)
+
+**Tombereau type EAOS**
+
+![](/media/archive/b8e7df61c590df0a3ba9fbd5.jpg)
+
+  
+**–** Auteur : Erik Amzallag (fr)  
+**–** Galerie : [http://photos.freelug.org/main.php/...](http://photos.freelug.org/main.php/v/brickerik/Moc/trains/EAOS/)
+
+**Porte conteneur DHL**
+
+![](/media/archive/8c80d8f7b45fc3f4c31d0d42.jpg)
+
+  
+**–** Auteur : Paul Maduit (fr)  
+**–** Galerie : [https://www.flickr.com/photos/13110...](https://www.flickr.com/photos/131103326@N05/albums)
+
+## Voitures
+
+**Voiture Corail Couchettes**
+
+![](/media/archive/d1fcb3e4ad76b0f67863c37f.jpg)
+
+  
+**–** Auteur : Alban Nanty (fr)  
+**–** Galerie : [http://www.brickshelf.com/cgi-bin/g...](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=186247)
+
+**VB2N Transilien**
+
+![](/media/archive/261ea1aa5d6b5b886960c795.jpg)
+
+  
+**–** Auteur : Erik Amzallag (fr)  
+**–** Galerie : [http://photos.freelug.org/main.php/...](http://photos.freelug.org/main.php/v/brickerik/Moc/trains/VB2N/)
+
+**RIO/RIB Transilien**
+
+![](/media/archive/7076dc18a1574162a4379f25.jpg)
+
+  
+**–** Auteur : Paul Mauduit (fr)  
+**–** Galerie : [https://www.flickr.com/photos/13110...](https://www.flickr.com/photos/131103326@N05/albums/72157679230840975)
+
+**Voiture USI livrée TER**
+
+![](/media/archive/fbd71d571660cc98fdb599cb.jpg)
+
+  
+**–** Auteur : Paul Mauduit (fr)  
+**–** Galerie : [https://www.flickr.com/photos/13110...](https://www.flickr.com/photos/131103326@N05/albums/72157684346195030)
+
+## Voie métrique et étroite
+
+**Locomotive Péchot Bourdon de 1888**
+
+![](/media/archive/f1b3a1a8f4ff9bacbeccdb03.jpg)
+
+  
+**–** Auteur : Paul Mauduit (fr)  
+**–** Galerie : [https://www.flickr.com/photos/13110...](https://www.flickr.com/photos/131103326@N05/albums/72157695791775695)
+
+**Locotracteur Baldwin 50HP de 1917**
+
+![](/media/archive/473786abec0bdc703ec3307a.jpg)
+
+  
+**–** Auteur : Paul Mauduit (fr)  
+**–** Galerie : [https://www.flickr.com/photos/13110...](https://www.flickr.com/photos/131103326@N05/albums/72157695791775695)
+
+**Locotracteur Crochat**
+
+![](/media/archive/fa3f27000918e891e2111ac0.jpg)
+
+  
+**–** Auteur : Paul Mauduit (fr)  
+**–** Galerie : [https://www.flickr.com/photos/13110...](https://www.flickr.com/photos/131103326@N05/albums/72157695791775695)
+
+## Manque de pièces et adaptation
+
+Les modèles sont souvent assez complexes, contenant plusieurs centaines de pièces, ces pièces étant parfois rares soient parce qu’elles sont anciennes ou qu’il s’agit de couleurs « exotiques » comme le chrome. Toutefois il est bien souvent possible de trouver des solutions de remplacements en choisissant une autre pièce ou en modifiant localement le montage.
+
+Les modèles sont généralement présentés uniquement dans une des nombreuses livrées que les séries d’engins ont pu recevoir au cours de leur vie. Même si il n’est pas toujours facile de modifier un modèle LEGO pour en changer la livrée, faites attention à en choisir une qui soit en correspondance avec les pièces dont vous disposez. Les couleurs LEGO choisies pour reproduire certaines livrées (l’orange et le brun pour une livrée Arzens par exemple) sont plus difficiles à obtenir que d’autres comme le vert et le blanc d’une livrée Fret. Les couleurs LEGO les plus courantes sont dans l’ordre le noir, le gris, le blanc, puis le rouge et le jaune, le bleu, le gris foncé ainsi que le vert étant moins courant.
+
+Par ailleurs, certaines séries de locomotives ne se distinguent entre elles que par des détails extérieurs mineurs (châssis de 14,700 ou 14,940m des BB8500 et BB17000), détails qui ne sont de toutes façon pas reproductibles en maquettes LEGO. Des détails plus importants peuvent être adaptés. Par exemple la BB9288 « Capitole », malgré ses pantographes unijambistes, pourra être adaptée à partir d’une BB9200. Il peut donc être facile pour vous, avec un minimum de créativité, de reproduire une BB8100 à partir d’une BB25500 et une BB7200 à partir d’une CC6500.
+
+Malgré tout cela, il se peut que vous manquiez encore de certaines pièces.
+
+Si vous en avez les moyens et que votre collection de pièces est encore petite vous pouvez alors acheter des sets qui contiennent ces pièces en consultant les inventaires des boites sur [Peeron](http://www.peeron.com/). La plupart des sets récents sont disponibles sur le [magasin en ligne de la société LEGO](http://shop.lego.com/brickjournal).
+
+Si vous avez déjà une collection conséquente vous préférerez acquérir uniquement des pièces détachées manquantes, par exemple sur [BrickLink](http://www.bricklink.com/).
+
+Si vous n’avez que peu de moyen, levez vous tôt les dimanches matin pour écumer les vide-greniers. Par votre assiduité et avec un peu de patience, votre collection de pièces LEGO augmentera à peu de frais. C’est aussi le meilleur moyen de trouver des pièces anciennes très recherchées.
+
+Vous avez noté des erreurs ? Vous avez créé un modèle et vous souhaitez le faire apparaître ? Merci de laisser un message, pour une prise en compte lors de la prochaine mise à jour de l’article.

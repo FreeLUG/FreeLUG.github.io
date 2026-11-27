@@ -1,0 +1,46 @@
+---
+title: "REVUE : 40268 R3-M2 Polybag - Star Wars"
+permalink: "/articles/revue-40268-r3-m2-polybag-star-wars/"
+section: "/themes/star-wars/"
+published_at: "2017-06-04T18:51:21Z"
+authors: [ "Mickael GOBLET", "Philippe ZYTKA" ]
+description: "Offert dans la foulée de l’opération May the 4th 2017, jusqu’à la
+  fin du mois pour tout achat Star Wars, ce petit polybag propose un nouveau
+  droïde : R3-M2"
+source_id: 2677
+source_url: "https://www.freelug.org/spip.php?article2677"
+---
+
+Offert dans la foulée de l’opération May the 4th 2017, jusqu’à la fin du mois pour tout achat Star Wars, ce petit polybag propose un nouveau droïde : R3-M2
+
+R3-M2 est un droïde astromech de l’alliance rebelle. Il apparaît dans le film "Rogue One" dans le temple de Yavin, où est installée la base rebelle.
+
+Ce polybag est atypique à plus d’un titre, puisqu’il propose le droïde sur un socle, avec une petite carte en plastique en fond, et un pin technic sur le côté, laissant suggérer une déclinaison avec d’autres personnages.
+
+[![](/media/archive/59c991aa82c57248567fb4f0.jpg)](https://www.freelug.org/IMG/jpg/DSC00040_Snapseed.jpg)
+
+Livrée Rogue One pour ce polybag en plastique différent des polybags traditionnels.
+
+[![](/media/archive/23e09924636db6909799c6a7.jpg)](https://www.freelug.org/IMG/jpg/DSC00041_Snapseed.jpg)
+
+Les pièces qui composent le droïde et son socle sont présentées dans un sachet, à part de la notice de construction, de la plaque de fond et d’un sticker.
+
+[![](/media/archive/b52104539f5b599619a394a6.jpg)](https://www.freelug.org/IMG/jpg/DSC00042_Snapseed.jpg)
+
+4 pièces pour le droïde, dont un très beau dôme en trans-black sérigraphié. Le corps du droïde bénéficie lui aussi d’une impression fine et détaillée.
+
+[![](/media/archive/ca0cfd47be0252a2396a9ffb.jpg)](https://www.freelug.org/IMG/jpg/DSC00043_Snapseed.jpg)
+
+La plaque de fond, un décor de base rebelle, avec les logos LEGO® et Star Wars.
+
+[![](/media/archive/78c4d269a9551ff1ad219bbf.jpg)](https://www.freelug.org/IMG/jpg/DSC00044_Snapseed.jpg)
+
+C’est vite construit, la plaque tient grâce à deux petits axes technic rouge 2L, et est suffisamment rigide pour tenir bien droit.
+
+[![](/media/archive/6d04c86e3802449c82f106ee.jpg)](https://www.freelug.org/IMG/jpg/DSC00045_Snapseed.jpg)
+
+**Conclusion.** L’ensemble est plutôt anecdotique et ne vaut que par la promesse d’une série future que l’on pourra assembler. Qui seront les personnages des futurs polybags ? Tout le monde y va de ses souhaits et espoirs sur la toile.
+
+Une petite chose sur laquelle nos amis danois auraient pu faire un effort pour donner un cachet supplémentaire à ce set : sérigraphier une tile 1x4 noire, au lieu d’un misérable sticker, aurait tout de suite élevé le niveau de finition de ce set. Pour le coup, c’est un peu mesquin.
+
+Mais bon, on ne peut pas en attendre trop non plus pour un sachet offert quel que soit le montant d’achat dans la gamme. Si les conditions sont les mêmes pour les prochains, il y a la possibilité de se constituer une petite collection sympa, à pas trop cher (au pire, vous augmenterez votre collection de porte-clés ;) ).

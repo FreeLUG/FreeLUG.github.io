@@ -1,0 +1,77 @@
+---
+title: "[REVIEW] 21006 - The White House (Architecture)"
+permalink: "/articles/review-21006-the-white-house-architecture/"
+section: "/themes/divers/"
+published_at: "2015-11-06T15:17:27Z"
+authors: [ "Jeremie DESCALIS" ]
+description: "Je vous propose aujourd’hui ma review du set Architecture 21006,
+  the White House (la baraque à Barack)."
+source_id: 2143
+source_url: "https://www.freelug.org/spip.php?article2143"
+---
+
+Je vous propose aujourd’hui ma review du set Architecture 21006, the White House (la baraque à Barack).
+
+[![](/media/archive/530f42cc116ac18d61fa21e1.jpg)](https://www.freelug.org/IMG/jpg/White_House_01_Mini.jpg)
+
+La boite se compose de 7 sachets et du manuel de construction. Ce dernier est broché, comme pour tous les sets Architecture ou Ideas, et est agrémenté de photos et de commentaires.
+
+[![](/media/archive/7eb431b0ede6b861c6121fc4.jpg)](https://www.freelug.org/IMG/jpg/White_House_02_Mini.jpg)
+
+On commence par le socle et on s’aperçoit tout de suite que cette White House sera d’une belle taille par rapport à une Big Ben ou un Empire State Building de la même gamme.
+
+[![](/media/archive/d4a68280a2ac0aa87e264648.jpg)](https://www.freelug.org/IMG/jpg/White_House_03_Mini.jpg)
+
+Le socle terminé, avec sa tile sérigraphiée "The White House".
+
+[![](/media/archive/6ab31711f6127d9942870a05.jpg)](https://www.freelug.org/IMG/jpg/White_House_04_Mini.jpg)
+
+On commence les fondations du bâtiment.
+
+[![](/media/archive/37b1f0701440e0e9ed0bae6a.jpg)](https://www.freelug.org/IMG/jpg/White_House_05_Mini.jpg)
+
+On devine maintenant le perron et le bureau Ovale à l’arrière du bâtiment.
+
+[![](/media/archive/8aad80f588b97a3937fe33c9.jpg)](https://www.freelug.org/IMG/jpg/White_House_06_Mini.jpg)
+
+Les murs continuent de monter.
+
+[![](/media/archive/564b7374961568d21dd631a7.jpg)](https://www.freelug.org/IMG/jpg/White_House_07_Mini.jpg)
+
+Les futures fenêtres sont posées.
+
+[![](/media/archive/cb30131a05ba801b67c0e9c5.jpg)](https://www.freelug.org/IMG/jpg/White_House_08_Mini.jpg)
+
+Les façades avants et arrières prennent formes.
+
+[![](/media/archive/88b49b0c89c183ffe3c0bb6f.jpg)](https://www.freelug.org/IMG/jpg/White_House_09_Mini.jpg)
+
+On s’occupe maintenant de l’arrière et de son célèbre Bureau Ovale.
+
+[![](/media/archive/bb9aca2057fe786752634205.jpg)](https://www.freelug.org/IMG/jpg/White_House_10_Mini.jpg)
+
+Intéressante technique pour le montage des colonnes.
+
+[![](/media/archive/0f8e4237295fb2c24a64f2eb.jpg)](https://www.freelug.org/IMG/jpg/White_House_11_Mini.jpg)
+
+Ça y est les façades sont terminées.
+
+[![](/media/archive/c7b9423cb74c2e84ef3fde28.jpg)](https://www.freelug.org/IMG/jpg/White_House_12_Mini.jpg)
+
+Place à la charpente du toit.
+
+[![](/media/archive/9b5fd583703ca3fcc9173705.jpg)](https://www.freelug.org/IMG/jpg/White_House_13_Mini.jpg)
+
+Les plafonds sont maintenant en place.
+
+[![](/media/archive/ed089b85cedb04ee93482f63.jpg)](https://www.freelug.org/IMG/jpg/White_House_14_Mini.jpg)
+
+Le toit et les troncs d’arbres sont montés.
+
+[![](/media/archive/7f2ad6e81875d77e5c908d37.jpg)](https://www.freelug.org/IMG/jpg/White_House_15_Mini.jpg)
+
+Après les dernières briques posées, la White House est enfin finie.
+
+[![](/media/archive/8fd23defe59143a344292584.jpg)](https://www.freelug.org/IMG/jpg/White_House_16_Mini.jpg)
+
+La célèbre White House a trouvé sa place à côté de ses petits copains.

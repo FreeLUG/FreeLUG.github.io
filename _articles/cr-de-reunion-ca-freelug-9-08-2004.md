@@ -1,0 +1,72 @@
+---
+title: "CR de réunion CA FreeLUG 9/08/2004"
+permalink: "/articles/cr-de-reunion-ca-freelug-9-08-2004/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2004-08-12T16:55:43Z"
+authors: [ "Philippe \"Frogleap\" LABEL" ]
+description: "Ordre du jour :"
+source_id: 293
+source_url: "https://www.freelug.org/spip.php?article293"
+---
+
+**Ordre du jour** :
+
+-   1 Bilan Bric’Mania-Grenoble
+-   2 ILTCO
+-   3 L’ouverture des inscriptions pour le LW
+-   4 Point sur la commande bulk
+-   5 Petits matériels pour expositions
+-   6 Prochain Bric’Mania
+-   7 point information sur les expositions à venir
+-   8 point Maersk 10152
+
+1 Bilan Bric’Mania-Grenoble
+
+-   -   1 cotisation adulte
+    -   1 cotisation enfant
+    -   6 ventes de MAERSK
+    -   5 ventes de T shirt
+    -   2 ventes de polo
+    -   2 cadeaux de polo
+    -   la carte FAUJ 45.75 € mais une compensation de 2 € par personne et par nuit, remboursement de 40 €.
+    -   boite à dons = 56.52 €
+    -   location de la salle 200 €
+
+Bilan financier de B’M à faire par Marc.
+
+2 ILTCO
+
+on est inscrits comme club actif avec deux "représentants", Jean-Louis Bergamo et Philippe Label. Avec Didier Enjary, Gael Frazier et Jean-Louis Bergamo inscrits dans le "Club Roster". Une info de l’exposition de train d’Orléans est passée sur le site, Il sera fait de même pour celle de St Etienne.
+
+Des infos contradictoires : ILTCO dit que le formulaire de publication d’expo permet de repasser l’annonce sur le site Lego.com (ce que les clubs US font). Lego France dit que c’est impossible de publier une info d’expo de club sur Lego.com !!! Le problème c’est que les clubs US ont accès, et pas les clubs européens. Philippe tire ça au clair et en reparle la prochaine fois.
+
+3 L’ouverture des inscriptions pour le LW
+
+Nous rapellons que les inscriptions au Legoworld sont ouvertes ; voir [l’article sur le sujet](http://www.freelug.org/priv_article.php3?id_article=145). Un coordinateur FreeLUG sera nommé dans les prochains jours.
+
+4 Point sur la commande bulk
+
+Normalement livraison semaine 33 (9 au 13 août 2004)  
+La liste des pièces épurées n’est pas encore définitive. Pascal doit vérifier le problème de la plaque 6x14. Pascal attend les prix complémentaires pour lancer la commande V2 (les correspondants commerciaux sont tous en vacances à Londres). En plus Pascal attend les prix de Paris pour faire la comparaison dès le retour de Virginie. Pascal pense que si la V1.1 arrive rapidement nous pourrons lancer la V2.0 début septembre.
+
+5 Petits matériels pour expositions
+
+Les Rhône-Alpiens ont besoin de quelques mètres de tissus pour l’expo de St Etienne. Philippe a déjà repéré de la nappe non-tissé en vert (herbe) pas cher dans les magasins de matériel pour la fête en vue de l’exposition d’Orléans. On essaie bien sûr de le conserver pour d’autres expositions en essayant de transmettre le materiel à moindre frais. Accord pour la couleur verte. On peut commencer à regarder les tarifs pour se renseigner sur le coût. Ca peut encore attendre septembre.
+
+6 Prochain Bric’Mania
+
+Il faudra commencer à réfléchir où doit se dérouler le prochain Bric’Mania. Soit il reste à Grenoble, soit il tourne. Et surtout de ce que l’on veut faire de cet événement. Soit juste réunion FreeLUG, soit plus large. Marc a déjà fouillé sur Strasbourg pour BM2005, c’est trop cher. Il faut lancer un appel à ceux qui ont envie d’organiser le prochain B’M et on verra les candidatures.
+
+7 Point information sur les expositions à venir
+
+Exposition Orléans. Philippe a diffusé un plan d’accès aux participants directs, il doit le faire pour tous les adhérents ensuite. Philippe n’a toujours pas la réponse pour la hauteur des tables, mais c’est relancé. Les organisateurs attribuent 2 tables supplémentaires pour faire de la démonstration de montages (pas pour un réseau plus grand). Les participants qui ont envie de venir monter une belle boite EN RAPPORT AVEC LE TRAIN pourront le faire. Foire-aux-idées : Un ovale pour que les gosses puissent faire tourner un train ? Un train qu’ils construisent eux-mêmes ? Un train DUPLO ?
+
+Exposition Saint Etienne. Notre participation est confirmée, on a les 12 tables souhaitées... exposition modélisme sur 8500m² avec 500 exposant.
+
+8 Point Maersk 10152
+
+Annonce officielle de disponibilité de 10 boites, ouverture à candidature (jusqu’au 15 septembre pour éviter les reproches de ceux partis en vacances.. ) , puis tirage au sort final. Avec un rappel début septembre pour les vaseux du mois d’août qui auraient raté leur mail.  
+Au prix de 55 Euros. Ouvert uniquement aux membres à jour de cotisation bien sûr. Sans souscription préalable. On tire 15 bulletins, si les 10 premiers n’envoient pas leur chèque à temps on demande au 11ème etc...
+
+21h30 Fin de la reunion.

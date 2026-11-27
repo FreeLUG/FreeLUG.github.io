@@ -1,0 +1,169 @@
+---
+title: "[REVIEW] LEGO 31095 - Le manège de la fête foraine"
+permalink: "/articles/review-lego-31095-le-manege-de-la-fete-foraine/"
+section: "/themes/designer-creator/"
+published_at: "2021-02-10T20:40:50Z"
+authors: [ "Nicolas W" ]
+description: "Pour s’amuser un peu, je vous présente ici une petite boîte
+  portant la référence 31095 et intitulée « Le manège de la fête foraine ».
+  Sortie en 2019 dans la gamme « Creator 3-en-1 », elle comporte 595 pièces et
+  est sur la boutique officielle au prix de 54,99 €. Comme son nom l’indique, ce
+  set propose de monter différents manèges pouvant s’inscrire dans une fête
+  foraine."
+source_id: 3070
+source_url: "https://www.freelug.org/spip.php?article3070"
+---
+
+Pour s’amuser un peu, je vous présente ici une petite boîte portant la référence 31095 et intitulée « Le manège de la fête foraine ».
+
+Sortie en 2019 dans la gamme « Creator 3-en-1 », elle comporte 595 pièces et est sur la boutique officielle au prix de 54,99 €.
+
+Comme son nom l’indique, ce set propose de monter différents manèges pouvant s’inscrire dans une fête foraine.
+
+Sans surprise pour la gamme, la face avant de la boîte présente le modèle principal avec sur le côté droit les deux modèles alternatifs. Les mentions « Creator » et « 3-en-1 » sont bien évidemment présentes.
+
+[![](/media/archive/28174ad45d1059575fff3ac9.jpg)](https://www.freelug.org/IMG/jpg/dsc02599.jpg)
+
+L’arrière reprend les trois modèles, avec des indications sur comment ils s’animent — l’un tourne horizontalement, le second est de type « chute libre », le troisième « rotation verticale ».
+
+[![](/media/archive/460ccb0da481e166bbfe070b.jpg)](https://www.freelug.org/IMG/jpg/dsc02601.jpg)
+
+* * *
+
+Le modèle principal est donc un carrousel horizontal sur le thème des OVNI, accompagné de petits stands ou éléments de décor. Le manège est surmonté d’un OVNI du plus bel effet, avec un gros écriteau « UFO » (« OVNI » en anglais, évidemment !) pour ceux qui n’auraient pas compris :)
+
+[![](/media/archive/c2c3f2971cd63a49d435f20a.jpg)](https://www.freelug.org/IMG/jpg/dsc02572.jpg)
+
+Quatre chariots sont présents : une fusée pour aller dans l’espace, qui me rappelle celle de Tintin, ...
+
+[![](/media/archive/be2a1807cc7f56929c545290.jpg)](https://www.freelug.org/IMG/jpg/dsc02574.jpg)
+
+[![](/media/archive/1368d97992b680aef0b38e24.jpg)](https://www.freelug.org/IMG/jpg/dsc02581.jpg)
+
+... une vache en référence j’imagine aux légendes sur les enlèvements de ces pauvres bêtes par des OVNI, ...
+
+[![](/media/archive/4e0ce448c878deebba5125a5.jpg)](https://www.freelug.org/IMG/jpg/dsc02575.jpg)
+
+[![](/media/archive/2add4d743883e1dbb1f6645c.jpg)](https://www.freelug.org/IMG/jpg/dsc02576.jpg)
+
+un vaisseau genre soucoupe avec un alien tirant au pistolet...
+
+[![](/media/archive/e9779a6cc4fde6e9169aafdc.jpg)](https://www.freelug.org/IMG/jpg/dsc02578.jpg)
+
+... et un vaisseau type navette bien armé, qui probablement poursuit l’OVNI.
+
+[![](/media/archive/d3915c57613f229b7294e100.jpg)](https://www.freelug.org/IMG/jpg/dsc02579.jpg)
+
+Les personnages peuvent bien sûr prendre place dans ces chariots :
+
+[![](/media/archive/1a491d2409494f65809388e1.jpg)](https://www.freelug.org/IMG/jpg/dsc02595.jpg)
+
+[![](/media/archive/2149a141395ebec0d5cb7fb2.jpg)](https://www.freelug.org/IMG/jpg/dsc02596.jpg)
+
+[![](/media/archive/684af0b5e35973410ee7b291.jpg)](https://www.freelug.org/IMG/jpg/dsc02597-r90.jpg)
+
+Une manivelle permet de faire tourner le carrousel dans un sens ou dans l’autre. Il est bien sûr possible de mettre un moteur pour automatiser la rotation. À noter que le petit bloc avec les leviers peut se décrocher pour se mettre de l’autre côté du bloc manivelle.
+
+[![](/media/archive/c98760eb044fcf611fe0eff7.jpg)](https://www.freelug.org/IMG/jpg/dsc02573-r90.jpg)
+
+Le vaisseau spatial au sommet du carrousel est du plus bel effet, rond avec un cockpit montrant le magnifique extraterrestre aux commandes. Très cliché, mais je trouve que ça fonctionne bien !
+
+[![](/media/archive/ed5dda8d99180ed787308626.jpg)](https://www.freelug.org/IMG/jpg/dsc02582.jpg)
+
+Côté décor et stands, on trouve de quoi acheter des tickets, le minimum quand même, tout se paye en ce bas monde ! Très schématisé, mais ça fait le boulot.
+
+[![](/media/archive/7c1a3996b58f218213c9e4db.jpg)](https://www.freelug.org/IMG/jpg/dsc02583.jpg)
+
+[![](/media/archive/4153a47c27d9803678eeb312.jpg)](https://www.freelug.org/IMG/jpg/dsc02584.jpg)
+
+Il y a également un chariot de glaces pour pouvoir se rafraîchir après (ou avant ?) un bon tour de manège. Je ne sais pas si on peut faire plus miniature comme construction, mais il y a quand même quatre parfums.
+
+[![](/media/archive/365b35d7de524d2cef22a398.jpg)](https://www.freelug.org/IMG/jpg/dsc02586.jpg)
+
+[![](/media/archive/2ec6692ee3ce750d750a85d3.jpg)](https://www.freelug.org/IMG/jpg/dsc02587.jpg)
+
+Enfin on trouve un banc avec une poubelle, sur lequel les parents pourront attendre les enfants s’ils ne souhaitent pas faire eux aussi de tour de manège. Le banc est une construction classique, déjà vue dans d’autres modèles je pense.
+
+[![](/media/archive/eea5e945227f76746a8d0af7.jpg)](https://www.freelug.org/IMG/jpg/dsc02588.jpg)
+
+Trois personnages sont présents dans la boîte : une petite fille, une femme et un homme. Peut-être forment-ils une famille. Les torses sont sérigraphiés, en revanche les jambes sont unies. Je trouve le choix du pantalon vert pour la femme un peu étrange avec le torse bleu et blanc, mais pourquoi pas. Les trois visages sont souriants. Deux accessoires sont fournis, une glace et un ticket (la même brique plate que sur la caisse).
+
+[![](/media/archive/e352055c75ed187b82f4efa5.jpg)](https://www.freelug.org/IMG/jpg/dsc02589.jpg)
+
+Dans le dos les motifs avant se prolongent, avec un simple pli pour l’homme.
+
+[![](/media/archive/242b8b5b3a90fc0b714e053d.jpg)](https://www.freelug.org/IMG/jpg/dsc02592.jpg)
+
+Seul l’homme a un visage alternatif, dans lequel il se retient manifestement d’être malade — il n’a pas supporté le tour de manège, sans doute...
+
+[![](/media/archive/0ce728036537942d2aa53e3e.jpg)](https://www.freelug.org/IMG/jpg/dsc02593.jpg)
+
+À noter que je n’ai pas collé les autocollants fournis, qui donnent un effet miroir à la colonne verticale du carrousel.
+
+* * *
+
+Le second modèle proposé est un manège type « chute libre », où les clients assis subissent une chute durant quelques secondes avant un arrêt plus ou moins brutal. Deux stands complètent le manège, un de vente de glaces et un de tir à la cible. Les personnages sont assemblés comme le modèle principal, pas de changement.
+
+[![](/media/archive/b8ef2f5509267f3728717d90.jpg)](https://www.freelug.org/IMG/jpg/dsc02634-r90.jpg)
+
+Le stand de tir est assez simple, avec une cible au fond et un cadre à l’avant à partir duquel tirer. Deux briques rondes vert simulent les projectiles à lancer sur la cible. Des barrières permettent de s’assurer que personne ne se met dans la ligne de tir.
+
+[![](/media/archive/3be1bcd369bf1b27010fb977.jpg)](https://www.freelug.org/IMG/jpg/dsc02635.jpg)
+
+[![](/media/archive/d862e27aaecdfc31fd92bfc1.jpg)](https://www.freelug.org/IMG/jpg/dsc02636.jpg)
+
+Le stand de glaces est fonctionnel, avec une enseigne amusante, et toujours les quatre parfums de glace — on ne change pas quelque chose qui fonctionne. J’aime bien les montants en orange transparent.
+
+[![](/media/archive/9e89c3d4b076af2388fe9f0b.jpg)](https://www.freelug.org/IMG/jpg/dsc02637-r90.jpg)
+
+[![](/media/archive/7e52837d3aeac0c0fdcb4ab0.jpg)](https://www.freelug.org/IMG/jpg/dsc02638.jpg)
+
+Le manège lui-même est en forme de fusée, avec deux sièges qui peuvent monter et bien sûr tomber.
+
+[![](/media/archive/56ebe4122407f9b702bb4559.jpg)](https://www.freelug.org/IMG/jpg/dsc02640-r90.jpg)
+
+[![](/media/archive/931a915ce6563b44937ba031.jpg)](https://www.freelug.org/IMG/jpg/dsc02641-r90.jpg)
+
+Des barres de sécurité retiennent les passagers durant l’attraction, on ne plaisante pas avec ça !
+
+[![](/media/archive/e7e762693f853c435df0e36a.jpg)](https://www.freelug.org/IMG/jpg/dsc02642.jpg)
+
+Sur l’arrière on voit le mécanisme qui permet au manège de fonctionner. L’aile noire sur le côté droit se coince au-dessus de la mollette sur le bas de la fusée et retient les sièges.
+
+[![](/media/archive/38ea3b3a0e3cd9c69fdf4592.jpg)](https://www.freelug.org/IMG/jpg/dsc02644-r90.jpg)
+
+[![](/media/archive/e5defd811659eb01ccfe2144.jpg)](https://www.freelug.org/IMG/jpg/dsc02645-r90.jpg)
+
+Pour les faire tomber, il suffit de tirer la manette sur la droite, et boum ! J’étais un peu sceptique sur la construction, mais ça marche bien, l’aile passe comme il faut et se coince vraiment bien sans besoin de la manipuler, il suffit de remonter les sièges.
+
+[![](/media/archive/a9f5bcf2fe44b18fc129a29d.jpg)](https://www.freelug.org/IMG/jpg/dsc02647-r90.jpg)
+
+Je trouve qu’il manque au modèle des pneus pour amortir la chute des sièges, j’ai peur qu’à l’usure ça marque des pièces...
+
+* * *
+
+Enfin le dernier modèle est un manège vertical, avec quatre sièges (deux modèles). Un stand de caisse à tourniquet complète le décor. Il reste pas mal de pièces, il aurait sans doute été possible de faire quelque chose en plus.
+
+[![](/media/archive/3316d3f455e066a4d99cd831.jpg)](https://www.freelug.org/IMG/jpg/dsc02692.jpg)
+
+[![](/media/archive/02bf4c6923571ef819902e55.jpg)](https://www.freelug.org/IMG/jpg/dsc02693-r90.jpg)
+
+Le stand de caisse est simple, avec la pièce « ticket » récupérée, et un tourniquet qui reprend les quatre cônes orange transparent. Ça rend pas mal, j’admets, et un personnage passe sans problème en plus. Bon, il manque une figurine pour avoir un employé...
+
+[![](/media/archive/c7de66349d05d6f4da942d70.jpg)](https://www.freelug.org/IMG/jpg/dsc02694.jpg)
+
+[![](/media/archive/b8f66512c7768d0842113d67.jpg)](https://www.freelug.org/IMG/jpg/dsc02695.jpg)
+
+Sans surprise le manège tourne avec une manivelle située sur l’arrière, qu’il doit être possible de motoriser simplement.
+
+[![](/media/archive/b47f44b31db7e3b6c97049a3.jpg)](https://www.freelug.org/IMG/jpg/dsc02696-r90.jpg)
+
+Pas de garde-fou sur les sièges par contre, comment ce manège a-t-il pu avoir l’autorisation d’ouvrir sans cela ? Quelques marches donnent accès aux sièges à l’arrêt.
+
+[![](/media/archive/a4bac106d54b724789b25f63.jpg)](https://www.freelug.org/IMG/jpg/dsc02697.jpg)
+
+* * *
+
+**Avis :** je trouve ces manèges réussis dans l’ensemble, et les petits éléments de décor pourront sans souci être disposés dans une scène de fête foraine. Il faudra à mon avis rajouter des pneus sur le second modèle pour faire propre, on veut protéger nos pièces non mais !
+
+Au final pas de déception de mon côté, la boîte répond très bien à ce que j’attendais :)

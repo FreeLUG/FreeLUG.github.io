@@ -1,0 +1,65 @@
+---
+title: "[REVIEW] LEGO 60287 - Le tracteur (City)"
+permalink: "/articles/review-lego-60287-le-tracteur-city/"
+section: "/themes/ville-city/"
+published_at: "2021-04-12T11:20:09Z"
+authors: [ "efde71" ]
+description: "Partons à la découverte de cette boite qui sent bon la campagne !"
+source_id: 3099
+source_url: "https://www.freelug.org/spip.php?article3099"
+---
+
+Partons à la découverte de cette boite qui sent bon la campagne !
+
+[![](/media/archive/e1aa88098ecd0c1d560de761.jpg)](https://www.freelug.org/IMG/jpg/dsc_2346.jpg)
+
+Le set comprend 148 pièces avec deux personnages et un lapin. Pour un prix de 19,99 € soit un rapport prix/pièces de 0,135 euros, c’est un peu cher pour un set avec un véhicule et un tout petit animal.  
+Une petite vue arrière donne une idée de la jouabilité du set :
+
+[![](/media/archive/f0cd65f4dfefd4c3ef862d08.jpg)](https://www.freelug.org/IMG/jpg/dsc_2347.jpg)
+
+Notons au passage l’absence de sticker (remarque, je ne sais pas où on aurait pu en mettre...).
+
+Pour commencer, nous avons la petite fille avec son lapin :
+
+[![](/media/archive/a1b256f40b363b39e1bedb5b.jpg)](https://www.freelug.org/IMG/jpg/dsc_2372.jpg)
+
+[![](/media/archive/fb086dec3748a24db0a1e887.jpg)](https://www.freelug.org/IMG/jpg/dsc_2373.jpg)
+
+Puis le conducteur :
+
+[![](/media/archive/a0bbfcd92fb965e7fb8e0d1e.jpg)](https://www.freelug.org/IMG/jpg/dsc_2378.jpg)
+
+Nous passons à la caisse aux fruits et légumes :
+
+[![](/media/archive/b43f5daf144cb984f1fddbde.jpg)](https://www.freelug.org/IMG/jpg/dsc_2374.jpg)
+
+Passons à la bête : le tracteur !  
+On commence avec le chassis :
+
+[![](/media/archive/877e848d951bca1b001ca7ec.jpg)](https://www.freelug.org/IMG/jpg/dsc_2375.jpg)
+
+[![](/media/archive/e0e5be628457e979e1e60a96.jpg)](https://www.freelug.org/IMG/jpg/dsc_2376.jpg)
+
+La structure avance assez vite :
+
+[![](/media/archive/a234dddbffb309c58c926bf9.jpg)](https://www.freelug.org/IMG/jpg/dsc_2380.jpg)
+
+[![](/media/archive/004f790b267be43d9e1daa88.jpg)](https://www.freelug.org/IMG/jpg/dsc_2381.jpg)
+
+Et voilà fini :
+
+[![](/media/archive/b19c6a1f465ec312c2c4530c.jpg)](https://www.freelug.org/IMG/jpg/dsc_2382.jpg)
+
+Voilà fini, une petite photo de famille !
+
+[![](/media/archive/37f2dea0c14dddccb49ad850.jpg)](https://www.freelug.org/IMG/jpg/dsc_2383.jpg)
+
+Et pour terminer les extra parts :
+
+[![](/media/archive/5669bdfc1363f89e78d0d2ec.jpg)](https://www.freelug.org/IMG/jpg/dsc_2384.jpg)
+
+**Conclusion**  
+Que dire : nous trouvons dans ce set les nouvelles briques 2\*2 ajourées en Tan et en Noir. Le petit lapin fait passer la pilule du prix, car franchement, je le trouve un poil trop cher… Moi j’aurais ajouté une petite remorque, vu qu’il y a l’accroche...
+
+Donc un petit set un peu cher qui mérite mieux.

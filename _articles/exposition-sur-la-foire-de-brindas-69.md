@@ -1,0 +1,37 @@
+---
+title: "Exposition sur la Foire de Brindas (69)"
+permalink: "/articles/exposition-sur-la-foire-de-brindas-69/"
+section: "/regions/rhone-alpes/"
+published_at: "2019-06-14T09:40:35Z"
+authors: [ "Xavier CLAUDEL" ]
+description: "Ce dimanche 28 avril 2019 s’est tenue la foire annuelle de la
+  ville de Brindas (69), où était organisée, en plus des traditionnelles
+  festivités, une exposition de constructions LEGO (par FreeLUG) et de Playmobil
+  (par l’association Playmoknight) dans la salle municipale."
+source_id: 2951
+source_url: "https://www.freelug.org/spip.php?article2951"
+---
+
+Ce dimanche 28 avril 2019 s’est tenue la foire annuelle de la ville de Brindas (69), où était organisée, en plus des traditionnelles festivités, une exposition de constructions LEGO (par FreeLUG) et de Playmobil (par l’association Playmoknight) dans la salle municipale.
+
+Malgré une météo capricieuse entre éclaircies et pluie, le public était au rendez-vous avec environ 1600 visiteurs sur la journée.
+
+Nous étions 6 membres du Voldecor présents avec un gros diorama Legoland espace ainsi qu’un diorama sur le thème Unikitty / super-nana.
+
+[![](/media/archive/de0aa1b1c32c351c965c4350.jpg)](https://www.freelug.org/IMG/jpg/58596723_846758582371348_4529633515800625152_n.jpg)
+
+[![](/media/archive/5efcd134dcc9b506c6e32016.jpg)](https://www.freelug.org/IMG/jpg/58445089_412285192930869_1502706007720067072_n.jpg)
+
+[![](/media/archive/5a35af38306d2d386eb366cc.jpg)](https://www.freelug.org/IMG/jpg/58460530_487240658679480_7479021398011150336_n.jpg)
+
+[![](/media/archive/f61f53f4a715a46b72e1af1d.jpg)](https://www.freelug.org/IMG/jpg/59253090_739068806489177_6990143434124165120_n.jpg)
+
+[![](/media/archive/946e6d8882eb6685101f7257.jpg)](https://www.freelug.org/IMG/jpg/59285513_2533485423351873_2271750031264448512_n.jpg)
+
+![](/media/archive/c9f611659f9021904aeefad3.jpg)
+
+[![](/media/archive/42286fbe6d8d7f4f871d33b1.jpg)](https://www.freelug.org/IMG/jpg/img_20190428_175720.jpg)
+
+![](/media/archive/e5cc1b3475abb4e5e52e3d45.jpg)
+
+![](/media/archive/c2ff913b4dab67b66b41ef07.jpg)

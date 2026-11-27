@@ -1,0 +1,125 @@
+---
+title: "CR de la réunion du CA du 05 Juillet 2018"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-05-juillet-2018/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2018-10-12T17:38:05Z"
+authors: [ "Jac", "Philippe ZYTKA", "Sébastien HAMON" ]
+description: "CR de la réunion du CA du 05 Juillet 2018"
+source_id: 2903
+source_url: "https://www.freelug.org/spip.php?article2903"
+---
+
+CR de la réunion du CA du 05 Juillet 2018
+
+## Ordre du jour
+
+_Début de séance : 20h45_
+
+_Présents (11) :_  
+**–** Erik Amzallag  
+**–** Pierre Charles  
+**–** Xavier Viallefont  
+**–** Sébastien Hamon  
+**–** Richard Lemeiter  
+**–** Philippe Label  
+**–** Pierrick Francou  
+**–** Pierre Laurenge  
+**–** Philippe Zytka  
+**–** Alexis Philippot  
+**–** Xavier Claudel
+
+_Excusés (1) :_
+
+**–** Jérôme Teissier
+
+_Absents (0) :_
+
+_Ordre du jour :_
+
+**–** Expositions  
+**–** Point BE
+
+BE Veneux  
+BE Lille Wavrin  
+BE Toulouse  
+BE Orléans  
+BE Andrézieux  
+BC Villeurbanne
+
+**–** REF  
+**–** Série Minifig  
+**–** Série Unikitty  
+**–** Point Bulk  
+**–** Point adhérents
+
+## Expositions
+
+L’association FreeLUG a été contactée par le musée intercommunal d’Étampes pour participer à la reproduction du château de la ville. Cette demande a été validée par les membres du CA. Un appel aux adhérents sera lancé pour trouver des modélisateurs et ensuite si cela est faisable, des constructeurs.
+
+## Point Briqu’Events
+
+**–** Point BE
+
+BE Veneux
+
+Daniela D. nous informe que 18 exposants sont déjà trouvés, afin de compléter la salle un appel aux nouveaux adhérents va être lancé. Un stand de graveur, un stand de vente de briques et un stand de livres (LEGO) seront également présents.
+
+L’affiche n’est pas encore prête et le budget devrait être un peu prêt comme chaque année.
+
+La subvention de FreeLUG pour cette exposition est de 400 €, comme voté à l’Assemblée Générale
+
+BE Lille Wavrin
+
+Pas d’avancées récentes sur cette Briqu’Expo
+
+BE Toulouse
+
+Erik a pu en parler avec Denis lors de Fanabriques.  
+Denis H. nous remonte l’information comme quoi il sera difficile de signé une convention avec l’autre association organisatrice. Erik lui a rappelé l’importance de cette convention.  
+Denis H. est intéressé par la création d’un minisite comme pour la BE Combrailles. Il y aura également une page Facebook.
+
+BE Orléans
+
+Afin d’aider l’association organisatrice de l’exposition 100% LEGO d’Olivet (45), FreeLUG va mettre un event support à disposition. Nous espérons que cela nous aidera à transformer cette exposition en BE pour les prochaines année.
+
+BE Andrézieux
+
+Pierre L nous informe que l’exposition pourrait avoir lieu soit au printemps soit courant octobre ou novembre. Rie n’est arrêté pour le moment.
+
+## Point REF
+
+Albéric D. nous proposera une présentation sur l’utilisation de LDD.  
+Le repas du Vendredi soir sera offert par le frère de Pierrick F.  
+Enfin le samedi soir est prévu un gâteau pour les 15 ans de l’association.  
+Un covoiturage est organisé en partance de la région lyonnaise et il reste encore quelques places dans le gîte de groupe.
+
+Un draft sera également organisé.
+
+En parallèle de notre REF du matériel sera transféré du local d’Orléans vers la région toulousaine.
+
+## Série Minifig
+
+Une réflexion se porte sur l’offre faite aux adhérents d’acquérir des séries de minifigs sans tri préalable. Avec la composition des dernières séries proposées par LEGO (une seule série complète par boîte), il devient difficile à l’association d’être à l’équilibre budgétaire avec cette opération.
+
+Il a été envisagé la vente de boîte entière, ou des précommandes fermes de la part des adhérents.
+
+Après discussion, nous décidons de ne pas continuer de proposer l’acquisition de série aux adhérents tant que LEGO gardera sa façon de faire c’est à dire une seule série par boîte. Toutefois, il se posera la question du maintien ou nous de notre compte auprès de LEGO (obligation de minimum par commande et par an).
+
+Ceci d’autant plus que les séries se retrouvent assez facilement en promotion dès leur sortie soit en magasins soit sur internet.
+
+## Série Unikitty
+
+En raison du point précédent et de la faible demande de la part des adhérents la série ne sera pas proposée.
+
+## Point Bulk
+
+Rien de très précis pour l’instant. Mais la facture ne devrait pas tarder. Nous allons faire un mel aux adhérents qui ont commandé des pièces pour qu’ils se préparent à effectuer les paiements rapidement.
+
+## Point adhérent
+
+L’association FreeLUG compte aujourd’hui 343 adhérents.
+
+_Fin de séance : 22h00_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

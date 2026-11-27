@@ -1,0 +1,23 @@
+---
+title: "Exposition à Saint Martin des Champs les 20 et 21 Mai 2006"
+permalink: "/articles/exposition-a-saint-martin-des-champs-les-20-et-21-mai-2006/"
+section: "/regions/bretagne/"
+published_at: "2006-05-20T08:00:00Z"
+authors: [ "Erik \"brickerik\" Amzallag", "Jean-Marc Barré" ]
+description: "FreeLUG sera représenté au 3ième festival de la maquette, de la
+  figurine et du modèle réduit à Saint Martin des Champs prés de Morlaix les 20
+  et 21 mai 2006."
+source_id: 499
+source_url: "https://www.freelug.org/spip.php?article499"
+---
+
+FreeLUG sera représenté au 3ième festival de la maquette, de la figurine et du modèle réduit à Saint Martin des Champs prés de Morlaix les 20 et 21 mai 2006.
+
+L’exposition se tient à la salle omnisport du Gouélou.
+
+Le programme du week-end est le suivant :  
+**–** Samedi : ouverture au public de 14h00 à 18h00  
+**–** à 20h00 se tiendra le dîner des exposants  
+**–** Dimanche 21 mai 2006 : ouverture au public à 10h00 avec exposition de véhicules anciens.
+
+La remise des prix aura lieu à 11h00 le dimanche et l’exposition se cloture à 18h00.

@@ -1,0 +1,39 @@
+---
+title: "Festi’Briques, Beaune, 27 et 28 novembre 2010"
+permalink: "/articles/festi-briques-beaune-27-et-28-novembre-2010/"
+section: "/regions/bourgogne/"
+published_at: "2010-11-27T12:00:00Z"
+authors: [ "Pierre LAURENGE" ]
+description: "L’association Festi’briques organise sa troisième exposition 100%
+  LEGO les samedi 27 et dimanche 28 novembre 2010 à Beaune."
+source_id: 1180
+source_url: "https://www.freelug.org/spip.php?article1180"
+---
+
+L’association Festi’briques organise sa troisième exposition **100% LEGO** les samedi 27 et dimanche 28 novembre 2010 à Beaune.
+
+![](/media/archive/e95675bff45a8bcf65fec309.jpg)
+
+Vous pourrez y découvrir divers thèmes LEGO.
+
+FreeLUG y sera présent.
+
+_Lieu :_  
+Chapelle Saint Etienne  
+Place Ziem  
+21200 BEAUNE
+
+_Horaire :_  
+**–** samedi : 13h - 19h  
+**–** dimanche : 9h - 17h30
+
+_Entrée :_  
+**–** moins de 4 ans : gratuit  
+**–** moins de 15 ans : 1€  
+**–** + de 15 ans : 2€
+
+FreeLUG organise une session [Crash Test](/articles/le-crash-test/) le samedi après-midi.
+
+![](/media/archive/a0df538c7b7796eae0723be1.jpg)
+
+[Résumé de l’édition janvier 2010](/articles/beaune-2010-deuxieme-festibriques/)

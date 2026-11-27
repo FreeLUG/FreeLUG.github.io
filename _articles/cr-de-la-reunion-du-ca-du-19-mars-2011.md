@@ -1,0 +1,92 @@
+---
+title: "CR de la réunion du CA du 19 mars 2011"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-19-mars-2011/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2011-07-19T19:36:29Z"
+authors: [ "Jac", "Pierre CHARLES (Tribolego)" ]
+description: "CR de la réunion du CA du 19 mars 2011"
+source_id: 1320
+source_url: "https://www.freelug.org/spip.php?article1320"
+---
+
+CR de la réunion du CA du 19 mars 2011
+
+## Ordre du jour
+
+_Début de séance : 17h28_
+
+_Présents (11) :_  
+**–** Erik Amzallag  
+**–** Emmanuel Bonnard  
+**–** Pierre Charles  
+**–** Pierrick Dauny  
+**–** Daniela Drost  
+**–** Jérémy Roblin  
+**–** Richard Lemeiter  
+**–** Jérôme Teissier  
+**–** Laurent Thevenard  
+**–** Xavier Viallefont  
+**–** Pierre Laurenge
+
+_Ordre du jour :_  
+**–** Bienvenue à Jérémy  
+**–** Election du bureau  
+**–** Attribution de fonctions  
+**–** Validation des expositions  
+**–** Formulaires pour les commandes  
+**–** Briques gravées « membre du CA »  
+**–** Comptabilité
+
+## Bienvenu à Jérémy
+
+Le CA souhaite la bienvenu à Jérémy, nouveau membre fraichement élu durant l’[Assemblée Générale 2011](/articles/compte-rendu-de-l-assemblee-generale-du-19-mars-2011/).
+
+## Réélection du bureau
+
+Le CA procède au renouvellement du bureau.
+
+A l’unanimité, le bureau reste inchangé :  
+**–** Président : Erik  
+**–** Vice président : Xavier  
+**–** Trésorier : Richard  
+**–** Vice trésorier : Pierrick  
+**–** Secrétaire : Pierre  
+**–** Secrétaire adjoint : Jérôme
+
+## Attribution des fonctions
+
+Le CA procède à la désignation de fonctions :  
+**–** suivi des expositions : Laurent (suivi des annonces et des publications au calendrier et des résumés) ;  
+**–** suivi de l’inventaire : Pierrick ;  
+**–** assurance : Jérémy (actuellement, l’association est couverte par Crédit Mutuelle Assurance) ;  
+**–** commandes de goodies : Manu (Vêtements, Badges, etc.) ;  
+**–** commandes LEGO : Xavier et Pierre L.  
+**–** mails contact@freelug.org : Secrétaires, Présidents et Laurent (pour les expositions).
+
+## Validation des expositions
+
+Le CA décide d’améliorer la chaine de validation des expositions (plus rapide pour les expositions au fonctionnement simple).
+
+A présent, toutes les expositions répondant aux critères traditionnels seront validées automatiquement par Laurent.  
+Ne nécessiteront une validation par le CA que les expositions ou évènements aux conditions particulières (exemple : animation auprès d’enfants).
+
+## Formulaires pour les commandes
+
+Le CA a jugé indispensable l’utilisation de formulaires pour les commandes groupées. Ceux-ci améliorent grandement la gestion des commandes par Xavier et Pierre L.
+
+## Briques gravées « membre du CA »
+
+Trois briques gravées « membre du CA » sont toujours manquantes.
+
+Si un ancien membre du CA est toujours en possession d’une de ces briques, il lui est demandé de prévenir le CA.
+
+## Comptabilité
+
+A l’heure de la réunion, 7000€ ont été encaissés lors du week-end de l’Assemblée Générale.
+
+21000€ de factures seront à régler sous peu. Ceci nécessite de vendre le restant des minifigs (en priorité la série 2 qui a été la plus coûteuse). Il est aussi nécessaire d’encaisser l’avance du bulk (80% = 10000€) afin de disposer de la trésorerie nécessaire pour nos prochaines actions.
+
+_Fin de séance : 18h00_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : CA@freelug.org

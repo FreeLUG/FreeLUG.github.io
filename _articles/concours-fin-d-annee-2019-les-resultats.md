@@ -1,0 +1,289 @@
+---
+title: "Concours fin d’année 2019 : les résultats"
+permalink: "/articles/concours-fin-d-annee-2019-les-resultats/"
+section: "/association/concours-et-challenges/"
+published_at: "2020-02-02T19:43:12Z"
+authors:
+  [
+    "Loïc TARENTO",
+    "Lydie LEPETIT",
+    "Mathieu WEINGAERTNER",
+    "Pierre CHARLES (Tribolego)",
+    "Rémi LEJUS"
+  ]
+description: "Il est temps d’annoncer les résultats du concours de fin d’année
+  2019 dont le thème était \"Noël\", mais sans pièce blanche (ou si peu)."
+source_id: 3013
+source_url: "https://www.freelug.org/spip.php?article3013"
+---
+
+Il est temps d’annoncer les résultats du concours de fin d’année 2019 dont le thème était "Noël", mais sans pièce blanche (ou si peu).
+
+Nous tenons tout d’abord à féliciter les 13 participants (11 adultes et 2 enfants) qui ont su faire preuve d’une imagination débordante pour illustrer cette fête hivernale.
+
+Nous remercions également les 8 personnes hors FAA qui se sont portées volontaires pour faire partie du jury, alors même que nous n’en demandions que 7.
+
+Place aux résultats de la catégorie enfant : nous pouvons féliciter **Olivier C.** qui remporte ainsi le set **LEGO Creator 31073 : Mythical Creatures** grâce à son "Repas de Noël".
+
+1ère place enfant : Olivier C. et son "Repas de Noël"
+
+[![](/media/archive/1117edaa71d2938c9fc78440.jpg)](https://www.freelug.org/IMG/jpg/dsc_0120.jpg)
+
+[![](/media/archive/70d208aef5059c3b380917c6.jpg)](https://www.freelug.org/IMG/jpg/dsc_0123.jpg)
+
+[![](/media/archive/91efa52b484f68769422fd1d.jpg)](https://www.freelug.org/IMG/jpg/dsc_0126.jpg)
+
+[![](/media/archive/1e8348ede4b5133c175ba7fa.jpg)](https://www.freelug.org/IMG/jpg/dsc_0127.jpg)
+
+[![](/media/archive/954b94c224eb4512dc64255e.jpg)](https://www.freelug.org/IMG/jpg/dsc_0128-r90.jpg)
+
+[![](/media/archive/1328eb7a55a7bc428eb73e68.jpg)](https://www.freelug.org/IMG/jpg/dsc_0129-r90.jpg)
+
+[![](/media/archive/c699cd7f323e3d4f52702785.jpg)](https://www.freelug.org/IMG/jpg/dsc_0131.jpg)
+
+Le Père Noël ayant décidé de se montrer généreux, nous avons également décidé d’attribuer à **Camille L.** le set **LEGO Classic 10709 : Orange Creative Box** pour sa scène "Le Père Noël rentre à la maison après une grande journée de travail".
+
+2ème place enfant : Camille L. et sa scène "Le Père Noël rentre à la maison après une grande journée de travail"
+
+[![](/media/archive/98104d86e29a1b1cd18ecada.jpg)](https://www.freelug.org/IMG/jpg/dsc_0183.jpg)
+
+[![](/media/archive/7ec725d2bc77944f5b26e7fc.jpg)](https://www.freelug.org/IMG/jpg/dsc_0186.jpg)
+
+[![](/media/archive/cb41824b12ae9c4bc6d25db0.jpg)](https://www.freelug.org/IMG/jpg/dsc_0187.jpg)
+
+Nous n’oublions pas non plus **Gabin D.** avec sa "Fabrique du Père Fouettard" qui a usé de malchance au niveau des délais mais remporte tout de même le set **LEGO Classic 10708 : Green Creative Box**.
+
+HC enfant (hors délai) : Gabin D. et sa "Fabrique du Père Fouettard"
+
+[![](/media/archive/01744f2b4c773b204a9036a6.jpg)](https://www.freelug.org/IMG/jpg/img20200122161845.jpg)
+
+[![](/media/archive/b8b365a0c0de0d7c8a0a2cd0.jpg)](https://www.freelug.org/IMG/jpg/img20200122161951.jpg)
+
+[![](/media/archive/09bca03fa2f46f20a69e5798.jpg)](https://www.freelug.org/IMG/jpg/img20200122162004.jpg)
+
+[![](/media/archive/4f310a58ec85050d61617283.jpg)](https://www.freelug.org/IMG/jpg/img20200122162143.jpg)
+
+[![](/media/archive/5a177c33aa039ea081990aad.jpg)](https://www.freelug.org/IMG/jpg/img20200122162147.jpg)
+
+Concernant la catégorie adulte, les résultats furent très serrés (un petit point sépare les deux premières participations), mais le set **LEGO Ideas 21310 : Old Fishing Store** est remporté par **Rémi L.** pour son "Noël à Hawaï".
+
+1ère place adulte : Rémi L. et son "Noël à Hawaï"
+
+[![](/media/archive/5e2cb55e9a895538b0209cb6.jpg)](https://www.freelug.org/IMG/jpg/noel_a_hawaii_rl_-_01_grand_.jpg)
+
+[![](/media/archive/6ff73653a7d25c3dee31cdd2.jpg)](https://www.freelug.org/IMG/jpg/noel_a_hawaii_rl_-_02_grand_.jpg)
+
+[![](/media/archive/ee276e26e6eb3f9f50c680dc.jpg)](https://www.freelug.org/IMG/jpg/noel_a_hawaii_rl_-_03_grand_.jpg)
+
+[![](/media/archive/b5a9295eaf013f3191b7d9e5.jpg)](https://www.freelug.org/IMG/jpg/noel_a_hawaii_rl_-_04_grand_.jpg)
+
+[![](/media/archive/0b862be71c502780e5f996b8.jpg)](https://www.freelug.org/IMG/jpg/noel_a_hawaii_rl_-_05_grand_-r90.jpg)
+
+[![](/media/archive/8197f9736177e481fda212a4.jpg)](https://www.freelug.org/IMG/jpg/noel_a_hawaii_rl_-_06_grand_-r90.jpg)
+
+[![](/media/archive/d428a1d6d143c96061b1115f.jpg)](https://www.freelug.org/IMG/jpg/noel_a_hawaii_rl_-_07_grand_.jpg)
+
+[![](/media/archive/1722934236c56ee4e654ac43.jpg)](https://www.freelug.org/IMG/jpg/noel_a_hawaii_rl_-_08_grand_.jpg)
+
+Le set LEGO Castle 7979 : Advent Calendar **2008** revient à **Sylvain R.** pour son "Atelier du Père Noël".
+
+2ème place adulte : Sylvain R. et "L’atelier du Père Noël"
+
+[![](/media/archive/9ec9806e6ea9c4b4a3a38ae0.jpg)](https://www.freelug.org/IMG/jpg/atelier_pere_noel_1.jpg)
+
+[![](/media/archive/fa3b19044a9f75f500693595.jpg)](https://www.freelug.org/IMG/jpg/atelier_pere_noel_2.jpg)
+
+[![](/media/archive/398a37866a57a6afcacfd947.jpg)](https://www.freelug.org/IMG/jpg/atelier_pere_noel_3.jpg)
+
+[![](/media/archive/86d523dfea08cef784027d94.jpg)](https://www.freelug.org/IMG/jpg/atelier_pere_noel_4.jpg)
+
+[![](/media/archive/bf45e79e01ea1a47f19be383.jpg)](https://www.freelug.org/IMG/jpg/atelier_pere_noel_5.jpg)
+
+[![](/media/archive/31763c74d56aa2454260895b.jpg)](https://www.freelug.org/IMG/jpg/atelier_pere_noel_6.jpg)
+
+[![](/media/archive/0fcdc9d2a0f5278ce326c12a.jpg)](https://www.freelug.org/IMG/jpg/atelier_pere_noel_7.jpg)
+
+[![](/media/archive/41772e16b1f73d6a10424bf1.jpg)](https://www.freelug.org/IMG/jpg/atelier_pere_noel_8.jpg)
+
+Enfin, le podium est complété par **Julien F.** pour son "Noël sous l’Océan" ; il remporte ainsi le set **LEGO** Creator 31056 : Green Cruiser.
+
+3ème place adulte : Julien F. et "Noël sous l’Océan"
+
+[![](/media/archive/e74af8bf18a5153fedbb6636.jpg)](https://www.freelug.org/IMG/jpg/dscn8726.jpg)
+
+[![](/media/archive/4b44ef654b995d6a7f487e7c.jpg)](https://www.freelug.org/IMG/jpg/dscn8727.jpg)
+
+[![](/media/archive/d3646d0c5841a0c68fc5d228.jpg)](https://www.freelug.org/IMG/jpg/dscn8728.jpg)
+
+[![](/media/archive/f8280b78025ad3d22c7767cf.jpg)](https://www.freelug.org/IMG/jpg/dscn8729.jpg)
+
+[![](/media/archive/6e480792d8eb395c4d49463f.jpg)](https://www.freelug.org/IMG/jpg/dscn8730.jpg)
+
+[![](/media/archive/6d095ead093b6344c681641a.jpg)](https://www.freelug.org/IMG/jpg/dscn8736.jpg)
+
+[![](/media/archive/5b8fd405c75dbc171c3cde4b.jpg)](https://www.freelug.org/IMG/jpg/dscn8737.jpg)
+
+[![](/media/archive/a90981491eb571d53618e002.jpg)](https://www.freelug.org/IMG/jpg/dscn8738.jpg)
+
+Les autres concurrents n’ont pas démérité et nous tenons une nouvelle fois à féliciter :
+
+1.  Sylvain D. pour sa scène "Noël à la plage"
+2.  Elisabeth L. pour sa scène "Noël nature"
+3.  Denis H. pour sa "Maison du Père Noël"
+4.  Stéphanie P. pour sa scène "Noël à Poudlard"
+5.  Jean-Michel R. pour son "Atelier des lutins"
+6.  Marie L. pour sa scène "La Capture du Père Noël"
+7.  Cyriac F. pour ses "Fêtes d’après Noël"
+8.  Nicolas G. pour son "Noël spatial"
+
+Cyriac F. et ses "Fêtes d’après Noël"
+
+[![](/media/archive/774060a7e1db907ae78f244c.jpg)](https://www.freelug.org/IMG/jpg/fetes_d_apres_noel_1_-r90.jpg)
+
+[![](/media/archive/d84914bdc955f7e5445f6df1.jpg)](https://www.freelug.org/IMG/jpg/fetes_d_apres_noel_2_-r90.jpg)
+
+[![](/media/archive/dbd543ecdabed51326b0dba0.jpg)](https://www.freelug.org/IMG/jpg/fetes_d_apres_noel_3_.jpg)
+
+[![](/media/archive/3e6429aa3e86b9fae461d12d.jpg)](https://www.freelug.org/IMG/jpg/fetes_d_apres_noel_4_.jpg)
+
+[![](/media/archive/9fc2cccbd585501ccde73655.jpg)](https://www.freelug.org/IMG/jpg/fetes_d_apres_noel_5_.jpg)
+
+[![](/media/archive/0c81486da679525d59b6b95a.jpg)](https://www.freelug.org/IMG/jpg/fetes_d_apres_noel_6_.jpg)
+
+[![](/media/archive/1df0a761122ae0d65af3f8b6.jpg)](https://www.freelug.org/IMG/jpg/fetes_d_apres_noel_7_.jpg)
+
+[![](/media/archive/4ad94379d330ee7732a42895.jpg)](https://www.freelug.org/IMG/jpg/fetes_d_apres_noel_8_.jpg)
+
+Denis H. et sa "Maison du Père Noël"
+
+[![](/media/archive/9b670a945a8c5bc9226ffbc6.jpg)](https://www.freelug.org/IMG/jpg/maison_du_pe_re_noe_l_v2-4.jpg)
+
+[![](/media/archive/b3b2b16a072c35d586325547.jpg)](https://www.freelug.org/IMG/jpg/maison_du_pe_re_noe_l_v2-5.jpg)
+
+[![](/media/archive/9ae7d225136582a2644a3821.jpg)](https://www.freelug.org/IMG/jpg/maison_du_pe_re_noe_l_v2-6.jpg)
+
+[![](/media/archive/c34332ca5fb862704e720c14.jpg)](https://www.freelug.org/IMG/jpg/maison_du_pe_re_noe_l_v2-7.jpg)
+
+[![](/media/archive/51aa6afdd6e008c0e9cfc64a.jpg)](https://www.freelug.org/IMG/jpg/maison_du_pe_re_noe_l_v2-8.jpg)
+
+[![](/media/archive/46550f482e58eee28635ae0d.jpg)](https://www.freelug.org/IMG/jpg/maison_du_pe_re_noe_l_v2-2.jpg)
+
+[![](/media/archive/d413450919de2df5937e1306.jpg)](https://www.freelug.org/IMG/jpg/maison_du_pe_re_noe_l_v2-3.jpg)
+
+Elisabeth L. et sa scène "Noël nature"
+
+[![](/media/archive/ec5d8ecd90f42603811c342d.jpg)](https://www.freelug.org/IMG/jpg/100_5748.jpg)
+
+[![](/media/archive/eaf59e891ffd1a81f7252b04.jpg)](https://www.freelug.org/IMG/jpg/100_5749.jpg)
+
+[![](/media/archive/c3b10651a53d2059563edbe2.jpg)](https://www.freelug.org/IMG/jpg/100_5750-r90.jpg)
+
+[![](/media/archive/27ddb9c0b6dd28d6f6419947.jpg)](https://www.freelug.org/IMG/jpg/100_5751.jpg)
+
+[![](/media/archive/71cdeeef6c9df0da8b8c7bdb.jpg)](https://www.freelug.org/IMG/jpg/100_5752.jpg)
+
+[![](/media/archive/7262b5e8922a164f477afa82.jpg)](https://www.freelug.org/IMG/jpg/100_5753.jpg)
+
+Jean-Michel R. et son "Atelier des lutins"
+
+[![](/media/archive/28fa4afb9c50db9f6ac9127b.jpg)](https://www.freelug.org/IMG/jpg/img_3739.jpg)
+
+[![](/media/archive/08e77ab47ef97844cf119dfb.jpg)](https://www.freelug.org/IMG/jpg/img_3740.jpg)
+
+[![](/media/archive/cfa303e56abb43275e988da8.jpg)](https://www.freelug.org/IMG/jpg/img_3744-r90.jpg)
+
+[![](/media/archive/13e1e35a226258142e1f31fe.jpg)](https://www.freelug.org/IMG/jpg/img_3745.jpg)
+
+[![](/media/archive/9349e212341fde34f0875c05.jpg)](https://www.freelug.org/IMG/jpg/img_3747.jpg)
+
+[![](/media/archive/63a2908cdbf9f66c1b0ec5be.jpg)](https://www.freelug.org/IMG/jpg/img_3748.jpg)
+
+[![](/media/archive/0afdaa48cbb96c78e749ae8c.jpg)](https://www.freelug.org/IMG/jpg/img_3749.jpg)
+
+[![](/media/archive/9c9cf8a7d0f862cea112146c.jpg)](https://www.freelug.org/IMG/jpg/img_3750-r180.jpg)
+
+Marie L. et sa scène "La Capture du Père Noël"
+
+[![](/media/archive/770cf7d3a79d2bcea10934e3.jpg)](https://www.freelug.org/IMG/jpg/20200126_202634.jpg)
+
+[![](/media/archive/d02996bbbfc6579fea0ec821.jpg)](https://www.freelug.org/IMG/jpg/20200126_202649.jpg)
+
+[![](/media/archive/172fff75943d60c5ad7ea8fd.jpg)](https://www.freelug.org/IMG/jpg/20200126_202715.jpg)
+
+Nicolas G. et son "Noël spatial"
+
+[![](/media/archive/38c8d434de713a033d27ce02.jpg)](https://www.freelug.org/IMG/jpg/img01.jpg)
+
+[![](/media/archive/04f4da41c7ed1b70c001bb8d.jpg)](https://www.freelug.org/IMG/jpg/img02.jpg)
+
+[![](/media/archive/b57a21ef68c6fdd0ee900bf3.jpg)](https://www.freelug.org/IMG/jpg/img03.jpg)
+
+[![](/media/archive/0068794ffb020ce2f178d040.jpg)](https://www.freelug.org/IMG/jpg/img04.jpg)
+
+[![](/media/archive/97e73342c5fcbb0896dc490b.jpg)](https://www.freelug.org/IMG/jpg/img05.jpg)
+
+[![](/media/archive/13b18478954cb7ed6b2b1284.jpg)](https://www.freelug.org/IMG/jpg/img06.jpg)
+
+[![](/media/archive/a64d7fbde7df67c4de0ca538.jpg)](https://www.freelug.org/IMG/jpg/img07.jpg)
+
+[![](/media/archive/4f3305b2f156c4889dbfe565.jpg)](https://www.freelug.org/IMG/jpg/img08.jpg)
+
+Stéphanie P. et sa scène "Noël à Poudlard"
+
+[![](/media/archive/89249931609940d9e695f1e1.jpg)](https://www.freelug.org/IMG/jpg/img_20200120_182619.jpg)
+
+[![](/media/archive/7d3d1f32aa2b58951f994cdb.jpg)](https://www.freelug.org/IMG/jpg/img_20200120_182635.jpg)
+
+[![](/media/archive/c653daba3f23990b81fd0961.jpg)](https://www.freelug.org/IMG/jpg/img_20200120_182753.jpg)
+
+[![](/media/archive/5978a1ca1c1949d5b8f34261.jpg)](https://www.freelug.org/IMG/jpg/img_20200120_182903.jpg)
+
+[![](/media/archive/ccbf0931d1d568dbf614c856.jpg)](https://www.freelug.org/IMG/jpg/img_20200120_182930.jpg)
+
+[![](/media/archive/a38d962ae109233fead22a73.jpg)](https://www.freelug.org/IMG/jpg/img_20200120_183008.jpg)
+
+[![](/media/archive/b393ed405c6478f51c76b345.jpg)](https://www.freelug.org/IMG/jpg/img_20200120_183018.jpg)
+
+Sylvain D. pour sa scène "Noël à la plage"
+
+[![](/media/archive/3d06f62696a789688bb35a0f.jpg)](https://www.freelug.org/IMG/jpg/img_20200108_193336.jpg)
+
+[![](/media/archive/f14b9dda94b2c7f8fcbc272c.jpg)](https://www.freelug.org/IMG/jpg/img_20200108_193357.jpg)
+
+[![](/media/archive/044c07dd6bcae52a762813db.jpg)](https://www.freelug.org/IMG/jpg/img_20200108_193409.jpg)
+
+A bientôt pour un nouveau concours !!
+
+* * *
+
+_Composition du jury :_
+
+BERNARD Jean  
+BORELLY Xavier  
+CHARLES Pierre (Membre FAA)  
+GRIME Yoann  
+KELLER Edward  
+LAURENCON Denis  
+LEJUS Rémi (Membre FAA - non votant sur le concours adulte)  
+LEPETIT Lydie (Coordinatrice FAA - non votante sur le concours enfant)  
+MAGAUD Sébatien  
+TARENTO Loïc (Membre FAA)  
+VANNIER Jérôme  
+WEINGAERTNER Mathieu (Membre FAA)
+
+_Classement catégorie enfant :_
+
+1.  Olivier C.
+2.  Camille L.  
+    Gabin D. (HC)
+
+_Classement catégorie adulte :_
+
+1.  Rémi L.
+2.  Sylvain R.
+3.  Julien F.
+4.  Jean-Michel R.
+5.  Denis H.
+6.  Sylvain D.
+7.  Nicolas G.
+8.  Elisabeth L., Stéphanie P., Marie L., Cyriac F.

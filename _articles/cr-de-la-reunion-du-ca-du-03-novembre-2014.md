@@ -1,0 +1,98 @@
+---
+title: "CR de la réunion du CA du 03 Novembre 2014"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-03-novembre-2014/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2014-12-20T09:32:51Z"
+authors: [ "Jac", "Pilili Cuicui" ]
+description: "CR de la réunion du CA du 03 Novembre 2014"
+source_id: 1941
+source_url: "https://www.freelug.org/spip.php?article1941"
+---
+
+CR de la réunion du CA du 03 Novembre 2014
+
+## Ordre du jour
+
+_Début de séance : 20h42_
+
+_Présents (8) :_  
+**–** Erik Amzallag  
+**–** Daniela Drost  
+**–** Philippe Label  
+**–** Pierre Laurenge  
+**–** Jean-Claude Petit  
+**–** Jérôme Teissier  
+**–** Xavier Viallefont  
+**–** Lucie Vigreux
+
+_Excusés (3) :_
+
+**–** Pierre Charles  
+**–** Sébastien Hamon  
+**–** Richard Lemeiter
+
+_Absents (0) :_
+
+_Ordre du jour :_
+
+**–** Expositions  
+**–** Point Briqu’Events  
+**–** Point goodies  
+**–** Lot concours  
+**–** Photo carte de membres  
+**–** Demande pour Fan-de-Briques  
+**–** Point comptabilité
+
+## Expositions
+
+Pierre C et Erik A ont la possibilité d’organiser une soirée privative à l’exposition de Rueil (Histoire en Briques LEGO).  
+Nous nous orientons vers la date du 15 novembre, notamment en raison des disponibilités des uns et des autres, et pour coupler un éventuel déplacement avec l’AFOL days.
+
+L’idée générale est :  
+**–** salle d’expo réservée à l’association au delà des heures d’ouverture (après 19h)  
+**–** proposition d’un buffet (à faire financer par les participants)  
+**–** invitation lancée auprès des adhérents et amis de l’association
+
+-   6 vote oui,
+-   2 abstention.
+
+L’association FreeLUG a été invitée à participer a une bourse exposition de miniatures multi-thèmes qui aura lieu à Lons-le-Saunier (39) le 11/11/2014. Cette exposition a été validée par les membres du CA.
+
+L’association FreeLUG a été invitée à participer a une Exposition-Concours multi-thème qui aura lieu au Monastier-sur-Gazeille (43) les 25 et 26 Avril 2015. Cette exposition a été validée par les membres du CA.
+
+## Point Briqu’Events
+
+**–** Pas d’avancement sur la Briqu’Expo Mulsanne 2014 pour l’instant.
+
+**–** Daniela nous a transmis tous les éléments de la BE-Veneux. C’était une belle exposition une fois de plus.
+
+**–** Nous avons reçus une liste de matériel à demander pour la Briqu’Convention Villeurbanne. Le dossier sera proposer à LEGO France et LEGO DK. Nous espérons que tout sera accepté.
+
+**–** BE Lille, Richard a rencontré la représentante de l’association V.E.E. "Vivre Ensemble Esquermes", association locale du quartier Vauban-Esquermes, quartier où se situe la salle pour la Briqu’Expo de Lille. En partant sur le modèle Diemoz, nous devons prochainement nous rencontrer pour finaliser les termes du partenariat et donc le budget qui en découle. L’association étant ancrée sur le quartier et organisant par ailleurs des événements, elle a toutes ses "filières" pour le côté logistique et sécurité des personnes pour minimiser les coûts.
+
+## Point goodies
+
+Nous attendons des réponses sur les projets en cours. Pas d’avancement sur les autres choses, mais nous allons relancer les personnes qui doivent s’en occuper.
+
+## Lot concours
+
+La FAA doit encore organiser quelques concours pour cette fin d’année. Nous étudions certaines possibilités de lots pour les futurs gagnants.
+
+## Photo carte de membres
+
+Nous votons pour connaître la photo qui prendra place sur la carte de membre 2015. 7 membres sont d’accord avec la proposition de Philippe L, 2 abstentions.
+
+## Demande pour Fan-de-Briques
+
+L’organisation de "Fan-de-Briques", qui aura lieu à la fin du mois de Novembre, nous demande de prendre en charge une recherche d’adhérents bénévoles pour aider à encadrer les animations prévues sur place. Ils seront accueillis comme tous les exposants. Nous devons aussi faire en sorte de transporter le matériel pour qu’il soit à disposition au bon moment.
+
+Jérôme, secrétaire adjoint, se charge de lancer le courriel de recherches sur la liste des adhérents.
+
+## Point comptabilité
+
+Nos trésoriers ont fait un point comptabilité par courriel aux membres du CA. Les membres du CA n’ont aucun commentaire à faire. Nous comptons 284 membres à ce jour.
+
+_Fin de séance : 22h28_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [CA@freelug.org](mailto:CA@freelug.org)

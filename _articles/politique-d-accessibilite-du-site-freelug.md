@@ -1,0 +1,67 @@
+---
+layout: "article"
+title: "Politique d’accessibilité du site FreeLUG"
+source_id: 455
+permalink: "/articles/politique-d-accessibilite-du-site-freelug/"
+source_url: "https://freelug.org/spip.php?article455"
+published_at: "2006-01-28T11:54:50Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "Dans la volonté de rendre accessible à tous l’information contenue
+  en ses pages, FreeLUG s’est efforcée à respecter les normes émises par le
+  W3C."
+section: "/association/les-outils-informatiques/"
+---
+
+Dans la volonté de rendre accessible à tous l’information contenue en ses pages, FreeLUG s’est efforcée à respecter les normes émises par le W3C.
+
+## Touches d’accès clavier (accesskey)
+
+Touches d’accès rapide :  
+**–** 0 : politique d’accessibilité ;  
+**–** 1 : page d’accueil ;  
+**–** 2 : contenu de la page ;  
+**–** 3 : plan du site ;  
+**–** 4 : champ de saisie du formulaire de recherche ;  
+**–** 5 : foire aux questions ;  
+**–** 7 : contact.
+
+Mode d’emploi :  
+**–** Sous Windows : alt+shift+accesskey ou alt+accesskey (les chiffres du clavier, pas du pavé numérique)  
+**–** Sous Macintosh : ctrl+accesskey ou pomme+accesskey
+
+## Affichage
+
+Les textes ont une taille de police relative, c’est à dire qui puisse être agrandie ou rétrécie selon les besoins.  
+**–** Dans divers navigateurs : ctrl + molette de la souris ;  
+**–** Dans Mozilla/Firefox et Internet Explorer : _Affichage>Taille du texte_.
+
+Une feuille de style minimale permet de pouvoir naviguer sur le site avec ses préférences (police, taille, couleur...) tout en conservant la mise en page en colones.  
+**–** Dans Mozilla/Firefox, allez dans _Affichage>Style de la page_.
+
+Une feuille de style d’impression est associée à chaque page pour permettre l’impression du contenu pertinent.
+
+## Aide à la navigation
+
+En début et en fin de chaque page, les liens importants sont repris pour permettre une navigation plus aisée.
+
+Des liens d’évitement sont proposés lors d’une navigation sans la mise en page proposée. En début de page, un lien permet d’accéder directement au contenu de la page, un autre d’accéder au menu. Des liens sont régulièrements proposés dans la page pour revenir à son début.
+
+La désactivation des scripts JavaScript ne nuit pas à l’accès de l’information.
+
+Les images possèdent une alternative textuelle.
+
+## Philosophie de conception
+
+Le contenu des pages est sémantiquement structuré afin de rendre la navigation plus aisée.
+
+La mise en page est réalisée à l’aide feuilles de style et non de tableaux.
+
+## Respect des normes du W3C
+
+Le code XHTML est conforme aux spécifications XHTML 1.0 strict. Les pages sont testées à l’aide du [validateur HTML du W3C](http://validator.w3.org/).
+
+Les feuilles de styles CSS sont conformes aux spécification CSS2. Elles sont testées à l’aide du [validateur CSS du W3C](http://jigsaw.w3.org/css-validator/).
+
+Les règles d’accessibilité émises par le WAI niveau A sont respectées, la majorité des règles de niveau AA également. Les pages sont testées à l’aide des validateurs [webXACT](http://webxact.watchfire.com/), [WAVE](http://www.wave.webaim.org/index.jsp) et [Ocawa](http://www.ocawa.com/)
+
+Pour toute remarque ou commentaires, n’hesitez pas à nous contacter à [contact@freelug.org](mailto:contact@freelug.org "contact@freelug.org").

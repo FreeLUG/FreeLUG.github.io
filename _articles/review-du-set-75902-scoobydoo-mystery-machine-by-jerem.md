@@ -1,0 +1,196 @@
+---
+title: "Review du set 75902 - ScoobyDoo Mystery Machine by Jerem"
+permalink: "/articles/review-du-set-75902-scoobydoo-mystery-machine-by-jerem/"
+section: "/themes/divers/"
+published_at: "2015-09-28T20:01:54Z"
+authors: [ "Jeremie DESCALIS" ]
+description: "FreeLUG vous propose aujourd’hui la review du set 75902 - Mystery
+  Machine de la nouvelle gamme LEGO ScoobyDoo."
+source_id: 2129
+source_url: "https://www.freelug.org/spip.php?article2129"
+---
+
+FreeLUG vous propose aujourd’hui la review du set 75902 - Mystery Machine de la nouvelle gamme LEGO ScoobyDoo.
+
+Bonjour à tous, je vous propose aujourd’hui ma deuxième review, la Mystery Machine.
+
+[![](/media/archive/adf84721110e9200321f0c0d.png)](https://www.freelug.org/IMG/png/MM_Mini_01-2.png)
+
+Voici le contenu de ce set, des sachets numérotés de 1 à 3, deux manuels d’instructions de montage et une planche d’autocollants assez conséquente.
+
+[![](/media/archive/1140c7c0b470ffb0fc4a581f.png)](https://www.freelug.org/IMG/png/MM_Mini_02.png)
+
+Dans le premier sachet on trouve ScoobyDoo (version debout et avec tête qui à peur).
+
+[![](/media/archive/c1dd82940595a24e1958c563.png)](https://www.freelug.org/IMG/png/MM_Mini_03.png)
+
+Le même de face.
+
+[![](/media/archive/77c44e2c502a5bdd56cf7d3c.png)](https://www.freelug.org/IMG/png/MM_Mini_04.png)
+
+Et son comparse de toujours, Sammy (ici côté tête souriante). Niveau tampographie c’est le strict minimum, par contre on a droit à des bras bicolores.
+
+[![](/media/archive/2412057365721b3fbdc79a6c.png)](https://www.freelug.org/IMG/png/MM_Mini_05.png)
+
+Sammy de dos avec sa tête alternative.
+
+[![](/media/archive/0d2bfc22039572669240a554.png)](https://www.freelug.org/IMG/png/MM_Mini_07-2.png)
+
+On commence la base de la Mystery Machine.
+
+[![](/media/archive/6cdb19e8c25002c106c35e48.png)](https://www.freelug.org/IMG/png/MM_Mini_08.png)
+
+Déjà le volant est placé.
+
+[![](/media/archive/e5e4e6e1c734d3d117b55907.png)](https://www.freelug.org/IMG/png/MM_Mini_09.png)
+
+Le pare-choc arrière assemblé.
+
+[![](/media/archive/6b5bb0c31464a5d1a88a1e44.png)](https://www.freelug.org/IMG/png/MM_Mini_10.png)
+
+Et monté sur la Mystery Machine
+
+[![](/media/archive/92d03888d0c2959759bf1c50.png)](https://www.freelug.org/IMG/png/MM_Mini_11.png)
+
+Au tour du pare-choc avant.
+
+[![](/media/archive/af6dd5d76801a256c83fe80e.png)](https://www.freelug.org/IMG/png/MM_Mini_12.png)
+
+Monté lui aussi.
+
+[![](/media/archive/4d553e60199773b12b43ef79.png)](https://www.freelug.org/IMG/png/MM_Mini_13.png)
+
+Les deux cotés avec de nombreux autocollants.
+
+[![](/media/archive/17b59074d8966136c5e7f467.png)](https://www.freelug.org/IMG/png/MM_Mini_14.png)
+
+La mystery Machine prend forme peu à peu.
+
+[![](/media/archive/5eb30d3a031f8be5253c233d.png)](https://www.freelug.org/IMG/png/MM_Mini_15.png)
+
+Sous un autre angle. Et nous sommes déjà à la fin du premier livret d’instructions.
+
+[![](/media/archive/c4b243b88bf65d8f36a88a1b.png)](https://www.freelug.org/IMG/png/MM_Mini_16.png)
+
+La minifigure de Fred, on reconnait bien son visage.
+
+[![](/media/archive/87582a65ef448c14f56a3210.png)](https://www.freelug.org/IMG/png/MM_Mini_17.png)
+
+De dos avec le visage alternatif en mode effrayé.
+
+[![](/media/archive/de77ac9a49cf8fadf25921bf.png)](https://www.freelug.org/IMG/png/MM_Mini_18.png)
+
+On continue la construction avec le haut et l’intérieur du véhicule. Vous remarquerez au passage la seule pièce (hors enjoliveurs) sérigraphiée, la bande du magnéto. Le tableau de bord étant pour sa part un autocollant
+
+[![](/media/archive/95cfec5e5b2f7199064b85fd.png)](https://www.freelug.org/IMG/png/MM_Mini_19.png)
+
+Installation du système de charnière permettant d’ouvrir l’arrière du van.
+
+[![](/media/archive/2b1c10b0e10a8a3644b3f9bb.png)](https://www.freelug.org/IMG/png/MM_Mini_20.png)
+
+Montage des essieux.
+
+[![](/media/archive/d9c555ecc6b2762faa899c97.png)](https://www.freelug.org/IMG/png/MM_Mini_21.png)
+
+Oh ! Un sandwich ^^
+
+[![](/media/archive/31baf33d91397f50a8571838.png)](https://www.freelug.org/IMG/png/MM_Mini_22.png)
+
+Les écrans de contrôle sont maintenant placés.
+
+[![](/media/archive/4a7df3343b7f769291577546.png)](https://www.freelug.org/IMG/png/MM_Mini_23.png)
+
+On monte les flans, et encore des p#@ !\*/° d’autocollants.
+
+[![](/media/archive/3d2f2e8cc77df0eceb1dcbdb.png)](https://www.freelug.org/IMG/png/MM_Mini_24.png)
+
+On reproduit à l’identique de l’autre côté.
+
+[![](/media/archive/3ed5b5e1a334ee6071f3660b.png)](https://www.freelug.org/IMG/png/MM_Mini_26.png)
+
+Ça prend forme.
+
+[![](/media/archive/dfb9b9a62a2de4229e42bea7.png)](https://www.freelug.org/IMG/png/MM_Mini_27.png)
+
+L’arrière ouvert.
+
+[![](/media/archive/2f4451bd7d8931efed95a3a8.png)](https://www.freelug.org/IMG/png/MM_Mini_28.png)
+
+Les roues sont installées, avec les magnifiques enjoliveurs.
+
+[![](/media/archive/53a1ed50ee903413e36f84b5.png)](https://www.freelug.org/IMG/png/MM_Mini_29.png)
+
+Ça y est Scooby a pris place.
+
+[![](/media/archive/52d097a4ae4f12583c80651c.png)](https://www.freelug.org/IMG/png/MM_Mini_30.png)
+
+Gros plan sur l’intérieur.
+
+[![](/media/archive/724afbccaa81953db84b76e9.png)](https://www.freelug.org/IMG/png/MM_Mini_31.png)
+
+Allez, tout le monde embarque.
+
+[![](/media/archive/0e370350669dd58ba813ece3.png)](https://www.freelug.org/IMG/png/MM_Mini_32.png)
+
+Vue d’un autre angle.
+
+[![](/media/archive/d6d0540473798185b1452046.png)](https://www.freelug.org/IMG/png/MM_Mini_33.png)
+
+De face, il faut avouer que ça a de la gueule (même si le toit n’est pas encore construit).
+
+[![](/media/archive/f8dbc935ad07544a8e64f3c1.png)](https://www.freelug.org/IMG/png/MM_Mini_34.png)
+
+On arrive au troisième sachet et à la troisième minifigure de ce set, le zombie. J’adore sa tête.
+
+[![](/media/archive/88ea8cfabfd5e91f46757ac1.png)](https://www.freelug.org/IMG/png/MM_Mini_35.png)
+
+Le zombie de dos, avec le boutons pour maintenir le masque.
+
+[![](/media/archive/375d0756e5434be2cd0ddd09.png)](https://www.freelug.org/IMG/png/MM_Mini_36.png)
+
+On commence à monter le toit de la Mystery Machine.
+
+[![](/media/archive/09e423e982ae357bcfa0a6e4.png)](https://www.freelug.org/IMG/png/MM_Mini_38.png)
+
+Et hop les barre de toit sont installées.
+
+[![](/media/archive/e9f049672c102568670d4b79.png)](https://www.freelug.org/IMG/png/MM_Mini_39.png)
+
+Enfin la Mystery Machine est complète.
+
+[![](/media/archive/e09a8e24683d1dcc8330fa46.png)](https://www.freelug.org/IMG/png/MM_Mini_40.png)
+
+Vue de l’arrière avec les pans ouverts.
+
+[![](/media/archive/325eef6b27740ab76865c450.png)](https://www.freelug.org/IMG/png/MM_Mini_41.png)
+
+Début du montage de l’Épouvant’arbre
+
+[![](/media/archive/e75eee22bc93997162164f60.png)](https://www.freelug.org/IMG/png/MM_Mini_42.png)
+
+Mais c’est un automate, la preuve un écran de contrôle est monté dessus.
+
+[![](/media/archive/93630fc05cf4c2b55fb84845.png)](https://www.freelug.org/IMG/png/MM_Mini_43.png)
+
+Encore un autocollant pour la tête de l’arbre...
+
+[![](/media/archive/df1f48589c70d635cd30a1a9.png)](https://www.freelug.org/IMG/png/MM_Mini_44.png)
+
+Les bras sont en place.
+
+[![](/media/archive/3764f0ab908cc51eaf5410dd.png)](https://www.freelug.org/IMG/png/MM_Mini_45.png)
+
+L’Épouvant’arbre est maintenant fini, le zombi prend place sur le marche-pied situé derrière.
+
+[![](/media/archive/320dd813d2c48b902d33e8ba.png)](https://www.freelug.org/IMG/png/MM_Mini_46.png)
+
+Et voilà le set au complet.
+
+* * *
+
+**Mon avis sur le 75902**
+
+Très bon sentiment pour ce set emblématique, très sympa à construire. Le rendu final est vraiment top.
+
+Mes deux seuls regrets sont les autocollants trop nombreux et l’étroitesse de la Mystery Machine (je doute de pouvoir y installer Vera et Daphné).  
+A part ça, c’est un set first choice à posséder absolument.

@@ -1,0 +1,24 @@
+---
+title: "RestoLEGO à Lyon, 18 septembre"
+permalink: "/articles/restolego-a-lyon-18-septembre/"
+section: "/regions/rhone-alpes/"
+published_at: "2010-09-18T17:00:00Z"
+authors: [ "Pierre LAURENGE" ]
+description: "Je vous propose de nous retrouver le samedi 18 septembre, à partir de 19h00."
+source_id: 1182
+source_url: "https://www.freelug.org/spip.php?article1182"
+---
+
+Je vous propose de nous retrouver le samedi 18 septembre, à partir de 19h00.
+
+Nous allons diner et manger des Flammekueche au [Flam’S](http://www.flams.fr/resto_lyon.php), à Lyon :  
+12 rue de Tupin  
+69002 LYON
+
+Merci de [s’inscrire sur le wiki](http://wiki.ipsyn.net/tiki-index.php?page=Resto+Lyon+septembre+2010) pour la réservation.
+
+Par contre, ne seront admis à la table uniquement ceux qui auront ramené leur réalisation sur le [Trifouillis du mois : les toilettes publiques](http://photos.freelug.org/main.php/v/FreeLUG/Triffouillis/toilettes/) !
+
+Vous pourrez en profiter pour récupérer vos commandes de boîtes exclusives ou des séries complètes de minifigs, ou bien encore vos BrickJournal.
+
+Alors à très vite !

@@ -1,0 +1,53 @@
+---
+title: "Exposition Mulsanne 2023 à Mulsanne 20 et 21 mai 2023"
+permalink: "/articles/exposition-mulsanne-2023-a-mulsanne-20-et-21-mai-2023/"
+section: "/regions/pays-de-la-loire/"
+published_at: "2024-01-30T13:37:27Z"
+authors: [ "rémi bourré" ]
+description: "Accompagné de Manu et Edouard, nous avons participés à cette
+  nouvelle édition de l’exposition de briques Lego organisée par nos amis de La
+  Briques Mulsanne."
+source_id: 3269
+source_url: "https://www.freelug.org/spip.php?article3269"
+---
+
+Accompagné de Manu et Edouard, nous avons participés à cette nouvelle édition de l’exposition de briques Lego organisée par nos amis de La Briques Mulsanne.
+
+Pour cette édition, petite nouveauté, nos dioramas étaient exposés sur des ilots indépendants. Le public pouvait donc admirer également l’envers du décor !
+
+Lors de ce weekend, Manu avait apporté une série de véhicules technic qu’il a pu faire évoluer dans la salle.
+
+[![](/media/archive/a0c4307699fad909772efdc9.jpg)](https://lh3.googleusercontent.com/pw/ABLVV86rUIeOvd1kZWQdOQM6BxbLjKx-5i-zXNn_B9lhiEEudcDOKjb1_K_S_Xb1skJnqMPKVm7klzieSNn-x8Ly8gZ0groLBW2a-gnpgZGHgGZeJtBRhs5kkEjjOmXqTlMYApVM6XpFunltgSa9bkGKV53i=w1441-h963-s-no-gm)
+
+Edouard était venu avec un réseau de train, des tours Eiffel et plein de briques
+
+[![](/media/archive/277278ae81a0da20665b0354.jpg)](https://lh3.googleusercontent.com/pw/ABLVV84otU5tgp1VGmVxOsGDAz9fyIjPSgGeBvGeDzh9mXIZSbcC16adTegJRw22nxn0g2x-FhGgAmqdP7KIuCO5SaW5wAPhhpxVv_J92N_HgecxlNC4qlQO67Nk364UzIWktRFarGqLZmbHcCXj97ntmjtK=w1441-h963-s-no-gm)
+
+Et de mon côté, j’ai présenté un diorama médiéval avec une rivière en eau :
+
+[![](/media/archive/848d92451583072e8ca12405.jpg)](https://lh3.googleusercontent.com/pw/ABLVV85Ghf_sDd9h8dZIC1LI3RjWLSMhMJaTVZT_T9UR-sHIXVgwzCDgrHWVXKv6V5_8uGeBu62Y_8voqpDnf998KHA0vuOiVJ8oPSnBO18koDs9IDhjhkD7G_EHsoZpwufPA7zUFNwRPOrm91ZTK8_IggX6=w1441-h963-s-no-gm)
+
+C’était également la possibilité de croiser d’anciennes connaissances, de découvrir une reproduction du Futuroscope et Disneyland en brique Lego, un GBB et de participer aux 100 ans des 24h du Mans avec un diorama et une mosaïque :
+
+[![](/media/archive/6eb6fa5b5407922d698c12e9.jpg)](https://lh3.googleusercontent.com/pw/ABLVV87TvJKmLgOYzDGbA5b7G-NkSUqur3KNy8uu4CZpxltyaB3lICi2E-fFz8T_TkR2ef6yM5QeITvHflMDiocfSQE4htpFnfiSCpUPP8s1GKD9bupAiQHP-T3-4p7bKNGuF1l6vrjikQdODM3eI1hsBjWD=w1441-h963-s-no-gm)
+
+[![](/media/archive/e3ed4b11b2ba903734e68d89.jpg)](https://lh3.googleusercontent.com/pw/ABLVV86lpzGiGRNAAXcIH-8N403i5ccFKuja9z_TUbSm9VJzC94cHUa5Umkao_HmIuquvGXkCdMTleh4nTsfbO7dvv093enUeGUXjiZom-LO-3phQxYS8O08hWubFEuvcxx2DwmcONdFy-EFvLNK9RxmDFix=w1441-h963-s-no-gm)
+
+[![](/media/archive/b80af79089637fb9e6aa8f98.jpg)](https://lh3.googleusercontent.com/pw/ABLVV86z411BddkUjjIoiOW2eGWPfFgo3tXiHtAHT8ir0bRgZW9g7nPOzJC0V7134vZi-sGZ7jkkX2aTtRhONR8oMGXyhj2xc7qHJ9m8cR6TrMm19otoW8UtsSh1mN4rQZ-odI8nnPL-5nwmhAp-t_sJkQes=w1441-h963-s-no-gm)
+
+[![](/media/archive/17d9ebb030eae57cde700901.jpg)](https://lh3.googleusercontent.com/pw/ABLVV85r-C_evOEH3zlKozJtB88mZjKA-l9OS4RYp8B55ZJKYAZZgyrjD2cbn5BulmfC2p0VQUuawxZsN3ZGk7HOOAtn36AMilbh4y_jMUPfiMviKPQPccD0W7yK8dxr-AxSsvBd-kIRp1TDcDvESYBOcTNf=w1441-h963-s-no-gm)
+
+[![](/media/archive/20d9ede93a55e08b2278ebe2.jpg)](https://lh3.googleusercontent.com/pw/ABLVV84rD_ZveUIyw6X3kC4_ZK5h0crs_1QaMCQFoUG7-ggmWFal9FBtLKeLyGXlTmG9OLFP6XM_jufcp5c8e_B7Rc-I3ke-aoKUXvLvJR0Pjdc585xXHLd9ROltlaLsN6y4vCLAH7OtEiDhoQrYXCU9cSE7=w1441-h963-s-no-gm)
+
+Bien d’autres exposants étaient présents dont voici un échantillon :
+
+[![](/media/archive/2874acfdcf9437bf6096bc19.jpg)](https://lh3.googleusercontent.com/pw/ABLVV86DChJ8uoPQNZCEzhq_pfEYXJXU2qGDGUwazph6v_AEEieTyF_Xun0z3P0k8-6U8rYHAkfzHxzfv-2W-qCTT0di1afbdFcJypoS5h3QLJKHMnEnBzqeV_667VVJWQY6xSQZYgyTMk2qEUVBvPfwphII=w1441-h963-s-no-gm)
+
+[![](/media/archive/fca1cea7a883caa3cb25d6cc.jpg)](https://lh3.googleusercontent.com/pw/ABLVV861R_eW-8z-UGsz9IxSLDe852VTOy_yNx1FlDNrvbsZeOYx2AFzGA1Bm4NAD7rMegOlRJkuXYH7GYp7mkUB3NTIsUVN1VaoZVMA-niMESdVD-si6VzJejYAIXSuxoNwoGf1ovBW_hRNqAfIFN6qAtiA=w1441-h963-s-no-gm)
+
+[![](/media/archive/7c8f9da04e047454e18a2710.jpg)](https://lh3.googleusercontent.com/pw/ABLVV85-a0I1DMyYH6icuPz9b-ZusVuFqkbgomPeXUoU50ls9Sz3iGvdNca0v15zPITS-AqUf6KbtQ-TaZ1ZsFEt3DO-NhWXdLFeAuPK8nOClVNmT55qLonuV8QtMjoJp-x8eo2QI95sSHOtrKvyU8kmVeSh=w1441-h963-s-no-gm)
+
+Retrouver l’ensemble de mes photos sur ce lien :  
+[Photos](https://photos.google.com/share/AF1QipNNSnCEj8HFnaxQQCkTEvwKTon5-KRSIcw3-0yhCGSAOaqcm3ma9blSg1vGdUq6ig?key=TXVfOEZtWjNsazJkRFA0RzlTSHI4bEdrZk5tUjR3)
+
+Voir en ligne : [Toutes mes photos](https://photos.google.com/share/AF1QipNNSnCEj8HFnaxQQCkTEvwKTon5-KRSIcw3-0yhCGSAOaqcm3ma9blSg1vGdUq6ig?key=TXVfOEZtWjNsazJkRFA0RzlTSHI4bEdrZk5tUjR3)

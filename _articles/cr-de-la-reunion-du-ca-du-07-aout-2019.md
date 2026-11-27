@@ -1,0 +1,76 @@
+---
+title: "CR de la réunion du CA du 07 Août 2019"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-07-aout-2019/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2019-11-22T17:03:40Z"
+authors: [ "Jac", "Philippe ZYTKA", "Sébastien HAMON" ]
+description: "CR de la réunion du CA du 07 Août 2019"
+source_id: 2976
+source_url: "https://www.freelug.org/spip.php?article2976"
+---
+
+CR de la réunion du CA du 07 Août 2019
+
+## Ordre du jour
+
+_Début de séance : 20h50_
+
+_Présents (6) :_  
+**–** Erik Amzallag  
+**–** Pierre Charles  
+**–** Jérôme Teissier  
+**–** Richard Lemeiter  
+**–** Philippe Label  
+**–** Pierrick Francou
+
+_Excusés (3) :_  
+**–** Xavier Viallefont  
+**–** Sébastien Hamon  
+**–** Xavier Claudel
+
+_Absents (2) :_  
+**–** Pierre Laurenge  
+**–** Philippe Zytka
+
+_Ordre du jour :_
+
+**–** Expositions  
+**–** Bilan Briqu’Events  
+**–** Remplacement d’Alexis  
+**–** Choix du lieu de la prochaine Assemblée Générale  
+**–** Point adhérents
+
+## Expositions
+
+L’association FreeLUG a été invitée à participer aux portes ouvertes de la halte SNCF d’Irigny qui aura lieu à Irigny (69) les 14 et 15 Septembre 2019. Cette exposition a été validée par les membres du CA.
+
+L’association FreeLUG a été invitée à participer au festival du jeu qui aura lieu à Colomiers (31) les 19 et 20 Octobre 2019. Cette animation a été validée par les membres du CA.
+
+L’association FreeLUG a été invitée à participer à une reconstitution historique au musée de la légion d’Aubagne (13). Elle sera visible du 22 Novembre 2019 au 22 Janvier 2020. Cette exposition a été validée par les membres du CA.
+
+L’association FreeLUG a été invitée à participer à une animation de Noël qui aura lieu à La Valette du Var (83) les 23 et 24 Décembre 2019 puis les 3 et 4 Janvier 2020. Cette animation a été validée par les membres du CA.
+
+L’association FreeLUG a été invitée à participer aux portes ouvertes de l’association de passionnés de trains à vapeur vive, qui aura lieu à Longjumeau (91) les 21 et 22 Mars 2020. Cette exposition a été validée par les membres du CA.
+
+## Bilan Briqu’Events
+
+-   Briqu’Expo Veneux-Les Sablons : Daniela nous demande une validation de l’affiche. Aucun problème relevé par rapport à ce que nous demande TLC. C’est donc validé pour l’affiche.
+
+-   Nous attendons le bilan comptable de la Briqu’Expo Rhône-Alpes. Il sera prêt pour la réunion de Septembre d’après les organisateurs.
+
+## Remplacement d’Alexis
+
+Suite à la démission d’Alexis parmi les membres du CA, nous étudions la possibilité de le remplacer. Il est possible de demander à la personne ayant obtenu le plus de voix à la dernière AG sans être élue de reprendre le mandat laissé vacant. Nous allons lui demander personnellement. Si elle n’est pas d’accord, nous resterons à 11 jusqu’à la prochaine AG.
+
+## Choix du lieu de la prochaine Assemblée Générale
+
+En raison des élections municipales 2020, l’Assemblé Générale se déroulera probablement au mois de février et dans une commune différente de Veneux-Les Sablons.
+
+## Point adhérents
+
+374 adhérents à jour de cotisation, comme le mois dernier.
+
+_Fin de séance : 22h00_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

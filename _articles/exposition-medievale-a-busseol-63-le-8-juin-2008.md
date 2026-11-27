@@ -1,0 +1,22 @@
+---
+title: "Exposition médiévale à Busseol (63) le 8 juin 2008"
+permalink: "/articles/exposition-medievale-a-busseol-63-le-8-juin-2008/"
+section: "/regions/auvergne/"
+published_at: "2008-06-08T05:00:00Z"
+authors: [ "Jac" ]
+description: "Le dimanche 8 Juin 2008, le village de Busseol dans le Puy de Dôme
+  fait son vide grenier. Pour l’occasion, il ouvre ses salles communales pour
+  une exposition artisanale."
+source_id: 762
+source_url: "https://www.freelug.org/spip.php?article762"
+---
+
+Le dimanche 8 Juin 2008, le village de Busseol dans le Puy de Dôme fait son vide grenier. Pour l’occasion, il ouvre ses salles communales pour une exposition artisanale.
+
+L’association FreeLUG a été conviée par mon intermédiaire à participer à cette journée. Le village est très ancien et surplombé par un très beau château du XIIe siècle. Du coup, cette journée sera orientée médiévale, avec des châteaux et des chevaliers.
+
+L’exposition est ouverte toute la journée de 7h à 17h peut-être même avant et au delà, puisqu’il y a aussi un vide grenier. L’entrée est gratuite. Seul l’accès au village risque de poser problème, par le nombre de visiteurs, et par son lieu !!
+
+Ce sera un plaisir de vous rencontrer d’où que vous veniez...
+
+[Mais où se trouve Busseol ??](http://www.passionchateaux.com/ch_busseol.htm)

@@ -1,0 +1,176 @@
+---
+title: "Compte-rendu de la réunion de CA du 11/12/2024 (Décembre 2024)"
+permalink: "/articles/compte-rendu-de-la-reunion-de-ca-du-11-12-2024-decembre-2024/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2024-12-22T08:07:55Z"
+authors: [ "Didier MALON" ]
+description: "Début de séance (21h02)"
+source_id: 3283
+source_url: "https://www.freelug.org/spip.php?article3283"
+---
+
+**Début de séance (21h02)**
+
+Veuillez trouver ci-dessous le compte-rendu de la réunion du Conseil d’Administration de l’Association FreeLUG de Décembre 2024.
+
+**Participants :**
+
+• Emmanuel Bonnard : Président  
+• Didier Malon : Secrétaire  
+• Nicolas Charnay : Trésorier  
+• Sébastien Hamon : Secrétaire adjoint et responsable matériel  
+• Stéphane Paradot : Vice Président  
+• François Disdier : Community Manager
+
+**Excusés :**
+
+• Nicolas Weeger : Trésorier adjoint  
+• Erik Amzallag : Responsable suivi Expo/Animation/REF/COR
+
+**Ordre du jour :  
+**
+
+1\. Validation des expositions/animations à venir :  
+• Exposition à Antony (92) ; les 8 et 9 Mars 2025 (réception du bulletin d’inscription).  
+• Demande de Pierre et Cathy pour un atelier à Fonbojeux (31) les 8 et 9 Mars 2025 (participation déjà réalisée en 2020, 22, 23 et 24).  
+• Demande de Pierre et Cathy pour un atelier au METT de Toulouse les 9, 10 et 11 Mai 2025.  
+• Demande de Pierre et Cathy pour un atelier au festival du jeu de Seysses (31) le 15 Mars 2025 (participation déjà réalisée en 2024).  
+• Demande de Pierre et Cathy pour un atelier à Blagnac (31) le 22 Mars 2025 (participation déjà réalisée en 2023 et 2024).  
+• Demande de Pierre et Cathy pour un atelier à L’Isle Joudain (32) les 1er et 2 Mars 2025 (participation déjà réalisée en 2022, 23 et 24).  
+• Demande de Pierre et Cathy pour un atelier à Ramonville (31) le 9 Février 2025 (participation déjà réalisée en 2020, 22, 23 et 24).  
+• Invitation transmise par Mickaël HAYMANN) à participer à l’exposition La Briqu’Fol au FOLGÖET les 12 et 13 Avril 2025.  
+2\. Besoins matériels :  
+• Commande Manutan (livraison en cours).  
+• Prise en charge, si bénéfices, de l’achat des bonbons pour l’animation de De-nis LAURENCON, lors de la BE de Villiers : Coût une vingtaine d’euro.  
+• Création de visuels pour l’Occitanie avec logo spécifique FreeLUG Occitanie (demande de Nicolas C.).  
+• Achat Kakemono / bâches pour publicité d’exposition, sur le budget d’une expo (demande de Nicolas C.)  
+• Demande d’achat de briques gravées/imprimées pour l’exposition 2025 de Fontaine sur Saône (demande de Xavier Claudel).  
+• Demande de Denis HUOT, concernant le prêt de l’imprimante à cartes pour présentation des sets  
+3\. Questions diverses :  
+• Point Bulk : Nombre de pré-inscrits et de refus.  
+• Problème avec les listes de diffusion FreeLUG.  
+• Reportage M6, retour de François ?  
+• Demande de Stéphane GOUJON (EDF) pour la réalisation d’une maquette en LEGO Technics (mail du 21/11).  
+• Demande de Lucie PENNEC concernant l’expertise et la vente d’une collection LEGO.  
+• Demande d’assistance auprès de Denis HUOT pour organisation d’une Briqu’Expo en 2025.  
+4\. Point sur les actions en cours
+
+**Validation des expositions/animations à venir :**
+
+• Exposition à Antony (92) ; les 8 et 9 Mars 2025 (réception du bulletin d’inscription).
+
+Nous avons reçu le dossier d’inscription. Un appel à volontaires va être lancé sur le forum afin de définir la surface d’exposition désirée. En parallèle le calendrier des expos 2025 va également être mis en ligne. **\=> Action Didier (12-01)**
+
+• Demande de Pierre et Cathy pour un atelier à Fonbojeux (31) les 8 et 9 Mars 2025 (participation déjà réalisée en 2020, 22, 23 et 24).  
+• Demande de Pierre et Cathy pour un atelier au METT de Toulouse les 9, 10 et 11 Mai 2025.  
+• Demande de Pierre et Cathy pour un atelier au festival du jeu de Seysses (31) le 15 Mars 2025 (participation déjà réalisée en 2024).  
+• Demande de Pierre et Cathy pour un atelier à Blagnac (31) le 22 Mars 2025 (participa-tion déjà réalisée en 2023 et 2024).  
+• Demande de Pierre et Cathy pour un atelier à L’Isle Joudain (32) les 1er et 2 Mars 2025 (participation déjà réalisée en 2022, 23 et 24).  
+• Demande de Pierre et Cathy pour un atelier à Ramonville (31) le 9 Février 2025 (parti-cipation déjà réalisée en 2020, 22, 23 et 24).
+
+Toutes ces demandes ont été inscrites à l’ordre du jour pour confirmation de leur approbation. Elles ont été validées au niveau du CoR Occitanie et sont pour la plupart des reconductions d’évènements passés.
+
+• Invitation transmise par Mickaël HAYMANN) à participer à l’exposition La Briqu’Fol au FOLGÖET les 12 et 13 Avril 2025.
+
+Invitation communiquée à Emmanuel lors de l’expo d’Hérouville. Elle est organisée par le Comité des Fête du FOLGÖET (29), les repas et le logement sont pris en charge par l’organisateur. Plus de détails seront communiqués en début d’année 2025. Le principe de notre participation à cette exposition est validé par les membres du CA.
+
+**Besoins matériels :**
+
+• Commande Manutan (livraison en cours).
+
+La commande de matériel de rangement et de manutention à l’attention du CoR Occitanie a été passée et la livraison est en cours chez Nicolas C. Pas d’autre question sur ce point.
+
+• Prise en charge, si bénéfices, de l’achat des bonbons pour l’animation de Denis LAURENCON, lors de la BE de Villiers : Coût une vingtaine d’euro.
+
+La consommation a été plus importante que l’anticipation qui avait été faite, Denis demande donc une prise en charge de ses achats, si les bénéfices de la Briqu’Expo de Villiers le per-mettent. Le budget serait de l’ordre d’une vingtaine d’euro. Le CA approuve le remboursement sur justificatif des achats réalisés, sur le budget de la BE, si bénéfice sinon sur budget FreeLUG.
+
+• Création de visuels pour l’Occitanie avec logo spécifique FreeLUG Occitanie (de-mande de Nicolas C.).
+
+La création et l’utilisation d’un visuel spécifique pour le CoR Occitanie découle d’une expres-sion de besoin remontée de plusieurs régions. Emmanuel propose à ce que ce sujet soit dé-battu de façon plus générale lors d’une réunion physique du CA, à savoir celle prévue pour l’organisation de notre prochaine AG.
+
+• Achat Kakemono / bâches pour publicité d’exposition, sur le budget d’une expo (de-mande de Nicolas C.)
+
+Les supports visuels sont envisagés pour améliorer la visibilité de l’association et préciser la localisation sur une exposition des emplacements concernant les ateliers, les expositions de modèle ou l’animation mosaïque.
+
+• Demande d’achat de briques gravées/imprimées pour l’exposition 2025 de Fontaine sur Saône (demande de Xavier Claudel).
+
+Le CA remarque qu’effectivement le CoR Rhône-Alpes sollicite des dépenses alors qu’aucune exposition locale n’est programmée pour générer des rentrées de fonds. La demande serait de 25 briques gravées ou imprimées. Après débat, le CA valide cette demande, Didier transmet la réponse à Xavier. **\=> Action Didier (12-02)**
+
+• Demande de Denis HUOT, concernant le prêt de l’imprimante à cartes pour présenta-tion des sets
+
+L’imprimante à cartes acquise par FreeLUG pour l’impression des badges adhérents est déposées chez Xavier CLAUDEL. Elle n’a pas vocation à être utilisée pour répondre à des besoins personnels. La demande est donc rejetée. Emmanuel se charge de contacter Denis pour lui préciser notre décision. **\=> Action Emmanuel (12-03)**
+
+**Questions diverses :**
+
+• Point Bulk : Nombre de pré-inscrits et de refus.
+
+Il y a 143 inscrits sur la commande de Bulk et il y a eu 16 refus, principalement justifiés par l’absence d’action (participation à des expos ou à la rédaction d’articles durant l’année en cours).
+
+Emmanuel demande à Stéphane de faire un petit récap dans l’espace CA du forum pour dé-tailler les différents cas de refus de manière à ce que les différents membres du CA puissent répondre s’ils sont interrogés sur le sujet. **\=> Action Stéphane (12-04)**
+
+Nous déplorons bien évidemment le délais trop court donné à nos adhérents quant à la diffu-sion des dispositions de cette commande de bulk.
+
+• Problème avec les listes de diffusion FreeLUG.
+
+Faisant suite aux problèmes d’indisponibilités des listes de diffusion FreeLUG, des opérations de migration de serveurs ont été engagées. Il n’y a pas à ce jour besoin de matériel supplé-mentaire.
+
+• Reportage M6, retour de François ?
+
+Un journaliste de M6 nous a contacté mi-Novembre via la boîte contact. François s’est pro-posé pour lui répondre.
+
+• Demande de Stéphane GOUJON (EDF) pour la réalisation d’une maquette en LEGO Technics (mail du 21/11).
+
+Un responsable d’EDF nous a contacté fin Novembre via la boîte contact pour savoir si nous pouvions l’assister dans la réalisation d’une maquette mettant en œuvre des technologies Rasberry Pi / Arduino. Cette demande ne rentrant pas dans les objectifs de notre association une réponse négative sera adressée à M. GOUJON. **\=> Action Emmanuel (12-05)**
+
+• Demande de Lucie PENNEC concernant l’expertise et la vente d’une collection LEGO.
+
+Cette demande ne rentrant pas dans les objectifs de notre association une réponse négative sera adressée à Mme PENNEC. **\=> Action Emmanuel (12-06)**
+
+Ce type de demande nous étant souvent adressé, Didier propose à ce qu’un article rappelant les démarches possibles entre les sites de vente en ligne et l’espace privé des adhérents FreeLUG soit mis en ligne pour apporter réponse aux visiteurs souhaitant se débarrasser de leur collection de briques LEGO.
+
+• Demande d’assistance auprès de Denis HUOT pour organisation d’une Briqu’Expo en 2025.
+
+Emmanuel a pris contact avec Denis pour discuter de l’organisation d’une éventuelle BE envisagée par Denis.
+
+• Point ajouté hors Ordre du Jour : Plusieurs adhérents se plaignent du manque de visi-bilité de FreeLUG sur les réseaux sociaux.
+
+Didier précise qu’il n’intervient que sur la page du groupe FreeLUG sur FB et qu’il a cessé ses actions sur les autres médias en prenant en charge le secrétariat de FreeLUG.
+
+François indique avoir des difficultés dans le suivi des actualités. Sébastien lui suggère de s’abonner au Meta Business de notre page FB/Insta et de pouvoir ainsi suivre plus facilement les évènements.
+
+**Point sur les actions en cours :**
+
+Voir le tableau récapitulatif en fin de ce compte-rendu.
+
+**Fin de séance (22h34)  
+**
+
+**Récapitulatif des actions :**
+
+Les lignes en italiques indiquent les actions closes.
+
+Item Action Acteurs Echéance  
+04-07 Budget des CoR. Amélioration du suivi Nicolas C. Dossier en cours d’analyse par Emmanuel  
+05-01 Demande de devis d’extension de garantie d’assurance Emmanuel Juin  
+05-08 Amélioration de la visibilité du calendrier des évènements sur le forum Erik A définir  
+07-07 Faire le point sur les commandes de vêtements Emmanuel Reste un ou deux articles à ajouter à la liste, puis publication sur le forum.  
+08-02 Demande à Dominique des précisions quant aux modalités d’organisation de son exposition de Saint-Soupplets Erik En cours  
+_10-03 Demande d’informations supplémentaires pour l’exposition Fabrique Ta Brique (invitation de Glabrique) des 1er et 2 Février 2025 à la Braconnière (53) Didier Réalisée  
+10-04 Demande d’informations supplémentaires pour l’exposition des 7 et 8 Juin dans le cadre de la convention Geek à Pierre Bénite (69) Didier Réalisée_  
+10-05 Localisation de 50 briques Lavande Sébastien / Nicolas C. En cours  
+10-06 Organisation d’une réunion spécifique avec Erik et Nicolas C. concernant l’amélioration de la gestion du matériel Sébastien En cours  
+11-01 Réponse explicative pour rejet inscription à l’exposition d’Agen des 26 et 27 Avril 2025 Sébastien En cours  
+11-02 Commande de 2 rouleaux de nappes supplémentaires pour CoR Occitanie Erik / Nicolas C. En cours  
+11-03 Définir design pour nouvelle commande de badges adhérents Erik / Nicolas C. En cours  
+11-04 Mise en ligne commande nouveaux badges adhérents Erik A suivre après 11-03  
+12-01 Appel à volontaires Exposition d’Antony 8 et 9 Mars 2025 Didier En cours  
+12-02 Confirmation accord CA pour briques gravées pour Fontaine sur Saône Didier En cours  
+12-03 Réponse concernant le prêt de l’imprimante à badge Emmanuel En cours  
+12-04 Récapitulatif sur la commande de bulk 2025 Stéphane En cours  
+12-05 Réponse concernant l’assistance à projet maquette EDF Emmanuel En cours  
+12-06 Réponse concernant demande à expertise Emmanuel En cours
+
+Récapitulatif des actions :
+
+Les lignes grisées indiquent les actions closes

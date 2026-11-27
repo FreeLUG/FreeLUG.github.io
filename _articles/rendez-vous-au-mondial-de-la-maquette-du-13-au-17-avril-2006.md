@@ -1,0 +1,26 @@
+---
+title: "Rendez-vous au Mondial de la Maquette du 13 au 17 Avril 2006"
+permalink: "/articles/rendez-vous-au-mondial-de-la-maquette-du-13-au-17-avril-2006/"
+section: "/regions/ile-de-france/"
+published_at: "2006-04-13T08:00:00Z"
+authors: [ "Didier MALON" ]
+description: "FreeLUG participera pour la deuxième fois au Mondial de la
+  Maquette et du Modèle réduit, à la Porte de Versailles, à Paris du 13 au 17
+  Avril 2006."
+source_id: 467
+source_url: "https://www.freelug.org/spip.php?article467"
+---
+
+FreeLUG participera pour la deuxième fois au Mondial de la Maquette et du Modèle réduit, à la Porte de Versailles, à Paris du 13 au 17 Avril 2006.
+
+Venez nous rejoindre pour participer ou simplement pour nous rendre visite, à la porte de Versailles à Paris du 13 au 17 Avril 2006.
+
+Une nouvelle fois hébergés par nos amis de la FFMF, nous serons une poignée de membres de FreeLUG présents durant les 5 jours de l’exposition pour présenter nos réalisations sur un grand plateau de 8x2m.
+
+A ce diorama, évidemment dédié aux chemins de fer européens, puisque l’on nous annonce des matériels venant de Belgique et des Pays-Bas, nous ajouterons également une table pour exposer le savoir faire de nos techniciens à travers un GBB, qui ne manquera pas d’obtenir, c’est sûr le même succès que lors de nos expositions au Legoworld ou à la Ville du Bois.
+
+Pour tous les détails, rendez-vous à [la page wiki](http://wiki.freelug.org/tiki-index.php?page=Mondial+de+la+Maquette+%C3%A0+Paris).
+
+Voir également l’article [Retour sur le Mondial de la Maquette](/articles/retour-sur-le-mondial-de-la-maquette/).
+
+A bientôt !

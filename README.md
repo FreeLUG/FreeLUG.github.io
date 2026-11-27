@@ -8,6 +8,48 @@ amélioration JavaScript facultative ; tous les articles restent accessibles san
 
 ## Modifier les contenus
 
+### Préparer les adresses descriptives des articles
+
+La migration des adresses descriptives est appliquée. Les rapports
+[articles](scripts/seo/article-url-mapping.json) et
+[rubriques](scripts/seo/section-url-mapping.json) conservent les anciens fichiers
+et adresses ainsi que leurs remplacements. Ne pas les régénérer : ils servent
+de registre de migration. Les identifiants historiques, dates, signatures et
+adresses des publications d’origine sont conservés dans les métadonnées.
+
+Les articles utilisent `/articles/titre-descriptif/`, indépendamment de leur
+rubrique. Les rubriques suivent leur hiérarchie : `/association/statuts/`,
+`/regions/bretagne/`, `/themes/train/`. Les profils d’auteurs gardent leurs
+adresses existantes. Les relations et liens Markdown utilisent les nouvelles
+adresses. Ne pas changer une adresse publiée lorsque son titre change.
+
+Les adresses numériques provisoires `/articles/123/` et `/rubriques/123/`
+n’ont jamais été publiées et ne génèrent plus de pages de redirection.
+Les véritables adresses historiques `spip.php?article123`, `?rubrique123`
+et `?auteur123` restent prises en charge par le registre
+[_data/legacy_urls.json](_data/legacy_urls.json) et le script de compatibilité.
+Les formes `id_article=123`, `id_rubrique=123`, `id_auteur=123` et les anciens
+chemins `article123.html`, `rubrique123.html`, `auteur123.html` sont reconnus.
+Les identifiants inconnus ou contradictoires ne déclenchent aucune redirection.
+
+La page statique `/spip.php/`, exclue du sitemap et marquée `noindex`, sert
+de point d’entrée. Un hébergeur statique normalise `/spip.php?article123`
+vers `/spip.php/?article123`, puis le navigateur rejoint directement la nouvelle
+adresse en conservant son fragment. La page 404 utilise le même script lorsque
+la normalisation n’est pas disponible. Les autres paramètres SPIP ne sont pas
+transmis aux nouvelles pages statiques. Ce mécanisme nécessite JavaScript ;
+GitHub Pages ne permet pas de véritables réponses HTTP 301 vers les articles
+en fonction des paramètres. Pour cela, configurer un proxy ou un autre hébergement.
+Les liens externes et les adresses des sources restent inchangés.
+
+Le domaine canonique de production est `https://www.freelug.org`, défini dans
+[_config.yml](_config.yml). Le sitemap exclut les redirections et la page 404.
+Les articles proposent des métadonnées de partage et des données structurées
+`Article`, sans inventer de date de modification ou de description d’image.
+Après `bundle exec jekyll build`, exécuter `node scripts/check-site-links.mjs`
+et `node scripts/check-article-previews.mjs`. Ces vérifications tournent aussi
+dans le workflow GitHub Pages.
+
 1. Commiter et pousser les fichiers sur GitHub.
 2. Ouvrir [app.pagescms.org](https://app.pagescms.org) et se connecter avec GitHub.
 3. Autoriser l’application GitHub Pages CMS pour `FreeLUG/FreeLUG.github.io`.
@@ -35,9 +77,19 @@ recharger la configuration dans Pages CMS.
 ### Créer une rubrique ou un article
 
 Dans **Rubriques**, ajouter un titre, une adresse unique terminée par `/`
-(par exemple `/rubriques/alsace/`), une rubrique parente et la présentation.
+(par exemple `/regions/alsace/`), une rubrique parente et la présentation.
 Seules les rubriques principales n’ont pas de parent. Ne jamais choisir la
 rubrique elle-même ou l’un de ses descendants comme parent.
+
+Le champ facultatif **Vignette de la rubrique** permet de choisir une image
+locale dans la médiathèque. Elle apparaît dans l’en-tête de la rubrique, sa
+carte **Les rubriques** et les cartes de navigation de l’accueil, sans recadrage
+ni déformation. Les cartes chargent les images à la demande. Une rubrique sans
+vignette conserve sa présentation textuelle ; aucune image n’est inventée.
+Les vignettes historiques des thèmes sont enregistrées dans `media/themes/` ;
+le champ en lecture seule **Vignette d’origine** conserve leur URL source.
+La vignette générique du site historique est conservée lorsqu’une rubrique
+l’utilise, et son fichier est partagé entre les rubriques concernées.
 
 Dans **Articles**, ajouter un titre, une adresse unique (par exemple
 `/articles/ma-creation/`), sélectionner la rubrique, puis rédiger le contenu.
@@ -287,4 +339,5 @@ Ouvrir ensuite <http://localhost:4000/>. Pour vérifier uniquement la constructi
 
 ```shell
 bundle exec jekyll build
+node scripts/check-section-thumbnails.mjs
 ```

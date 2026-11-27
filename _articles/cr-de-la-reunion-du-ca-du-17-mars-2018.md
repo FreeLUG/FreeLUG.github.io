@@ -1,0 +1,80 @@
+---
+title: "CR de la réunion du CA du 17 mars 2018"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-17-mars-2018/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2018-04-22T07:58:18Z"
+authors: [ "Jac", "Sébastien HAMON" ]
+description: "CR de la réunion du CA du 17 mars 2018"
+source_id: 2871
+source_url: "https://www.freelug.org/spip.php?article2871"
+---
+
+CR de la réunion du CA du 17 mars 2018
+
+## Ordre du jour
+
+_Début de séance : 17h50_
+
+_Présents (10) :_  
+**–** Erik Amzallag  
+**–** Pierre Charles  
+**–** Xavier Viallefont  
+**–** Sébastien Hamon  
+**–** Jérôme Teissier  
+**–** Richard Lemeiter  
+**–** Philippe Label  
+**–** Pierrick Francou  
+**–** Pierre Laurenge  
+**–** Alexis Philippot
+
+_Excusés (2) :_
+
+**–** Philippe Zytka  
+**–** Xavier Claudel
+
+_Absents (0) :_
+
+_Ordre du jour :_  
+**–** Composition du bureau  
+**–** Attribution des rôles  
+**–** Sujets divers
+
+## Composition du bureau
+
+A l’issue de l’Assemblée Générale de ce jour, nous nous sommes réunis pour élire notre nouveau bureau dont voici la composition :
+
+-   Président : Erik Amzallag
+-   Vice-président : Xavier Viallefont
+-   Secrétaire : Sébastien Hamon
+-   Secrétaire adjoint : Jérôme Teissier
+-   Secrétaire adjoint : Philippe Zytka
+-   Trésorier : Richard Lemeiter
+-   Trésorier adjoint : Philippe Label
+
+## Attribution des rôles
+
+Nous avons aussi procéder à la répartition des différentes tâches entre les membres du Conseil d’Administration :
+
+-   Gestion Matériel : Sébastien Hamon pour le local d’Orléans et Pierre Laurenge pour celui de St Étienne
+-   Contact LEGO FR et DK : Pierre Charles
+-   Ambassadeur : Pierre Charles
+-   Commande groupée minifig : Xavier Viallefont et Xavier Claudel
+-   Suivi expositions : Jérôme Teissier et Philippe Zytka pour la relance des résumés
+-   Community Manager : Pierrick Francou
+-   Réseaux sociaux : Alexis Philippot
+-   Goodies : Pierre Laurenge
+
+## Sujets divers
+
+-   Suivi Briqu’Events et Comités Régionaux :
+
+Nous ne nommons pas de coordinateur BE ou CoR mais toutefois nous concluons qu’il faut un membre du CA dans l’organisation de chaque événement organisé par FreeLUG
+
+-   Quid de la section forum du CA - faut-il des sujets détachés sur cet outil de communication ?
+
+Il n’y a pas d’avis tranchés, nous laissons donc libre court à la personne de prendre l’outil lui semblant le plus approprié pour le sujet dont il veut parler.
+
+_Fin de séance : 19h38_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

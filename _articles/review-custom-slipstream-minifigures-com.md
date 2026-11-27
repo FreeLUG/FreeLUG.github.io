@@ -1,0 +1,80 @@
+---
+title: "[REVIEW] Custom Slipstream (Minifigures.com)"
+permalink: "/articles/review-custom-slipstream-minifigures-com/"
+section: "/themes/divers/"
+published_at: "2017-06-18T15:10:39Z"
+authors: [ "Jeremie DESCALIS" ]
+description: "Aujourd’hui je vous propose la review de la figurine custom
+  Slipstream (Tracer, mascotte du jeu vidéo Overwatch), venant du site
+  minifigures.com, site anglais créé en 2004 et spécialisé dans le custom des
+  minifigures LEGO."
+source_id: 2647
+source_url: "https://www.freelug.org/spip.php?article2647"
+---
+
+Aujourd’hui je vous propose la review de la figurine custom **Slipstream** (_Tracer_, mascotte du jeu vidéo _Overwatch_), venant du site _[minifigures.com](http://www.minifigures.com/)_, site anglais créé en 2004 et spécialisé dans le custom des minifigures _LEGO_.
+
+![](/media/archive/8593980a3a9c3c79c73f9279.png)
+
+Le site utilise des pièces _LEGO_ officielles vierges qui ont droit ensuite à une impression digitale (procédé différent de la sérigraphie). Ils ont maintenant une clientèle mondiale avec notamment des entreprises comme _Google_, _Pixar_ ou _Fox Studio_...
+
+* * *
+
+-   **Overwatch**  
+    Ce custom est inspiré par le personnage de _Tracer_ dans le jeu vidéo _Overwatch_.
+
+> _Overwatch_ est un jeu vidéo de tir en vue subjective en ligne développé et publié par _Blizzard Entertainment_. Le jeu est annoncé le 7 novembre 2014 à la BlizzCon, et est commercialisé le 24 mai 2016 sur Windows, PlayStation 4 et Xbox One.
+> 
+> Source : _[Wikipedia](https://fr.wikipedia.org/wiki/Overwatch)_.
+
+![](/media/archive/2bdb8d95af9c66c49b8d82be.png)
+
+* * *
+
+-   **Tracer**
+
+> _Tracer_ est l’un des héros d’_Overwatch_. C’est une aventurière. Il s’agit de la représentation et de la mascotte officielle du jeu.
+> 
+> Source : _[Wikia Overwatch](http://fr.overwatch.wikia.com/wiki/Tracer)_.
+
+[![](/media/archive/be42f535ca31c882a3c3491e.png)](https://www.freelug.org/IMG/png/Tracer.png)
+
+* * *
+
+L’emballage est soigné et résistant, il reprend en arrière-plan la version 3D de la minifigure présente sur le site. Nouveauté, on peut maintenant ouvrir le blister sans tout déchirer, ce dernier n’étant plus scellé.
+
+[![](/media/archive/84d002f73a274d0ed15a01cf.jpg)](https://www.freelug.org/IMG/jpg/CustomSlipstream_01.jpg)
+
+De face, **Slipstream** est une réussite, on constate tout de suite le bon en avant réalisé par _Minifigures.com_ sur la qualité de l’impression numérique par rapport à leurs premières productions.
+
+La fig regorge de détails, on aimerait que _LEGO_ fasse la même chose sur ses sérigraphies.
+
+[![](/media/archive/2822f671b80df2a3579f82ac.jpg)](https://www.freelug.org/IMG/jpg/CustomSlipstream_02.jpg)
+
+Au dos, même impression qu’à l’avant, c’est beau. Nous avons même droit à un visage alternatif.
+
+[![](/media/archive/1153245ca9692599c551118f.jpg)](https://www.freelug.org/IMG/jpg/CustomSlipstream_03.jpg)
+
+Je ne sais pas si c’est grâce à l’impression numérique, mais les côtés de la fig sont richement décorés. Bien plus que ce que fait _LEGO_ même aujourd’hui sur ses dernières productions.
+
+[![](/media/archive/9fffed0824e959aac9b20462.jpg)](https://www.freelug.org/IMG/jpg/CustomSlipstream_04.jpg)
+
+[![](/media/archive/176f646ce014a043a8589a3a.jpg)](https://www.freelug.org/IMG/jpg/CustomSlipstream_05.jpg)
+
+Seules pièces non officielles, les pistolets customs.
+
+[![](/media/archive/53abd9b33445ed4cbf21fa10.jpg)](https://www.freelug.org/IMG/jpg/CustomSlipstream_06.jpg)
+
+**Slipstream** avec ses pistolets.
+
+[![](/media/archive/e004bd377b1a00018614a0ae.jpg)](https://www.freelug.org/IMG/jpg/CustomSlipstream_07.jpg)
+
+* * *
+
+**CONCLUSION :**
+
+Malgré l’impression numérique, _Minifigures.com_ nous livre là une magnifique figurine. Le bond en avant fait par leur production m’a sauté aux yeux dès la sortie du blister.
+
+Bref, même si ce n’est pas de la sérigraphie, je vous recommande vraiment cette minifig pour son rapport qualité/prix.
+
+Vous pourrez trouver cette fig au prix de 14,95 £ en cliquant _[ICI](http://minifigures.com/products/slipstream.html)_.

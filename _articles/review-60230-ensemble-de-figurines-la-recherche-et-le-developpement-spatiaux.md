@@ -1,0 +1,196 @@
+---
+title: "[Review] 60230 - Ensemble de figurines : la recherche et le
+  développement spatiaux"
+permalink: "/articles/review-60230-ensemble-de-figurines-la-recherche-et-le-dev\
+  eloppement-spatiaux/"
+section: "/themes/ville-city/"
+published_at: "2021-11-13T09:41:22Z"
+authors: [ "Nicolas W" ]
+description: "En ces temps où l’actualité spatiale est assez présente, retour
+  sur une petite boîte de numéro 60230, intitulée Ensemble de figurines : la
+  recherche et le développement spatiaux. Sortie en 2019, cette boîte contient
+  209 pièces et coûtait aux alentours de 39 €. Un peu cher, mais elle contient
+  pas mal de figurines, c’est sans doute une des raisons."
+source_id: 3142
+source_url: "https://www.freelug.org/spip.php?article3142"
+---
+
+En ces temps où l’actualité spatiale est assez présente, retour sur une petite boîte de numéro _60230_, intitulée _Ensemble de figurines : la recherche et le développement spatiaux_.
+
+Sortie en 2019, cette boîte contient 209 pièces et coûtait aux alentours de 39 €. Un peu cher, mais elle contient pas mal de figurines, c’est sans doute une des raisons.
+
+Comme d’habitude, la face avant présente le contenu de la boîte mis en scène, avec en haut à gauche le logo « City » et à droite une tête d’astronaute, tandis qu’un encart en bas à gauche indique que c’est « inspiré des métiers de la NASA », en anglais (mais la mention se retrouve dans d’autres langues sur un côté de la boîte). Bon, je le dis tout de suite, ni l’astronaute ni le drone ne volent, bien sûr...
+
+[![](/media/archive/faa3537b658469bbc780bfd9.jpg)](https://www.freelug.org/IMG/jpg/dsc02997.jpg)
+
+L’arrière montre à nouveau les différentes scénettes, avec toujours l’encadré NASA, plus un petit encart en bas à droite « Mars exploration ». J’admets ignorer les sous-gammes d’espace liées à City.
+
+[![](/media/archive/d4c9990fd3987aba74763f5f.jpg)](https://www.freelug.org/IMG/jpg/dsc02998.jpg)
+
+Deux petits manuels donnent les instructions pour tout assembler, ce qui permet à deux personnes de monter en parallèle. Soyons honnête, la construction n’est vraiment pas compliquée, en phase avec la classification « 5+ » de la boîte.
+
+[![](/media/archive/781625535dfff037b0e99319.jpg)](https://www.freelug.org/IMG/jpg/dsc03000.jpg)
+
+* * *
+
+Voici une vue d’ensemble des petites scènes, détaillées dans la suite.
+
+[![](/media/archive/9f3825ff9a663f3e27eec876.jpg)](https://www.freelug.org/IMG/jpg/dsc02955.jpg)
+
+* * *
+
+Ici, un technicien fait voler un drone. J’adore cette simple construction avec les antennes qui stabilisent l’engin. Pour une raison inconnue le technicien porte une combinaison de protection, peut-être anti-poussière parce que le drone y est sensible ? Auquel cas sur Mars cela serait compliqué, avec les tempêtes... Le boîtier de commande est lui aussi très simple, une pièce « en U », une plate tampographiée, et une poêle pour l’antenne — mais ça fait le job.
+
+[![](/media/archive/e6bb4278c2b3f583ef3ebc2b.jpg)](https://www.freelug.org/IMG/jpg/dsc02957.jpg)
+
+[![](/media/archive/fc03bcc450ecb6ec5b9a4263.jpg)](https://www.freelug.org/IMG/jpg/dsc02958.jpg)
+
+Le dos est simple, pas de tampographie sur les jambes.
+
+[![](/media/archive/899afac9135b35d1bf001781.jpg)](https://www.freelug.org/IMG/jpg/dsc02959.jpg)
+
+* * *
+
+Seconde scène, un mini-laboratoire avec un cristal à côté d’un ordinateur et une plante sous serre à lumières colorées. La scientifique examine à l’aide d’une grosse loupe la plante, tentative de simulation de croissance sous lumière artificielle ?
+
+[![](/media/archive/ea4040239c39b8cd9444a844.jpg)](https://www.freelug.org/IMG/jpg/dsc02960.jpg)
+
+La plante sous cloche est basique, mais avec la lampe à trois couleurs, le rendu est correct.
+
+[![](/media/archive/51e562bf5613027ba8baa605.jpg)](https://www.freelug.org/IMG/jpg/dsc02961.jpg)
+
+L’ordinateur et la roche à cristal sont simples, posés sur un chariot mobile.
+
+[![](/media/archive/2e4b1cc2de985e4d946211a4.jpg)](https://www.freelug.org/IMG/jpg/dsc02962.jpg)
+
+La scientifique a un visage alternatif, et son dos a quelques motifs. Jambes toujours unies.
+
+[![](/media/archive/b02758a2f46949371d3af258.jpg)](https://www.freelug.org/IMG/jpg/dsc02963.jpg)
+
+* * *
+
+Troisième petite scène, une candidate astronaute en plein entraînement physique sur un tapis roulant, avec une coach qui la motive à coup de pizza (face pas visible de la pièce ronde) au bout d’un fouet. Une pile de cartons prouve qu’il y a matière à faire question motivation...
+
+[![](/media/archive/920a5eee181e377f0a6b4e55.jpg)](https://www.freelug.org/IMG/jpg/dsc02964.jpg)
+
+Le tapis roulant est constitué de quelques pièces, avec un panneau de contrôle pour régler la vitesse.
+
+[![](/media/archive/1b9299ba0d832d88ab955c2e.jpg)](https://www.freelug.org/IMG/jpg/dsc02965.jpg)
+
+La coach a un petit sourire en coin, peut-être qu’elle prend du plaisir à son métier. Elle a un mégaphone pour mieux encourager l’astronaute. Les jambes ont une petite bande orange, toujours ça de pris.
+
+[![](/media/archive/964c110b9fec57664dcf2851.jpg)](https://www.freelug.org/IMG/jpg/dsc02966.jpg)
+
+Les deux figurines ont quelques plis dans le dos, pour simuler un vêtement, en revanche pas de visage alternatif.
+
+[![](/media/archive/4c1be619dbae03792130b557.jpg)](https://www.freelug.org/IMG/jpg/dsc02967.jpg)
+
+* * *
+
+Figurine suivante, une astronaute. Équipée d’un appareil photo, elle a également une lampe sur l’épaule, pour mieux éclairer ses sujets.
+
+[![](/media/archive/029b15203600232d3f996c9e.jpg)](https://www.freelug.org/IMG/jpg/dsc02968.jpg)
+
+Le scaphandre est équipé de propulseurs, ici en pleine action.
+
+[![](/media/archive/fccb90677545d9755b97a535.jpg)](https://www.freelug.org/IMG/jpg/dsc02969.jpg)
+
+La tenue est simple, avec quelques bandes de couleur, y compris sur l’avant des jambes, et cadrans, plus un logo d’espace sur le torse. Pas de visage alternatif.
+
+[![](/media/archive/f70292657d9ccb7c44ae1964.jpg)](https://www.freelug.org/IMG/jpg/dsc02970.jpg)
+
+[![](/media/archive/9a0c8aa36630179849883945.jpg)](https://www.freelug.org/IMG/jpg/dsc02971.jpg)
+
+[![](/media/archive/9426ad0ef4664e1bb77f1bc8.jpg)](https://www.freelug.org/IMG/jpg/dsc02972.jpg)
+
+* * *
+
+Scène amusante, un journaliste accompagné d’un cameraman qui interviewent deux astronautes, l’un tenant une tête d’alien au bout d’un bâton.
+
+[![](/media/archive/a56375be59ca80c05abdaebf.jpg)](https://www.freelug.org/IMG/jpg/dsc02973.jpg)
+
+Les deux journalistes sont en tenue « civile », par rapport aux autres figurines. Celui au micro est habillé classiquement avec veste et cravate, cheveux bien rangés, son partenaire est plus relâché avec plutôt un pull.
+
+[![](/media/archive/f896fb46d097b5bdec6f4cb3.jpg)](https://www.freelug.org/IMG/jpg/dsc02974.jpg)
+
+Simples plis pour le journaliste, le cameraman voit son motif à fleur se poursuivre dans le dos, et son visage alternatif est effrayé, la tête d’alien lui fait de l’effet.
+
+[![](/media/archive/965f33153b59971ec07d24fd.jpg)](https://www.freelug.org/IMG/jpg/dsc02978.jpg)
+
+Les astronautes ont la même tenue, casque bleu transparent, cadrans et sangles sur le torse et le jambes, tous deux sourient, lui rigole même franchement du tour qu’il joue aux journalistes avec sa tête d’alien. Deux chevelures permettent de retirer le casque.
+
+[![](/media/archive/2f878c4a81a8f69d56d21722.jpg)](https://www.freelug.org/IMG/jpg/dsc02975.jpg)
+
+[![](/media/archive/a2038964dff07d3ad2b7620f.jpg)](https://www.freelug.org/IMG/jpg/dsc02976.jpg)
+
+Tous deux ont un visage alternatif joyeux, avec sur le dos le prolongement de motifs de l’avant.
+
+[![](/media/archive/a9fc9f055cd35dbeae3601e1.jpg)](https://www.freelug.org/IMG/jpg/dsc02977.jpg)
+
+* * *
+
+Autre petit assemblage, une centrifugeuse avec deux astronautes en plein entraînement. Ils ne sont clairement pas en forme, l’un effrayé et l’autre au bord de la nausée. Même tenue, seuls la tête et les cheveux les différencient, jambes unies.
+
+[![](/media/archive/147a76a4189d972b18940641.jpg)](https://www.freelug.org/IMG/jpg/dsc02979.jpg)
+
+[![](/media/archive/daf72e8c551871f4b5c25044.jpg)](https://www.freelug.org/IMG/jpg/dsc02980.jpg)
+
+[![](/media/archive/09cdd90e932431085b4b854e.jpg)](https://www.freelug.org/IMG/jpg/dsc02981.jpg)
+
+[![](/media/archive/72311e70965c8a0555546ead.jpg)](https://www.freelug.org/IMG/jpg/dsc02982.jpg)
+
+Les visages alternatifs en revanche sont franchement souriants, ils sont contents de participer à ce programme spatial et d’aller un jour dans l’espace.
+
+[![](/media/archive/51952dd36ecba20beeffd4c8.jpg)](https://www.freelug.org/IMG/jpg/dsc02983.jpg)
+
+La centrifugeuse peut se refermer. Les pièces 4x1 à deux tenons permettent de fixer solidement les astronautes tout en autorisant une position très allongée, c’est une idée astucieuse.
+
+[![](/media/archive/a0c8bad2b680ea5710f45854.jpg)](https://www.freelug.org/IMG/jpg/dsc02984.jpg)
+
+* * *
+
+Passons maintenant à une technicienne qui surveille un propulseur. Elle boit tranquillement du café à côté d’une flamme de feu, quel sans-froid !
+
+[![](/media/archive/f237479a01b843f14098f223.jpg)](https://www.freelug.org/IMG/jpg/dsc02985.jpg)
+
+Elle porte des lunettes de protection et une combinaison à poches, plus un badge sur le côté droit.
+
+[![](/media/archive/4fdc371aef118daab3b2388b.jpg)](https://www.freelug.org/IMG/jpg/dsc02987.jpg)
+
+Dans le dos, simple bande orange pour rappeler la tenue.
+
+[![](/media/archive/09a072845ecfcca6e66bc8e7.jpg)](https://www.freelug.org/IMG/jpg/dsc02988.jpg)
+
+En revanche le visage alternatif est clairement cramé, avec une expression désabusée, elle a probablement eu un petit souci avec la flamme du propulseur ! J’admets que ce détail tout simple m’a fait rire.
+
+[![](/media/archive/8cac97472a6efabd3a027295.jpg)](https://www.freelug.org/IMG/jpg/dsc02989.jpg)
+
+[![](/media/archive/1ed7215481e8d8aee90b084a.jpg)](https://www.freelug.org/IMG/jpg/dsc02990.jpg)
+
+* * *
+
+Autre scène, un astronaute plantant un drapeau en haut d’une petite élévation. Bon, vraiment petite, deux pièces de hauteur... Magnifique cristal sur l’un des côtés de la pente.
+
+[![](/media/archive/ba6e7bb37781591c3a694ca1.jpg)](https://www.freelug.org/IMG/jpg/dsc02991.jpg)
+
+[![](/media/archive/40547f312ce875c319361790.jpg)](https://www.freelug.org/IMG/jpg/dsc02992.jpg)
+
+Le drapeau est uni, il aurait je trouve mérité un peu de décoration. L’astronaute est équipé d’une combinaison bleue, avec au centre un motif d’espace. Casque et bouteilles complètent sa tenue.
+
+[![](/media/archive/18b4b99cdeffedd2954c5b78.jpg)](https://www.freelug.org/IMG/jpg/dsc02993.jpg)
+
+[![](/media/archive/3353cea83df4d52f66eda4e1.jpg)](https://www.freelug.org/IMG/jpg/dsc02994.jpg)
+
+Sa ceinture se prolonge dans le dos, mais les jambes sont unies.
+
+[![](/media/archive/a82e15050111d1afeeb62cd3.jpg)](https://www.freelug.org/IMG/jpg/dsc02995.jpg)
+
+* * *
+
+Il me manque des photos de la dernière scénette, un soudeur travaillant sur une combinaison posée sur un support. Elle est visible sur l’avant et l’arrière de la boîte.
+
+* * *
+
+**Avis :** même si les constructions ne sont pas particulièrement compliqués, je trouve que le rendu global est plutôt réussi. L’assortiment de figurines est varié : quatre modèles de casque, trois combinaisons différentes, quelques visages alternatifs, des cheveux pour remplacer certains casques. Les torses sont variés, avec des motifs d’espace mais à différents endroits. Les petits objets habilleront sans problème une ou deux pièces d’un bâtiment.
+
+Sans qu’il soit inoubliable, j’admets être conquis par ce petit ensemble.

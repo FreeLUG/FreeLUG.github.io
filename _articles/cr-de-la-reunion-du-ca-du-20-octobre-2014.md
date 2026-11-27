@@ -1,0 +1,98 @@
+---
+title: "CR de la réunion du CA du 20 Octobre 2014"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-20-octobre-2014/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2014-11-18T22:02:25Z"
+authors: [ "Jac", "Pilili Cuicui", "Sébastien HAMON" ]
+description: "CR de la réunion du CA du 20 Octobre 2014"
+source_id: 1917
+source_url: "https://www.freelug.org/spip.php?article1917"
+---
+
+CR de la réunion du CA du 20 Octobre 2014
+
+## Ordre du jour
+
+_Début de séance : 20h35_
+
+_Présents (9) :_  
+**–** Erik Amzallag  
+**–** Daniela Drost  
+**–** Sébastien Hamon  
+**–** Philippe Label  
+**–** Pierre Laurenge  
+**–** Richard Lemeiter  
+**–** Jean-Claude Petit  
+**–** Jérôme Teissier  
+**–** Xavier Viallefont
+
+_Excusés (2) :_
+
+**–** Pierre Charles  
+**–** Lucie Vigreux
+
+_Ordre du jour :_
+
+**–** Expositions  
+**–** Point Brick Events  
+**–** Point T-shirts  
+**–** Point minifig  
+**–** Point charte  
+**–** FreeLUG 2.0 et état du site  
+**–** Point comptabilité  
+**–** Point investissements
+
+## Expositions
+
+L’association FreeLUG a été invitée à participer a une exposition "Geek" sur le thème de tout ce qui peut se rapporter à la "Geek" attitude qui aura lieu à Saint-Etienne (42). Les dates exactes restent à définir avec l’organisation. Cette exposition a été validée par les membres du CA.
+
+L’association FreeLUG a été invitée à participer a une Exposition LEGO multi-thème qui aura lieu à Saint-Privat-des-Vieux (30) le 21 Décembre 2014. Cette exposition a été validée par les membres du CA.
+
+L’association FreeLUG a été invitée à participer a une Exposition LEGO multi-thème qui aura lieu à Saint-Palais-sur-Mer (17) du 15 Décembre au 04 Janvier 2015. Cette exposition a été validée par les membres du CA.
+
+## Point Brick Events
+
+-   Briqu’Expo Veneux-les-Sablons, nous attendons les retours de l’organisation.
+
+-   Briqu’Expo Mulsanne, Il manque encore quelques détails financiers à régler, notamment sur 2013. Il manque en outre tout le bilan de BEM2014. Les membres du CA font en sorte de régler ce problème au plus vite.
+
+-   Briqu’Expo Montdidier, Nous attendons le bilan financier de l’édition de 2014, qui devrait nous être envoyé sous peu par l’organisation.
+
+-   Briqu’Expo La-Ville-du-Bois, nous projetons la préparation d’une BE dans cette ville. Nous préparons un budget. Mais il nous manque quelques détails que les organisateurs nous transmettrons par courriel.
+
+-   Briqu’Expo Lille, l’organisateur attend la confirmation de la salle.
+
+## Point T-shirts
+
+Nous avons reçu une seule commande sur le site internet de vente. Nous avons la possibilité de faire d’autres commandes par un ancien fournisseur, nous étudions cette nouvelle option.
+
+## Point minifig
+
+La facture est en cours de traitement pour la dernière commande et nous préparons la série 12.
+
+## Stockage du matériel FreeLUG
+
+Il nous faut définir la taille du box de stockage à louer pour le matériel FreeLUG. Une surface de 9m² semble trop petite pour pouvoir tout placer.
+
+## Point charte
+
+Le groupe de travail détermine les axes prioritaires de la charte pour en dessiner les grandes lignes.
+
+## FreeLUG 2.0 et état du site
+
+Le site a fait l’objet d’un piratage il y a peu. Nous allons donc redoubler d’effort pour mettre au point la version 2.0.
+
+## Point comptabilité
+
+Richard nous a envoyé un courriel récapitulatif un peu avant la réunion. Nous disposons de 3096,50 € sur le CCP, 6812,49 € sur le livret A et 5018,30 € sur le compte Paypal.
+
+## Point investissements
+
+Grâce au budget prévu lors de l’AG 2014, nous avons la possibilité d’acheter des kakemonos, des flammes, des caisses adaptées pour le transport des plaques de base en grande quantité et des briques vrac. Nous prévoyons aussi un achat supplémentaire de nappes.
+
+Nous ferons un point par courriel sur les cartes de visites FreeLUG.
+
+_Fin de séance : 22h12_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [CA@freelug.org](mailto:CA@freelug.org)

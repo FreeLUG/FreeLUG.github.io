@@ -1,0 +1,73 @@
+---
+title: "La convention SW et SF de 2016"
+permalink: "/articles/la-convention-sw-et-sf-de-2016/"
+section: "/regions/auvergne/"
+published_at: "2016-06-22T17:02:54Z"
+authors:
+  [
+    "Etienne LAURENGE",
+    "Jac",
+    "Jérôme VANNIER",
+    "Pierre CHARLES (Tribolego)",
+    "Pierre LAURENGE",
+    "Valentin PASSOT",
+    "Xavier CLEMENT"
+  ]
+description: "Pour cette année, l’espace disponible était inscrit dans une salle
+  spécialement dédiée à nos chères petites briques."
+source_id: 2329
+source_url: "https://www.freelug.org/spip.php?article2329"
+---
+
+Pour cette année, l’espace disponible était inscrit dans une salle spécialement dédiée à nos chères petites briques.
+
+La convention SW et SF de Cusset prend de l’ampleur d’année en année, 12000 visiteurs pour cette édition. Les trilogies VII, VIII, VIX et celle annoncé avec Rogue One, contribuent à booster les choses. De ce fait, les organisateurs ont décidé de donner plus de place à la convention. Pour les créations en briques LEGO de l’association FreeLUG nous pouvons utiliser désormais une salle déporté du lieu habituel.
+
+Une petite angoisse, tout de même, est-ce que les visiteurs viendront jusqu’à nous, isolé de tous ???
+
+Cela fut vite passé en milieu d’après-midi. Des stands de toutes sortes étaient présentés sous des chapiteaux dans tout le parc situé devant l’espace Chambon, des combats, des dessinateurs de BD, plein de choses intéressantes pour les fans. Tout était accessible à pied. Malgré la pluie de l’après-midi, les visiteurs se sont pressés dans la salle LEGO pour admirer les différentes œuvres que nous présentions cette année.
+
+Merci à tous pour la réussite de cette nouvelle édition.
+
+[![](/media/archive/c54f523e8e0e3fcb4745aff3.jpg)](https://www.freelug.org/IMG/jpg/Art-001.jpg)
+
+_JAC63, [ma galerie photo](http://photos.freelug.org/main.php/v/JAC/Exposition/2016/Generation+SW/)_
+
+* * *
+
+Les hôtesses du stand 1001 bricks ont passé un très agréable week-end. Elles remercient toute l’organisation.
+
+[![](/media/archive/b79d13b60f62591561a6fc64.jpg)](https://www.freelug.org/IMG/jpg/Art-002.jpg)
+
+_Sabine et Mia_
+
+* * *
+
+Grand amateur de maquettes en général et de celles de Star Wars en particulier, c’est toujours un régal pour moi de venir traîner mes bottes à Cusset le premier week-end de mai !
+
+[![](/media/archive/e5c4ca21714c316362ee8d98.jpg)](https://www.freelug.org/IMG/jpg/20160430_121558.jpg)
+
+Et comme, en plus, il y a des LEGO, c’est vraiment trop dur de résister. Du coup j’ai amené des trucs...
+
+[![](/media/archive/da30c1a33ebf6020d546b8c6.jpg)](https://www.freelug.org/IMG/jpg/20160430_123103.jpg)
+
+Si je rajoute qu’il y avait les copains, qu’on a bien ri et bien mangé, je crois que c’est clair : ce fut un excellent week-end ! D’autant plus que les lieux étaient pour nous plus agréables que l’année dernière, étant cette fois-ci délocalisés dans une salle hors de l’espace Chambon transformé en sauna permanent. Bon, ça sentait parfois un peu la croquette chez nous aussi mais ça c’est Étienne... ;-)
+
+[![](/media/archive/06673791b84269e970047a03.jpg)](https://www.freelug.org/IMG/jpg/20160501_123014.jpg)
+
+_Jérôme (jivé69)  
+[https://jive69mocs.blogspot.fr](https://jive69mocs.blogspot.fr/)_
+
+* * *
+
+De nouveau présent cette année pour cette convention, c’est une nouvelle étape que l’équipe organisatrice des Héritiers qui a été franche cette année.
+
+Après avoir profité des offres du 4th May au Store de Clermont, je suis arrivé en fin de matinée.  
+C’est avec mon frère qu’on a présenté deux dioramas cette année.
+
+[![](/media/archive/496489a0d2d8e8801824ea8f.jpg)](https://www.freelug.org/IMG/jpg/20160501_105327_1_.jpg)
+
+Encore un beau succès pour cette convention, merci aux organisateurs.  
+Merci à Séverine et Sélène pour leur accueil et à l’année prochaine !
+
+_Pierre L. (Pierrolego)_

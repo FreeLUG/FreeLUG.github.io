@@ -1,0 +1,36 @@
+---
+title: "09 Mai 2015 : Journée de tri LEGO chez Emmaüs"
+permalink: "/articles/09-mai-2015-journee-de-tri-lego-chez-emmaus/"
+section: "/regions/rhone-alpes/"
+published_at: "2015-06-14T18:32:28Z"
+authors: [ "Arnaud GINDRE", "Didier ENJARY", "Jérôme VANNIER", "Yannick VIGNAT" ]
+description: "Quelques membres du sou des écoles de Diémoz ainsi que des
+  Freeluguiens ont participé à une journée de tri LEGO dans le cadre du
+  partenariat d’Emmaüs avec la Briqu’Expo Diémoz."
+source_id: 2065
+source_url: "https://www.freelug.org/spip.php?article2065"
+---
+
+Quelques membres du sou des écoles de Diémoz ainsi que des Freeluguiens ont participé à une journée de tri LEGO dans le cadre du partenariat d’Emmaüs avec la Briqu’Expo Diémoz.
+
+J’ai passé une très bonne journée ! C’était ma première fois, je n’avais donc aucune idée préconçue sur la formule.
+
+Je n’ai pas été déçu, avec la bonne ambiance, l’accueil chaleureux, la générosité et le plaisir de rencontrer des gens sympas, malgré la présence de plusieurs freelugiens... ;-)
+
+Perso j’adore trier ! Un psy se régalerait sûrement à expliquer tout ça (ou pas), mais ce n’est nullement une corvée pour moi.
+
+Bon, il faut prévoir que le soleil cogne un peu sur la tête, mais on rigole bien et mine de rien, petit à petit, on en trie des kilos, ce qui me satisfait complètement.
+
+Et si en plus c’est une bonne action, je vois pas ce qui me retiendra d’y retourner !
+
+Jérôme (jivé69)
+
+* * *
+
+Pour ma deuxième fois (Cf [22 Novembre 2014 : Matinée tri chez Emmaüs Bourgoin Jallieu](/articles/22-novembre-2014-matinee-tri-chez-emmaus-bourgoin-jallieu/)), je ne peux qu’exprimer mon enthousiasme et je plussoie à tous les commentaires de jivé69.
+
+Je rajoute qu’on mange bien.
+
+Alors, n’hésitez pas, et venez rencontrer Emmaüs et les autres exposants lors de [Briqu’Epo Diémoz en septembre](https://www.freelug.org/spip.php?article1931).
+
+Didier

@@ -1,0 +1,112 @@
+---
+title: "[REVIEW] LEGO 75941 - L’Indominus Rex contre l’Ankylosaure"
+permalink: "/articles/review-lego-75941-l-indominus-rex-contre-l-ankylosaure/"
+section: "/themes/jurassic-world-dino/"
+published_at: "2020-10-13T19:49:38Z"
+authors: [ "efde71" ]
+description: "Partons à la découverte de cette boite avec deux gros dinosaures !"
+source_id: 3054
+source_url: "https://www.freelug.org/spip.php?article3054"
+---
+
+Partons à la découverte de cette boite avec deux gros dinosaures !
+
+[![](/media/archive/24665cc15f4df58f0a58f414.jpg)](https://www.freelug.org/IMG/jpg/sam_3185.jpg)
+
+Le set comprend 537 pièces avec cinq personnages, deux gros dinosaures et la station de départ de la gyrosphère. Pour un prix de 109,99 € soit un rapport prix/pièces de 0,205 euros, c’est à priori cher, mais est-ce que le fait d’avoir deux gros dinosaures rattrape le tout ? Nous allons voir.  
+Une petite vue arrière donne une idée de la jouabilité du set :
+
+[![](/media/archive/e5b445431ff0ccf0798d5ef3.jpg)](https://www.freelug.org/IMG/jpg/sam_3188.jpg)
+
+Une petite planche de sticker :
+
+[![](/media/archive/74299eec75dea97eb591b124.jpg)](https://www.freelug.org/IMG/jpg/sam_3195.jpg)
+
+Venons au principal : les dinosaures :  
+Commençons avec le nouvel Indominus Rex :
+
+[![](/media/archive/2e9a4e9d94bf18aef56ba391.jpg)](https://www.freelug.org/IMG/jpg/sam_3191.jpg)
+
+Il est légèrement différent du modèle précédent, couleur et de nouveaux avant-bras…
+
+[![](/media/archive/cbec4adf3bf256a8e5a93711.jpg)](https://www.freelug.org/IMG/jpg/sam_3194.jpg)
+
+Passons à la vrai nouveauté de cette année : l’ankylosaure :
+
+[![](/media/archive/1452b307411c3419d9013369.jpg)](https://www.freelug.org/IMG/jpg/sam_3202.jpg)
+
+[![](/media/archive/26f5de398ccc91300e01291b.jpg)](https://www.freelug.org/IMG/jpg/sam_3203.jpg)
+
+Il complète très bien le set [75939](/articles/review-lego-75939-le-labo-de-dr-wu-l-evasion-des-bebes-dinosaures/) qui a le bébé ankylosaure.
+
+Par contre, il y a un gros soucis :
+
+[![](/media/archive/934d8097db5eb82e69596d4f.jpg)](https://www.freelug.org/IMG/jpg/sam_3204.jpg)
+
+C’est quoi cette horreur ? Le pin moulé dans la masse noire n’est pas complètement rempli avec la bi-injection… Vérification faite sur le triceratops qui date de quelques années, même moule, mais là c’est bien moins visible. Je pense que le moule prend de l’age. Mais c’est vraiment très très moche…
+
+Passons aux personnages (avec une erreur entre Zach et Grey…)  
+Nous avons pour commencer Claire et Grey :
+
+[![](/media/archive/0a03a36e69f6ef95aa01d3bf.jpg)](https://www.freelug.org/IMG/jpg/sam_3206.jpg)
+
+[![](/media/archive/8ac2e75a0303e40ea37286bb.jpg)](https://www.freelug.org/IMG/jpg/sam_3207.jpg)
+
+Puis le seul, l’unique (enfin dans beaucoup de boîtes ^⁾) : OWEN !
+
+[![](/media/archive/5a3c2fc0e7544a8e073ae08f.jpg)](https://www.freelug.org/IMG/jpg/sam_3216.jpg)
+
+[![](/media/archive/12de60fe97667ec63c279f2f.jpg)](https://www.freelug.org/IMG/jpg/sam_3217.jpg)
+
+Le grand frère de Grey (qui est en GRIS) : Zach
+
+[![](/media/archive/26a6a24d83adcc04499d74e6.jpg)](https://www.freelug.org/IMG/jpg/sam_3227.jpg)
+
+[![](/media/archive/02326166748096aa76a8022b.jpg)](https://www.freelug.org/IMG/jpg/sam_3228.jpg)
+
+Et terminons avec un gardien du « zoo » :
+
+[![](/media/archive/52c3d0a8aea17355493b85b9.jpg)](https://www.freelug.org/IMG/jpg/sam_3222.jpg)
+
+[![](/media/archive/5bd44bfc1a619590cfba7c50.jpg)](https://www.freelug.org/IMG/jpg/sam_3223.jpg)
+
+C’est pas tout, mais il y a bien une construction avec ça :  
+le panneau indicateur de l’attraction avec deux arbres que les dinosaures peuvent faire tomber :
+
+[![](/media/archive/c32266391d6956f59eb287c9.jpg)](https://www.freelug.org/IMG/jpg/sam_3208.jpg)
+
+[![](/media/archive/6d57281fc0afa6a2ccbcadf4.jpg)](https://www.freelug.org/IMG/jpg/sam_3210.jpg)
+
+[![](/media/archive/bedeed26e2ab90d7f3e6f7d0.jpg)](https://www.freelug.org/IMG/jpg/sam_3213.jpg)
+
+On remarquera un très beau sticker d’illustration d’un fossile.
+
+Et maintenant voici la fameuse station :
+
+[![](/media/archive/23b35a13526fe29fc4c41a53.jpg)](https://www.freelug.org/IMG/jpg/sam_3219.jpg)
+
+[![](/media/archive/8ba84cc4077fe84d0cdac64e.jpg)](https://www.freelug.org/IMG/jpg/sam_3220.jpg)
+
+[![](/media/archive/6009260d8d3eccb7e90223ab.jpg)](https://www.freelug.org/IMG/jpg/sam_3224.jpg)
+
+[![](/media/archive/8f4527bfa12de218b9ab27c3.jpg)](https://www.freelug.org/IMG/jpg/sam_3225.jpg)
+
+[![](/media/archive/62346ca6077ea5d3e28f704a.jpg)](https://www.freelug.org/IMG/jpg/sam_3229.jpg)
+
+[![](/media/archive/6716849adc48b91e8247fb9c.jpg)](https://www.freelug.org/IMG/jpg/sam_3231.jpg)
+
+[![](/media/archive/07c0f76c50b38e30e3813975.jpg)](https://www.freelug.org/IMG/jpg/sam_3232.jpg)
+
+Voilà fini, une petite photo de famille !
+
+[![](/media/archive/ab179beeaea893888305d4f3.jpg)](https://www.freelug.org/IMG/jpg/sam_3235.jpg)
+
+Et pour terminer les extra parts :
+
+[![](/media/archive/377515a02ec7bba41f4f0fbd.jpg)](https://www.freelug.org/IMG/jpg/sam_3236.jpg)
+
+**Conclusion**
+
+Alors achat ou pas ? Pour moi oui mais…  
+Les deux gros dinosaures, dont un vrai inédit, c’est bien. Même si ce souci de moulage est regrettable. Une petite station très réussie, avec la possibilité de lancer la gyrosphère, c’est très sympa. Mais on se retrouve avec encore les mêmes personnages du premier Jurassic World (le set de la station 75929 de JW2 était plus intéressant)  
+Et cette grossière erreur de nom sur la boite… On va dire que le service qualité s’est fait manger par l’Indominus…

@@ -1,0 +1,84 @@
+---
+title: "Compte-rendu de la réunion du CA du 9 avril 2025 - composition du bureau"
+permalink: "/articles/compte-rendu-de-la-reunion-du-ca-du-9-avril-2025-composit\
+  ion-du-bureau/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2025-05-15T19:16:40Z"
+authors: [ "Nicolas W" ]
+description: "Réunion suite à l’assemblée générale du 29 mars 2025, afin de
+  décider la composition du bureau"
+source_id: 3286
+source_url: "https://www.freelug.org/spip.php?article3286"
+---
+
+Réunion suite à l’assemblée générale du 29 mars 2025, afin de décider la composition du bureau
+
+## Ordre du jour
+
+**–** composition du bureau de l’association  
+**–** examen des demandes de validation d’exposition
+
+_Début de séance : 21h08_
+
+## Membres
+
+**Présents (7) :**  
+**–** Emmanuel Bonnard  
+**–** François Disdier  
+**–** Mickaël Delahaye  
+**–** Nicolas Charnay  
+**–** Nicolas Weeger  
+**–** Sébastien Hamon  
+**–** Stéphane Paradot
+
+## Composition du bureau de l’association
+
+Suite à l’assemblée générale de l’association le 29 mars 2025, il est nécessaire de désigner un nouveau bureau.
+
+Le cadre légal des associations Loi de 1901 nécessite de désigner au minimum un Président et un Secrétaire. Les autres postes définis au sein de l’association correspondent aux différentes missions nécessaires au bon fonctionnement de l’association.
+
+Compte tenu de l’effectif réduit du conseil d’administration, il est décidé que certains postes pourront donner lieu à cumul.
+
+La composition du bureau adoptée par les membres est la suivante :  
+**–** président : Emmanuel Bonnard  
+**–** secrétaire : Sébastien Hamon  
+**–** trésorier : Nicolas Charnay  
+**–** président adjoint : Stéphane Paradot  
+**–** secrétaire adjoint : Nicolas Weeger  
+**–** trésorier adjoint : Mickaël Delahaye
+
+Les postes suivants sont également pourvus :  
+**–** suivi du matériel : Sébastien Hamon  
+**–** suivi des dotations BE/CORs/GFC : Sébastien Hamon  
+**–** suivi des expositions : Stéphane Paradot  
+**–** suivi du bulk : Stéphane Paradot  
+**–** suivi des CORs : Emmanuel Bonnard
+
+_Remarque :_ Nicolas Charnay pose la question d’un conflit d’intérêt puisqu’Emmanuel Bonnard est à la fois membre d’un COR et responsable du suivi des CORs. Emmanuel Bonnard répond que, par son rôle de président de l’association, stimuler les CORs fait déjà partie de son rôle.
+
+Le conseil d’administration décide de déléguer le poste de community manager à un.e ou plusieurs membres de l’association, action à suivre.
+
+Le conseil d’administration décide de maintenir comme date de réunion le premier mercredi de chaque mois à 21h.
+
+## Examen des demandes de validation d’exposition
+
+**Demande de Stéphane Galiné pour fin mars**
+
+Stéphane Galiné demande l’autorisation d’exposer en tant que membre FreeLUG lors d’une exposition-vente mixte LEGO Playmobil le 26 et 27 avril.
+
+Le conseil d’administration donne son accord pour cette exposition.
+
+**Demande de Stéphane Galiné pour une exposition à Bouray sur Juine les 8 et 9 novembre**
+
+Stéphane Galiné organise pour la deuxième fois une exposition à Bouray sur Juine (centre de l’Essonne) les 8 et 9 novembre 2025, pour le compte de la caisse des écoles du village.
+
+L’exposition précédente a rassemblé près de 3500 visiteurs.
+
+Stéphane Galiné demande si cette exposition peut rentrer dans le cadre d’un projet FreeLUG.
+
+La demande n’étant pas totalement claire, Emmanuel Bonnard décide d’appeler directement Stéphane pour clarifier certains points, et un vote du conseil d’administration sera organisé ultérieurement le cas échéant.
+
+_Fin de séance : 22h06_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

@@ -1,0 +1,69 @@
+---
+title: "CR de la réunion du CA du 6 juillet 2023"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-6-juillet-2023/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2023-10-05T18:28:45Z"
+authors: [ "Chrystelle AUBIN-MAQUET" ]
+description: "Début de séance : 20h34"
+source_id: 3262
+source_url: "https://www.freelug.org/spip.php?article3262"
+---
+
+_Début de séance : 20h34_
+
+_Présents :_
+
+**–** Chrystelle Aubin-Maquet  
+**–** Olivier Barbier  
+**–** Emmanuel Bonnard  
+**–** Pierre Charles  
+**–** Sébastien Hamon  
+**–** Didier Malon  
+**–** Richard Lemeiter  
+**–** Stéphane Paradot
+
+_Absents :_  
+**–** François Disdier  
+**–** Florent Dumenil  
+**–** Erik Amzallag
+
+_Ordre du jour :_
+
+-   FFMF
+-   annonce d’Olivier
+-   questions diverses
+
+* * *
+
+## FFMF
+
+Suite à l’annonce de Richard, lors de l’AG, qui désire passer le relais, Didier prend le relais. Manu lui a transmis le dossier cette semaine.  
+On reste sur le principe de 18 adhérents FreeLUG dont l’adhésion à la FFMF est prise en charge par FreeLUG. (9€ par personne).  
+Un appel aux adhérents volontaires va être fait après avoir redemandé à ceux qui sont déjà adhérents à la FFMF.
+
+* * *
+
+## annonce d’Olivier
+
+-   Olivier nous annonce qu’après 5 ans d’animateur du CoR-Nord, il va rendre le poste mi-octobre 2023.  
+    Il organise la BE 2023 de Wavrin et se retire juste après.  
+    Il libérera aussi le poste de trésorier adjoint lors de notre prochaine Assemblée Générale.  
+    Le CA laisse Olivier en parler au CorNord et voir si une personne souhaite reprendre le poste.  
+    Pour le poste de trésorier adjoint, il faudra que l’on fasse une annonce pour voir si quelqu’un est intéressé.  
+    Le CA remercie Olivier pour toutes ces années d’animation du CoR.
+-   La question qui se pose, si personne ne désire reprendre le poste d’Olivier au CoR, c’est comment récupérer l’ensemble du stock (env. 10 m3) stocké chez lui et où. Il y a aussi 3 caisses de briques bleues, 2 caisses du Minotaurus, 2 caisses de « vrac technic », le stock « Lego City Paris1 » et le stock de briques « Dôme des Invalides ».  
+    Il faudra prévoir des caisses de rangement puisque ce sera retour au local d’Orléans si pas de repreneur.
+
+* * *
+
+## questions diverses
+
+-   La facture du Bulk Event est arrivée hier. Richard a initié le réglement et la relance des paiements va se faire. Quand le bulk arrivera, il sera dispatché entre les différentes BE.
+-   Frais Japan Touch : Erik aurait dû faire la réponse à Wilfried. Manu prend en charge le dossier.
+
+* * *
+
+_Fin de séance : 21h25_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

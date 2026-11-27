@@ -1,0 +1,28 @@
+---
+title: "Tri Minifigs Disney"
+permalink: "/articles/tri-minifigs-disney/"
+section: "/regions/rhone-alpes/"
+published_at: "2016-10-05T19:22:05Z"
+authors: [ "Antoine CL" ]
+description: "Le 15 juillet une poignée d’AFOL du CoR RA (VoldeCoR) se sont
+  réunis dans les locaux de l’INSA (Lieu de la Briqu’ Convention) pour le tri de
+  minifigs de la série Disney."
+source_id: 2449
+source_url: "https://www.freelug.org/spip.php?article2449"
+---
+
+Le 15 juillet une poignée d’AFOL du CoR RA (VoldeCoR) se sont réunis dans les locaux de l’INSA (Lieu de la Briqu’ Convention) pour le tri de minifigs de la série Disney.
+
+Fabrice était notre hôte et Xavier notre organisateur (comme toujours pour les minifigs).
+
+Nous étions une bonne douzaine pour ouvrir les sachets, trier et préparer les 1800 figs pour nos chers adhérents.
+
+Après notre effort, nous avons fini par un petit goûter et quelques discussions autour des briques LEGO et des futurs expositions à venir.
+
+Voici quelques photos :
+
+[![](/media/archive/617301838dfc0e1bccf13e4c.jpg)](https://www.freelug.org/IMG/jpg/IMG_0702.jpg)
+
+[![](/media/archive/01502d2ebb6f659b78f8b92b.jpg)](https://www.freelug.org/IMG/jpg/IMG_0701.jpg)
+
+[![](/media/archive/e6ad558faf760025c4f6d300.jpg)](https://www.freelug.org/IMG/jpg/IMG_0700.jpg)

@@ -1,0 +1,55 @@
+---
+title: "Présentation du set n°8185 \"le camion Ferrari\""
+permalink: "/articles/presentation-du-set-n-8185-le-camion-ferrari/"
+section: "/themes/speed-champions-racers-ferrari-speed-racer/"
+published_at: "2009-08-15T08:47:14Z"
+authors: [ "michel ludop" ]
+description: "LEGO nous sort un nouveau set de la gamme racers Ferrari « le
+  camion Ferrari ». Après le semi-remorque, il s’agit d’un camion de type
+  porteur, avec une formule 1 et cinq minifigs."
+source_id: 960
+source_url: "https://www.freelug.org/spip.php?article960"
+---
+
+LEGO nous sort un nouveau set de la gamme racers Ferrari « le camion Ferrari ». Après le semi-remorque, il s’agit d’un camion de type porteur, avec une formule 1 et cinq minifigs.
+
+![](/media/archive/75daa75b52ce611812990b04.jpg)
+
+La boîte est de grande taille et vendue 79.90eur, composée de 534 pièces regroupées dans 6 sachets.
+
+![](/media/archive/41edc0831ea444b491c77f5a.jpg)
+
+Après un bref tri, le montage commence par le sachet n°1 qui contient les minifigs, ordinateur, servantes à outils et autres outillages.
+
+On découvre que les roulettes des servantes sont fictives ce qui est plutôt dommage pour le jeu à mon goût.  
+Les minifigs sont similaires aux autres minifigs de la série.
+
+![](/media/archive/9c249469e7f432e298afbe61.jpg)
+
+Après le montage des éléments extérieurs (servante, poste informatique, vibreurs), je passe au montage du camion.
+
+![](/media/archive/ca21c7f773920cd3cd78d796.jpg)
+
+Le montage semble être plutôt aisé, avec des briques classiques, grande plaques et quelques pièces Technic, avec un plan bien détaillé.
+
+![](/media/archive/1a1273ad38b10239c5333391.jpg)
+
+Après quelques pages, le camion prend forme. Il y a deux tiroirs entre les essieux, pour ranger les outils des minifigs.
+
+![](/media/archive/5b36f6c44e0f11e004d8c030.jpg)
+
+Après quelques instants de montage et collage des différents autocollants (logo, bandes blanches, calandre et pare-chocs), on dispose d’un porteur Iveco plutôt sympa proche du précèdent modèle ([set n°8654](http://www.brickset.com/detail/?Set=8654-1)).
+
+![](/media/archive/58826043041c0f0ed4d9f06e.jpg)
+
+On passe au montage de la Formule 1. Il n’y a pas d’évolution par rapport aux dernières versions sorties. On retrouve la version destinée aux minifigs vue par exemple dans le set [8168](http://www.brickset.com/detail/?Set=8168-1).
+
+![](/media/archive/8c482dcf24bcdb0db4eb5743.jpg)
+
+Un set vraiment sympa dans la continuité de cette gamme racers « Ferrari ».
+
+![](/media/archive/e3bde85cdb46a27401ab6538.jpg)
+
+Deux point négatif tout de même :  
+**–** C’est la sensation d’avoir de la difficulté pour ranger le matériel et les personnages, avec l’impression de tout tasser dans le camion.  
+**–** Et le prix qui me semble un peu élevé.

@@ -1,0 +1,50 @@
+---
+title: "Salon du train miniature à Orléans les 11 et 12 novembre 2006"
+permalink: "/articles/salon-du-train-miniature-a-orleans-les-11-et-12-novembre-2006/"
+section: "/regions/centre/"
+published_at: "2006-11-11T09:00:00Z"
+authors: [ "Philippe \"Frogleap\" LABEL" ]
+description: "Comme les éditions antérieures, la surface couverte sera d’environ
+  4500 m2 (hors vapeur vive), les présentations uniquement en rapport avec le
+  modélisme ferroviaire et le public aussi nombreux (plus de dix mille visiteurs
+  en 2004), espérons-le. Pour la seconde fois FreeLUG participera à cette
+  manifestation avec un réseau en boucle occupant un emplacement de 28m de long.
+  Du spectacle en perspective..."
+source_id: 462
+source_url: "https://www.freelug.org/spip.php?article462"
+---
+
+Comme les éditions antérieures, la surface couverte sera d’environ 4500 m2 (hors vapeur vive), les présentations uniquement en rapport avec le modélisme ferroviaire et le public aussi nombreux (plus de dix mille visiteurs en 2004), espérons-le. Pour la seconde fois FreeLUG participera à cette manifestation avec un réseau en boucle occupant un emplacement de 28m de long. Du spectacle en perspective...
+
+Ce salon couvre tous les types de modélisme ferroviaire, toutes les échelles, un choix de professionnels et de commerçants permettant de découvrir les nouveautés et la promotion du modélisme envers les jeunes (Juniors du rail).
+
+FreeLUG participera à cette exposition les 11 et 12 novembre en apportant de quoi monter un réseau occupant un espace d’environ 28m par 2m incluant une ville (moderne et quartier médiéval), une montagne, un téléphérique, une zone industrielle, un pont tournant, une zone de triage, des trains pilotés en numérique (DCC), des aiguillages motorisés et automatisés pour la circulation, etc... Et le tout rien qu’en LEGO ! Enfin presque, car il y aura aussi deux caméras vidéos, l’une montée dans une rame circulante et l’autre montée sur une grue mobile. Et puis le DCC qui n’est pas fabriqué par LEGO.  
+Vous pouvez vous faire une toute petite idée de ce qui se prépare en consultant [le plan](http://photos.freelug.org/main.php/v/Frogleap/ExpositionsLego/PreparationAMFC2006/) concocté par les 14 participants. Bref, on devrait bien s’amuser à monter tout ça et intéresser le public qui viendra voir le spectacle, en espérant que vous y serez !
+
+Les adhérents de FreeLUG participant à cette exposition sont par ordre alphabétique :  
+Loys Bailly  
+Jean Louis Bergamo  
+Pascal Bréard  
+Christophe Connan  
+Daniel Goberville  
+Médérik Guilbert  
+Sébastien Hamon  
+Nicolas Huyard  
+Simone Huyard  
+Philippe Label  
+Baptiste Label  
+Denis Laurençon  
+Didier Malon  
+Gilles Micheletti
+
+Les neuf éditions précédentes ont fait la réputation nationale de ce salon bisannuel, qui est devenu une référence en la matière dans l’hexagone.
+
+Le parc des expositions de la ville d’Orléans possède tous les atouts favorables à ce type de manifestation, parking et accès facile par tramway direct avec les gares d’Orléans.
+
+Prix indicatif des entrées (tarifs 2004) :  
+Adulte, 5€  
+Enfant, 3€  
+Les tarifs 2006 ne sont pas encore connus.
+
+Pour l’équipe des participants,  
+Philippe "frogleap" Label.

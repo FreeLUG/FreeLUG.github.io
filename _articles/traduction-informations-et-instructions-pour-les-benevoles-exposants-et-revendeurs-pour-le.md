@@ -1,0 +1,266 @@
+---
+title: "Traduction : \"Informations et instructions pour les bénévoles,
+  exposants et revendeurs\" pour le LEGOWORLD 2003"
+permalink: "/articles/traduction-informations-et-instructions-pour-les-benevole\
+  s-exposants-et-revendeurs-pour-le/"
+section: "/association/divers/"
+published_at: "2003-07-18T14:20:24Z"
+authors: [ "Didier MALON", "Jean-Louis \"JLB\" Bergamo" ]
+description: "Les coordinateurs sont Paul Koelewijn et Paul Wolters."
+source_id: 127
+source_url: "https://www.freelug.org/spip.php?article127"
+---
+
+## Généralités
+
+Les coordinateurs sont **Paul Koelewijn** et **Paul Wolters**.
+
+**–** Chargé de la communication avec De Bouwsteen _(Note Du Traducteur : le club de nos amis hollandais)_ :
+
+![](/media/archive/1e55ab6e39520ae35ddb5ff2.jpg)
+
+Paul Koelewijn  
+tel +31(0)644 038 897  
+tel @home ’ +31(0)251 232 002 2  
+Email : paullego at wanadoo.nl
+
+**–** Chargé de la communication avec LEGO et IJsselhallen _(NDT : vraisemblablement l’administration du salon : hallen = salon, hall)_ :
+
+![](/media/archive/7e10b6a140218f71d89a82d7.jpg)
+
+Paul Wolters  
+tel +31(0)618 885 770  
+tel @ home ’ +31(0)43 363 802 2  
+Email : paulwolter at home.nl
+
+## Bénévoles
+
+**Coordinateur** : Paul Wolters.
+
+(Initialement, ce sont des membres du club De Bouwsteen). Paul fournira les instructions sur ce qu’il y a à faire et quand le faire.
+
+Les premières tâches identifiées sont :
+
+**–** **Assistance au club**
+
+-   Surveillance des MOCs
+-   Donner les informations au public, tel que le nom du concepteur, les techniques d’architecture utilisées, etc...,
+-   Surveillance contre le vol et l’incendie,
+-   Bon fonctionnement des trains, etc…
+-   Démos Mindstorm,
+-   Démos Ldraw,
+-   Fonctionnement de la salle de projection,
+-   Relève des équipes,
+
+**–** **Assistance de la compagnie LEGO**
+
+-   Aire de construction :
+
+-   -   Assister les plus jeunes, garder un œil sur les pièces et s’assurer du retour des pièces sur la table et remonter les réalisations du public pour avoir une présentation propre chaque matin.
+
+-   Nettoyage des vitrines des modèles d’exposition de LEGO,
+
+-   Participer aux différents événements LEGO :
+
+-   -   « Bob le constructeur »,
+    -   Sports,
+    -   Bionicle,
+    -   Courses de racers,
+    -   Structure de jeu gonflable,
+    -   Voitures radio commandées,
+
+-   Relève des équipes,
+
+Certaines tâches seront réalisées en collaboration avec le personnel de LEGO. Le rôle de « Bob le constructeur » est dévolu normalement à un membre du club.
+
+**Renate Ouweneel** est le responsable en chef de cet événement. Deux employés seront également sur place dans le hall LEGO, afin d’encadrer les équipes présentes et nos représentants (Roland et Tanja).
+
+## Exposants
+
+Coordinateur : **Hans Beuze**
+
+![](/media/archive/faefbb4b9445623da874abd2.jpg)
+
+Hans Beuze  
+tel +31(0)615 340 423  
+tel at home ’ +31(0)572 354 543 2  
+Email : hansbeuze at home.nl
+
+Les exposants pourront installer leurs MOC les 15 et 16 Octobre et les retirer le 21 à partir de 17h00.
+
+Les exposants consacrent la moitié de leur temps aux tâches bénévoles telles que décrites ci-dessus.
+
+## Revendeurs
+
+Coordination : **Paul Koelewijn**
+
+Seuls les membres du club et les exposants sont autorisés à effectuer des reventes de modèles d’occasion et de boîtes de plus de 3 ans d’age _(NDT : sans doute pour éviter une concurrence avec les détaillants professionnels)_.
+
+L’emplacement est situé dans le hall du club,
+
+La location d’un emplacement est fixée à 11,35€ par m2 et par jour : Ce sont les règles du club.
+
+Il est entendu que ce tarif est extrêmement bas _(NDT : Faut savoir que nos amis Hollandais ont une solide culture de marchands ;-))_ .
+
+Si par conséquent vous avez fait une bonne journée, nous vous engageons à effectuer une donation supplémentaire au club.
+
+La vente de vos propres livres est exempte de paiement supplémentaire.
+
+## Symposium des Fédérations Européennes
+
+Coordinateur : **Eric Brok**
+
+![](/media/archive/92c20cd9ddc9a6be6062dbd0.jpg)
+
+Eric Brok  
+tel +31(0)651 684 377  
+tel @ home ’ +31(0)599 287 016 2  
+Email ericbrok at zonnet.nl
+
+Le 19 Octobre, se tiendra un symposium au sujet de la nécessité de créer une fédération européenne.
+
+Pour soutenir un événement comme Zwolle, LEGO a demandé la création du club De Bouwsteen.
+
+L’horaire sera précisé ultérieurement.
+
+Etant un club important, regroupant de nombreux membres âgés de 5 à 95 ans et pratiquant toute sorte d’activités avec LEGO, il n’était pas difficile d’organiser un événement comme Zwolle. Par contre le reproduire dans d’autres pays risque d’être plus difficile _(NDT : Ils ne savent pas encore ce dont nous sommes capables !)_
+
+Les petits clubs ne sont pas familiarisés avec l’organisation de ce type de gros événement et se focalisent plus sur des domaines particuliers comme le Mindstorm ou les trains.
+
+Nous souhaiterions que les clubs soient unis et puissent s’aider les uns les autres sur tous les sujets concernant les briques LEGO.
+
+## Sécurité
+
+Coordinateur : **Peter van Es.**
+
+![](/media/archive/41d7318e7b6d661063b26bbf.jpg)
+
+Peter van Es.  
+tel +31(0)641 459 261  
+tel @ home ’ +31(0)43 363 802 2  
+Email : paulwolter at home.nl _(NDT : doute sur l’adresse email, vraisemblable erreur de copier/coller)_
+
+Avant et après l’ouverture il y a une surveillance professionnelle d’assurée.
+
+Si vous observez un vol quelconque, n’intervenez pas mais contactez ou faites contacter Peter.
+
+## Hébergement
+
+Coordinateur : **Paul Koelewijn**
+
+L’hébergement sera gratuit pour les bénévoles et exposants.
+
+Il s’effectue dans des maisons de vacances prévues pour 6 personnes qui pourront éventuellement en recevoir plus.
+
+Les lits seront 1 lit d’une place et 1 lit de deux places dans une chambre de deux personnes. Note : vous aurez donc à partager la chambre avec une autre personne _(NDT : Partager la chambre ne signifie pas forcément partager le même lit !)._
+
+Les seuls frais supplémentaires sont de 6,50€ pour un sac de couchage.
+
+Les maisons sont équipées d’un réfrigérateur, coin cuisine, cafetière, etc…
+
+Vous pouvez les voir sur le site : [http://www.leemkule.nl](http://www.leemkule.nl/)
+
+Si vous n’êtes pas bénévole ou exposant et que nous n’avons pas assez de place, vous pourrez également vous faire héberger pour 15,00€ par nuit et par personne.
+
+## Ldraw
+
+Coordinateur : **Jaco van der Molen**
+
+![](/media/archive/754ec7958562c2400c8c89b7.jpg)
+
+Jaco van der Molen  
+tel+31(0)642 202 362  
+tel @ home ’ +31(0)252 211 703 2  
+Email : jmolen at zonnet.nl
+
+Présentations par projecteur sur un grand écran avec démonstrations et apprentissage grâce à des ordinateurs portables.
+
+A certaines heures, Eric Brok interviendra pour présenter des démonstrations des différentes options d’assemblage des briques.
+
+## Mindstorm
+
+Coordinateur : **Martijn Boogaarts** (Pas de photo disponible)
+
+tel @ home +31(0)361 261 456 2  
+Email : mboogaar at baan.com
+
+Il y aura de nombreuses démonstrations continues de tous les types de Mindstorm et Spybotics.
+
+Cette année nous essayerons également de mettre en œuvre les règles de la FLL (First Lego League), mais comme la Hollande n’est pas un pays pilote, ça ne sera qu’une démonstration.
+
+## Miniland
+
+Coordinateur : **Hans Beuze**
+
+## Trains
+
+Coordinateur : **Erwin van Grinsven**
+
+![](/media/archive/48de55ad4d98beefde46068b.jpg)
+
+Erwin van Grinsven  
+tel +31(0)651 854 444  
+tel @ home ’ +31(0)252 211 703 2  
+Email : vangrinsven at parelnet.nl
+
+## MOC’s
+
+Coordinateur : **Hans Beuze**
+
+## Autres généralités
+
+Le IJsselhallen est une aire non-fumeur, le seul lieu où vous serez autorisés à fumer est le restaurant.
+
+Durant les deux dernières années, il n’y a eu aucun vol ni chez les exposants, ni chez les revendeurs. Par contre la compagnie LEGO a rencontré elle-même des vols importants la première année, mais qui sont en diminution ces dernières années. Le public sait se servir de ses doigts (et malheureusement un exposant aussi : il a été remplacé !).
+
+Il est clair que tous nos membres doivent garder leurs mains dans leurs poches, sous peine d’être remplacés et exclus du club.
+
+Nous souhaiterions que vous restiez pour toute la durée de l’exposition.
+
+Une barrière haute de 69cm _(NDT : environ !)_ sécurise tous les emplacements des exposants.
+
+Les sorties de secours et l’accès aux équipements doivent rester libres.
+
+Les tickets supplémentaires ne sont disponibles que par réservation préalable. Vous pouvez les obtenir par notre intermédiaire. Le tarif n’est pas encore établi à ce jour. Des billets couvrant l’ensemble des journées seront également disponibles.
+
+Les 15 et 16 Octobre vous pouvez venir de 9h00 à 17h00.
+
+Si vous souhaitez rester plus longtemps, jusqu’à 19h00, il faudra vous faire enregistrer au préalable.
+
+Les autres jours, le hall d’exposition nous ouvrira ses portes à 8h30. Avant de venir vous aurez besoin d’un badge que vous pourrez obtenir auprès de Peter van Es, le responsable de la sécurité.
+
+Compte tenu de l’arrivée matinale, le petit déjeuner sera servi dans le hall d’exposition. Durant la journée des emplacements sont prévus pour s’asseoir, boire, manger et pour se reposer.
+
+Le 17 Octobre se tiendra un repas de gala, à coté du hall d’exposition dans un restaurant chinois. La participation sera d’environ 15,00€ par personne.
+
+Pour les autres jours vous êtes libres de dîner où bon vous semble, mais le plus simple, comme les nous avons fait les années précédents c’est de se trouver une place pour dîner tous ensemble à Zwolle.
+
+## Quelques liens utiles
+
+[http://www.debouwsteen.com](http://www.debouwsteen.com/)  
+et  
+[http://www.legoworld.nl](http://www.legoworld.nl/)
+
+## Photos des précédents événements :
+
+**–** 2002 :
+
+-   [http://www.vanree.net/ javanree/fotoalbum/lego/legoworld\_2002/](http://www.vanree.net/~javanree/fotoalbum/lego/legoworld_2002/) ;Jan-Albert van Ree
+-   [http://www.vanree.net/ kmeijaard/fotoalbum/legoworld\_2002](http://www.vanree.net/~kmeijaard/fotoalbum/legoworld_2002) ;Klaas Meijaard
+-   [http://www.vanree.net/ kmeijaard/fotoalbum/piraten\_diorama/](http://www.vanree.net/~kmeijaard/fotoalbum/piraten_diorama/) ;Klaas Meijaard
+-   [http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27199](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27199) ;Jeroen de Haan
+-   [http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27200](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27200) ;Jeroen de Haan
+-   [http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27152](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27152) ;Stefan Wanderer
+-   [http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27226](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27226) ;Frank Builting
+-   [http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27260](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27260) ;Reinhard Ben Beneke
+-   [http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27068](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27068) ;Wendel Bogaard ;
+-   [http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27357](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=27357) ;Martijn Boogaarts
+-   [http://www.telegraaf.nl/nieuwslink/teksten/nws.evenement.mensen.ijsselhallen.html](http://www.telegraaf.nl/nieuwslink/teksten/nws.evenement.mensen.ijsselhallen.html)
+-   [http://www.bndestem.nl/regioportal/BNS/0,2622,5466-Reizen-Reizen !!\_\_1280156\_,00.html](http://www.bndestem.nl/regioportal/BNS/0,2622,5466-Reizen-Reizen!!__1280156_,00.html)
+-   [http://home.planet.nl/ priem046/legofoto.html](http://home.planet.nl/~priem046/legofoto.html)
+-   [http://home.planet.nl/ priem046/legoworld1.html](http://home.planet.nl/~priem046/legoworld1.html)
+
+**–** 2001 :
+
+-   [http://www.brickshelf.com/cgi-bin/gallery.cgi?f=12149](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=12149)
+-   [http://www.brickshelf.com/cgi-bin/gallery.cgi?f=7664](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=7664)

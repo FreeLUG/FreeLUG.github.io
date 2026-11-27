@@ -1,0 +1,77 @@
+---
+title: "CR de la réunion du CA du 09 novembre 2020"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-09-novembre-2020/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2021-03-11T07:57:41Z"
+authors: [ "Erik \"brickerik\" Amzallag", "Sébastien HAMON" ]
+description: "CR de la réunion du CA du 09 novembre 2020"
+source_id: 3085
+source_url: "https://www.freelug.org/spip.php?article3085"
+---
+
+CR de la réunion du CA du 09 novembre 2020
+
+## Ordre du jour
+
+_Début de séance : 20h40_
+
+_Présents (8) :_  
+**–** Erik Amzallag  
+**–** Emmanuel Bonnard  
+**–** Pierre Charles  
+**–** Xavier Claudel  
+**–** Sébastien Hamon  
+**–** Philippe Label  
+**–** Richard Lemeiter  
+**–** Xavier Viallefont
+
+_Absent (1) :_  
+**–** Pierre Laurenge
+
+_Ordre du jour :_
+
+**–** Local de Saint Étienne  
+**–** AGE et prochaine AG  
+**–** Lugbulk 2021  
+**–** Vente minifigs  
+**–** Point comptabilité
+
+_En raison de la faible activité due à la pandémie, le Conseil d’Administration ne s’est pas réuni au mois d’octobre. Les éventuels sujets ont été traités par courriel._
+
+## Local de Saint Étienne
+
+Les restrictions de déplacement actuelles ne permettent pas à Pierre L de libérer le local. Des solutions vont être recherchées pour permettre de libérer le box au plus vite.
+
+## AGE et prochaine AG
+
+La prise en main de l’outil de vote reste compliquée.
+
+Vue la date, la pertinence d’une AG extraordinaire nous interroge. Toutefois, la situation sanitaire ne semblant pas s’améliorer, et il y a peu de chance que nous puissions nous rassembler pour notre AG, et un outil de vote en distanciel semble nécessaire.
+
+Nous allons poursuivre nos tests, et nos résultats permettront de décider de la suite à donner sur l’organisation de l’AGE.
+
+## Lugbulk 2021
+
+Afin de raccourcir les délais de règlement de la facture auprès de LEGO qui est arrivée à chaque fois au mois d’août, nous envisageons une demande de paiement partiel en avance. Un premier sondage auprès des participants au tri montre qu’il n’y a pas de réticence.
+
+Même si cela représente deux fois plus de travail pour les trésoriers, ceux-ci ne sont pas contre, le nouvel outil de gestion facilitant grandement le suivi des paiements.
+
+**–** Pour : 7  
+**–** Abstention : 1
+
+Le Lugbulk 2021 va pouvoir être lancé avec cette nouvelle règle.
+
+## Vente minifigs
+
+Nous avons encore un stock restant de nos commandes groupées de minifigs série 18, Batman 2, NinjaGo Le Film...
+
+Avec un inventaire, nous pourrons envisager de relancer une vente afin de dégager quelques recettes supplémentaires.
+
+## Point comptabilité
+
+Les renouvellements de cotisation qui arrivent vont permettre de limiter le déficit de cette année.
+
+_Fin de séance : 22h35_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

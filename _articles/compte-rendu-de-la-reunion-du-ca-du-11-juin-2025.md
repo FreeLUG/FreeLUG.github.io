@@ -1,0 +1,71 @@
+---
+title: "Compte-rendu de la réunion du CA du 11 juin 2025"
+permalink: "/articles/compte-rendu-de-la-reunion-du-ca-du-11-juin-2025/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2025-07-27T08:34:27Z"
+authors:
+  [
+    "efde71",
+    "Manu Bonnard",
+    "Mickaël DELAHAYE",
+    "Nicolas CHARNAY",
+    "Nicolas W",
+    "Sébastien HAMON",
+    "Stéphane PARADOT"
+  ]
+description: "– Emmanuel Bonnard – François Disdier – Mickaël Delahaye – Nicolas
+  Charnay – Nicolas Weeger – Sébastien Hamon – Stéphane Paradot"
+source_id: 3292
+source_url: "https://www.freelug.org/spip.php?article3292"
+---
+
+## Membres présents (7) :
+
+**–** Emmanuel Bonnard  
+**–** François Disdier  
+**–** Mickaël Delahaye  
+**–** Nicolas Charnay  
+**–** Nicolas Weeger  
+**–** Sébastien Hamon  
+**–** Stéphane Paradot
+
+_Début de séance à 21h00_
+
+## Animations, expositions
+
+Le conseil d’administration valide la Briqu’Expo de Saint-Jory en remplacement de celle de Colomiers, aux mêmes dates.
+
+Le conseil d’administration note la validation, lors de la Briqu’Expo de Fonbeauzard, d’un atelier de construction libre pour une animation du Secours Populaire de Castanet, animée par Landry et Marie.
+
+Le conseil d’administration se prononce contre la participation sous couleurs FreeLUG de Joël à l’exposition la Brique Biachette, les 21 et 22 juin 2025, à Desertines 03630. L’affiche de l’exposition n’est en effet pas conforme aux règles de LEGO et pourrait poser problème. Le conseil d’administration décide que cette participation comptera néanmoins pour le décompte des points du bulk. Emmanuel Bonnard se charge de prévenir Joël.
+
+Le conseil d’administration valide la participation de Denis Laurençon au Festival des coquelicots de Longpont sur Orge, le 21 et 22 juin, avec une course de caisse à savon et une mosaïque, les briques étant fournies par un autre adhérent.
+
+Le conseil d’administration valide un budget de 90 € (10 € par personne pour 9 personnes) pour Jac, dans le cadre d’une fête du train.
+
+## Sujets autour du bulk
+
+Le conseil d’administration prend note que 14 adhérents n’ont pas encore réglé l’avance du bulk. Le compte bancaire est cependant assez approvisionné pour payer lorsque LEGO le demandera.
+
+Le conseil d’administration valide l’achat de pelles pour le tri du bulk, pour un budget d’environ 80 €.
+
+Emmanuel Bonnard indique que les Canadiens ont eu des écarts importants sur certaines pièces dans le bulk. Il faudra être vigilant lors du tri pour remonter à LEGO les gros écarts.
+
+Le conseil d’administration valide un bulk event pour la Briqu’Expo de Saint-Jory, afin d’agrandir le réseau de la ville en MILS et pouvoir faire des arbres (objectif : passage de 10m à 15m). Nicolas Charnay se charge du dossier.
+
+## Points divers
+
+Nicolas Charnay indique des problèmes de connexion au compte Zeetle, à cause de mails passant dans les spams. Lui et Sébastien Hamon décident de se coordonner pour résoudre le problème.
+
+Le conseil d’administration valide la prise en charge des péages pour un voyage groupé de membres du COR Occitanie, pour un budget de 120 €.
+
+Le conseil d’administration valide la création d’un compte Facebook et Instagram pour le COR Occitanie « Freelug Occitanie ».
+
+Le conseil d’administration, compte tenu des discussions sur le forum dédié au COR Rhône, valide le changement de responsable du COR, qui sera donc Stéphanie Prin.
+
+Le conseil d’administration valide l’utilisation des nappes FreeLUG par Damien Bresson, qui les stocke, pour une activité hors FreeLUG.
+
+Emmanuel Bonnard indique avoir parlé à Stéphane Galiné ; son exposition sera sans FreeLUG cette année. Contact sera repris plus tard dans l’année pour l’édition 2026. Emmanuel Bonnard doit lui transmettre les règles imposées par LEGO vu notre statut RLUG.
+
+_Fin de séance à 22h28_

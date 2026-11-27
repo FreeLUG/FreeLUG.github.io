@@ -1,0 +1,39 @@
+---
+title: "Participation de FreeLUG au salon du maquettisme à Cournon d’Auvergne"
+permalink: "/articles/participation-de-freelug-au-salon-du-maquettisme-a-courno\
+  n-d-auvergne/"
+section: "/regions/auvergne/"
+published_at: "2019-10-21T11:55:30Z"
+authors: [ "Franck Loiseau", "Philippe \"Frogleap\" LABEL" ]
+description: "C’était donc le samedi matin qu’avaient rendez-vous deux adhérents
+  FreeLUG (Franck et Philippe) pour participer au salon du maquettisme organisé
+  par l’AFMC les 28 et 29 septembre derniers à Cournon d’Auvergne."
+source_id: 2987
+source_url: "https://www.freelug.org/spip.php?article2987"
+---
+
+C’était donc le samedi matin qu’avaient rendez-vous deux adhérents FreeLUG (Franck et Philippe) pour participer au salon du maquettisme organisé par l’[AFMC](https://afmc63.fr/) les 28 et 29 septembre derniers à Cournon d’Auvergne.
+
+[![](/media/archive/12cf0d54b95ec4160f8ea31d.jpg)](https://www.freelug.org/IMG/jpg/resized800x600dsc00580.jpg)
+
+**La gare rouge de Franck**
+
+Un excellent prétexte pour jouer au LEGO ensemble et déballer les trains et bâtiments que le manque de place nous oblige à garder rangés à la maison.
+
+Franck a amené deux magnifiques gares et leurs abords, tandis que Philippe apportait les trains, incluant voies et matériel roulant.
+
+[![](/media/archive/79142de1c3d76e7c5a6481f8.jpg)](https://www.freelug.org/IMG/jpg/resized800x600dsc00588-r90.jpg)
+
+**Les rames au triage**
+
+Nous avons vu défiler environ 900 visiteurs sur la journée et demi d’ouverture au public (samedi après-midi et dimanche). Beaucoup de questions de passionnés de modélisme, certains impressionnés par la robustesse du matériel : "ils ont tourné toute la journée sans aucune panne (sic)". Il ne manquerait plus que ça ! C’est du LEGO tout de même.
+
+Des enfants toujours aussi ébahis et scotchés au stand, avec certains parents non moins rêveurs. Sans parler des nostalgiques qui repéraient par endroit un modèle ancien, souvenir de leur enfance.
+
+[![](/media/archive/f340be8d03e13ebf854c5386.jpg)](https://www.freelug.org/IMG/jpg/resized800x600dsc00590-r90.jpg)
+
+**Une grue de levage lourd**
+
+Encore une édition très agréable, à l’ambiance calme avec un public respectueux du matériel exposé. Merci à l’AFMC et Michel en particulier pour l’invitation. rendez-vous dans deux ans, si on veut bien encore de nous. Merci à Franck pour [ses photos de notre stand](https://photos.freelug.org/main.php/v/Frogleap/ExpositionsLego/Cournon2019/).
+
+Voir en ligne : [Site de l’AFMC en Auvergne](https://afmc63.fr/)

@@ -1,0 +1,77 @@
+---
+title: "Tables d’exposition modèle DELA02"
+permalink: "/articles/tables-d-exposition-modele-dela02/"
+section: "/association/divers/"
+published_at: "2007-08-17T20:20:53Z"
+authors: [ "Denis LAURENCON" ]
+description: "Basé sur la conception de BeLUG, ces tables sont au standard
+  FreeLUG. Présentées pour la première fois à l’Assemblée Générale 2006, une
+  pré-série a été utilisée pour l’AG 2007 et pour le Mondial de la Maquette en
+  avril 2007."
+source_id: 648
+source_url: "https://www.freelug.org/spip.php?article648"
+---
+
+Basé sur la conception de BeLUG, ces tables sont au standard FreeLUG.
+
+Présentées pour la première fois à l’Assemblée Générale 2006, une pré-série a été utilisée pour l’AG 2007 et pour le Mondial de la Maquette en avril 2007.
+
+Vous trouverez ci-dessous la notice d’assemblage et de montage, mais auparavant faisons un petit tour dans les coulisses de la fabrication.
+
+## La fabrication
+
+![](/media/archive/09709c7ceb439d9ffa8556b2.jpg)
+
+**Le débit**
+
+![](/media/archive/e3806eb84a144d725414f67e.jpg)
+
+**Le dégauchissage - rabotage**
+
+![](/media/archive/fe261c76051088c82fa36e3b.jpg)
+
+**La mise aux cotes**
+
+![](/media/archive/94aadc3ab0de38f208de24cf.jpg)
+
+**Le toupillage**
+
+![](/media/archive/7179180ca24c2b2c2aafa991.jpg)
+
+**Le ponçage**
+
+Il reste enfin la découpe des plateaux et la suite se trouve dans la notice.
+
+## Assemblage et montage
+
+Vous constaterez que leur robustesse est assurée par un plateau avec ceinture rigide et que leur montage sur le site d’exposition est simplifié par le pré-assemblage d’une seule patte double par table (2 boulons et c’est tout !).
+
+Ces tables sont légères, peu encombrantes et un astucieux assemblage permet un transport aisé des accessoires.
+
+En voici la notice dont la consultation vous donnera tous les détails :
+
+[![](/media/archive/b2908fe7db4d9b3542d155c1.svg)](https://www.freelug.org/IMG/pdf/Notice_table_07-07.pdf "PDF - 847.5 kio")
+
+**Notice table DELA02**
+
+## Budget
+
+Un dernier mot sur le prix de revient d’une table de 3 x 3 (soit 9 plaques LEGO de 32 x 32 tenons) :
+
+| Qté | Désignation | Montant |
+| --- | --- | --- |
+| 1 | Plateau de Contre-Plaqué de 8mm | 9,35 € |
+| 1 | Ceinture | 2,50 € |
+| 1 | Double patte | 0,90 € |
+|  | Boulonnerie | Gratis |
+|  | Total | 12,75 € |
+
+(Montants indicatifs pour Août 2007)
+
+![](/media/archive/2027d9f87e81b0b9cfdd8703.jpg)
+
+Et voilà !
+
+Autonomie et modularité sont des atouts pour faciliter l’organisation de belles expositions où grands et petits, fans et curieux seront enchantés.
+
+**A bientôt sur de prochaines manifestations !**

@@ -1,0 +1,31 @@
+---
+title: "Résumé du deuxième salon du modélisme Giennois"
+permalink: "/articles/resume-du-deuxieme-salon-du-modelisme-giennois/"
+section: "/regions/centre/"
+published_at: "2012-03-28T06:48:02Z"
+authors: []
+description: "L’AGMR (Association Giennoise de Modèles Réduits) nous a
+  sollicités pour exposer lors de leur deuxième salon du modélisme, qui se
+  tenait les 10 et 11 septembre 2011."
+source_id: 1470
+source_url: "https://www.freelug.org/spip.php?article1470"
+---
+
+L’AGMR (Association Giennoise de Modèles Réduits) nous a sollicités pour exposer lors de leur deuxième salon du modélisme, qui se tenait les 10 et 11 septembre 2011.
+
+C’était un week-end très agréable, un peu arrosé hélas mais avec beaucoup de visiteurs.
+
+![](/media/archive/dc5b183d81d7720151da3ffb.jpg)
+
+Remerciements :  
+**–** au président de l’AGMR, Monsieur Dureville A.  
+**–** à toute la famille Goberville  
+**–** à Monsieur Kurys V.  
+**–** au CA de FreeLUG  
+**–** au JouéClub de Gien
+
+Merci à tous,
+
+David KURYS
+
+[Galerie photos](http://photos.freelug.org/main.php/v/davidkurys/gien2011/)

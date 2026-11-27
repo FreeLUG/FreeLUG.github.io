@@ -1,0 +1,26 @@
+---
+title: "Un MOC tiré du seigneur des anneaux"
+permalink: "/articles/un-moc-tire-du-seigneur-des-anneaux/"
+section: "/themes/moc/"
+published_at: "2003-09-29T06:41:09Z"
+authors: []
+description: "Voici une baliste dont se servent les Uruk hai pour attaquer la
+  forteresse du Gouffre de Helm. Elles tirent de gros grappin qui servent
+  ensuite à monter d’immenses échelles pour assaillir le bastion."
+source_id: 163
+source_url: "https://www.freelug.org/spip.php?article163"
+---
+
+Voici une baliste dont se servent les Uruk hai pour attaquer la forteresse du Gouffre de Helm. Elles tirent de gros grappin qui servent ensuite à monter d’immenses échelles pour assaillir le bastion.
+
+[![](/media/archive/862b739d46d03a2828a87306.jpg)](https://www.freelug.org/IMG/jpg/baliste01.jpg)
+
+**Baliste-01**
+
+[![](/media/archive/43f81740cbcf6392645b5e8c.jpg)](https://www.freelug.org/IMG/jpg/baliste02.jpg)
+
+**Baliste-02**
+
+[![](/media/archive/970b29e12b6dbb38ebdd38d7.svg)](https://www.freelug.org/IMG/zip/baliste.zip "Zip - 834 octets")
+
+**Baliste-ldr.zip**

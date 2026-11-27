@@ -1,0 +1,28 @@
+---
+title: "Tri des Minifigs : Batman Movie"
+permalink: "/articles/tri-des-minifigs-batman-movie/"
+section: "/regions/rhone-alpes/"
+published_at: "2017-05-29T16:57:19Z"
+authors: [ "Antoine CL" ]
+description: "Le week-end du 4 mars nous nous sommes retrouvés dans les locaux
+  de l’INSA pour un nouveau tri de minifigs. Toujours très bien accueilli par
+  Fabrice Ville et sous la gestion de Xavier."
+source_id: 2635
+source_url: "https://www.freelug.org/spip.php?article2635"
+---
+
+Le week-end du 4 mars nous nous sommes retrouvés dans les locaux de l’INSA pour un nouveau tri de minifigs. Toujours très bien accueilli par Fabrice Ville et sous la gestion de Xavier.
+
+Au programme 1800 minifigs à trier avec les habitués et quelques nouveaux qu’il a fallu former.
+
+[![](/media/archive/ce73fe23b2c72bf3fa367076.jpg)](https://www.freelug.org/IMG/jpg/IMG_1517-2.jpg)
+
+Lors de cet après-midi, nous avons trié, échangé autour des LEGO et des futures expositions de la région ainsi que de la future AG.
+
+Après tout ça, un petit goûter était prévu pour finir l’après-midi sur une bonne note.
+
+[![](/media/archive/679dafeeacd093f7b0e4d6f3.jpg)](https://www.freelug.org/IMG/jpg/IMG_1515-2.jpg)
+
+[![](/media/archive/f623828fdf9ecd3268c28fe8.jpg)](https://www.freelug.org/IMG/jpg/IMG_1516.jpg)
+
+Prochain rendez-vous avec le tri de la série 17.

@@ -1,0 +1,316 @@
+---
+title: "La technique du lettrage : Application au trains LEGO®"
+permalink: "/articles/la-technique-du-lettrage-application-au-trains-lego/"
+section: "/themes/train/"
+published_at: "2005-08-12T22:00:00Z"
+authors: [ "Didier ENJARY" ]
+description: "Cet article est la partie II de la discussion sur les techniques
+  de décoration pour trains LEGO® [1]."
+source_id: 409
+source_url: "https://www.freelug.org/spip.php?article409"
+---
+
+Cet article est la partie II de la discussion sur les techniques de décoration pour trains LEGO® [^2-1].
+
+**Introduction**
+
+Vous pouvez avoir besoin de mettre des noms de marques (Santa Fe) ou des acronymes (TGV) sur les côtés de vos wagons, voitures ou locomotives.
+
+![](/media/archive/dc19f921a2986617a9bfcb07.jpg)
+
+Voyons par quels moyens vous pouvez réussir de telles décorations.
+
+**1) Mosaïque**
+
+Vous pouvez utilisez des lettres et des chiffres basés sur la technique classique de la mosaïque.
+
+La société LEGO® proposes une police de caractère dans le [livret d’idée 226](http://library.brickshelf.com/scans/0000/0226/0226-78.jpg)
+
+![](/media/archive/50297f41e9a791374d47a3f0.jpg)
+
+Eric Harshbarger propose lui une police plus petite [ici](http://www.ericharshbarger.org/lego/fonts.html) basé sur cette technique.
+
+![](/media/archive/b5bde331f7c855859a11761c.jpg)
+
+La réalisation est facile et toutes les lettres sont représentées mais plutôt encombrante : 5 tenons de haut, les barres des lettres sont épaisses (1 tenon). A cause de cette taille importante, cette technique n’a pas été utilisé pour des trains LEGO®
+
+Des exemples dans d’autres domaines que le train :
+
+[Logo de IndyLUG](http://www.brickshelf.com/gallery/matthew1980/IndyLUG/CNPE-FEB-2005/000indylug.jpg)
+
+![](/media/archive/5d7e6479fbca2972f80982a0.jpg)
+
+[La tour Smart©](http://www.brickshelf.com/gallery/dickydidier/smart/p1120002.jpg)
+
+![](/media/archive/4cb9db533b7539036b7c075e.jpg)
+
+[Une remorque "Milk"](http://www.brickshelf.com/gallery/SEBarile/LLCA/mainstreet_4.jpg)
+
+![](/media/archive/80be7cd218bc64573003f603.jpg)
+
+Les deux derniers exemples montrent des lettres de 4 tenons de haut mais il est dans ce cas impossible de créer toutes les lettres de l’alphabet.
+
+**2) L’assemblage classique**
+
+L’alternance de plaques de couleurs en assemblage classique permet de faire des lettres-mosaïques plus petites.
+
+![](/media/archive/28b717a64fd218069f679086.jpg)
+
+L’épaisseur des barres horizontales des lettres n’est plus que de 0.4 tenons. La largeur des barres verticales est inchangée (1 tenon).
+
+La structure des lettres est identique à celle de la polic de caractère de Eric Harshbarger que nous venons de voir.
+
+Par conséquent, les lettres semblent plus larges que hautes mais ça convient assez bien puisqu’elles apparaissent sur les larges flans des locomotives et des wagons.
+
+Cette technique convient particulièrement bien aux lettres ne comportant ni courbe, ni diagonale (E,F,H,I,L et T) ou aux lettres qui peuvent être rendues carrées (A,C,G,J,O,P,S,U). On obtient aussi des résultats correct pour les autres lettres (B,D,K,M,N,Q,R,V,W,X,Y,Z)
+
+Bien que les lettres soient plus petites, ce n’est pas un grand avantage car la réduction ne se fait que dans le sens de la hauteur. Toutefois c’est suffisant pour voir un grand nombre d’application sur des trains LEGO®
+
+Walt May a créer les lettrages pour : [CN](http://www.brickshelf.com/gallery/crazeed/GP40-2LW/amg_1357.jpg), [CSX](http://www.brickshelf.com/gallery/crazeed/csxAC6000/aaaac6000.jpg) et [GT](http://www.brickshelf.com/gallery/crazeed/work-in-progress/gt_gp-9side.jpg).
+
+![](/media/archive/1dd06535c7f6ffc797726f6a.jpg)
+
+![](/media/archive/19ec42c5f23c3ac38094460e.jpg)
+
+![](/media/archive/dc5cd1d2540c13a1a584bc41.jpg)
+
+et James Mathis pour le marquage [SBB](http://www.brickshelf.com/gallery/jamathis/Trains/Locomotives/SwissRe44/v1/swiss_re44_v1_p5.gif) et [CFF](http://www.brickshelf.com/gallery/jamathis/Trains/Locomotives/SwissRe44/v2/swiss_re44_v2_p1.gif) sur une motrice Re44 des chemins de fer suisse.
+
+![](/media/archive/029184f87cd4783d8bfb9e5d.gif)
+
+![](/media/archive/84241ca2c809bdc4afedf7b9.gif)
+
+L’[ICE](http://www.1000steine.com/themen/eisenbahn/008/index.php) est une réalisation de Patrick Rumpel
+
+![](/media/archive/a56d5960441ff65a66f0613c.jpg)
+
+Masahiro Yanagi a créé des exemples dans le thème [Espace](http://www.brickshelf.com/cgi-bin/gallery.cgi?m=MasahiroYanagi&n=47)
+
+![](/media/archive/65423fa8e5b899a91bc1c942.jpg)
+
+**3) La police de caractère dite "Railton"**
+
+Jason Railton a écrit deux articles fondamentaux [^2-2] [^2-3] utile à la création de ce style de lettrage qu’il à utilisé dans au moins trois réalisations.
+
+Il à définit une police de caractère constitué d’un empilement classique de plaques et de briques placé en SNOT à 90°.
+
+Du fait de cette rotation, les barres verticales des lettres sont larges de 0.4 tenon alors que les barres horizontales sont épaisses de 1 tenon.
+
+![](/media/archive/02685995a3f55347136fe758.jpg)
+
+Réalisations de Jason Railton :
+
+**–** [Bolsover](http://www.brickshelf.com/gallery/jjrailton/trains/wagons/bolsover_colliery_01.jpg)  
+**–** [Saxa](http://www.brickshelf.com/gallery/jjrailton/trains/wagons/saxa_salt_01.jpg)  
+**–** Oxo
+
+![](/media/archive/b2a3310f16f4d6d22381b40e.jpg)
+
+![](/media/archive/dcb669897f60b097d8d48559.jpg)
+
+![](/media/archive/686a3e6fdaabc691caf6b1f8.jpg)
+
+Curieusement [^2-4], cette police de caractère est haute de 4 tenons ce qui complique la reproduction de lettres comme le E ou le B qui comporte des barres à mi-hauteur.
+
+Une police de caractère Railton haute de 5 tenons possédant la même structure que la police Harshbarger aurait été meilleure.
+
+Cependant, la fonte [^2-5] Railton possède des barres verticales fines ce qui permait malgré tout de reproduire le B et le S assez correctement comme on le voit sur le wagon "Bolsover".
+
+Le logo TGV par James Mathis utilise des lettres en améliorant la police Railton, amélioration qui permettrait de reproduire une police de caractère partielle de 2,8 tebons de haut.
+
+Le logo en italique du [TGV](http://www.brickshelf.com/gallery/jamathis/Trains/Passenger/TGVNord/tgv_nord_v3_p1.gif) par James Mathis est particulièrement remarquable.
+
+![](/media/archive/e558f69107ddb8813335c1a5.gif)
+
+Vous trouverez la notice de montage de ce lettrage dans la galerie [ILTCO "SNOT Train"](http://www.iltco.org/gallery/view_photo.php?set_albumName=album35&id=Slide33).
+
+![](/media/archive/d1d88b82b634aaad9107963d.jpg)
+
+Comme vous le voyez, l’amélioration de Mathis sur la police Railton consiste simplement à ajouter des barres horizontales en haut et/ou en bas sans toutefois apporter des complications majeurs dans le montage.
+
+**4) Les polices de caractère SNOT**
+
+Le SNOT [^2-6] permet de créer des lettres plus fines et donc avec plus de précision.
+
+**–** La police ["Harshbarger"](http://www.ericharshbarger.org/lego/fonts.html)
+
+![](/media/archive/aead433561afc3baf027394b.gif)
+
+est complete et relativement petite (3,2 tenons de hauteur) mais aussi relativement complexe à construire à l’aide des techniques SNOTs. Je n’ai pas trouvé d’exemples de réalisation dans le thème "train"
+
+**–** Police de caractère ["JBC"](http://www.brickshelf.com/gallery/sonnich/gallery/alfabet_2high.jpg) (Jensen/Bellis/Crawford)
+
+![](/media/archive/9d1981578e2f265a70607d82.jpg)
+
+est la une fonte vraiment petite (2 tenons de haut) mais incomplète (la lettre B majuscule par exemple ne peut être reproduite). Les minuscules sont intéressantes.
+
+Ce lettrage, plus fin, est aussi plus difficile à mettre en oeuvre et requiert une connaissance des techniques SNOT. Le grand avantage avec les lettrages SNOT est que les lettres présentant des lignes à mi hauteur (A et E par exemple)peuvent être reproduite contrairement aux lettres Railton amélioré par Mathis.
+
+Les lettrages SNOT ont l’inconvénient de nécessiter au moins 2 tenons de profondeur. Ceci peut interdire leur utilisation dans des applications dans le thème train, par exemple en 6 de large ou si vous souhaitez détailler l’intérieur des maquettes.
+
+Cette technique est particulièrement apprécié par Mark Bellis :
+
+[60001 EWS](http://www.brickshelf.com/gallery/mbellis/Trains/Mixed/66_9f_20_ba_agm_2004.jpg) et [Glorious Class 50 Hoover 50033](http://www.brickshelf.com/gallery/mbellis/Trains/Diesel/Class-50-Hoover/class_50_glorious_side_hull_2004.jpg)  
+par Mark Bellis
+
+![](/media/archive/233b748dd96e19eaaa9925c7.jpg)
+
+![](/media/archive/f06c2c3bd6f4d12d561527b8.jpg)
+
+[Railtrack](http://www.brickshelf.com/gallery/mbellis/Trains/Wagons/railtrack_hopper_kid_2004.jpg) par Mark Bellis
+
+![](/media/archive/8e20dd1fcd5d26bdae551ce4.jpg)
+
+Un conteneur toujours par Mark Bellis [Conteneur Maersk](http://www.brickshelf.com/gallery/mbellis/Trains/Scenery/maersk_container_ba_agm_2004.jpg)
+
+![](/media/archive/c924a9d085429e26121c2a7c.jpg)
+
+**5) Tableau récapitulatif de la taille des lettrages**
+
+| Type de lettrage | Taille | Epaiss. barres vert. | Epaiss. barres horiz. | Fonte |  |
+| --- | --- | --- | --- | --- | --- |
+| Mosaïque - TLC | 7 | 1 | 1 | C [^2-7] |  |
+| Mosaïque - Harshbarger | 5 | 1 | 1 | C |  |
+| Empilement - May | 2.8 | 1 | 0.4 | C |  |
+| Empilement - Mathis | 2 | 1 | 0.4 | C |  |
+| Railton | 4 | 0.4 | 1 | C |  |
+| Railton amélioré | 2.8 | 0.4 | 0.4 | I |  |
+| SNOT - Harshbarger | 3.2 | 0.4 | 0.4 | C |  |
+| SNOT - JBC | 2 | 0.4 | 0.4 |  | I [^2-8] |
+
+**6) Créations par d’autres fans de LEGO®**
+
+Le [KCS](http://www.brickshelf.com/gallery/crazeed/KCS--SD40-2/aa9kcs.jpg) et le [SantaFe](http://www.brickshelf.com/gallery/crazeed/updated-dash8-40BW/sfclosedetail.jpg) par Walt May présentent un mélange de techniques.
+
+![](/media/archive/1d8c465d53d9540d77f4254e.jpg)
+
+![](/media/archive/c82b281e2ace24f8756b8cc0.jpg)
+
+Mon point de vue est orienté sur les applications ferroviaires mais bien sur ces techniques sont employées dans d’autres domaines telle que la Ville :
+
+Logo [In’n’out](http://scltc.org/) par le SCLTC (Club Californien)
+
+![](/media/archive/11799549a347626875ad940c.jpg)
+
+Le maintenant célèbre camion [Schleim](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=73401) (camion par James Mathis, lettrage par Holger Matthes qui est deux fois plus grand que le lettrage JBC)
+
+![](/media/archive/b322ffed88907aa13819ee4e.jpg)
+
+Une remorque ["Chips"](http://www.brickshelf.com/gallery/bccook/LUG/TrainShowApril2005/trainshowapril23_026.jpg) (auteur indéterminé - lettrage JBC)
+
+![](/media/archive/9511c2a8cf7274f3da156248.jpg)
+
+**7) Autres lettrages**
+
+**–** Lettrage mosaïque fantaisie de grande taille
+
+par El caracho [Wagon Coca-cola](http://www.brickshelf.com/gallery/Caracho/berlin2003/coca-cola_wagon.jpg)
+
+![](/media/archive/1e72076b5df4d5d6279949a5.jpg)
+
+**–** Briques pentues
+
+Logo [Home Depot](http://www.brickshelf.com/gallery/SEBarile/Buildings/hdlego1.jpg) par Steve Barile
+
+![](/media/archive/761348650a2092fc4d59c794.jpg)
+
+**–** Lettrage à l’aide de motifs diagonaux (briques pentues)
+
+Locomotive [VIA](http://www.brickshelf.com/gallery/MK-Ultra71/Trains/Locomotives/VIA/via01.jpg) par Mike Kollross
+
+![](/media/archive/c960ff74196eb3a2a36d80d8.jpg)
+
+**–** Lettrage arrondi
+
+Logo [ESSO](http://www.bricksonthebrain.com/photoblog/index.cfm?action=display&photo=458) par Casper Van Nimvegen
+
+![](/media/archive/5f9dee419347f021da0d1fa1.jpg)
+
+**8) D’autres mosaïques décoratives**
+
+Hors-sujet car ce ne sont pas des lettrages mais ces mosaïques dans le thème train sont sympas :
+
+Le wagon [banane](http://www.brickshelf.com/gallery/mister-j/Wagons/Banana/ban_side.jpg)
+
+![](/media/archive/0180eedc3dbe3a0948f585c5.jpg)
+
+La décoration [CP](http://www.brickshelf.com/gallery/Plan-B/MOC/CAD-Rendering/Trains/3cp-rail.jpg)
+
+![](/media/archive/2476e4b02f45cd4d3563f80b.jpg)
+
+Le [logo](http://www.brickshelf.com/gallery/mbellis/Trains/Diesel/Class-50-Hoover/class_50_glorious_side_hull_2004.jpg) de la compagnie britannique des chemins de fer par Mark Bellis
+
+![](/media/archive/f06c2c3bd6f4d12d561527b8.jpg)
+
+**9) Exemples Miniland / LEGOland**
+
+"CLOTHES" (mosaïque) et "SAMSING" (Lettrage JBC) [voir ici](http://www.brickshelf.com/cgi-bin/gallery.cgi?i=792494)
+
+![](/media/archive/11abd5cfa3ffd48a75f7425f.jpg)
+
+![](/media/archive/6d577ff367f35130dec04be2.jpg)
+
+["DAYTONA"](http://www.brickshelf.com/cgi-bin/gallery.cgi?i=930282) (Lettrage Railton italique)
+
+![](/media/archive/5ed29db550274edff2b9745f.jpg)
+
+["SPACE SHOP"](http://www.brickshelf.com/cgi-bin/gallery.cgi?i=951539) (Lettrage à brique pentues)
+
+![](/media/archive/01e1a1d1c85d4d460bbe34d8.jpg)
+
+["WASHOMATIC"](http://www.brickshelf.com/cgi-bin/gallery.cgi?i=960100)
+
+![](/media/archive/0c92089056be21a2c865a339.jpg)
+
+et de nombreux autres exemples en haute définition sur [la galerie de photo du Miniland Californien par LEGO-DESIGNER](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=84272).
+
+**Conclusion**
+
+Le lettrage SNOT est typique d’une technique AFOL [^2-9] mais elle ne nécessite que des pièces courantes : petites briques, plaques et plaques lisses, [brique Technic 1x1](http://ldraw.org/library/official/images/7/6541.png), [brique de Erling](http://ldraw.org/library/official/images/0/3x/4070.png)...toutes disponibles dans un large choix de couleur.
+
+En référence à un post [^2-10] de Larry [^2-11] à propos du SNOT, le lettrage est une technique que chaqu’un devrait avoir à sa disposition pour réaliser un motif donné.
+
+Cet article ne vous dit pas quelle technique est la bonne.
+
+Certaines polices de caractères sont incomplètes mais ce n’est pas forcément un problème car vous n’avez pas besoin de l’alphabet complet pour former le nom d’une marque.
+
+D’autres polices sont petites ou hautes, fines ou larges. D’un côté on appréciera le lettrage JBC pour leur finesse, de l’autre on préfèrera les lettres à empilement classique pour leur simplicité.
+
+C’est à vous de choisir le lettrage en fonction du MOC dans lequel vous allez l’intégrer.
+
+Les plaques et briques décorées ou les autocollants sont une autre solution aux lettrages de vos MOCs mais elles sont moins créatives et un peu hérésique (pensons aux autocollants faits "maison"). Je serais content de lire vos remarques argumentées si vous pensez que j’ai tort sur ce point :-).
+
+**Remerciements**
+
+Merci à
+
+**–** Erik "Brickerik" Amzallag qui n’hésite jamais à partager ses idées sur les techniques de montage,  
+**–** Rob "Brickmodder" Hendrix pour son aide dans l’écriture de la version anglaise de cet article,
+
+et des remerciements plus particuliers à tous les AFOLs [^2-12] cités dans cet article à travers leurs contributions.
+
+N’hésitez pas à répondre à cet article si vous souhaitez faire partager une réalisation sur le thème du lettrage.
+
+[^2-1]: Didier Enjary, [Trains LEGO® et motifs de décoration : Les motifs diagonaux](http://www.freelug.org/article.php3?id_article=390)
+
+[^2-2]: Jason Railton,[Advanced SNOT](http://www.brickish.org/bi/bi4.PDF), _The Brick Issue #4_, Christmas 2003
+
+[^2-3]: Jason Railton,[LEGO SNOT](http://www.brickish.org/bi/bi3.pdf), _The Brick Issue #3_,Summer 2003
+
+[^2-4]: en fait cela s’explique sans doute par un manque de place
+
+[^2-5]: police de caractère
+
+[^2-6]: Plus d’information sur les techniques de montage SNOT ici : James Mathis, _[SNOT Train](http://www.iltco.org/gallery/view_album.php?set_albumName=album35)_, ILTCO Gallery
+
+[^2-7]: Complete
+
+[^2-8]: Incomplete. Par exemple, les majuscules B et D ne sont pas modélisable
+
+[^2-9]: jamais employé dans un set officiel mais seulement dans des MOCs
+
+[^2-10]: message sur les forums de discussion
+
+[^2-11]: Larry Pieniazek, [citation d’un post LUGNET](https://www.freelug.org/%22http://news.lugnet.com/space/?n=36413), Octobre 2004
+
+[^2-12]: allemand, américain, anglais, australien, canadien, estonien, néerlandais et japonais !! La passion pour les trains LEGO est vraiment universellement partagée

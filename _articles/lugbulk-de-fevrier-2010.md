@@ -1,0 +1,36 @@
+---
+title: "LUGBULK de février 2010"
+permalink: "/articles/lugbulk-de-fevrier-2010/"
+section: "/association/divers/promotions/"
+published_at: "2010-06-24T07:31:56Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "Le LUGBULK est une opération de vente de briques en grosse
+  quantité par LEGO à destination des LUGs, groupes de passionnés LEGO répondant
+  à certains critères de sélection. FreeLUG y participe."
+source_id: 1151
+source_url: "https://www.freelug.org/spip.php?article1151"
+---
+
+Le LUGBULK est une opération de vente de briques en grosse quantité par LEGO à destination des LUGs, groupes de passionnés LEGO répondant à certains critères de sélection. FreeLUG y participe.
+
+La première commande LUGBULK a été passée en février 2010, et nous avons enfin été livré en juin.
+
+![](/media/archive/747bfd960cb4294dba06c1bc.jpg)
+
+Les 50 types de pièces commandées ont été livrées dans quatre cartons, dont un uniquement avec des BURP.
+
+![](/media/archive/bca72d87ef7ace65e0330dac.jpg)
+
+![](/media/archive/265e08d0b0e7f9d3a547adab.jpg)
+
+Le tri a été réalisé lors du Mondial du Modélisme. Entre 4 et 5 heures ont été nécessaires à tantôt 2, tantôt 3 personnes, pour recompter et dispatcher les 23218 pièces qui constituaient la commande.
+
+![](/media/archive/0c77e9475ddde4e1dcf2eab2.jpg)
+
+Les premiers lots ont été remis aux personnes sur place, les suivants se feront lors de [Fana’briques](/articles/fana-briques-2010-26-et-27-juin-a-rosheim/) ou encore de la [REF](/articles/rencontre-estivale-24-et-25-juillet-domjean/).
+
+![](/media/archive/312707358271816fdac457da.jpg)
+
+Nous ne sommes pas autorisés à communiquer publiquement les prix des pièces, mais ils sont très avantageux. Résultat, alors que la première commande n’était pas encore arrivée, l’engouement pour la seconde commande LUGBULK a augmenté puisqu’il y a désormais 50% de participants supplémentaires inscrits au programme via FreeLUG, soit un total de 48 membres.
+
+[Les photos de la commande](http://photos.freelug.org/main.php/v/FreeLUG/Promotions_speciales/lugbulk2010_01/)

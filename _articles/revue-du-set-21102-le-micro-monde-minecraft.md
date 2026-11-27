@@ -1,0 +1,184 @@
+---
+title: "Revue du set 21102, le micro-monde Minecraft"
+permalink: "/articles/revue-du-set-21102-le-micro-monde-minecraft/"
+section: "/themes/divers/"
+published_at: "2012-09-18T14:02:08Z"
+authors: [ "Erik Scrooge" ]
+description: "Quatre fans LEGO (Chris Malloy, Michael Thomas, Kyle Tingey et
+  Bjarne Panduro Tveskov) ont soumis leur propre représentation du monde virtuel
+  Minecraft, voici ce que LEGO en a fait :"
+source_id: 1526
+source_url: "https://www.freelug.org/spip.php?article1526"
+---
+
+Quatre fans LEGO (Chris Malloy, Michael Thomas, Kyle Tingey et Bjarne Panduro Tveskov) ont soumis leur propre représentation du monde virtuel Minecraft, voici ce que LEGO en a fait :
+
+![](/media/archive/93a177f8d477197243e127b2.jpg)
+
+Avant d’aller plus loin, je pense qu’il est nécessaire de vous parler un peu plus de l’univers dont s’inspire le set.
+
+## Minecraft, c’est quoi ?
+
+Minecraft est un jeu vidéo indépendant créé en 2009 par Markus Persson (plus connu sous le pseudonyme de "Notch"). Il s’agit d’un jeu dit "bac à sable" où le joueur a la liberté d’entreprendre ce qu’il souhaite : explorer, construire, détruire...
+
+Cela rejoint le monde de la brique dans le sens où la seule limite à la créativité réside dans l’imagination.
+
+À la création d’une partie le joueur apparaît en surface, généralement dans une plaine, montagne ou forêt, que l’on retrouve dans la partie supérieure du set.  
+Au fil du jeu, il lui est possible d’explorer les galeries souterraines à la recherche de minerais (charbon, or, diamant) impossibles à trouver en surface, galeries que l’on retrouve dans la partie inférieure du set.
+
+L’univers est intégralement constitué de cubes de différente nature (eau, terre, bois, sable, roche, lave...) aux propriétés différentes (gravité, résistance aux explosions, au feu, à l’eau...) et dont le mélange permet l’acquisition de nouveaux éléments de construction, d’équipement, etc...  
+Chaque cube est un point de coordonnées X Y et Z dans le jeu, d’où l’utilisation de plates et de tiles 1X1 à foison dans ce set pour retrouver cet effet.
+
+Le personnage que l’on contrôle (avatar) se prénomme Steve, et il lui arrive de faire de mauvaises rencontres au cours de ses expéditions. L’ennemi le plus représentatif du jeu est le "Creeper", quadrupède vert kamikaze connu pour ses facultés explosives inégalées et fatales...
+
+## Présentation de la boîte
+
+**–** Référence : 21102  
+**–** Date de sortie : 1 juin 2012  
+**–** Nombre de pièces : 480  
+**–** Prix : 34.99 €  
+**–** Age : 10+
+
+[![](/media/archive/5d0bbe4a216051eb3edf7de0.jpg)](https://www.freelug.org/IMG/jpg/DSC01037-2.jpg)
+
+La boîte elle-même s’apparente à un cube, et nous offre 3 visuels différents du set.
+
+[![](/media/archive/46c95841b59f47c5f58603d2.jpg)](https://www.freelug.org/IMG/jpg/DSC01038.jpg)
+
+[![](/media/archive/2ed249ef31a7ebef16e6170b.jpg)](https://www.freelug.org/IMG/jpg/DSC01039.jpg)
+
+[![](/media/archive/589925b45167b9ce200479be.jpg)](https://www.freelug.org/IMG/jpg/DSC01040-2.jpg)
+
+[![](/media/archive/8e93830673534d30010ffa3a.jpg)](https://www.freelug.org/IMG/jpg/DSC01041-2.jpg)
+
+[![](/media/archive/4e1a2ec36c59f41c535a8900.jpg)](https://www.freelug.org/IMG/jpg/DSC01042.jpg)
+
+## Contenu
+
+Elle contient deux notices et six sachets de pièces, garanti 0% BURP !
+
+[![](/media/archive/83dc2f34c0b74406e24754e2.jpg)](https://www.freelug.org/IMG/jpg/DSC01043.jpg)
+
+[![](/media/archive/9642bf776f733c7b749d5413.jpg)](https://www.freelug.org/IMG/jpg/DSC01044.jpg)
+
+[![](/media/archive/784cbedf545b2649b70c8e12.jpg)](https://www.freelug.org/IMG/jpg/DSC01048.jpg)
+
+À noter une brève présentation de Minecraft et de Cuusoo sur la première notice !
+
+[![](/media/archive/39d69ab5925bb378c211482f.jpg)](https://www.freelug.org/IMG/jpg/DSC01052.jpg)
+
+[![](/media/archive/bfd81a8897ce6c4ecb53a416.jpg)](https://www.freelug.org/IMG/jpg/DSC01055.jpg)
+
+## Détail des pièces
+
+[![](/media/archive/dfd1f5becf74f1fb18211928.jpg)](https://www.freelug.org/IMG/jpg/DSC01060.jpg)
+
+[![](/media/archive/253c5ca866293ff0f955b1b0.jpg)](https://www.freelug.org/IMG/jpg/DSC01064.jpg)
+
+[![](/media/archive/0b4313ae3ccbbd4da2b5b1f6.jpg)](https://www.freelug.org/IMG/jpg/DSC01068.jpg)
+
+[![](/media/archive/a91c853c0ef841bb41cd8005.jpg)](https://www.freelug.org/IMG/jpg/DSC01072.jpg)
+
+[![](/media/archive/b3357dd7080d2d759a96215c.jpg)](https://www.freelug.org/IMG/jpg/DSC01073.jpg)
+
+[![](/media/archive/4539b47b0b44921ae6d30f65.jpg)](https://www.freelug.org/IMG/jpg/DSC01080.jpg)
+
+## Assemblage
+
+Et on commence sans surprise par l’assemblage des microfi...
+
+[![](/media/archive/399dc6893d3aedc02f9a1a90.jpg)](https://www.freelug.org/IMG/jpg/DSC01084.jpg)
+
+Ah tiens c’est pas banal ça, on attaque direct avec les briques.  
+Il s’agit d’une des 4 portions de galeries souterraines à la base du set, reliées entre elles grâce à des axes Technic.  
+Présence de lave, d’eau, et de Redstone (minerai fictif).
+
+[![](/media/archive/ddb946a4c9ed61902041fe70.jpg)](https://www.freelug.org/IMG/jpg/DSC01085.jpg)
+
+[![](/media/archive/81a9e9907a411fac7d601f91.jpg)](https://www.freelug.org/IMG/jpg/DSC01087.jpg)
+
+On poursuit avec une portion rivière avec arbre en surface qui viendra s’ajouter sur la portion souterraine.
+
+[![](/media/archive/14132204749b930416c34866.jpg)](https://www.freelug.org/IMG/jpg/DSC01090.jpg)
+
+[![](/media/archive/3446213f6c9a6261e0fe7e1a.jpg)](https://www.freelug.org/IMG/jpg/DSC01091.jpg)
+
+[![](/media/archive/d7f539c4d728065e698fd2c1.jpg)](https://www.freelug.org/IMG/jpg/DSC01092.jpg)
+
+[![](/media/archive/072d1a6620fc471e4b84524f.jpg)](https://www.freelug.org/IMG/jpg/DSC01093.jpg)
+
+On continue avec la deuxième galerie, et un précieux minerai : le diamant (à moins que ce ne soit du lapis-lazuli ?).
+
+[![](/media/archive/e89b44cf5c7c5df82680cd76.jpg)](https://www.freelug.org/IMG/jpg/DSC01094.jpg)
+
+[![](/media/archive/510a8f0d4f45bbc21cb704d2.jpg)](https://www.freelug.org/IMG/jpg/DSC01096.jpg)
+
+[![](/media/archive/884f811b3927bb5c4eb971ae.jpg)](https://www.freelug.org/IMG/jpg/DSC01097.jpg)
+
+[![](/media/archive/0ae4fc6baa5f28dfa4744f7b.jpg)](https://www.freelug.org/IMG/jpg/DSC01098.jpg)
+
+Deuxième portion en surface : montagne avec charbon et coulée de lave, ne pas glisser ;)
+
+[![](/media/archive/797e7b3dfd7ae15008a81666.jpg)](https://www.freelug.org/IMG/jpg/DSC01099.jpg)
+
+[![](/media/archive/e783017aeeeae63a151ed7a2.jpg)](https://www.freelug.org/IMG/jpg/DSC01100.jpg)
+
+[![](/media/archive/12a64fa743d31cc7712ef76d.jpg)](https://www.freelug.org/IMG/jpg/DSC01101.jpg)
+
+[![](/media/archive/ce015cb554fd54b688c220ac.jpg)](https://www.freelug.org/IMG/jpg/DSC01103.jpg)
+
+La deuxième notice commence avec... les microfigs !
+
+[![](/media/archive/b1c0a85f0cc8edc86399f90a.jpg)](https://www.freelug.org/IMG/jpg/DSC01104.jpg)
+
+On appréciera les sérigraphies malgré leur difficile intégration dans une autre création.
+
+La construction se poursuit avec les 4 autres modules et s’achève avec la pose du toit de la petite maison.
+
+[![](/media/archive/5a5ef058f15a46ce7a32a64c.jpg)](https://www.freelug.org/IMG/jpg/DSC01105.jpg)
+
+[![](/media/archive/fa8e73efa79e88db8e77bbed.jpg)](https://www.freelug.org/IMG/jpg/DSC01106.jpg)
+
+[![](/media/archive/96d55b156935ab89bcd2b8c5.jpg)](https://www.freelug.org/IMG/jpg/DSC01107.jpg)
+
+[![](/media/archive/25c69fac34068f130f6ddbd5.jpg)](https://www.freelug.org/IMG/jpg/DSC01110.jpg)
+
+[![](/media/archive/e50edc4af328b48b00c83426.jpg)](https://www.freelug.org/IMG/jpg/DSC01111.jpg)
+
+[![](/media/archive/cb76e36898e4e378203a12b3.jpg)](https://www.freelug.org/IMG/jpg/DSC01112.jpg)
+
+[![](/media/archive/032d5c3003545c5d4e5d439f.jpg)](https://www.freelug.org/IMG/jpg/DSC01113.jpg)
+
+[![](/media/archive/0daaa4acae35e7a8be66f243.jpg)](https://www.freelug.org/IMG/jpg/DSC01114.jpg)
+
+[![](/media/archive/23635ba533270eb6be25369f.jpg)](https://www.freelug.org/IMG/jpg/DSC01115.jpg)
+
+[![](/media/archive/b4c7d13f038bef011d4a2b95.jpg)](https://www.freelug.org/IMG/jpg/DSC01116.jpg)
+
+[![](/media/archive/5d8e464f2c3796ef5d1b2b78.jpg)](https://www.freelug.org/IMG/jpg/DSC01117.jpg)
+
+[![](/media/archive/0b0f72372b5d34c37812177b.jpg)](https://www.freelug.org/IMG/jpg/DSC01118.jpg)
+
+[![](/media/archive/4379ba2bec7b6b774bf15c25.jpg)](https://www.freelug.org/IMG/jpg/DSC01119.jpg)
+
+[![](/media/archive/e613177d61e792544afad3b8.jpg)](https://www.freelug.org/IMG/jpg/DSC01120.jpg)
+
+Voici les pièces en extra :
+
+[![](/media/archive/919792388f5fcaba58a1eb9c.jpg)](https://www.freelug.org/IMG/jpg/DSC01123.jpg)
+
+## Conclusion
+
+[![](/media/archive/8155e455ecfbb93e7558b3a3.jpg)](https://www.freelug.org/IMG/jpg/DSC01121.jpg)
+
+Un set qui s’adresse en priorité aux fans des deux univers que sont Minecraft et LEGO. On est invité à créer son propre monde grâce notamment aux tiles supplémentaires présentes dans l’inventaire de la notice. Voici le mien ^^
+
+[![](/media/archive/99eea7a3c46104791f9e29a7.jpg)](https://www.freelug.org/IMG/jpg/DSC01125.jpg)
+
+Je pense que l’échelle donne une bonne représentation du jeu, à travers l’aspect paysage.  
+Néanmoins j’aurais préféré avoir une échelle minifig avec des briques 2X2X(1+2/3) pour avoir des vrais cubes comme dans ce MOC de Chris Malloy :
+
+![](/media/archive/bdc41d50b6be6ea7f62db576.png)
+
+Je trouve que certains éléments provenant du jeu manquent cruellement (animaux, ennemis, plantes, équipements...).  
+Faut croire que ça revenait trop cher en briques :/

@@ -5,7 +5,12 @@ layout: default
   {% include breadcrumbs.html %}
   <header class="page-heading">
     <p class="eyebrow">Explorer FreeLUG</p>
-    <h1>{{ page.title | escape }}</h1>
+    <div class="section-title">
+      {% if page.image and page.image != "" %}
+      <img class="section-thumbnail" src="{{ page.image | relative_url }}" alt="" width="100" height="100">
+      {% endif %}
+      <h1>{{ page.title | escape }}</h1>
+    </div>
     <div class="editorial">{{ content }}</div>
   </header>
 
@@ -22,6 +27,9 @@ layout: default
       {% assign child_articles = site.articles | where: "section", child.permalink %}
       {% assign grandchildren = site.sections | where: "parent", child.permalink %}
       <article class="card">
+        {% if child.image and child.image != "" %}
+        <img class="section-thumbnail" src="{{ child.image | relative_url }}" alt="" width="100" height="100" loading="lazy">
+        {% endif %}
         <h3><a href="{{ child.url | relative_url }}">{{ child.title | escape }}</a></h3>
         <p>{{ child_articles.size }} article{% if child_articles.size != 1 %}s{% endif %}{% if grandchildren.size > 0 %} · {{ grandchildren.size }} sous-rubrique{% if grandchildren.size != 1 %}s{% endif %}{% endif %}</p>
         <a class="text-link card-link" href="{{ child.url | relative_url }}">Explorer <span class="visually-hidden">{{ child.title | escape }}</span><span aria-hidden="true">→</span></a>

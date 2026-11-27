@@ -1,0 +1,198 @@
+---
+title: "Compte-rendu de la réunion de CA du 03/07/2024 (Juillet 2024)"
+permalink: "/articles/compte-rendu-de-la-reunion-de-ca-du-03-07-2024-juillet-2024/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2024-07-16T16:00:58Z"
+authors: [ "Didier MALON" ]
+description: "Début de séance (21h00)"
+source_id: 3278
+source_url: "https://www.freelug.org/spip.php?article3278"
+---
+
+**Début de séance (21h00)**
+
+Veuillez trouver ci-dessous le compte-rendu de la réunion du Conseil d’Administration de l’Association FreeLUG de Juillet 2024.
+
+**Participants :**
+
+• Emmanuel Bonnard : Président  
+• Didier Malon : Secrétaire  
+• Nicolas Charnay : Trésorier  
+• Sébastien Hamon : Secrétaire adjoint et responsable matériel  
+• Nicolas Weeger : Trésorier adjoint  
+• Erik Amzallag : Responsable suivi Expo/Animation/REF/COR  
+• Stéphane Paradot : Vice Président
+
+**Absents :**
+
+• François Disdier : Community Manager
+
+**Ordre du jour :**
+
+1\. Validation des expositions/animations à venir :
+
+-   1\. Point projet d’expo en 2025 à Saint-Michel sur Orge, remonté par Pascal Brugier.
+-   2\. Projet d’expo en 2025 à Villebon sur Yvette (91), contact pris par Didier Malon.
+-   3\. Projet d’expo (BE ?) à Saint Soupplets (77) remonté par Dominique Quilgars.
+-   4\. Demande participation Kid Expo du 24 au 27/10/2024.
+-   5\. Projet d’animation Echirolles (38).
+-   6\. Organisation Bulk / REF.
+-   7\. Report BE Le Plan (31).
+-   8\. Projet d’exposition en 2025 à Colomiers.
+-   9\. Projet d’animation en 2025 à Fonbeauzard.
+
+2\. Besoins matériels :
+
+-   1\. Briques gravées pour salon du modélisme Roannais et Octogones 2024 => Cartes de visite ?
+-   2\. Prise en charge du péage par CoR Occitanie pour déplacement REF.
+-   3\. Achat des briques médium blue, medium azure et dark bluish grey par CoR Occitanie.
+-   4\. Utilisation des différents supports LEGO Fr / LEGO Dk et dotation concours pour BE Villiers.
+
+3\. Questions diverses :
+
+4\. Point sur les actions en cours :
+
+**Validation des expositions/animations à venir :**
+
+**1\. Point projet d’expo en 2025 à Saint-Michel sur Orge (91), remonté par Pascal Brugier**
+
+Le club de modélisme ferroviaire de sa commune de Saint-Michel-sur-Orge souhaite mettre en place une animation LEGO pour célébrer en 2025 les 55 ans du club. Après réception du dossier d’inscription à cette manifestation, il apparaît qu’il nous est demandé de prendre à notre charge nos frais de repas.
+
+Le projet est rejeté par 5 voix contre, 1 pour, 1 abstention.
+
+Voir avec Pascal pour la réponse aux organisateurs : => Action Didier (07-01)
+
+**2\. Projet d’expo en 2025 à Villebon-sur-Yvette (91), contact pris par Didier Malon**
+
+La commune de Villebon-sur-Yvette (91) propose l’organisation d’une exposition sur les trains ferroviaires du 3 au 5 Octobre 2025. Un contact a été développé avec l’adjoint en charge de ce projet lors de l’animation en Juin à Longpont. Didier Malon assure le développement des contacts pour compléter ce dossier de projet qui sera validé quand nous aurons tous les éléments en notre possession.
+
+Donner confirmation de notre intérêt et développer le projet. => Action Didier (07-02)
+
+**3\. Projet d’expo (BE ?) à Saint-Soupplets (77) remonté par Dominique Quilgars**
+
+Faisant suite à des échanges entre Dominique, Emmanuel et Erik lors du tri du bulk, Dominique nous fait la demande pour monter une exposition LEGO à Saint-Soupplets les 24 et 25 Mai 2025. Il est envisagé d’apposer le qualificatif de Briqu’Expo à cette exposition LEGO, afin communiquer sur cette appellation, bien que le projet ne soit pas concerné par une rentrée d’argent pour l’association (évènement carritatif).
+
+Transmettre à Dominique les infos concernant les règles de communication. => Action Erik (07-03)
+
+Le projet est approuvé par 7 voix pour.
+
+**4\. Demande participation Kid Expo du 24 au 27/10/2024.**
+
+Les organisateurs de Kid Expo à Paris Montreuil nous invitent à participer à mettre en place une animation pour leur salon du 24 au 27 Octobre 2024. Notre agenda comporte déjà d’autres évènements prévus autour de cette date (BE Castanet et Villiers-sur-Orge).
+
+Le projet est rejeté. Transmettre la réponse aux organisateurs. => Action Sébastien (07-04)
+
+**5\. Projet d’animation à Echirolles (38).**
+
+Demande pour une animation « ludothèque » à Echirolles à une date à convenir.
+
+Rappel : Emmanuel prend contact avec nos adhérents présents en région (Yannick ou Loys) => Action Emmanuel (06-03)
+
+Hors réunion : Après contact avec Yannick, le projet est rejeté à cause de l’indisponibilité de briques mosaïques à la date prévue par les organisateurs.  
+   
+**6\. Organisation Bulk / REF.**
+
+Le tri du bulk a bien été effectué et les paquets sont en cours de distribution auprès des adhérents concernés.
+
+L’organisation de la REF progresse, une avance de 500€ a été adressée pour les frais à Pierre LAURENGE. Plusieurs membres du CA (Erik, Sébastien, Nicolas C.) ont prévu d’y participer.
+
+A ce jour, il y a 28 adultes et 11 enfants inscrits pour la REF.
+
+**7\. Report BE Le Plan (31).**
+
+La BE prévue fin Juin 2024 ayant été annulée à cause de l’organisation des élections législative, le projet est reporté en 2025.
+
+**8\. Projet d’exposition LEGO en 2025 à Colomiers.  
+**
+
+Le CoR Occitanie propose la mise en place d’une BE en 2025 sous la même forme que la BE de Castanet. L’idée étant d’alterner d’une année sur l’autre entre ces deux BE. 2024 est à Castanet, 2025 sera à Colomiers.
+
+Le projet est approuvé par 7 voix pour.
+
+**9\. Projet d’animation LEGO en 2025 à Fonbeauzard.**
+
+Pour le projet d’animation en 2025 à Fonbeauzard, le CoR Occitanie collecte des informations supplémentaires pour présenter le projet.
+
+**Besoins matériels :**
+
+**1\. Briques gravées pour salon du modélisme Roannais et Octogones 2024 : Cartes de visite.**
+
+Les cartes de visite demandées ont été jointes avec la commande de bulk.
+
+**2\. Prise en charge des frais de péage sur le budget du CoR Occitanie pour les participants du Sud-Ouest se rendant à la REF.**
+
+Nicolas confirme qu’il reste du budget sur le CoR Occitanie pour la prise en charge de ces dépenses.
+
+Le projet est approuvé par 6 voix pour et 1 abstention.
+
+**3\. Achat de briques médium blue, medium azure et dark bluish grey par CoR Occitanie.**
+
+Le besoin est d’environ 500 briques dans chaque nuance disponible en carton au store ou chez Brick Link. Les achats sont pris en charge sur le budget du CoR Occitanie.
+
+Le projet est approuvé par 7 voix pour.
+
+Une analyse des besoins en caisses de rangement pour le CoR Occitanie doit également être conduite entre Erik et Nicolas durant la REF avant une éventuellement commande auprès de notre fournisseur. => Action Erik & Nicolas C. (07-05)
+
+**4\. Utilisation des différents supports LEGO Fr / LEGO Dk et dotation concours pour BE Villiers.**
+
+Il existe deux types de dotation en boîtes LEGO offertes :
+
+1) A l’initiative de LEGO France (dotation annuelle), pour les Briqu’Expos  
+2) A l’initiative de LEGO Danemark (dotation semestrielle), pour nos activités.
+
+Le problème se pose pour les activités organisées dans le cadre d’une BE.
+
+Une page en mode wiki est créée sur le forum par Manu afin de clarifier les besoins et permettre de répondre à la problématique concernant les activités prévues pour la BE de Villiers-sur-Orge.
+
+Pour rappel, la BE de Villiers permet aux élèves de l’école de la commune de participer à un concours de création, récompensé par 5 boites LEGO (une par niveau de classe) offertes aux classes les plus méritantes.
+
+Une première demande de mise à disposition de boites prélevées sur la dotation LEGO Dk a été émise, mais il s’avère que d’autres boîtes seraient disponibles et plus appropriées au contexte BE sur la dotation LEGO France.
+
+Une nouvelle demande doit être établie pour la BE Villiers en choisissant de préférence dans la liste des sets « Réservés BE ». => Action Didier (07-06)
+
+**Questions diverses :**
+
+**1\. Fonctionnement du GFC**
+
+Aucune action n’a été entreprise depuis le début de l’année par l’équipe actuellement en charge du GFC. Le CA décide donc de dissoudre l’actuel GFC et de lancer l’appel à la constitution d’une nouvelle équipe, d’autant que de nouveaux volontaires se sont manifestés.
+
+La décision est approuvée par 6 voix pour et 1 abstention.
+
+**2\. Commande de vêtements**
+
+Point suivi par Nicolas W. et Emmanuel. Il concerne les vêtements en commande ainsi que les Minifigs en reliquat. Emmanuel doit faire le point avec ce qui a été distribué lors du tri du bulk et les commandes de vêtements supplémentaires doivent attendre la disponibilité du fabriquant. => Action Emmanuel (07-07)
+
+**3\. Action récurrente sur le suivi du budget des CoR**
+
+Emmanuel doit faire le point sur ce sujet avec Nicolas C. => Action Emmanuel (04-07)
+
+**Point sur les actions en cours :**
+
+Voir le tableau récapitulatif en fin de ce compte-rendu.
+
+**Fin de séance (22h45)**
+
+Récapitulatif des actions :
+
+Les lignes en italiques indiquent les actions closes.
+
+Item Action Acteurs Echéance  
+04-06 Mise en place d’un outil de planning des besoins Sébastien A définir  
+04-07 Budget des CoR. Amélioration du suivi Nicolas C. Action récurrente  
+05-01 Demande de devis d’extension de garantie d’assurance Emmanuel Juin  
+05-02 Paiement des dépenses Japan Expo Nicolas C. Dès que possible  
+_05-03 Annonce aux adhérents concernant les ateliers fleurs pour la maison du Danemark Emmanuel Annonces faites par les responsables régionaux. CR diffusés sur le forum_  
+05-08 Amélioration de la visibilité du calendrier des évènements sur le forum Erik A définir  
+_06-03 Prendre contact avec nos adhérents présents en région (Yannick ou Loys) pour l’invitation à Echirolles (38) Emmanuel Dès que possible_  
+_06-05 Point REF avec Pierre Erik Voir ce présent CR_  
+06-06 Collecte des devis briques gravées pour Roanne et Octogone 2024 Didier En cours  
+_06-07 Validation, achat et test douchette code-barre Erik Douchette commandée et reçu le 3/7 – Tests en cours_  
+06-09 Mise à jour des mentions légales Erik Dès que possible  
+07-01 Voir avec Pascal Brugier pour réponse pour Saint-Michel sur Orge 2025 Didier Dès que possible  
+07-02 Confirmer intérêt pour expo Villebon 2025 Didier Dès que possible  
+07-03 Transmettre les infos sur la communication à Dominique Erik Dès que possible  
+07-04 Transmettre réponse pour Kid Expo 2024 Sébastien Dès que possible  
+07-05 Analyse du besoin en caisses pour CoR Occitanie Erik & Nicolas C. Durant la REF  
+07-06 Etablir liste de dotation pour BE Villiers Didier Dès que possible  
+07-07 Faire le point sur les commandes de vêtements Emmanuel Dès que possible
