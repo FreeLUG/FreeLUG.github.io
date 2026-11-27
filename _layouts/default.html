@@ -55,6 +55,13 @@
           {% endfor %}
           <a href="https://forum.freelug.org/">Forum</a>
           <a class="member-link" href="https://adherents.freelug.org/adherer/FreeLUG">Adhérer <span aria-hidden="true">↗</span></a>
+          <span class="social-links" role="group" aria-label="Réseaux sociaux">
+            {% for social in site.data.social %}
+            <a class="social-link social-{{ social.icon | escape }}" href="{{ social.url | escape }}" aria-label="FreeLUG sur {{ social.name | escape }}" title="FreeLUG sur {{ social.name | escape }}">
+              <img src="{{ '/media/social/' | append: social.icon | append: '.svg' | relative_url }}" alt="" width="20" height="20">
+            </a>
+            {% endfor %}
+          </span>
         </nav>
       </div>
     </header>

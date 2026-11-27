@@ -10,6 +10,7 @@ import { markdownFiles } from './article-collections.mjs';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const output = path.join(root, '_site');
 const config = parse(await readFile(path.join(root, '_config.yml'), 'utf8'));
+const socialLinks = parse(await readFile(path.join(root, '_data/social.yml'), 'utf8'));
 const baseurl = (config.baseurl || '').replace(/\/$/, '');
 const origin = new URL(config.url).origin;
 const documents = new Map();
@@ -44,6 +45,21 @@ for (const [file, document] of documents) {
   const relative = path.relative(output, file).split(path.sep).join('/');
   const pathname = relative.endsWith('index.html') ? relative.slice(0, -'index.html'.length) : relative;
   const currentUrl = new URL(`${baseurl}/${pathname}`, 'https://preview.invalid');
+  const navigation = document.querySelector('.site-header nav');
+  if (navigation) {
+    const social = Array.from(navigation.querySelectorAll('.social-link'));
+    assert.equal(social.length, socialLinks.length, `${relative}: missing social links`);
+    for (const [index, item] of socialLinks.entries()) {
+      const link = social[index];
+      assert.equal(link.getAttribute('href'), item.url, `${relative}: wrong social account`);
+      assert.equal(link.getAttribute('aria-label'), `FreeLUG sur ${item.name}`);
+      assert.equal(link.getAttribute('title'), `FreeLUG sur ${item.name}`);
+      const image = link.querySelector('img');
+      assert.ok(image, `${relative}: missing social logo`);
+      assert.equal(image.getAttribute('src'), `${baseurl}/media/social/${item.icon}.svg`);
+      assert.equal(image.getAttribute('alt'), '');
+    }
+  }
   for (const node of Array.from(document.querySelectorAll('a[href], img[src], script[src], link[rel="stylesheet"][href]'))) {
     const raw = node.getAttribute(node.hasAttribute('src') ? 'src' : 'href');
     if (!raw || /^(?:[a-z][a-z0-9+.-]*:|\/\/)/i.test(raw)) continue;
