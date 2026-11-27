@@ -90,8 +90,14 @@ ni déformation. Les cartes chargent les images à la demande. Une rubrique sans
 vignette conserve sa présentation textuelle ; aucune image n’est inventée.
 Les vignettes historiques des thèmes sont enregistrées dans `media/themes/` ;
 le champ en lecture seule **Vignette d’origine** conserve leur URL source.
-La vignette générique du site historique est conservée lorsqu’une rubrique
-l’utilise, et son fichier est partagé entre les rubriques concernées.
+Les images officielles récupérées depuis le répertoire des thèmes et les
+catégories de LEGO.com sont enregistrées dans ce même dossier avec le préfixe
+`lego-`. Leur URL exacte figure dans `image_source` ; les vues utilisent la
+copie locale, sans dépendre du site LEGO lors de la consultation.
+Les rubriques sans correspondance officielle vérifiée conservent leur vignette
+historique, y compris la vignette générique partagée. Les images LEGO restent
+la propriété de leurs ayants droit ; leur présence ne signifie pas que le site
+est affilié au Groupe LEGO.
 
 Les vignettes régionales récupérées sont enregistrées dans `media/regions/`
 et utilisent les mêmes vues et champs Pages CMS. Pour importer la vignette
