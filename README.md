@@ -94,10 +94,17 @@ Les images officielles récupérées depuis le répertoire des thèmes et les
 catégories de LEGO.com sont enregistrées dans ce même dossier avec le préfixe
 `lego-`. Leur URL exacte figure dans `image_source` ; les vues utilisent la
 copie locale, sans dépendre du site LEGO lors de la consultation.
-Les rubriques sans correspondance officielle vérifiée conservent leur vignette
-historique, y compris la vignette générique partagée. Les images LEGO restent
-la propriété de leurs ayants droit ; leur présence ne signifie pas que le site
-est affilié au Groupe LEGO.
+Les images LEGO restent la propriété de leurs ayants droit ; leur présence ne
+signifie pas que le site est affilié au Groupe LEGO.
+
+Les rubriques sans image spécifique utilisent des pictogrammes contextuels
+Lucide, bleus et rouges sur fond transparent, dans `media/section-icons/`.
+Le bleu reprend celui du site (`#1a407e`) ; le fond blanc des pages reste visible.
+Ils remplacent les anciennes vignettes génériques sans modifier les logos et
+photographies spécifiques. Leur licence est conservée dans ce dossier. Après
+`npm install`, les régénérer avec `node scripts/generate-section-icons.mjs`.
+Ces images restent remplaçables via **Vignette de la rubrique** dans Pages CMS ;
+`image_source` est réservé aux images récupérées, pas aux pictogrammes générés.
 
 Les vignettes régionales récupérées sont enregistrées dans `media/regions/`
 et utilisent les mêmes vues et champs Pages CMS. Pour importer la vignette

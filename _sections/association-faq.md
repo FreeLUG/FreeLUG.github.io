@@ -2,6 +2,7 @@
 layout: "section"
 title: "FAQ"
 source_id: 68
+image: /media/section-icons/message-circle-question-mark.svg
 permalink: "/association/faq/"
 source_url: "https://freelug.org/spip.php?rubrique68"
 description: "Questions fréquemment posées.Cliquez sur les intitulés des

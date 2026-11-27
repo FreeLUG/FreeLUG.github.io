@@ -6,8 +6,7 @@ permalink: "/regions/autres/"
 source_url: "https://freelug.org/spip.php?rubrique41"
 description: "Activités de l’association en dehors de la France."
 parent: "/regions/"
-image: /media/regions/rubon0-63887.gif
-image_source: https://www.freelug.org/local/cache-vignettes/L59xH46/rubon0-63887.gif?1794423995
+image: /media/section-icons/map-pin.svg
 ---
 
 Activités de l’association en dehors de la France.

@@ -2,6 +2,7 @@
 layout: "section"
 title: "Les outils informatiques"
 source_id: 95
+image: /media/section-icons/monitor-cog.svg
 permalink: "/association/les-outils-informatiques/"
 source_url: "https://freelug.org/spip.php?rubrique95"
 description: "Listes de discussion, espace de rédaction, wiki, galerie photos...

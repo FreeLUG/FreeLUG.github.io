@@ -2,6 +2,7 @@
 layout: "section"
 title: "Troc"
 source_id: 23
+image: /media/section-icons/arrow-left-right.svg
 permalink: "/association/troc/"
 source_url: "https://freelug.org/spip.php?rubrique23"
 description: "Voici les pages d’échanges et de ventes de nos adhérents.

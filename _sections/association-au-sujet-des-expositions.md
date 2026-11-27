@@ -2,6 +2,7 @@
 layout: "section"
 title: "Au sujet des expositions"
 source_id: 89
+image: /media/section-icons/presentation.svg
 permalink: "/association/au-sujet-des-expositions/"
 source_url: "https://freelug.org/spip.php?rubrique89"
 description: "Pour tout savoir sur la participation, la préparation et la

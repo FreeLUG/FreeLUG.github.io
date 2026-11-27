@@ -7,6 +7,7 @@
   },
   "devDependencies": {
     "@mixmark-io/domino": "^2.2.0",
+    "lucide-static": "^1.82.0",
     "turndown": "^7.2.0",
     "turndown-plugin-gfm": "^1.0.2",
     "yaml": "^2.8.0"
