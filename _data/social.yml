@@ -1,0 +1,12 @@
+- name: Facebook
+  url: https://www.facebook.com/freelug/
+  icon: facebook
+- name: Twitter
+  url: https://twitter.com/assofreelug
+  icon: twitter
+- name: YouTube
+  url: https://www.youtube.com/channel/UCNOD9xIvdpOVo7sZUk5Szbg/
+  icon: youtube
+- name: Instagram
+  url: https://www.instagram.com/freelug/
+  icon: instagram
