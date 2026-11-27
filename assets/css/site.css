@@ -96,7 +96,9 @@ h3 { font-size: 1.2rem; }
 .archive-search input { width: 100%; padding: .8rem 1rem; border: 1px solid var(--line); border-radius: 5px; background: #fff; color: var(--ink); font: inherit; }
 .archive-search input:focus-visible { outline: 3px solid #a85800; outline-offset: 3px; }
 .article-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 3rem; }
-.archive-entry { padding-block: 1.8rem; border-top: 1px solid var(--line); }
+.archive-entry { display: grid; grid-template-columns: minmax(0, 1fr) 100px; align-items: start; gap: 1rem; padding-block: 1.8rem; border-top: 1px solid var(--line); }
+.archive-entry-text { min-width: 0; overflow-wrap: anywhere; }
+.archive-thumbnail { display: block; width: 100px; height: 100px; object-fit: contain; border-radius: 4px; }
 .archive-entry time, .article-meta { color: var(--muted); font-size: .85rem; }
 .archive-entry h3 { margin-block: .6rem; font-size: 1.3rem; overflow-wrap: anywhere; }
 .archive-entry h3 a { text-decoration: none; }
@@ -148,6 +150,8 @@ h3 { font-size: 1.2rem; }
   .membership-actions { align-items: start; }
   .footer-inner { align-items: start; flex-direction: column; }
   .category-grid, .article-list { grid-template-columns: 1fr; }
+  .archive-entry { grid-template-columns: minmax(0, 1fr) 80px; }
+  .archive-thumbnail { width: 80px; height: 80px; }
   .page-heading { padding-top: 1rem; }
   .article-body .spip_documents_left, .article-body .spip_documents_right { float: none; max-width: 100%; margin: 1.5rem 0; }
 }
