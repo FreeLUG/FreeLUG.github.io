@@ -6,6 +6,7 @@ import { parse } from 'yaml';
 import { archiveMedia, chromeArchive } from './import-edge-page.mjs';
 import { toMarkdown } from './markdown.mjs';
 import { historicalContent } from './historical-content.mjs';
+import { articleCollectionForSection } from './article-collections.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -62,8 +63,14 @@ export async function importAuthorPage(file, identity, destination = root) {
       ? urlMap[key] + url.hash : url.href);
   }
   const articles = [];
+  const selectedArticles = {
+    association_articles: [],
+    regions_articles: [],
+    themes_articles: []
+  };
   const pendingArticles = [];
   const published = await historicalContent(destination, '_articles');
+  const sections = await historicalContent(destination, '_sections');
   for (const articleId of new Set(identity.articles)) {
     const entry = published.get(articleId) || [...published.values()].find(item => path.basename(item.file) === `${articleId}.md`);
     if (!entry) {
@@ -79,12 +86,15 @@ export async function importAuthorPage(file, identity, destination = root) {
         !/^\/([a-z0-9-]+\/)+$/.test(article.permalink || '')) {
       throw new Error(`Unverified article relationship: ${articleId}`);
     }
+    const collection = articleCollectionForSection(article.section, sections);
     articles.push(article.permalink);
+    selectedArticles[`${collection}_articles`].push(article.permalink);
   }
   const data = {
     title, permalink: `/auteurs/${id}/`, image,
     description: main.querySelector('.bio')?.textContent.trim().replace(/\s+/g, ' ') || '',
-    articles, source_names: [...new Set(identity.names)], source_id: id, source_url: archive.sourceUrl
+    ...selectedArticles,
+    source_names: [...new Set(identity.names)], source_id: id, source_url: archive.sourceUrl
   };
   const body = toMarkdown(editorial.outerHTML);
   const frontmatter = '---\n' + Object.entries(data).map(([key, value]) => `${key}: ${JSON.stringify(value)}`).join('\n') + '\n---\n\n';

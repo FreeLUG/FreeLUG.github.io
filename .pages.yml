@@ -120,10 +120,136 @@ content:
         label: Publication d’origine
         type: string
         readonly: true
-  - name: articles
-    label: Articles
+  - name: association_articles
+    label: Articles — Association
     type: collection
-    path: _articles
+    path: _articles/association
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: title
+      fields: [title, section, published_at]
+      sort: [published_at]
+      default:
+        sort: published_at
+        order: desc
+    fields:
+      - name: title
+        label: Titre
+        type: string
+        required: true
+      - name: permalink
+        label: Adresse de l’article
+        type: string
+        required: true
+        description: "Adresse unique et stable, par exemple /articles/ma-creation/. Ne pas modifier après publication."
+        pattern: "^/([a-z0-9-]+/)+$"
+      - name: section
+        label: Rubrique
+        type: reference
+        required: true
+        options:
+          collection: sections
+          value: "{fields.permalink}"
+          label: "{title}"
+      - name: published_at
+        label: Date de publication
+        type: date
+        default: ""
+        options:
+          time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssxxx"
+      - name: authors
+        label: Auteurs
+        type: string
+        list: true
+      - name: description
+        label: Résumé et description pour les moteurs de recherche
+        type: text
+      - name: body
+        label: Contenu
+        type: rich-text
+        options:
+          format: markdown
+      - name: layout
+        type: string
+        hidden: true
+        default: article
+      - name: source_id
+        label: Identifiant historique
+        type: number
+        readonly: true
+      - name: source_url
+        label: Publication d’origine
+        type: string
+        readonly: true
+  - name: regions_articles
+    label: Articles — Régions
+    type: collection
+    path: _articles/regions
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: title
+      fields: [title, section, published_at]
+      sort: [published_at]
+      default:
+        sort: published_at
+        order: desc
+    fields:
+      - name: title
+        label: Titre
+        type: string
+        required: true
+      - name: permalink
+        label: Adresse de l’article
+        type: string
+        required: true
+        description: "Adresse unique et stable, par exemple /articles/ma-creation/. Ne pas modifier après publication."
+        pattern: "^/([a-z0-9-]+/)+$"
+      - name: section
+        label: Rubrique
+        type: reference
+        required: true
+        options:
+          collection: sections
+          value: "{fields.permalink}"
+          label: "{title}"
+      - name: published_at
+        label: Date de publication
+        type: date
+        default: ""
+        options:
+          time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssxxx"
+      - name: authors
+        label: Auteurs
+        type: string
+        list: true
+      - name: description
+        label: Résumé et description pour les moteurs de recherche
+        type: text
+      - name: body
+        label: Contenu
+        type: rich-text
+        options:
+          format: markdown
+      - name: layout
+        type: string
+        hidden: true
+        default: article
+      - name: source_id
+        label: Identifiant historique
+        type: number
+        readonly: true
+      - name: source_url
+        label: Publication d’origine
+        type: string
+        readonly: true
+  - name: themes_articles
+    label: Articles — Thèmes
+    type: collection
+    path: _articles/themes
     exclude: [".gitkeep"]
     format: yaml-frontmatter
     filename: "{primary}.md"
@@ -219,12 +345,30 @@ content:
         type: rich-text
         options:
           format: markdown
-      - name: articles
-        label: Articles de cet auteur
+      - name: association_articles
+        label: Articles de cet auteur — Association
         type: reference
-        description: "Sélectionner les articles présents dans cette archive. Les crédits textuels restent modifiables dans chaque article."
+        description: "Sélectionner les articles de l’association présents dans cette archive."
         options:
-          collection: articles
+          collection: association_articles
+          multiple: true
+          value: "{fields.permalink}"
+          label: "{title}"
+      - name: regions_articles
+        label: Articles de cet auteur — Régions
+        type: reference
+        description: "Sélectionner les articles régionaux présents dans cette archive."
+        options:
+          collection: regions_articles
+          multiple: true
+          value: "{fields.permalink}"
+          label: "{title}"
+      - name: themes_articles
+        label: Articles de cet auteur — Thèmes
+        type: reference
+        description: "Sélectionner les articles thématiques présents dans cette archive."
+        options:
+          collection: themes_articles
           multiple: true
           value: "{fields.permalink}"
           label: "{title}"

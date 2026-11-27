@@ -1,7 +1,8 @@
-import { readdir, readFile, mkdir, writeFile } from 'node:fs/promises';
+import { readFile, mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parse } from 'yaml';
+import { markdownFiles } from './article-collections.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -27,7 +28,7 @@ export function planArticleUrls(articles) {
         source_id: metadata.source_id ?? null,
         old_file: file,
         old_url: metadata.permalink,
-        proposed_file: historical ? `_articles/${slug}.md` : file,
+        proposed_file: historical ? `${path.posix.dirname(file)}/${slug}.md` : file,
         proposed_url: historical ? `/articles/${slug}/` : metadata.permalink,
         review_notes: historical ? ['Review automatically generated wording before approval.'] : ['Existing descriptive URL preserved.'],
         year: String(metadata.published_at || '').match(/^\d{4}/)?.[0]
@@ -56,7 +57,7 @@ export function planArticleUrls(articles) {
         slug = `${base}-${suffix}`;
         entry.review_notes.push(distinctYear ? 'Collision: publication year added; verify it describes the subject.' : 'Collision: historical ID added; choose a meaningful qualifier if possible.');
       }
-      if (reservedUrls.has(`/articles/${slug}/`) || reservedFiles.has(`_articles/${slug}.md`)) {
+      if (reservedUrls.has(`/articles/${slug}/`) || reservedFiles.has(`${path.posix.dirname(entry.old_file)}/${slug}.md`)) {
         slug = `${base}-${entry.old_url.match(/\d+/)[0]}`;
         entry.review_notes.push('Additional collision: historical ID added.');
       }
@@ -64,7 +65,7 @@ export function planArticleUrls(articles) {
         throw new Error(`Unresolved proposal collision: ${entry.old_file}`);
       }
       entry.proposed_url = `/articles/${slug}/`;
-      entry.proposed_file = `_articles/${slug}.md`;
+      entry.proposed_file = `${path.posix.dirname(entry.old_file)}/${slug}.md`;
       reservedUrls.add(entry.proposed_url);
       reservedFiles.add(entry.proposed_file);
     }
@@ -79,13 +80,13 @@ export async function generateArticleUrlPlan(destination = root) {
   } catch (error) {
     if (error.code !== 'ENOENT') throw error;
   }
-  const directory = path.join(destination, '_articles');
   const articles = [];
-  for (const name of (await readdir(directory)).filter(name => name.endsWith('.md'))) {
-    const content = await readFile(path.join(directory, name), 'utf8');
+  for (const file of await markdownFiles(path.join(destination, '_articles'))) {
+    const content = await readFile(file, 'utf8');
     const frontmatter = content.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
-    if (!frontmatter) throw new Error(`Missing YAML frontmatter: ${name}`);
-    articles.push({ file: `_articles/${name}`, metadata: parse(frontmatter[1]) });
+    const relative = path.relative(destination, file).split(path.sep).join('/');
+    if (!frontmatter) throw new Error(`Missing YAML frontmatter: ${relative}`);
+    articles.push({ file: relative, metadata: parse(frontmatter[1]) });
   }
   const entries = planArticleUrls(articles);
   const report = {

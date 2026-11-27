@@ -43,13 +43,13 @@ test('invalid metadata and duplicate old URLs fail rather than omit articles', (
 test('generation writes only a proposal and leaves article bytes unchanged', async () => {
   const directory = await mkdtemp(path.join(os.tmpdir(), 'freelug-url-plan-'));
   try {
-    await mkdir(path.join(directory, '_articles'));
-    const file = path.join(directory, '_articles', '1285.md');
+    await mkdir(path.join(directory, '_articles', 'themes'), { recursive: true });
+    const file = path.join(directory, '_articles', 'themes', '1285.md');
     const content = '---\ntitle: LEGO MUJI\npermalink: /articles/1285/\nsource_id: 1285\n---\nOriginal content.\n';
     await writeFile(file, content);
     const report = await generateArticleUrlPlan(directory);
     assert.equal(report.article_count, 1);
-    assert.equal(report.entries[0].proposed_file, '_articles/lego-muji.md');
+    assert.equal(report.entries[0].proposed_file, '_articles/themes/lego-muji.md');
     assert.equal(await readFile(file, 'utf8'), content);
     assert.equal(JSON.parse(await readFile(path.join(directory, 'scripts/seo/article-url-mapping.json'), 'utf8')).status, report.status);
   } finally {

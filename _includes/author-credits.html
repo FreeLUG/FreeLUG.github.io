@@ -1,4 +1,8 @@
-{%- assign profiles = site.authors | where_exp: "profile", "profile.articles contains include.article.permalink" -%}
+{%- assign profiles = site.authors | where_exp: "profile", "profile.association_articles contains include.article.permalink" -%}
+{%- assign region_profiles = site.authors | where_exp: "profile", "profile.regions_articles contains include.article.permalink" -%}
+{%- assign profiles = profiles | concat: region_profiles -%}
+{%- assign theme_profiles = site.authors | where_exp: "profile", "profile.themes_articles contains include.article.permalink" -%}
+{%- assign profiles = profiles | concat: theme_profiles -%}
 {%- for credit in include.article.authors -%}
   {%- assign matches = 0 -%}
   {%- assign credit_profile = nil -%}

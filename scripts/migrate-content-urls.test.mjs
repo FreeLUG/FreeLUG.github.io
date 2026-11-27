@@ -26,18 +26,18 @@ test('sections follow their hierarchy and reject missing parents', () => {
 test('migration updates relations and links, preserves sources and supports original SPIP URLs only', async () => {
   const directory = await mkdtemp(path.join(os.tmpdir(), 'freelug-migration-'));
   try {
-    for (const folder of ['_articles', '_sections', '_authors', '_data', 'scripts/seo']) await mkdir(path.join(directory, folder), { recursive: true });
+    for (const folder of ['_articles/themes', '_sections', '_authors', '_data', 'scripts/seo']) await mkdir(path.join(directory, folder), { recursive: true });
     const article = '---\ntitle: Train\npermalink: /articles/1/\nsection: /rubriques/10/\nsource_id: 1\nsource_url: https://www.freelug.org/spip.php?article1\n---\n[Self](/articles/1/#nb1)\n<span id="nb1">Note</span>\n';
-    await writeFile(path.join(directory, '_articles/1.md'), article);
+    await writeFile(path.join(directory, '_articles/themes/1.md'), article);
     await writeFile(path.join(directory, '_sections/17.md'), '---\ntitle: Thèmes\npermalink: /themes/\n---\n');
     await writeFile(path.join(directory, '_sections/10.md'), '---\ntitle: Train\npermalink: /rubriques/10/\nparent: /themes/\n---\n[Train](/articles/1/)\n');
     await writeFile(path.join(directory, '_authors/2.md'), '---\ntitle: Author\npermalink: /auteurs/2/\narticles: ["/articles/1/"]\n---\n');
     await writeFile(path.join(directory, '_data/navigation.yml'), '- title: Train\n  url: /rubriques/10/\n');
     await writeFile(path.join(directory, '_data/legacy_urls.json'), JSON.stringify({ article1: '/articles/1/', rubrique10: '/rubriques/10/' }));
-    await writeFile(path.join(directory, 'scripts/seo/article-url-mapping.json'), JSON.stringify({ status: 'proposal-only', entries: [{ title: 'Train', old_file: '_articles/1.md', old_url: '/articles/1/', proposed_file: '_articles/train.md', proposed_url: '/articles/train/' }] }));
+    await writeFile(path.join(directory, 'scripts/seo/article-url-mapping.json'), JSON.stringify({ status: 'proposal-only', entries: [{ title: 'Train', old_file: '_articles/themes/1.md', old_url: '/articles/1/', proposed_file: '_articles/themes/train.md', proposed_url: '/articles/train/' }] }));
     assert.deepEqual(await migrateContentUrls(directory), { articles: 1, sections: 2, redirects: 0 });
-    assert.deepEqual(await readdir(path.join(directory, '_articles')), ['train.md']);
-    const migrated = splitContent(await readFile(path.join(directory, '_articles/train.md'), 'utf8'));
+    assert.deepEqual(await readdir(path.join(directory, '_articles/themes')), ['train.md']);
+    const migrated = splitContent(await readFile(path.join(directory, '_articles/themes/train.md'), 'utf8'));
     assert.equal(migrated.document.get('section'), '/themes/train/');
     assert.equal(migrated.document.get('source_id'), 1);
     assert.equal(migrated.document.get('source_url'), 'https://www.freelug.org/spip.php?article1');

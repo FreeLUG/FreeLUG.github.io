@@ -8,6 +8,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parse } from 'yaml';
 import { toMarkdown } from './markdown.mjs';
+import { articleCollectionForSection, markdownFiles } from './article-collections.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const parseDocument = text => {
@@ -34,7 +35,7 @@ test('CMS-managed content has valid, non-circular section relationships', async 
   parse(await readFile(path.join(root, '_config.yml'), 'utf8'));
   const documents = {};
   const permalinks = new Set();
-  for (const name of ['sections', 'articles', 'authors']) {
+  for (const name of ['sections', 'authors']) {
     const schema = cms.content.find(item => item.name === name);
     documents[name] = await Promise.all((await readdir(path.join(root, schema.path)))
       .filter(file => file.endsWith('.md')).map(async file =>
@@ -47,6 +48,33 @@ test('CMS-managed content has valid, non-circular section relationships', async 
       assert.equal(permalinks.has(document.permalink), false, `Duplicate address: ${document.permalink}`);
       permalinks.add(document.permalink);
     }
+  }
+  const sectionIndex = new Map(documents.sections.map(section => [section.source_id, { metadata: section }]));
+  const articleCollections = new Map([
+    ['association_articles', 'association'],
+    ['regions_articles', 'regions'],
+    ['themes_articles', 'themes']
+  ]);
+  documents.articles = [];
+  for (const [name, group] of articleCollections) {
+    const schema = cms.content.find(item => item.name === name);
+    assert.equal(schema.path, `_articles/${group}`);
+    const files = await markdownFiles(path.join(root, schema.path));
+    assert.ok(files.length > 0, `${name}: collection must not be empty`);
+    assert.ok(files.length < 1000, `${name}: collection exceeds the CMS file limit`);
+    const collectionArticles = await Promise.all(files.map(async file =>
+      parseDocument(await readFile(file, 'utf8')).data));
+    for (const article of collectionArticles) {
+      assert.equal(articleCollectionForSection(article.section, sectionIndex), group,
+        `${article.title}: article is in the wrong collection`);
+      for (const field of schema.fields.filter(field => field.required)) {
+        assert.ok(article[field.name], `${article.title}: missing ${field.name}`);
+        if (field.pattern) assert.match(article[field.name], new RegExp(field.pattern));
+      }
+      assert.equal(permalinks.has(article.permalink), false, `Duplicate address: ${article.permalink}`);
+      permalinks.add(article.permalink);
+    }
+    documents.articles.push(...collectionArticles);
   }
   const sections = new Map(documents.sections.map(section => [section.permalink, section]));
   for (const section of sections.values()) {
@@ -61,10 +89,21 @@ test('CMS-managed content has valid, non-circular section relationships', async 
     }
   }
   for (const article of documents.articles) assert.ok(sections.has(article.section), `Missing section: ${article.title}`);
-  const articleUrls = new Set(documents.articles.map(article => article.permalink));
+  const articlesByUrl = new Map(documents.articles.map(article => [article.permalink,
+    `${articleCollectionForSection(article.section, sectionIndex)}_articles`]));
+  const authorCollections = ['association_articles', 'regions_articles', 'themes_articles'];
+  for (const field of authorCollections) {
+    const schema = cms.content.find(item => item.name === 'authors').fields.find(item => item.name === field);
+    assert.equal(schema.type, 'reference');
+    assert.equal(schema.options.collection, field);
+    assert.equal(schema.options.multiple, true);
+  }
   for (const author of documents.authors) {
-    assert.ok(Array.isArray(author.articles), `Missing article relationships: ${author.title}`);
-    for (const url of author.articles) assert.ok(articleUrls.has(url), `Missing author article: ${url}`);
+    for (const field of authorCollections) {
+      assert.ok(Array.isArray(author[field]), `Missing article relationships: ${author.title}.${field}`);
+      for (const url of author[field]) assert.equal(articlesByUrl.get(url), field,
+        `Invalid author article selection: ${author.title} → ${url}`);
+    }
     if (author.image) await access(path.join(root, ...author.image.split('/').filter(Boolean)));
   }
   const navigation = parse(await readFile(path.join(root, '_data', 'navigation.yml'), 'utf8'));
@@ -220,8 +259,8 @@ test('captures generate CMS-compatible Markdown only after capture completes', a
   }));
   const result = spawnSync(process.execPath, [path.join(root, 'scripts', 'import-site.mjs'), 'generate', cache, output], { encoding: 'utf8' });
   assert.equal(result.status, 0, result.stderr);
-  assert.deepEqual(await readdir(path.join(output, '_articles')), ['100.md']);
-  const article = parseDocument(await readFile(path.join(output, '_articles', '100.md'), 'utf8'));
+  assert.deepEqual(await readdir(path.join(output, '_articles', 'themes')), ['100.md']);
+  const article = parseDocument(await readFile(path.join(output, '_articles', 'themes', '100.md'), 'utf8'));
   const section = parseDocument(await readFile(path.join(output, '_sections', '42.md'), 'utf8'));
   assert.equal(article.data.section, '/rubriques/42/');
   assert.equal(section.data.parent, '/themes/');
@@ -232,16 +271,17 @@ test('captures generate CMS-compatible Markdown only after capture completes', a
   assert.match(article.body, /\[Ce modèle\]\(\/articles\/100\/#modele\)/);
   assert.doesNotMatch(article.body, /<h2|<img|{% raw %}/);
   const config = parse(await readFile(path.join(root, '.pages.yml'), 'utf8'));
-  for (const [name, document] of [['sections', section], ['articles', article]]) {
-    const schema = config.content.find(item => item.name === name);
+  for (const [schema, document] of [
+    [config.content.find(item => item.name === 'sections'), section],
+    [config.content.find(item => item.name === 'themes_articles'), article]
+  ]) {
     assert.equal(schema.filename, '{primary}.md');
-    assert.equal(schema.path, `_${name}`);
     assert.equal(schema.fields.find(field => field.name === 'body').options.format, 'markdown');
     for (const key of Object.keys(document.data)) {
-      assert.ok(schema.fields.some(field => field.name === key), `${name}.${key} is missing from Pages CMS`);
+      assert.ok(schema.fields.some(field => field.name === key), `${schema.name}.${key} is missing from Pages CMS`);
     }
   }
-  const reference = config.content.find(item => item.name === 'articles').fields.find(field => field.name === 'section');
+  const reference = config.content.find(item => item.name === 'themes_articles').fields.find(field => field.name === 'section');
   assert.equal(reference.options.collection, 'sections');
   assert.equal(reference.options.value, '{fields.permalink}');
   assert.equal('article_ids' in section.data, false);

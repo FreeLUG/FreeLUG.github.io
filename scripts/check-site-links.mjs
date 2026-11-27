@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { runInNewContext } from 'node:vm';
 import domino from '@mixmark-io/domino';
 import { parse } from 'yaml';
+import { markdownFiles } from './article-collections.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const output = path.join(root, '_site');
@@ -114,8 +115,9 @@ for (const url of urls) {
 
 let articles = 0;
 for (const collection of ['_articles', '_sections', '_authors']) {
-  for (const name of (await readdir(path.join(root, collection))).filter(name => name.endsWith('.md'))) {
-    const content = await readFile(path.join(root, collection, name), 'utf8');
+  for (const file of await markdownFiles(path.join(root, collection))) {
+    const name = path.relative(path.join(root, collection), file).split(path.sep).join('/');
+    const content = await readFile(file, 'utf8');
     const metadata = parse(content.match(/^---\r?\n([\s\S]*?)\r?\n---/)[1]);
     const url = origin + baseurl + metadata.permalink;
     assert.ok(canonicalUrls.has(url), `Missing sitemap entry: ${url}`);

@@ -55,12 +55,14 @@ dans le workflow GitHub Pages.
 3. Autoriser l’application GitHub Pages CMS pour `FreeLUG/FreeLUG.github.io`.
    L’approbation d’un propriétaire de l’organisation peut être nécessaire.
 4. Sélectionner le dépôt et la branche à modifier.
-5. Choisir **Accueil**, **Rubriques**, **Articles**, **Auteurs**,
+5. Choisir **Accueil**, **Rubriques**, **Articles — Association**,
+   **Articles — Régions**, **Articles — Thèmes**, **Auteurs**,
    **Navigation et cartes des rubriques** ou **Page introuvable**, puis enregistrer
    les modifications.
 
 L’accueil est dans [index.md](index.md), les rubriques dans `_sections/*.md`,
-les articles dans `_articles/*.md`, les profils publics dans `_authors/*.md`, la navigation dans
+les articles dans `_articles/association/`, `_articles/regions/` ou
+`_articles/themes/`, les profils publics dans `_authors/*.md`, la navigation dans
 [_data/navigation.yml](_data/navigation.yml), le schéma de l’éditeur dans
 [.pages.yml](.pages.yml) et les images téléversées dans [media](media/).
 Conserver `layout: home` dans les métadonnées de la page.
@@ -104,8 +106,13 @@ contenir la vignette originale. L’import conserve le texte et les relations,
 ne télécharge aucun fichier supplémentaire et refuse de remplacer une vignette
 éditoriale existante. Une capture incomplète n’est pas publiée.
 
-Dans **Articles**, ajouter un titre, une adresse unique (par exemple
-`/articles/ma-creation/`), sélectionner la rubrique, puis rédiger le contenu.
+Dans la collection d’articles correspondant à la rubrique principale
+(**Association**, **Régions** ou **Thèmes**), ajouter un titre, une adresse
+unique (par exemple `/articles/ma-creation/`), sélectionner la rubrique, puis
+rédiger le contenu. Les fichiers restent dans `_articles/` pour former une
+seule collection Jekyll, mais chaque dossier Pages CMS contient moins de
+1 000 articles. Ne pas déplacer un article d’un dossier à l’autre autrement
+qu’en sélectionnant la collection correspondant à sa rubrique principale.
 La date, les auteurs et le résumé sont modifiables dans le même formulaire.
 L’éditeur propose un mode visuel et un mode source Markdown ; les images
 s’insèrent depuis la médiathèque.
@@ -131,11 +138,13 @@ en page, pas à la rédaction.
 
 ### Modifier les auteurs
 
-Dans **Auteurs**, modifier le nom public, le portrait, la présentation Markdown,
-les liens publics et la sélection **Articles de cet auteur**. Cette sélection
-alimente la liste du profil ; seuls les articles déjà présents dans cette
-archive sont proposés. Elle ne prétend pas reproduire tous les articles du
-site historique, dont certains sont hors périmètre ou encore en attente.
+Dans **Auteurs**, modifier le nom public, le portrait, la présentation Markdown
+et les liens publics. Sélectionner les publications dans **Articles de cet
+auteur — Association**, **— Régions** ou **— Thèmes**, selon leur collection.
+Les trois sélections alimentent ensemble la liste du profil et les crédits des
+articles ; seuls les articles déjà présents dans chaque collection sont
+proposés. Elles ne prétendent pas reproduire tous les articles du site
+historique, dont certains sont hors périmètre ou encore en attente.
 
 Les crédits textuels des articles sont conservés sans changement. Un crédit
 devient un lien vers un profil uniquement si cet article y est sélectionné et

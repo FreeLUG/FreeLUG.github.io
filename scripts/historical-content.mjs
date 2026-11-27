@@ -1,18 +1,19 @@
-import { readFile, readdir } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { parse } from 'yaml';
+import { markdownFiles } from './article-collections.mjs';
 
 export async function historicalContent(destination, collection) {
   let files;
   try {
-    files = await readdir(path.join(destination, collection));
+    files = await markdownFiles(path.join(destination, collection));
   } catch (error) {
     if (error.code === 'ENOENT') return new Map();
     throw error;
   }
   const index = new Map();
-  for (const name of files.filter(name => name.endsWith('.md'))) {
-    const file = path.join(destination, collection, name);
+  for (const file of files) {
+    const name = path.basename(file);
     const text = await readFile(file, 'utf8');
     const frontmatter = text.match(/^---\r?\n([\s\S]*?)\r?\n---/);
     if (!frontmatter) throw new Error(`Missing frontmatter: ${file}`);

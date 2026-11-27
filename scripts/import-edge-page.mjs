@@ -6,6 +6,7 @@ import domino from '@mixmark-io/domino';
 import { toMarkdown } from './markdown.mjs';
 import { historicalContent } from './historical-content.mjs';
 import { articleSlug } from './plan-article-urls.mjs';
+import { articleCollectionForSection } from './article-collections.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const roots = { 1: '/regions/', 4: '/association/', 17: '/themes/' };
@@ -97,13 +98,6 @@ export async function importEdgePage(file, destination = root) {
   }
   const existing = await historicalContent(destination, '_articles');
   if (existing.has(Number(id))) throw new Error(`Article ${id} already exists; refusing to overwrite editorial content.`);
-  let target = path.join(destination, '_articles', `${id}.md`);
-  try {
-    await access(target);
-    throw new Error(`Article ${id} already exists; refusing to overwrite editorial content.`);
-  } catch (error) {
-    if (error.code !== 'ENOENT') throw error;
-  }
   const document = domino.createWindow(html).document;
   const article = document.querySelector(`#content > .inner > article.article_${id}`);
   const main = article?.querySelector('.main');
@@ -112,15 +106,25 @@ export async function importEdgePage(file, destination = root) {
   const date = article?.querySelector('time')?.getAttribute('datetime');
   if (!main || !title || !sectionMatch || !date) throw new Error(`Incomplete saved article ${id}.`);
   const sectionId = sectionMatch[1];
-  const section = (await historicalContent(destination, '_sections')).get(Number(sectionId));
+  const sections = await historicalContent(destination, '_sections');
+  const section = sections.get(Number(sectionId));
   if (!section) throw new Error(`Missing historical section ${sectionId}.`);
+  const sectionPermalink = section.metadata.permalink || roots[sectionId] || `/rubriques/${sectionId}/`;
+  const collection = articleCollectionForSection(sectionPermalink, sections);
   let permalink = `/articles/${id}/`;
+  let target = path.join(destination, '_articles', collection, `${id}.md`);
+  try {
+    await access(target);
+    throw new Error(`Article file already exists: ${target}`);
+  } catch (error) {
+    if (error.code !== 'ENOENT') throw error;
+  }
   try {
     await access(path.join(destination, '_data/url-redirects.json'));
     const slug = articleSlug(title);
     if (!slug) throw new Error(`Article ${id} has no usable title slug.`);
     permalink = `/articles/${slug}/`;
-    target = path.join(destination, '_articles', `${slug}.md`);
+    target = path.join(destination, '_articles', collection, `${slug}.md`);
     if ([...existing.values()].some(entry => entry.metadata.permalink === permalink)) {
       throw new Error(`Article URL collision: ${permalink}`);
     }
@@ -275,7 +279,7 @@ export async function importEdgePage(file, destination = root) {
   if (!body.trim()) throw new Error(`No editorial content in saved article ${id}.`);
   const data = {
     title, permalink,
-    section: section.metadata.permalink || roots[sectionId] || `/rubriques/${sectionId}/`,
+    section: sectionPermalink,
     published_at: date, authors, description,
     source_id: Number(id), source_url: sourceUrl
   };

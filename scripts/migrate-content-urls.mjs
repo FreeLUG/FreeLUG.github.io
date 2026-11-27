@@ -1,8 +1,9 @@
-import { readFile, readdir, mkdir, writeFile, rename, access, rm } from 'node:fs/promises';
+import { readFile, mkdir, writeFile, rename, access, rm } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseDocument } from 'yaml';
 import { articleSlug } from './plan-article-urls.mjs';
+import { markdownFiles } from './article-collections.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const json = value => JSON.stringify(value, null, 2) + '\n';
@@ -62,11 +63,13 @@ export function planSectionUrls(sections) {
 }
 
 function assertUnique(entries) {
+  const safeFile = file => /^_sections\/[a-z0-9-]+\.md$/.test(file) ||
+    /^_articles\/(?:[a-z0-9-]+|(?:association|regions|themes)\/[a-z0-9-]+)\.md$/.test(file);
   for (const field of ['old_file', 'old_url', 'proposed_file', 'proposed_url']) {
     if (new Set(entries.map(entry => entry[field])).size !== entries.length) throw new Error(`Duplicate mapping ${field}`);
   }
   for (const entry of entries) {
-    if (!/^_(?:articles|sections)\/[a-z0-9-]+\.md$/.test(entry.old_file) || !/^_(?:articles|sections)\/[a-z0-9-]+\.md$/.test(entry.proposed_file)
+    if (!safeFile(entry.old_file) || !safeFile(entry.proposed_file)
       || !/^\/(?:[a-z0-9-]+\/)+$/.test(entry.old_url) || !/^\/(?:[a-z0-9-]+\/)+$/.test(entry.proposed_url)) {
       throw new Error(`Unsafe mapping: ${entry.old_file}`);
     }
@@ -80,10 +83,9 @@ export async function migrateContentUrls(destination = root) {
   const contentFiles = [];
   const sections = [];
   for (const collection of ['_articles', '_sections', '_authors']) {
-    for (const name of await readdir(path.join(destination, collection))) {
-      if (!name.endsWith('.md')) continue;
-      const file = `${collection}/${name}`;
-      const content = await readFile(path.join(destination, file), 'utf8');
+    for (const absoluteFile of await markdownFiles(path.join(destination, collection))) {
+      const file = path.relative(destination, absoluteFile).split(path.sep).join('/');
+      const content = await readFile(absoluteFile, 'utf8');
       const parsed = splitContent(content);
       const entry = { file, content, parsed, metadata: parsed.document.toJS() };
       contentFiles.push(entry);
@@ -144,6 +146,7 @@ export async function migrateContentUrls(destination = root) {
     if (mapping.has(url)) legacy[key] = mapping.get(url);
   }
   for (const edit of edits) {
+    await mkdir(path.dirname(path.join(destination, edit.target)), { recursive: true });
     await writeFile(path.join(destination, edit.old), edit.content);
     if (edit.old !== edit.target) await rename(path.join(destination, edit.old), path.join(destination, edit.target));
   }

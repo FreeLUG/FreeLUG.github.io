@@ -15,8 +15,9 @@ async function fixture(t) {
   await mkdir(path.join(site, '_sections'), { recursive: true });
   await mkdir(path.join(site, '_data'), { recursive: true });
   await mkdir(path.join(directory, 'article123_files'));
-  await writeFile(path.join(site, '_sections', '42.md'), '---\ntitle: Train\n---\n');
-  await writeFile(path.join(site, '_data', 'legacy_urls.json'), '{"rubrique42":"/rubriques/42/"}');
+  await writeFile(path.join(site, '_sections', 'themes.md'), '---\ntitle: Thèmes\nsource_id: 17\npermalink: /themes/\n---\n');
+  await writeFile(path.join(site, '_sections', '42.md'), '---\ntitle: Train\nsource_id: 42\npermalink: /themes/train/\nparent: /themes/\n---\n');
+  await writeFile(path.join(site, '_data', 'legacy_urls.json'), '{"rubrique42":"/themes/train/"}');
   const html = `<!-- saved from url=(0043)https://www.freelug.org/spip.php?article123 -->
     <nav>Do not import navigation</nav><div id="content"><div class="inner">
     <article class="article_123"><header class="cartouche"><h1>Notre train</h1>
@@ -30,20 +31,22 @@ async function fixture(t) {
   return { page, site, directory, html };
 }
 
+const articleFile = (site, file = '123.md') => path.join(site, '_articles', 'themes', file);
+
 test('individual Edge saves preserve editorial content, metadata and local displayed media', async t => {
   const { page, site, directory } = await fixture(t);
   await writeFile(path.join(directory, 'article123_files', 'train.jpg'), 'fixture-image');
   const result = await importEdgePage(page, site);
   assert.equal(result.imagesAndFiles, 1);
   assert.deepEqual(result.originalMediaLinks, ['https://www.freelug.org/IMG/jpg/original.jpg']);
-  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  const markdown = await readFile(articleFile(site), 'utf8');
   const [, metadata, body] = markdown.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
   const data = parse(metadata);
-  assert.equal(data.section, '/rubriques/42/');
+  assert.equal(data.section, '/themes/train/');
   assert.equal(data.published_at, '2020-03-04T12:00:00Z');
   assert.deepEqual(data.authors, ['Auteur']);
   assert.match(body, /Un train partagé\./);
-  assert.match(body, /\[La rubrique\]\(\/rubriques\/42\/\)/);
+  assert.match(body, /\[La rubrique\]\(\/themes\/train\/\)/);
   assert.match(body, /!\[Un train\]\(\/media\/archive\/[a-f0-9]{24}\.jpg\)/);
   assert.match(body, /La fin du récit\./);
   assert.doesNotMatch(body, /Do not import|<div|<img/);
@@ -51,33 +54,31 @@ test('individual Edge saves preserve editorial content, metadata and local displ
   assert.equal(await readFile(path.join(site, 'media', 'archive', image), 'utf8'), 'fixture-image');
   const urls = JSON.parse(await readFile(path.join(site, '_data', 'legacy_urls.json'), 'utf8'));
   assert.equal(urls.article123, '/articles/123/');
-  assert.equal(urls.rubrique42, '/rubriques/42/');
+  assert.equal(urls.rubrique42, '/themes/train/');
   await assert.rejects(importEdgePage(page, site), /refusing to overwrite/);
-  assert.equal(await readFile(path.join(site, '_articles', '123.md'), 'utf8'), markdown);
+  assert.equal(await readFile(articleFile(site), 'utf8'), markdown);
 });
 
 test('missing or escaping saved media fails before publishing an incomplete article', async t => {
   const { page, site, html } = await fixture(t);
   await assert.rejects(importEdgePage(page, site), /ENOENT/);
-  await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+  await assert.rejects(readFile(articleFile(site)), /ENOENT/);
   await writeFile(page, html.replace('./article123_files/train.jpg', '../private.jpg'));
   await assert.rejects(importEdgePage(page, site), /escapes the page directory/);
-  await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+  await assert.rejects(readFile(articleFile(site)), /ENOENT/);
 });
 
 test('migrated sites import descriptive filenames and reject duplicates by historical ID', async t => {
   const { page, site, directory } = await fixture(t);
   await writeFile(path.join(directory, 'article123_files/train.jpg'), 'fixture-image');
   await writeFile(path.join(site, '_data/url-redirects.json'), '{}');
-  await writeFile(path.join(site, '_sections/42.md'), '---\ntitle: Train\nsource_id: 42\npermalink: /themes/train/\n---\n');
   await rename(path.join(site, '_sections/42.md'), path.join(site, '_sections/themes-train.md'));
-  await writeFile(path.join(site, '_data/legacy_urls.json'), '{"rubrique42":"/themes/train/"}');
   await importEdgePage(page, site);
-  const text = await readFile(path.join(site, '_articles/notre-train.md'), 'utf8');
+  const text = await readFile(articleFile(site, 'notre-train.md'), 'utf8');
   assert.equal(parse(text.match(/^---\n([\s\S]*?)\n---/)[1]).permalink, '/articles/notre-train/');
   assert.match(text, /section: "\/themes\/train\/"/);
   await assert.rejects(importEdgePage(page, site), /refusing to overwrite/);
-  await assert.rejects(readFile(path.join(site, '_articles/123.md')), /ENOENT/);
+  await assert.rejects(readFile(articleFile(site, '123.md')), /ENOENT/);
 });
 
 test('editorial footer notes and attached documents are preserved without comments or sidebar content', async t => {
@@ -96,7 +97,7 @@ test('editorial footer notes and attached documents are preserved without commen
     <section id="comments">Do not import comments</section></article>`));
   const result = await importEdgePage(page, site);
   assert.equal(result.imagesAndFiles, 2);
-  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  const markdown = await readFile(articleFile(site), 'utf8');
   assert.match(markdown, /La fin du récit\.\[\^1\]/);
   assert.match(markdown, /\[\^1\]: Une précision\./);
   assert.match(markdown, /\[Le guide\]\(\/media\/archive\/[a-f0-9]{24}\.pdf\)/);
@@ -109,14 +110,14 @@ test('missing media in an attached document block prevents publication', async t
   await writeFile(page, html.replace('</article>', `<aside class="documents">
     <img src="./article123_files/missing.png" alt="Un document"></aside></article>`));
   await assert.rejects(importEdgePage(page, site), /ENOENT/);
-  await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+  await assert.rejects(readFile(articleFile(site)), /ENOENT/);
 });
 
 test('a stale browser save cannot be mistaken for the requested article', async t => {
   const { page, site, html } = await fixture(t);
   await writeFile(page, html.replace('?article123 -->', '?article122 -->'));
   await assert.rejects(importEdgePage(page, site), /article 122, not expected article 123/);
-  await assert.rejects(readFile(path.join(site, '_articles', '122.md')), /ENOENT/);
+  await assert.rejects(readFile(articleFile(site, '122.md')), /ENOENT/);
 });
 
 test('section captures require explicit opt-in and cannot enter the article importer', () => {
@@ -169,7 +170,7 @@ test('native public media becomes editable source links without player controls'
     'https://www.freelug.org/IMG/mp4/train.mp4',
     'https://www.freelug.org/IMG/mp3/train.mp3'
   ]);
-  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  const markdown = await readFile(articleFile(site), 'utf8');
   assert.equal(markdown.match(/train\.mp4/g)?.length, 1);
   assert.match(markdown, /\[Vidéo de la publication d’origine\]\(https:\/\/www\.freelug\.org\/IMG\/mp4\/train\.mp4\)/);
   assert.match(markdown, /\[Audio de la publication d’origine\]\(https:\/\/www\.freelug\.org\/IMG\/mp3\/train\.mp3\)/);
@@ -188,7 +189,7 @@ test('media without verified public source URLs remains unpublished', async t =>
   ]) {
     await writeFile(page, html.replace('La fin du récit.', media));
     await assert.rejects(importEdgePage(page, site), /media without a source URL|media requiring editorial migration|ambiguous media player/);
-    await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+    await assert.rejects(readFile(articleFile(site)), /ENOENT/);
   }
 });
 
@@ -203,7 +204,7 @@ test('the explicitly recorded historical Theora video remains an exact Markdown 
   await writeFile(page, html.replace('La fin du récit.', `<p>Avant.</p><video src="${url}">Player fallback</video><p>Après.</p>`));
   const result = await importEdgePage(page, site);
   assert.ok(result.originalMediaLinks.includes(url));
-  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  const markdown = await readFile(articleFile(site), 'utf8');
   assert.match(markdown, /\[Vidéo de la publication d’origine\]\(http:\/\/brickerik\.free\.fr\/autre\/muji_perforeuse\.ogg\)/);
   assert.match(markdown, /Avant\./);
   assert.match(markdown, /Après\./);
@@ -214,7 +215,7 @@ test('pages saved from the excluded membership portal cannot be imported', async
   const { page, site, html } = await fixture(t);
   await writeFile(page, html.replace('https://www.freelug.org/spip.php?article123 -->', 'https://adherents.freelug.org/adherer/FreeLUG -->'));
   await assert.rejects(importEdgePage(page, site), /other hosts and redirects are out of scope/);
-  await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+  await assert.rejects(readFile(articleFile(site)), /ENOENT/);
 });
 
 async function singleFileFixture(t) {
@@ -232,7 +233,7 @@ test('Chrome single-file saves preserve UTF-8 editorial text and bundled binary 
   const { file, site, archive } = await singleFileFixture(t);
   const result = await importEdgePage(file, site);
   assert.equal(result.imagesAndFiles, 1);
-  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  const markdown = await readFile(articleFile(site), 'utf8');
   assert.match(markdown, /Un train partagé\./);
   assert.match(markdown, /La fin du récit\./);
   assert.match(markdown, /!\[Un train\]\(\/media\/archive\/[a-f0-9]{24}\.jpg\)/);
@@ -252,7 +253,7 @@ test('public author archives require explicit opt-in and cannot enter the articl
   assert.throws(() => chromeArchive(authorArchive), /public https:\/\/www\.freelug\.org article source/);
   await writeFile(file, authorArchive);
   await assert.rejects(importEdgePage(file, site), /public https:\/\/www\.freelug\.org article source/);
-  await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+  await assert.rejects(readFile(articleFile(site)), /ENOENT/);
 });
 
 test('author archive opt-in rejects unrelated sources and incomplete source provenance', async t => {
@@ -300,7 +301,7 @@ test('incomplete single-file archives or missing bundled images cannot be publis
   await assert.rejects(importEdgePage(file, site), /Incomplete Chrome single-file archive/);
   await writeFile(file, archive.replace('Content-Location: https://www.freelug.org/local/train.jpg', 'Content-Location: https://www.freelug.org/local/different.jpg'));
   await assert.rejects(importEdgePage(file, site), /Media missing from the saved archive/);
-  await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+  await assert.rejects(readFile(articleFile(site)), /ENOENT/);
 });
 
 test('archived document CSS thumbnails become bundled Markdown images without dropping the attachment', async t => {
@@ -312,12 +313,12 @@ test('archived document CSS thumbnails become bundled Markdown images without dr
     style=3D"display:block;position:relative;height:0;width:100%;padding-bottom:75.33%;overflow:hidden;background:url(${thumbnail}) no-repeat center;background-size:100%;"> </span></span>transmission mono directive</a></aside></article>`);
   await writeFile(file, edited);
   await assert.rejects(importEdgePage(file, site), /Media missing from the saved archive/);
-  await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+  await assert.rejects(readFile(articleFile(site)), /ENOENT/);
   const resource = `--test-boundary\r\nContent-Type: image/jpeg\r\nContent-Location: https://www.freelug.org/${thumbnail}\r\nContent-Transfer-Encoding: base64\r\n\r\n${Buffer.from('thumbnail').toString('base64')}\r\n`;
   await writeFile(file, edited.replace('--test-boundary--\r\n', resource + '--test-boundary--\r\n'));
   const result = await importEdgePage(file, site);
   assert.equal(result.imagesAndFiles, 2);
-  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  const markdown = await readFile(articleFile(site), 'utf8');
   assert.match(markdown, /!\[\]\(\/media\/archive\/[a-f0-9]{24}\.jpg\)/);
   assert.match(markdown, /transmission mono directive\]\(https:\/\/www\.freelug\.org\/IMG\/pdf\/Transmission_mono\.pdf\)/);
   assert.doesNotMatch(markdown, /background:|<span/);
@@ -340,7 +341,7 @@ test('archived YouTube iframe provenance becomes a Markdown link while captions 
     await writeFile(file, archiveWithFrame(archive, video));
     const result = await importEdgePage(file, site);
     assert.ok(result.originalMediaLinks.includes(video));
-    const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+    const markdown = await readFile(articleFile(site), 'utf8');
     assert.match(markdown, /Avant le lecteur\./);
     assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${video})`));
     assert.match(markdown, /La fin du récit\./);
@@ -360,7 +361,7 @@ test('iframes without verified supported archive provenance remain unpublished',
   ]) {
     await writeFile(file, archiveWithFrame(archive, location));
     await assert.rejects(importEdgePage(file, site), /embedded content requiring editorial migration/);
-    await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+    await assert.rejects(readFile(articleFile(site)), /ENOENT/);
   }
 });
 
@@ -404,7 +405,7 @@ test('known legacy Flash players preserve exact source links and surrounding tex
   assert.ok(result.originalMediaLinks.includes(youtubeHttpVersion3));
   assert.ok(result.originalMediaLinks.includes(dailymotion));
   assert.ok(result.originalMediaLinks.includes(video));
-  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  const markdown = await readFile(articleFile(site), 'utf8');
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtube})`));
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtubeQuery})`));
   assert.ok(markdown.includes(`[Vidéo de la publication d’origine](${youtubeEmbedOnly})`));
@@ -452,6 +453,6 @@ test('ambiguous or unsupported Flash players cannot publish incomplete content',
   ]) {
     await writeFile(page, html.replace('La fin du récit.', player));
     await assert.rejects(importEdgePage(page, site), /embedded content requiring editorial migration/);
-    await assert.rejects(readFile(path.join(site, '_articles', '123.md')), /ENOENT/);
+    await assert.rejects(readFile(articleFile(site)), /ENOENT/);
   }
 });
