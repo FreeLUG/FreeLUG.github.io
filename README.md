@@ -24,6 +24,14 @@ les articles dans `_articles/*.md`, les profils publics dans `_authors/*.md`, la
 Conserver `layout: home` dans les métadonnées de la page.
 La sélection du forum est éditoriale : elle n’est pas synchronisée automatiquement.
 
+Les vues des collections dans [.pages.yml](.pages.yml) utilisent `view.sort`
+comme liste de champs et `view.default.sort` / `view.default.order` pour le tri
+initial, conformément au [schéma Pages CMS](https://pagescms.org/docs/configuration/content/view/).
+Un `view.sort` scalaire ou un `view.order` directement dans la vue invalide la
+configuration et peut produire l’erreur trompeuse « items must be an array of
+content entries ». Après publication d’une correction sur la branche sélectionnée,
+recharger la configuration dans Pages CMS.
+
 ### Créer une rubrique ou un article
 
 Dans **Rubriques**, ajouter un titre, une adresse unique terminée par `/`

@@ -69,8 +69,10 @@ content:
     view:
       primary: title
       fields: [title, parent, permalink]
-      sort: title
-      order: asc
+      sort: [title]
+      default:
+        sort: title
+        order: asc
     fields:
       - name: title
         label: Titre
@@ -120,8 +122,10 @@ content:
     view:
       primary: title
       fields: [title, section, published_at]
-      sort: published_at
-      order: desc
+      sort: [published_at]
+      default:
+        sort: published_at
+        order: desc
     fields:
       - name: title
         label: Titre
@@ -181,8 +185,10 @@ content:
     view:
       primary: title
       fields: [title, permalink]
-      sort: title
-      order: asc
+      sort: [title]
+      default:
+        sort: title
+        order: asc
     fields:
       - name: title
         label: Nom public

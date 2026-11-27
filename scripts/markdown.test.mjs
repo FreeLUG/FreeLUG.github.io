@@ -17,6 +17,18 @@ const parseDocument = text => {
   return { data: parse(metadata), body };
 };
 
+test('CMS collection views use sort arrays and nested sorting defaults', async () => {
+  const cms = parse(await readFile(path.join(root, '.pages.yml'), 'utf8'));
+  for (const collection of cms.content.filter(item => item.type === 'collection')) {
+    const { view } = collection;
+    assert.ok(Array.isArray(view.sort), `${collection.name}: view.sort must be an array`);
+    assert.ok(view.sort.every(field => typeof field === 'string'), `${collection.name}: sort fields must be strings`);
+    assert.equal(Object.hasOwn(view, 'order'), false, `${collection.name}: order belongs in view.default`);
+    assert.ok(view.sort.includes(view.default.sort), `${collection.name}: default sort must be an available sort field`);
+    assert.ok(['asc', 'desc'].includes(view.default.order), `${collection.name}: invalid default order`);
+  }
+});
+
 test('CMS-managed content has valid, non-circular section relationships', async () => {
   const cms = parse(await readFile(path.join(root, '.pages.yml'), 'utf8'));
   parse(await readFile(path.join(root, '_config.yml'), 'utf8'));
