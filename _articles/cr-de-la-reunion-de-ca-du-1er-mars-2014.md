@@ -1,0 +1,73 @@
+---
+title: "CR de la réunion de CA du 1er mars 2014"
+permalink: "/articles/cr-de-la-reunion-de-ca-du-1er-mars-2014/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2014-03-21T18:01:30Z"
+authors: [ "Jac", "Pilili Cuicui", "Sébastien HAMON" ]
+description: "CR de la réunion de CA du 1er mars 2014"
+source_id: 1795
+source_url: "https://www.freelug.org/spip.php?article1795"
+---
+
+CR de la réunion de CA du 1er mars 2014
+
+## Ordre du jour
+
+_Présents (11)_  
+**–** Erik AMZALLAG  
+**–** Pierre CHARLES  
+**–** Daniela DROST  
+**–** Sébastien HAMON  
+**–** Philippe LABEL  
+**–** Pierre LAURENGE  
+**–** Richard LEMEITER  
+**–** Jean Claude PETIT  
+**–** Jérôme TEISSIER  
+**–** Xavier VIALLEFONT  
+**–** Lucie VIGREUX
+
+_Ordre du jour_
+
+Formation du nouveau bureau.
+
+Le CA démarre par l’accueil de Lucie Vigreux nouvellement élue. Un tour de table est effectué. Les membres se présentent, expliquent leur historique et leur rôle dans l’association. Un moment de discussion libre a ensuite lieu, permettant à chacun d’échanger à propos de FreeLUG, de son fonctionnement, de l’image qu’il a de l’association, et des outils mis à disposition.
+
+Le CA regrette que peu de gens se soient présentés au renouvellement cette année et exprime collégialement sa volonté forte d’intégrer de nouveaux membres au CA afin d’assurer le renouvellement régulier des membres aux responsabilités et de pérenniser l’avenir de l’association.
+
+Une réflexion est lancée au sein du CA pour nommer un membre non élu au 12e poste tel que le permettent les statuts. Il est acté que cela ne se fera que pour répondre à un besoin précis et pour une tache bien identifiée.
+
+Après ce moment d’introduction, le CA discute des projets à mettre en place pour l’année en cours et des rôles à affecter à chacun. La gestion du matériel et la gestion des expositions sont abordés. La volonté d’améliorer la visibilité de FreeLUG sur le net est réaffirmée. Il ressort également l’envie de créer des liens avec des LUGs étrangers et d’améliorer l’information du travail CA auprès des adhérents.
+
+Les postes sont affectés en fonction des volontés des membres présents.  
+Pierre CHARLES exprime son envie de quitter le poste de secrétariat, il lui est proposé le poste de vice-président ainsi qu’à Xavier VIALLEFONT afin d’avoir deux vice-présidents pour épauler Erik.  
+Erik AMZALLAG garde ses fonctions de Président, en soulignant qu’il n’est pas opposé à passer la main à un membre du CA si quelqu’un souhaite prendre le relais.  
+Richard LEMEITER et Philippe LABEL, souhaitent continuer leur travail de trésorerie tel qu’actuellement.  
+Lucie VIGREUX exprime sa volonté de s’investir dans la communication interne de l’association, et de s’investir pour lier des liens avec des LUGs étrangers.  
+Daniela DROST exprime également sa volonté de s’investir dans les relations avec des LUGs étrangers.  
+En fonction des souhaits qu’elle exprime, il est proposé à Lucie VIGREUX d’être rattachée au secrétariat de l’association. Pour sa première année au CA le poste de secrétaire abordé dans un premier temps est d’un commun accord écarté, et il lui est proposé le poste de secrétaire adjointe. (NB : Une lecture trop rapide des nouveaux statuts semblait l’empêcher car le poste de secrétaire adjointe est rattaché au bureau, mais l’erreur a été rectifiée plus tard). Lucie VIGREUX est nommée secrétaire adjointe.  
+Sébastien HAMON propose de prendre le poste de secrétaire, puisque plus expérimenté, pour permettre à Lucie VIGREUX de prendre ses marques pour sa première année au CA.  
+Jérôme TEISSIER souhaite conserver le poste de suivi des expositions. La gestion du matériel est ensuite mise en discussion, Daniela DROST propose de continuer son rôle sur ce sujet, Sébastien HAMON propose également d’apporter son aide sur ce sujet.
+
+Certains points tels que la gestion de l’assurance et l’écriture la charte Briqu’Expo sont brièvement abordés puis repoussés pour discussion lors d’un CA ultérieur.
+
+Un bilan des rôles et postes de chacun est effectué, les affectations de chaque membre sont votées à l’unanimité.
+
+Le CA de FreeLUG pour l’année 2014
+
+**–** Président : Erik AMZALLAG  
+**–** Vice présidents : Pierre CHARLES et Xavier VIALLEFONT  
+**–** Trésorier : Richard LEMEITER  
+**–** Trésorier adjoint : Philippe LABEL  
+**–** Secrétaire : Sébastien HAMON  
+**–** Secrétaire adjoint, chargé du suivi des expos : Jérôme TEISSIER  
+**–** Secrétaire adjointe, chargée de la communication : Lucie VIGREUX  
+**–** Ambassadrice LEGO, suivi des dons, relation LEGO France/Danemark : Daniela DROST  
+**–** Communication LUGs étrangers : Lucie VIGREUX et Daniela DROST  
+**–** Commandes groupées et goodies : Pierre LAURENGE et Xavier VIALLEFONT  
+**–** Suivi du matériel : Sébastien HAMON et Daniela DROST  
+**–** Inventaire de l’ensemble du matériel : Jean Claude PETIT
+
+Le CA est clos, la prochaine réunion est fixée au 10 Mars 2014.
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [CA@freelug.org](mailto:CA@freelug.org)

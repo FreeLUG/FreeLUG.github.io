@@ -1,0 +1,31 @@
+---
+title: "Festival de la maquette à Tréflez (29)"
+permalink: "/articles/festival-de-la-maquette-a-treflez-29/"
+section: "/regions/bretagne/"
+published_at: "2013-08-27T19:35:37Z"
+authors: [ "damien bresson" ]
+description: "L’Amicale des Maquettistes de la Côte des Légendes organisait son
+  troisième salon de la maquette à la salle omnisport."
+source_id: 1685
+source_url: "https://www.freelug.org/spip.php?article1685"
+---
+
+[L’Amicale des Maquettistes de la Côte des Légendes](http://amcl-29.e-monsite.com/) organisait son troisième salon de la maquette à la salle omnisport.
+
+Pendant deux jours, j’ai exposé mon circuit de train avec une ville et des Technic plus le robot Mindstorms NXT.
+
+[![](/media/archive/d5c46fed15560ba51e3531f2.jpg)](https://www.freelug.org/IMG/jpg/DSCN1205-2.jpg)
+
+**Vue d’ensemble du stand**
+
+Deux jeunes du club organisateur exposaient une petite ville et divers modèles de train, Chima, Ninjago et Stars Wars. Théo, passionné de LEGO qui a 12 ans, membre du club de Saint Martin-des-Champs, a pu exposer le dimanche son train.
+
+[![](/media/archive/58dffaa62d26176d209cfa42.jpg)](https://www.freelug.org/IMG/jpg/DSCN1233.jpg)
+
+**La mosaïque de l’exposition**
+
+Une mosaïque a été construite au cours du week-end et présentée lors de la remise des prix.
+
+Damien
+
+[Voir toutes les photos de l’exposition.](http://photos.freelug.org/main.php/v/dam29/expo+2013/treflez/)

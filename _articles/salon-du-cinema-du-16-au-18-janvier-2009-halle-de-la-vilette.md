@@ -1,0 +1,30 @@
+---
+title: "Salon du cinéma, du 16 au 18 janvier 2009, Halle de la Vilette"
+permalink: "/articles/salon-du-cinema-du-16-au-18-janvier-2009-halle-de-la-vilette/"
+section: "/regions/ile-de-france/"
+published_at: "2009-01-16T08:30:00Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "FreeLUG est conviée à présenter un stand d’animation image par
+  image au Salon du Cinéma."
+source_id: 850
+source_url: "https://www.freelug.org/spip.php?article850"
+---
+
+FreeLUG est conviée à présenter un stand d’animation image par image au Salon du Cinéma.
+
+Nous serons quelques adhérents à tenir un stand d’initiation aux brickfilms, ces films d’animation image par image réalisés avec des briques LEGO.
+
+Deux décors seront à disposition, la planète Hoth de l’univers StarWars et une ville où bien d’étranges choses se dérouleront.
+
+Fans du cinéma et de la petite brique, conciliez les deux et venez nous rencontrer !
+
+_Lieu, horaires et tarifs :_  
+**–** vendredi 16, samedi 17 et dimanche 18 janvier 2009, de 9h30 à 19h  
+**–** Grande Halle de la Villette. 211, avenue Jean Jaurès 75019 Paris
+
+-   Moins de 6 ans : gratuit
+-   Enfants : 6-11 ans : 6€
+-   12-18 ans, étudiants, chômeurs : 9€
+-   Adultes (Plus de 18 ans) : 12€
+
+[Le site officiel du Salon du Cinéma](http://www.salonducinema.com/)

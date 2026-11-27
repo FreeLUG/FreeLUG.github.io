@@ -1,0 +1,17 @@
+---
+layout: "article"
+title: "Assemblée Générale les 23 et 24 février 2008"
+source_id: 708
+permalink: "/articles/assemblee-generale-les-23-et-24-fevrier-2008/"
+source_url: "https://freelug.org/spip.php?article708"
+published_at: "2008-02-24T09:00:00Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "L’Assemblée Générale FreeLUG se déroulera les 23 et 24 février 2008."
+section: "/association/reunions-evenements/"
+---
+
+L’Assemblée Générale FreeLUG se déroulera les 23 et 24 février 2008.
+
+Les adhérents de FreeLUG sont conviés à l’Assemblée Générale 2008 le samedi 23 février après-midi 16 heures ainsi que le reste du week-end pour participer aux différentes activités.
+
+Tous les détails sont communiqués par e-mail et peuvent être retrouvés dans la [zone adhérents](https://freelug.org/priv_rubrique.php3?id_rubrique=76).

@@ -1,0 +1,73 @@
+---
+title: "CR de la réunion du Bureau du 1er juin 2021"
+permalink: "/articles/cr-de-la-reunion-du-bureau-du-1er-juin-2021/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2021-06-21T21:19:59Z"
+authors: [ "Chrystelle AUBIN-MAQUET", "Sébastien HAMON" ]
+description: "CR de la réunion du bureau du 1er juin 2021"
+source_id: 3111
+source_url: "https://www.freelug.org/spip.php?article3111"
+---
+
+CR de la réunion du bureau du 1er juin 2021
+
+## Ordre du jour
+
+_Début de séance : 20h45_
+
+_Présents (7) :_  
+**–** Erik Amzallag  
+**–** Chrystelle Aubin-Maquet  
+**–** Olivier Barbier  
+**–** Emmanuel Bonnard  
+**–** Xavier Claudel  
+**–** Sébastien Hamon  
+**–** Richard Lemeiter
+
+_Excusés (0) :_
+
+_Absents (0) :_
+
+_Ordre du jour :_
+
+**–** Point Briqu’Expo pour 2021  
+**–** REF  
+**–** Mise en place des rôles de chacun  
+**–** Commande vêtements
+
+## Point Briqu’Expo pour 2021
+
+Suite aux nouvelles possibilités qui s’ouvrent pour pouvoir organiser des expositions avec la levée partielle des restrictions sanitaires, nous envisageons de pouvoir refaire des expositions d’ici la fin de l’année. En premier lieu nous avons demandé aux organisateurs de la Briqu’Expo Rhône-Alpes pour le report de l’exposition initialement prévue au mois de mai. Malheureusement, ça n’est plus possible suite à un changement de politique de la mairie sur le prêt des salles.
+
+Nous discutons sur comment trouver un nouvel endroit pour au moins en faire une d’ici la fin de l’année.
+
+Nous décidons de faire un appel aux adhérents, et en parallèle de contacter personnellement certains adhérents qui nous avait dit être potentiellement motivés pour en organiser.
+
+## REF
+
+Comme pour les expositions les rencontres semblent pouvoir s’organiser. Toutefois d’ici l’été, l’ensemble de la population ne sera pas vacciné et il paraît risqué de faire quelque chose réunissant de très nombreuses personnes venant de toute la France.
+
+Toutefois, pour permettre des rencontres entre adhérents, nous proposons aux adhérents d’organiser des petites rencontres plus locales, sachant que FreeLUG a prévu un montant dans son budget pour la participation financière.
+
+## Mise en place des rôles de chacun
+
+Dans ce point, nous échangeons pour savoir si les nouveaux ont pris leurs marques dans leur rôle au bureau, nous ferons de même avec le conseil d’administration en totalité à la prochaine réunion.  
+Tout se met en place petit à petit, le peu d’activité permet de faire cela sereinement.
+
+## Commande vêtements
+
+A date de la réunion, 7 commandes sont passées pour 11 pièces au total.  
+Le trésorier nous rappelle que le prix est garanti pour une commande de 50 pièces minimum.
+
+Un mail de relance va être fait pour réveiller les commandes.
+
+## Autres points
+
+Comme annoncé lors de l’AG, nous allons lancer une enquête sur les usages des moyens de communication entre adhérents. Erik est actuellement en train de reporter les questions sur l’outil.
+
+Durant la réunion, un adhérent vient de demander par mail l’accord pour annoncer la petite exposition personnelle qu’il réalise en juin sur les listes/forum. L’accord lui est donné.
+
+_Fin de réunion 22h30_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

@@ -1,0 +1,100 @@
+---
+title: "Sources d’informations sur la brique LEGO®"
+permalink: "/articles/sources-d-informations-sur-la-brique-lego/"
+section: "/association/divers/"
+published_at: "2004-06-02T08:47:12Z"
+authors: [ "Didier ENJARY" ]
+description: "Vous voulez connaitre les dernières nouveautés LEGO® ? Vous
+  recherchez une notice de montage ? Vous ne savez pas faire fonctionner votre
+  Minstorms® ? Mais vous ne savez pas non plus ou trouvez de réponses à toutes
+  ces questions. Je vais vous y aider."
+source_id: 261
+source_url: "https://www.freelug.org/spip.php?article261"
+---
+
+Vous voulez connaitre les dernières nouveautés LEGO® ? Vous recherchez une notice de montage ? Vous ne savez pas faire fonctionner votre Minstorms® ? Mais vous ne savez pas non plus ou trouvez de réponses à toutes ces questions. Je vais vous y aider.
+
+Le problème avec Internet, c’est qu’il est difficile de s’y retrouver. Essayons de remettre tout cela au clair en ce qui concerne la brique Danoise.
+
+Tout d’abord il y’a différents types de sources d’informations :
+
+**–** Les sites webs  
+**–** Les forums / newsgroups  
+**–** Les mailing list (listes de diffusions)  
+**–** les salons de discussions (chatrooms)
+
+## Les sites web
+
+Les sites web concernant la brique LEGO® sont nombreux et la plupart sont des sites personnels. D’autres sont plus communautaires, ce sont les plus interessants du point de vue de l’information générale.
+
+Celui que je me dois de citer en premier est celui de la société LEGO® qui est le site officiel :
+
+[www.lego.com](http://www.lego.com/)
+
+C’est un site imposant mais il est bien structuré et l’on y trouve même un moteur de recherche.
+
+Celui que je dois cité en second est celui sur lequel vous êtes en ce moment : le site des fans francophones :
+
+[FreeLUG](/).
+
+C’est un site communautaire donc assez souvent mis à jour. Vous y trouvez des articles et des brèves (en page d’accueil) mais aussi une [FAW](http://www.freelug.org/rubrique.php3?id_rubrique=68) naissante mais dynamique.
+
+Si vous êtes familiarisé avec l’anglais vous trouverez aussi des infos sur ces sites :
+
+**–** [BrickSet](http://www.brickset.com/)  
+**–** [BrickPortal](http://www.brickportal.com/)  
+**–** [From Bricks To Bothans](http://www.fbtb.net/) (orienté thème Star Wars)  
+**–** [Classic Castle](http://www.classic-castle.com/) (orienté thème Médiéval)
+
+et puis l’ensemble des sites européens dans leur langue
+
+**Anglais** :
+
+**–** [Brickish](http://www.brickish.org/)
+
+**Néerlandais** :
+
+**–** [DeBouwsteen](http://www.debouwsteen.com/)  
+**–** [Lowlug](http://www.lowlug.nl/)
+
+**Allemand** :
+
+**–** [1000steine](http://www.festum.de/1000steine/)
+
+**Danois** :
+
+**–** [Byggepladen](http://www.byggepladen.dk/)
+
+**Diverses langues** :
+
+**–** [Belug](http://www.belug.be/)
+
+## Les forums / newsgroup
+
+Le principal forum de discussion est [Lugnet](http://www.lugnet.com/) (très majoritairement en anglais !). En fait il regroupe un ensemble de forums en fonction du thème qui vous intéresse (médiéval, Technic®, trains,...)
+
+Vous pouvez aussi trouver des forums sur
+
+**–** [Eurobricks](http://www.eurobricks.com/forum/index.php)  
+**–** [LEGO Mindstorms](http://mindstorms.lego.com/eng/forums/default.asp)  
+**–** [Bricklink](http://www.bricklink.com/messageList.asp) (plutôt orienté commerce entre particuliers)  
+**–** [Building Instructions Portal](http://www.bricksonthebrain.com/forum/default.asp) (orienté notices de montage personnelles)  
+**–** [1000steine](http://www.festum.de/1000steine/forum/) (le forum des fans allemands)
+
+## Les listes de diffusions
+
+Celles-ci sont généralement réservés aux membres des clubs. FreeLUG propose une liste de diffusion publique [FreeLUG général](http://www.freelug.org/article.php3?id_article=10) sur laquelle vous pouvez participer à des discussions par e-mails.
+
+Il existe aussi plusieurs listes sur yahoo groupe dont la plus active est [lego-construction](http://fr.groups.yahoo.com/group/lego-construction/).  
+(Cette liste n’a pas d’affiliation avec la société LEGO®, même si son nom peut le laisser croire)
+
+## Les chatrooms (salons de discussion)
+
+Sont aussi des sources d’informations plus rapide mais plus aléatoires. Ils sont fréquentés par des passionnés qui peut être pourrons répondre à vos questions en direct.
+
+**En français** :
+
+**–** [FreeLUG](http://www.freelug.info/cgi-bin/cgiirc/irc.cgi)
+
+**En allemand** :  
+**–** [1000steine](http://www.festum.de/1000steine/cgi/gtchat/chat.pl)

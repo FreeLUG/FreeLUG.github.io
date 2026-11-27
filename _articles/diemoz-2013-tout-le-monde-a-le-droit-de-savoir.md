@@ -1,0 +1,39 @@
+---
+title: "Diemoz 2013. Tout le monde a le droit de savoir"
+permalink: "/articles/diemoz-2013-tout-le-monde-a-le-droit-de-savoir/"
+section: "/regions/rhone-alpes/"
+published_at: "2013-05-02T19:26:29Z"
+authors: [ "Xavier Viallefont", "Yannick VIGNAT" ]
+description: "FreeLUG, Bab et le sou des écoles de Diemoz organisent une
+  Briqu’Expo les 14 et 15 septembre 2013. Pour que tout le monde (et même au
+  delà comme dirait Buzz l’éclair) soit au courant, la minifig Bab et la minifig
+  FreeLUG ont décidé de se mettre sur leur 31 et de partir en promo."
+source_id: 1659
+source_url: "https://www.freelug.org/spip.php?article1659"
+---
+
+FreeLUG, Bab et le sou des écoles de Diemoz organisent une Briqu’Expo les 14 et 15 septembre 2013. Pour que tout le monde (et même au delà comme dirait Buzz l’éclair) soit au courant, la minifig Bab et la minifig FreeLUG ont décidé de se mettre sur leur 31 et de partir en promo.
+
+[![](/media/archive/cb9fabe05fe2045ff1ad1448.jpg)](https://www.freelug.org/IMG/jpg/afficheMiniDiemozArticle.jpg)
+
+## Mission n°1 : Le Look
+
+Pour faire de la promo, il faut un look qui va bien et pour cela rien de tel qu’un petit passage au Butterfly Beauty Shop. Les conseils de Sarah sont toujours les bienvenus.
+
+[![](/media/archive/0db6778f2d13b024fbd4a7e5.jpg)](https://www.freelug.org/IMG/jpg/article00.jpg)
+
+A l’intérieur Emma s’occupe de nos clients ...
+
+[![](/media/archive/dfb084a599dd0ddf90d2351c.jpg)](https://www.freelug.org/IMG/jpg/article01.jpg)
+
+Pour la minifig Bab c’est le choix de la casquette qui est difficile.
+
+[![](/media/archive/176311f7c6d7d77b2f7997be.jpg)](https://www.freelug.org/IMG/jpg/article02.jpg)
+
+Et pour la minifig FreeLUG ce sont les lunettes !
+
+[![](/media/archive/c33b2f0c5d0643f4cc7725e3.jpg)](https://www.freelug.org/IMG/jpg/article03.jpg)
+
+Ouf ! Enfin le choix est fait ! Merci Sarah et merci Emma, les minifigs sont prêtes pour leurs prochaines missions
+
+[_à suivre_](/articles/diemoz-2013-mission-ii/)

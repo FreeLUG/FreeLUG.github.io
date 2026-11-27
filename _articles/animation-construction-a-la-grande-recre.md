@@ -1,0 +1,56 @@
+---
+title: "Animation Construction à la Grande Récré"
+permalink: "/articles/animation-construction-a-la-grande-recre/"
+section: "/regions/rhone-alpes/"
+published_at: "2015-01-15T13:16:19Z"
+authors: [ "Yannick VIGNAT" ]
+description: "Le samedi 08 novembre 2014, toute l’équipe BRIQU’Expo Diemoz
+  s’était donnée rendez vous à St Bonnet de Mûre, à côté de Lyon pour assurer
+  une animation dans le magasin La Grande Récré, partenaire de notre exposition
+  pour 2015."
+source_id: 1945
+source_url: "https://www.freelug.org/spip.php?article1945"
+---
+
+Le samedi 08 novembre 2014, toute l’équipe [BRIQU’Expo Diemoz](http://chezyannoch.com/briquexpodiemoz/) s’était donnée rendez vous à St Bonnet de Mûre, à côté de Lyon pour assurer une animation dans le magasin [La Grande Récré](http://www.lagranderecre.fr/magasin-jouets-la-grande-recre/saint-bonnet-de-mure/saint%20bonnet%20de%20mure/69720.html), partenaire de notre exposition pour 2015.
+
+![](/media/archive/743bfa391b1fa0a43ef20d55.jpg)
+
+**Animation à La Grande Récré**
+
+Les membres de FreeLUG et du Sou des Ecoles de Diemoz ont une fois encore répondu présents. Après avoir présenté une [vitrine](/articles/animation-a-la-grande-recre-de-st-bonnet-de-mure-69/) en août dernier, nous avons été sollicités par le magasin pour organiser une animation construction.
+
+![](/media/archive/315a237689d955d84d8e9da2.jpg)
+
+**Plein de briques**
+
+A cette occasion, nous avions proposé aux enfants de construire un décor pour la petite ligne de train rapidement improvisée.
+
+![](/media/archive/bf8cd791f823d6ae5f33a3fc.jpg)
+
+**La Maxifig de Jérôme**
+
+![](/media/archive/bfd676d913d2caea058a4e5f.jpg)
+
+**Atelier construction**
+
+![](/media/archive/1abf89cbf182816e1cccae88.jpg)
+
+**Constructions des enfants**
+
+Bien sûr, il y avait aussi des Duplo pour les petits :
+
+![](/media/archive/c4a3bd886bde71996af6c972.jpg)
+
+**Stand Duplo pour les plus petits**
+
+Notre mascotte MOZ était bien sûr présente :
+
+![](/media/archive/8d41ea548fc7a9605555f0fa.jpg)
+
+**MOZ à la Grande Récré**
+
+Une journée de partage agréable.  
+Nous vous donnons rendez vous le samedi 21 février 2015 toujours à la Grande Récré de St Bonnet de Mûre pour une grande animation Star Wars !
+
+Plus de photos sur la galerie accessible [ici](https://www.flickr.com/photos/84107414@N03/sets/72157646704887836/).

@@ -1,0 +1,85 @@
+---
+title: "[REVIEW] LEGO 71233 – Fun Pack : Stay Puft (LEGO Dimensions)"
+permalink: "/articles/review-lego-71233-fun-pack-stay-puft-lego-dimensions/"
+section: "/themes/divers/"
+published_at: "2018-03-07T18:55:03Z"
+authors: [ "Jeremie DESCALIS" ]
+description: "Aujourd’hui je vous propose la review du set 71233 dans la gamme
+  Dimensions : Fun pack : Stay Puft."
+source_id: 2843
+source_url: "https://www.freelug.org/spip.php?article2843"
+---
+
+Aujourd’hui je vous propose la review du set 71233 dans la gamme _Dimensions_ : **Fun pack : Stay Puft**.
+
+Ce set sorti en 2016 au prix de 14,99 € est composé de 65 pièces, soit un ratio prix/pièce de 23 centimes d’euro.
+
+![](/media/archive/c4adbf24543a131a43aea230.png)
+
+Ce set est un Fun Pack (ou Level Pack) du jeu _[LEGO Dimensions](http://www.lego.com/fr-fr/dimensions)_ sorti en 2015.
+
+* * *
+
+Avant de commencer, il faut savoir qu’il n’y a pas de notice de construction dans les _Level/Fun Pack_, le livret fourni ne donne que les instructions rudimentaires du fonctionnement des socles à puce RFID. Vous pouvez vous rendre sur le site _LEGO_ à _[cette adresse](https://wwwsecure.us.lego.com/fr-fr/service/buildinginstructions/search#?search&theme=10000-20229)_, avec le numéro du set (ici 71233) afin de récupérer les instructions de montage. Enfin sachez que le modèle de ce _Level/Fun Pack_ a trois versions de construction différente.
+
+J’ai choisi pour cette review de construire la version classique du _Terror Dog_ (le modèle que l’on voit sur la boite).
+
+L’achat de ce pack est du à la présence du _Stay Puft_ (_Bibendum Chamallow_ en VF). De plus, en octobre 2017, _Warner Bros Games_ annonce dans une déclaration à _IGN_ l’arrêt du développement de nouveaux packs, faisant de la vague 9 la dernière.
+
+* * *
+
+On retrouve le packaging des _Fun Pack_ en forme de "X". Sont représentés sur la boite la minifig du _Stay Puft_ et le _Terror Dog_ dans sa forme "classique"
+
+[![](/media/archive/ab43ae39f8c67d3ff7c0c2e2.jpg)](https://www.freelug.org/IMG/jpg/dimensionsstaypuft_01.jpg)
+
+Au dos on peut voir les trois modèles qu’il est possible de monter.
+
+[![](/media/archive/6683e1d956fd9d03bb6793ec.jpg)](https://www.freelug.org/IMG/jpg/dimensionsstaypuft_02.jpg)
+
+Ce _Fun Pack_ contient deux sachets de briques et une notice d’instruction pour le jeu _LEGO Dimensions_.
+
+[![](/media/archive/621e4cbc74cf776ce0f29d08.jpg)](https://www.freelug.org/IMG/jpg/dimensionsstaypuft_03.jpg)
+
+* * *
+
+Sur la minifig du _[Stay Puft](https://brickset.com/minifigs/dim018/stay-puft-bibendum-chamallow-dimensions-fun-pack)_, la sérigraphie est réduite au minimum sur le torse avec le foulard rouge. La tête spéciale incorpore le béret et le col marin.
+
+[![](/media/archive/137473c2bdbb9d27ca8d42e1.jpg)](https://www.freelug.org/IMG/jpg/dimensionsstaypuft_04.jpg)
+
+Le dos du torso est dépourvu de sérigraphie.
+
+[![](/media/archive/bd61b1ed0b2f39adfa94529e.jpg)](https://www.freelug.org/IMG/jpg/dimensionsstaypuft_05.jpg)
+
+* * *
+
+Je vous épargne la construction du _Terror Dog_ pour vous le montrer fini. Rassurez-vous, le GIF animé en fin de review vous permettra de vous faire une idée des étapes de montage.
+
+[![](/media/archive/1abc53df4fb9a26c481195f1.jpg)](https://www.freelug.org/IMG/jpg/dimensionsstaypuft_06.jpg)
+
+Le _Terror Dog_ sous toutes les coutures.
+
+[![](/media/archive/3c53b002c282eb9663bdde88.jpg)](https://www.freelug.org/IMG/jpg/dimensionsstaypuft_07.jpg)
+
+[![](/media/archive/df2e68d7079484d7df3a61c6.jpg)](https://www.freelug.org/IMG/jpg/dimensionsstaypuft_08.jpg)
+
+[![](/media/archive/6447a96341bc0006920a23ac.jpg)](https://www.freelug.org/IMG/jpg/dimensionsstaypuft_09.jpg)
+
+[![](/media/archive/d5aa9d6ae5573ce00d556a6d.jpg)](https://www.freelug.org/IMG/jpg/dimensionsstaypuft_10.jpg)
+
+Photo de famille.
+
+[![](/media/archive/beb3d34a9ba1046e8f719cca.jpg)](https://www.freelug.org/IMG/jpg/dimensionsstaypuft_11.jpg)
+
+* * *
+
+**AVIS :**
+
+Encore un _Fun Pack_ acheté uniquement pour une fig. Il faut avouer que _LEGO_ avait réussi le pari de vendre des packs même aux gens qui ne jouaient pas au jeu en incorporant pas mal de minifigs exclusives.
+
+Malheureusement l’arrêt du jeu fin 2017 a sonné le glas de ces boites permettant aux collectionneurs d’acquérir des héros n’apparaissant pas dans les sets classiques.
+
+**BONUS :**
+
+Voici un GIF animé réalisé avec les nombreuses photos prises pour cette review (cliquez sur l’image pour lancer l’animation).
+
+![](/media/archive/123fbe3cd426681c45116668.gif)

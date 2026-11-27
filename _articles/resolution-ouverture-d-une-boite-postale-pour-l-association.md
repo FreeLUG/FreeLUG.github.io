@@ -1,0 +1,20 @@
+---
+title: "Resolution : Ouverture d’une Boite Postale pour l’association"
+permalink: "/articles/resolution-ouverture-d-une-boite-postale-pour-l-association/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2003-03-13T21:29:44Z"
+authors: [ "Jean-Louis \"JLB\" Bergamo" ]
+description: "Par le vote du CA suivant il a ete decide d’ouvrir une Boite
+  Postale pour la reception du courier de l’association."
+source_id: 81
+source_url: "https://www.freelug.org/spip.php?article81"
+---
+
+Par le vote du CA [suivant](http://glasnost.freelug.org/elections/3) il a ete decide d’ouvrir une Boite Postale pour la reception du courier de l’association.
+
+Cette boite postale a pour adresse :
+
+FREELUG  
+Boite postale 3  
+91241 SAINT MICHEL SUR ORGE CEDEX

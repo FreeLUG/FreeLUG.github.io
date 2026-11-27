@@ -1,0 +1,50 @@
+---
+title: "8072 - Le propulseur sous-marin"
+permalink: "/articles/8072-le-propulseur-sous-marin/"
+section: "/themes/atlantis/"
+published_at: "2010-01-22T08:45:30Z"
+authors: [ "Manu Bonnard" ]
+description: "Poursuivons la découverte de la gamme Atlantis par le deuxième set
+  Impulse de la série : Le propulseur sous-marin."
+source_id: 1066
+source_url: "https://www.freelug.org/spip.php?article1066"
+---
+
+Poursuivons la découverte de la gamme Atlantis par le deuxième set Impulse de la série : Le propulseur sous-marin.
+
+**–** Référence : 8072  
+**–** Nom : Le propulseur sous-marin  
+**–** Nombre de pièces : 23  
+**–** Prix : 2,90 euro sur le s@h
+
+La boîte comme pour [le guerrier Manta](/articles/8073-le-guerrier-manta/) contient un sachet de pièces et une notice, toujours pas d’autocollants.
+
+![](/media/archive/94eb2533cd5f9888a543eb65.jpg)
+
+**La boite un sachet de pièces et une notice**
+
+Le montage se fait sans problème et au final, on obtient
+
+![](/media/archive/8068c1907d867a1099bb17db.jpg)
+
+**Le propulseur sous-marin**
+
+Comme pour [le guerrier Manta](/articles/8073-le-guerrier-manta/), attardons-nous un peu sur le plongeur
+
+![](/media/archive/24de5a47cc148f8067708d77.jpg)
+
+**Le plongeur des profondeurs**
+
+Tête double face, scaphandre grande profondeur (la visière est fixe) et palmes couleur lime du plus belle effet.
+
+![](/media/archive/5b0d64a0a51fe06b77603b4d.jpg)
+
+**Ouf il fait chaud sous le casque**
+
+Et hop on retire le casque et on retrouve le sourire... Pas de cheveux une fois le casque enlevé, va falloir y remédier plus tard.
+
+![](/media/archive/6b06cde17cd8e4a1c09a33da.jpg)
+
+**Attention au guerrier Manta**
+
+La suite sera : Le crabe des profondeurs.

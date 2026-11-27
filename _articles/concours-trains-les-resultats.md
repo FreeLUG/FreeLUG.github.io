@@ -1,0 +1,272 @@
+---
+title: "Concours trains, les résultats"
+permalink: "/articles/concours-trains-les-resultats/"
+section: "/association/concours-et-challenges/"
+published_at: "2020-08-14T11:19:13Z"
+authors:
+  [
+    "Loïc TARENTO",
+    "Mathieu WEINGAERTNER",
+    "Pierre CHARLES (Tribolego)",
+    "Rémi LEJUS"
+  ]
+description: "11 participants toutes catégories confondus, 12 trains, qui va
+  convaincre le jury ?"
+source_id: 3056
+source_url: "https://www.freelug.org/spip.php?article3056"
+---
+
+11 participants toutes catégories confondus, 12 trains, qui va convaincre le jury ?
+
+Il est temps de découvrir les participations du concours sur les trains.
+
+Tout d’abord, nous tenons à remercier les 11 participants qui nous ont proposé de très belles réalisations.
+
+Les participations sont présentées dans l’ordre de réception.
+
+Au vu du nombre de participations, le GFC a décidé de récompenser les 2 premiers dans la catégorie train réel. Vu qu’il y a eu ex æquo pour la deuxième place, nous offrons un lot de consolation au troisième. Chaque votant devait donner 2 votes par ordre de préférence, le premier vote valait 2 points et le second 1 point. Pour départager les 2 ex æquo, nous avons privilégier le candidat qui avait le plus de voix en premier vote.
+
+## Concours Train Réel :
+
+**1\. Jérome T. - Locomotive puissante en PFS qui pousse un wagon chasse neige à fraise**
+
+[![](/media/archive/658ccc894c614fdf199a337b.jpg)](https://www.freelug.org/IMG/jpg/jt01-2.jpg)
+
+[![](/media/archive/9671dd0ecd2a39d807d57704.jpg)](https://www.freelug.org/IMG/jpg/jt02-2.jpg)
+
+[![](/media/archive/07a468c8865fa0ed34f6886a.jpg)](https://www.freelug.org/IMG/jpg/jt03-2.jpg)
+
+[![](/media/archive/d00e6874bcaf2d0f6a3c47b6.jpg)](https://www.freelug.org/IMG/jpg/jt04-2.jpg)
+
+[![](/media/archive/cb523b1529e258506c9df2e4.jpg)](https://www.freelug.org/IMG/jpg/jt05-2.jpg)
+
+Video Player
+
+[Vidéo de la publication d’origine](https://www.freelug.org/IMG/mp4/jt-video.mp4)
+
+**2\. Stéphane B. - Train pompier**
+
+[![](/media/archive/8093abf2399cc34a7459f03c.jpg)](https://www.freelug.org/IMG/jpg/sb01.jpg)
+
+[![](/media/archive/800f989251f88f970ea82189.jpg)](https://www.freelug.org/IMG/jpg/sb02.jpg)
+
+[![](/media/archive/ee2635ef63e75f9247f7ef11.jpg)](https://www.freelug.org/IMG/jpg/sb03.jpg)
+
+[![](/media/archive/6f27a36d83e634b93a69edf1.jpg)](https://www.freelug.org/IMG/jpg/sb04.jpg)
+
+[![](/media/archive/a0378901e18b1dbbe4d89cbc.jpg)](https://www.freelug.org/IMG/jpg/sb05.jpg)
+
+Video Player
+
+[Vidéo de la publication d’origine](https://www.freelug.org/IMG/mp4/sb-video.mp4)
+
+**3\. Yoann G. - Train Noir & Jaune**
+
+[![](/media/archive/8b998e212ba731273639bd3d.jpg)](https://www.freelug.org/IMG/jpg/yg01.jpg)
+
+[![](/media/archive/848835dee5b1eef6e92da436.jpg)](https://www.freelug.org/IMG/jpg/yg02.jpg)
+
+[![](/media/archive/ba3dec869a7e0583578956b9.jpg)](https://www.freelug.org/IMG/jpg/yg03.jpg)
+
+[![](/media/archive/05b9018e763bd397ceef2c82.jpg)](https://www.freelug.org/IMG/jpg/yg04.jpg)
+
+[![](/media/archive/9c2027c365b697005c7ab32f.jpg)](https://www.freelug.org/IMG/jpg/yg05.jpg)
+
+Video Player
+
+[Vidéo de la publication d’origine](https://www.freelug.org/IMG/mp4/yg-video.mp4)
+
+**4\. Frank S. - Du Brisquet,** un hommage à la 031-130T conçue par Gaston du Bousquet. Livrée maison vaguement, mais alors très vaguement, inspirée par une livrée EST.
+
+[![](/media/archive/af9d1f7ab65b70690c53413b.jpg)](https://www.freelug.org/IMG/jpg/fs01.jpg)
+
+[![](/media/archive/dbdd2d1b77bf611853d5727e.jpg)](https://www.freelug.org/IMG/jpg/fs02.jpg)
+
+[![](/media/archive/fe56729892c3852a5d9dbd75.jpg)](https://www.freelug.org/IMG/jpg/fs03.jpg)
+
+[![](/media/archive/4617cf23afbed88de31b8d7b.jpg)](https://www.freelug.org/IMG/jpg/fs04.jpg)
+
+[![](/media/archive/aa1ee689872cc9737c05e156.jpg)](https://www.freelug.org/IMG/jpg/fs05.jpg)
+
+Video Player
+
+[Vidéo de la publication d’origine](https://www.freelug.org/IMG/mp4/fs-video.mp4)
+
+**5\. Caty et Pierre (Ecrou Papillon) - Projet refusé : "Yellow Train"**  
+Ensemble composé d’une locomotive avec compartiment voyageurs suivie de son wagon voyageurs. Les plate round 2x2 red représentent des fenêtres rondes et étanches. Ce MOC est d’inspiration psychédélique mais il ne faut pas fumer des substances illicites pour l’apprécier.
+
+[![](/media/archive/7ea660ddee0af60fdf183575.jpg)](https://www.freelug.org/IMG/jpg/cp01.jpg)
+
+[![](/media/archive/b9e7ddcb04492460f3213501.jpg)](https://www.freelug.org/IMG/jpg/cp02.jpg)
+
+[![](/media/archive/4a078cb89d9007170068f737.jpg)](https://www.freelug.org/IMG/jpg/cp03.jpg)
+
+[![](/media/archive/9c67dbf83bf5cc9a973961a6.jpg)](https://www.freelug.org/IMG/jpg/cp04.jpg)
+
+[![](/media/archive/ba8e86b241dea24399faff41.jpg)](https://www.freelug.org/IMG/jpg/cp05.jpg)
+
+Video Player
+
+[Vidéo de la publication d’origine](https://www.freelug.org/IMG/mp4/cp-video.mp4)
+
+**6\. Rémi L. - Santa Fé Friends** sur la base du Ice Passenger de 2006. Il rend hommage au Santa Fé et au Metro Liner, anciens trains officiel de la gamme Lego. Les toits des wagons sont amovibles, les portes s’ouvrent.
+
+[![](/media/archive/64740f2048f30a126dc28c13.jpg)](https://www.freelug.org/IMG/jpg/rl01-2.jpg)
+
+[![](/media/archive/2d9d7c370fca3db69c96793a.jpg)](https://www.freelug.org/IMG/jpg/rl02-2.jpg)
+
+[![](/media/archive/82e127f6c2c55cd7c49e2e82.jpg)](https://www.freelug.org/IMG/jpg/rl03-2.jpg)
+
+[![](/media/archive/817b634fe58bd7ff45b33bde.jpg)](https://www.freelug.org/IMG/jpg/rl04-2.jpg)
+
+[![](/media/archive/fbd0eb14e4544108aa72a64d.jpg)](https://www.freelug.org/IMG/jpg/rl05-2.jpg)
+
+Video Player
+
+[Vidéo de la publication d’origine](https://www.freelug.org/IMG/mp4/rl-video.mp4)
+
+**7\. Nicolas C. - Petit train rouge avec ses deux wagons**
+
+[![](/media/archive/e52bbbceb6c82cbf52daefe5.jpg)](https://www.freelug.org/IMG/jpg/nc01.jpg)
+
+[![](/media/archive/23c686ceb1acd659afe69324.jpg)](https://www.freelug.org/IMG/jpg/nc02.jpg)
+
+[![](/media/archive/64e821c8c0cf9e4ffe10f36a.jpg)](https://www.freelug.org/IMG/jpg/nc03.jpg)
+
+[![](/media/archive/34b6dcbb73ac7eb2810d29c4.jpg)](https://www.freelug.org/IMG/jpg/nc04.jpg)
+
+[![](/media/archive/9731f3c725d9427078ddce01.jpg)](https://www.freelug.org/IMG/jpg/nc05.jpg)
+
+Video Player
+
+[Vidéo de la publication d’origine](https://www.freelug.org/IMG/mp4/nc-video.mp4)
+
+**8\. Nicolas G. - Train Space Police équipé d’un moteur 4,5V**
+
+[![](/media/archive/132074314d16b0a3433493b4.jpg)](https://www.freelug.org/IMG/jpg/ng01-2.jpg)
+
+[![](/media/archive/9b411bb2a37bd6893cca70d0.jpg)](https://www.freelug.org/IMG/jpg/ng02-2.jpg)
+
+[![](/media/archive/a3c1a315f0f34f1811517197.jpg)](https://www.freelug.org/IMG/jpg/ng03-2.jpg)
+
+[![](/media/archive/4305d167f3964b5b69273606.jpg)](https://www.freelug.org/IMG/jpg/ng04-2.jpg)
+
+[![](/media/archive/588450ff96ad2b9f4a24d716.jpg)](https://www.freelug.org/IMG/jpg/ng05-2.jpg)
+
+Video Player
+
+[Vidéo de la publication d’origine](https://www.freelug.org/IMG/mp4/ng-video.mp4)
+
+**9\. Emmanuel B. - Locomotive électrique Marron avec Wagon "combi".**
+
+Le design de la locomotive est inspiré de plusieurs types de locomotives électriques milieu XXe siècle, avec des grandes roues centrales et des roues normales devant et derrière, motorisation Powered Up.  
+Construite en 7 de large pour venir exprès déborder sur les grandes roues centrales,  
+les bissels sont doublement articulés pour bien fonctionner dans les virages et lumières LED avant et arrière.
+
+**–** Pour les wagons l’idée était de transposer le combi VW 10220 sous forme de wagon, en reprenant les mêmes couleurs rouge/noir/blanc avec les mêmes rideaux aux fenêtres, un wagon normal, un wagon porte-bagage sur le toit et un wagon panoramique. Tous les toits et toutes les portes s’ouvrent.
+
+[![](/media/archive/bfb3c928f4bd087a7784e3cd.jpg)](https://www.freelug.org/IMG/jpg/eb01.jpg)
+
+[![](/media/archive/b8b4bae04a53754267d173d9.jpg)](https://www.freelug.org/IMG/jpg/eb02.jpg)
+
+[![](/media/archive/ec4c7ad6b404a38093a98414.jpg)](https://www.freelug.org/IMG/jpg/eb03.jpg)
+
+[![](/media/archive/605b9517364bcb27295d9558.jpg)](https://www.freelug.org/IMG/jpg/eb04.jpg)
+
+[![](/media/archive/939b7ec9be0ac92eb78450fd.jpg)](https://www.freelug.org/IMG/jpg/eb05.jpg)
+
+Video Player
+
+[Vidéo de la publication d’origine](https://www.freelug.org/IMG/mp4/eb-video.mp4)
+
+**Les heureux gagnants de ce concours sont :  
+1\. Emmanuel B. - Locomotive électrique Marron avec Wagon "combi"** qui remporte les sets LEGO 7848 : Toys’r’us Truck et le set LEGO City People Pack 60134 : Fun in the Park.  
+**2\. Rémi L. - Santa Fé Friends** qui remporte le set LEGO 31076 : Daredevil Stunt Plane  
+**3\. Stéphane B. - Train pompier** qui remporte le set Lego 31054 : Blue Express
+
+* * *
+
+Composition du jury :  
+Loïc T. (GFC)  
+Mathieu W. (GFC)  
+Pierre C. (Tribolego) (GFC)  
+Xavier B.  
+Philippe H. (Philo)  
+Julien P.  
+Laurent C.  
+Sylvain J.  
+Didier E.
+
+Classement :  
+1\. Emmanuel B. (7 points)  
+2\. Rémi L. (6 points)  
+3\. Stéphane B. (6 points)  
+4\. Jérome T. (3 points)  
+5\. Frank S. & Nicolas G. (2 points)  
+6\. Caty et Pierre (Ecrou Papillon) (1 point)  
+7\. Yoann G. et Nicolas C (0 point)
+
+* * *
+
+* * *
+
+* * *
+
+## Concours Train Virtuel :
+
+**1\. - Pierre C. (Tribolego) - Train transport de fonte en fusion** composé d’une locomotive BB12000 en livrée SNCF et de 3 wagons torpédo transportant la fonte en fusion. Le train est fonctionnel, même les wagons torpédo et leurs nombreux essieux.
+
+[![](/media/archive/1b6b3d8eb000abb29e739f9f.png)](https://www.freelug.org/IMG/png/pc01.png)
+
+[![](/media/archive/daa7ad7e95b0da137300cd7a.png)](https://www.freelug.org/IMG/png/pc02.png)
+
+[![](/media/archive/4844104d6bfd9223ecd39feb.png)](https://www.freelug.org/IMG/png/pc03.png)
+
+[![](/media/archive/5607f274ab93ca966f2f1909.png)](https://www.freelug.org/IMG/png/pc04.png)
+
+[![](/media/archive/ee93ec3498de4f9804c502b8.png)](https://www.freelug.org/IMG/png/pc05.png)
+
+**2\. Rémi L. - Train Harry Potter** sur la base du dernier sorti. Locomotive allongée pour coller au plus proche de la réalité. Motorisation dans le tender (boitier pile, récepteur et moteur). Voitures voyageurs allongées avec portes qui s’ouvrent. Le wagon de Hagrid est purement inventé et n’apparait dans aucun film. Il permet de transporter la moto Side-car d’Hagrid ainsi que Buck, son Hippogriffe.
+
+[![](/media/archive/c482864daaa9819dde6a5aa7.jpg)](https://www.freelug.org/IMG/jpg/rl01-3.jpg)
+
+[![](/media/archive/9e7de371dc59fa4ddcbb2f11.jpg)](https://www.freelug.org/IMG/jpg/rl02-3.jpg)
+
+[![](/media/archive/29b9f76a05c409f883fe6634.jpg)](https://www.freelug.org/IMG/jpg/rl03-3.jpg)
+
+[![](/media/archive/10396d0975d9f015973d15b1.jpg)](https://www.freelug.org/IMG/jpg/rl04-3.jpg)
+
+[![](/media/archive/0d9bbee7759561b4a3455bc2.jpg)](https://www.freelug.org/IMG/jpg/rl05-3.jpg)
+
+**3\. - Richard L. - 141R avec son tender 30R et 3 wagons époque III** : un fourgon et 2 voitures voyageurs. 1 image montre le détail de la motorisation pour répondre à la règle d’un train motorisé et une autre l’intérieur des wagons avec les toilettes aux extrémités.
+
+[![](/media/archive/b0aea3988c154f94edc895b4.jpg)](https://www.freelug.org/IMG/jpg/rl10.jpg)
+
+[![](/media/archive/46e8d5aa63955318ef47702a.jpg)](https://www.freelug.org/IMG/jpg/rl11.jpg)
+
+[![](/media/archive/6b86dce8184b4583d026d426.jpg)](https://www.freelug.org/IMG/jpg/rl12.jpg)
+
+[![](/media/archive/476f26f0eccd00a77e2c33de.jpg)](https://www.freelug.org/IMG/jpg/rl13.jpg)
+
+[![](/media/archive/3e36fb70b7269c7f6c282e60.jpg)](https://www.freelug.org/IMG/jpg/rl14.jpg)
+
+**L’heureux gagnant de ce concours est Richard L. - 141R avec son tender 30R et 3 wagons époque III** qui remporte les sets LEGO 60101 : Airport Cargo Plane et le set LEGO 60134 : Fun in the Park.
+
+* * *
+
+Composition du jury :  
+Loïc T. (GFC)  
+Mathieu W. (GFC)
+
+Xavier B.  
+Yoann G.  
+Philippe H. (Philo)  
+Julien P.  
+Laurent C.  
+Sylvain J.
+
+Classement :  
+1\. Richard L. (8 points)  
+2\. Pierre C. (Tribolego) - Rémi L. (0 point)
+
+**Merci à toutes et tous et à bientôt pour un nouveau concours !**

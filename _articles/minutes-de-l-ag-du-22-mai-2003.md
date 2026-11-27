@@ -1,0 +1,326 @@
+---
+title: "Minutes de l’AG du 22 mai 2003"
+permalink: "/articles/minutes-de-l-ag-du-22-mai-2003/"
+section: "/association/reunions-evenements/assemblees-generales/"
+published_at: "2003-06-02T10:27:25Z"
+authors: [ "Jean-Louis \"JLB\" Bergamo" ]
+description: "Sont présents :"
+source_id: 105
+source_url: "https://www.freelug.org/spip.php?article105"
+---
+
+## minutes de l’AG
+
+**Sont présents :**
+
+**Physiquement**  
+pascal brugier  
+didier malon  
+eric letang  
+ronan poirier  
+gilles micheletti  
+philippe hurbain  
+denis laurencon  
+jean-louis bergamo
+
+**Par IRC :**  
+Loys Bailly  
+erik amzallag(brickderik)  
+Loic leger (Glorim)  
+Pascal BREARD (Legnome)  
+Knuchel Laurent (Lauk)  
+Marc (samrotule)  
+Philippe LABEL (froleap)  
+Jérôme TEISSIER (JAC)  
+OBI  
+baptiste denaeyer (nanobapt, pas member)  
+Yann Laurent (yl32)  
+Jean-Baptiste Péaquin(jibouille)
+
+Les diapositives se trouvent sur [http://photos.FreeLUG.org/diapo.php?cat=24&num=3&expand=all](http://photos.freelug.org/diapo.php?cat=24&num=3&expand=all)
+
+**Allocution du président**
+
+bienvenue chez nous (noos )  
+1ere AG : heureux de la faire même si elle a traîner un peu  
+Pascal présentera les chiffres pour les trésorier
+
+**–** Diapositive4  
+Le président rappelle comment on renouvelle le CA  
+Le CA actuel a été coopte et devra être complètement renouvelle => vote pour les nouveaux candidats
+
+**–** Diapositive5  
+Résumé du CA provisoire actuel (pour rappel avec les postes du bureau)  
+Pascal précise que le poste de yann est secrétaire général (et pas secrétaire)
+
+**–** Diapositive6  
+Pascal explique que nous avons choisi le nombre du CA a 12 car renouvelle par tiers tous les ans.
+
+**–** Diapositive7  
+Lecture du diapositive par pascal .. pour préciser la manière dont nous renouvellerons les futurs membres du CA  
+Comme il n’y a que 10 candidats il y en aura 4 pour 3ans dans le bureau, 4 pour 2 ans et 2 pour 1 an (il y aura 2 poste vaquant lors de la prochaine élection l’année prochaine)
+
+**–** Diapositive8  
+Enumération des 10 candidats
+
+**–** Diapositive9 : vote  
+4 personnes ont voté sur papier ici, car ils n’avaient pas leur login pour voter sur glasnost.
+
+**–** Diapositive 10  
+Début du rapport moral
+
+**–** Diapositive 11  
+Nous sommes 45 membres a jour de cotis au 17 mai2003  
+Pascal rappelle que le LUG brikcish a mis entre 8 et 9 mois pour atteindre les 50 adhérents (avec une cotis moindre)  
+Pascal rappelle que cela a étonné charlotte (LEGO) d’être déjà autant dans ’asso  
+Gilles fait remarquer que cela est du pour certains aux promo velux et maersk  
+Dénis rappelle aussi que nous nous sommes appuyé sur la liste de lego-construction pour toucher autant de gens. merci Jac :-)  
+discussion un peu hors sujet sur les diverses tentatives de création de newsgroup sur les LEGO. on voit que l’histoire du LEGO sur le net est assez bien connu :-)  
+question de philo : avons nous des membres féminins ?  
+pascal : pas encore :-/  
+question : qu’est ce que cela représente pour lego une association de 50 personnes, est- ce important ?
+
+**–** diapositive12  
+énumération des activités particulières de l’association  
+on réserve ces questions pour après (période fin de président du rapport moral)
+
+**–** diapositive 13  
+L’association a été crée le 18 février é2003 avec parution au JO le 26 avril  
+le JO n’a pas encore été reçu par le président mais on peut retrouver l’annonce sur le site du JO donc l’association existe bel et bien officiellement  
+pascal rappelle qu’il faut envoyer le CR de l’AG a la préfecture les détails des procédures seront vu par le CA après cette AG
+
+**–** diapositive 14  
+ouverture de la BP décide par le premier CA  
+la BP est localise physiquement dans le bureau de poste de pascal qu’il relève tous les samedi matin.
+
+**–** diapositive 15  
+l’ouverture du Compte CCP est en cours car il fallait la publication au JO pour l’ouvrir RDV le samedi 24 mai a 11h avec la poste  
+il faudra voir si le futur CA décide d’ouvrir un livret A pour placer l’argent dessus
+
+**–** diapositive 16  
+le choix des montants des cotis avait été décidé par le CA actuel  
+il a été soulevé la question de membres gratuit. ceci devra être rediscute au sein de prochain CA.  
+pascal rappelle sa vision d’un éventuel membre gratuit : ce dernier devra avoir fait une action importante pour l’association ou pour celer des alliances avec LEGO ou d’autres LUG  
+pascal rappelle aussi l’éventualité de la cotisation famille  
+cotis famille dans laquelle il y aura un adulte + un enfant  
+ces sujets seront débattus à nouveau au sein du prochain CA  
+pascal rappelle ici que dans le fonctionnement d’une association les choix doivent être pris par le CA.ces choix sont entérinés par les adhérents lors de la prochaine AG.  
+il fait le parallèle avec les élections de député qui prennent les décisions pour la population. la validation étant la réélection des ces députés
+
+**–** diapositive 17  
+le LOGO (cf [http://photos.freelug.org/diapo.php?cat=4&expand=all](http://photos.freelug.org/diapo.php?cat=4&expand=all) )  
+remerciement pour le logo a Eric Druon (Baronsat)  
+Pascal précise qu’il reste encore du travail pour faire des bandeaux et un logo pour le sites adhérents "membre de FreeLUG"  
+Pascal rappelle que si quelqu’un met le logo "membre de FreeLUG" sur son site, celui s’engage a respecte la charte de fair-play de LEGO (traduite du le site de FreeLUG) merci a ces traducteurs  
+Didier Malon et Fabien Bontemps doivent faire l’inventaire et vérifier le bon respect des sites des membres.  
+Le but de cette vérification est de ne pas retrouver le logo de FreeLUG sur des sites ne respectant pas la charte de LEGO  
+discussion sur les actions de LEGO dans ce cas (envoi des avocats :-/) cf expérience de JLB
+
+**–** diapositive 18  
+Activités traditionnelles  
+pascal precise que tous les premiers samedi du mois une bouffe de l’asso est organise chez gilles :-)))  
+merci a gilles et sa femme pour cela :-)
+
+**–** diapositive 19  
+Pascal explique le pourquoi du déplacement à Londres chez LEGO.  
+Pascal explique qu’un nombre important de service LEGO ce sont installe a Londres (et qu’on ne trouve pas en France)  
+Pascal ayant régulièrement des relations avec le SC de Londres, un rendez-vous s’imposait.  
+Gaël précise qu’il informe la responsable marketing régulièrement par email des activités de l’association (salons etc.)  
+Pascal précise qu’en France il reste très peu de chose d’intéressant pour nous. juste des gestionnaires d’expo dans les diverses centres commerciaux (a peine une dizaine de personne)  
+Pascal précise que si le contact a été pris rapidement c’est en partie car la personne connue de Pascal partait la semaine suivante  
+Gael précise : service LEGO = Shp@home + lego magazine etc .  
+Pascal et Gaël ont eu rendez-vous avec charlotte (responsable des club GB pays-bas et france)  
+elle est aussi responsable du journal du magazine du club LEGO (club LEGO = club de LEGO et de la marque LEGO)  
+Charlotte était très étonnée de nous voir et nous voir si nombreux  
+Pascal et Gaël en on profite pour en mettre plein la vue a charlotte (carte de viste etc ..)  
+Charlotte a présenté les clubs des Pays-Bas et de la grande Bretagne.  
+Charlotte a précisé qu’à partir du moment ou l’on organisait des trucs en France, elle pouvait nous faire passer dans le magazine LEGO  
+il faudra lui demander si elle peut nous passer un stock de mag pour l’occas d’espo  
+Charlotte précisait qu’elle ne pouvait pas nous avoir grand chose pour les expos : sac, nappes mais pas énormément plus  
+il a été aborde le sujet de la vente de pièces détachées avec charlotte  
+un certains nombre de pièces peuvent être achetées même si elle n’apparaît pas dans le shophome  
+mais si l’ordi le permet, il n’y a pas vraiment de process chez lego pour cela  
+il a donc été aborde l’idée que FreeLUG regroupe les commandes et fasse une globale auprès de LEGO ensuite, idée qui semble faisable (à ensuite voir pour le renvoi FreeLUG ->adhèrent)  
+Pascal avait présenté un tableau montrant que les pièces sont toujours plus cher chez lego que chez bricklink  
+LEGO va étudier ce tableau mais le bilan est que ce genre d’achat n’est pas forcement économiques pour nous ce qui se comprends car LEGO a des coûts de main d’oeuvre sur la gestion des ces ventes ..  
+discussion sur le mode fonctionnement de bricklink  
+souvent sur bricklink les gens revendent des pièces détachées venant de set complet (en particulier les briques exotiques ..)  
+ensuite Gaël et Pascal visitèrent les locaux en regardant les outils informatique qu’ils utilisaient  
+Pascal précise que leurs outils s’améliorent de plus en plus en précisant qu’ils utilisent souvent des outils comme Lugnet, Peeron, Bricklink. des sites de particulier
+
+**–** diapositive20  
+promo maersk  
+qui a fait des heureux :-)
+
+**–** diapositive21  
+grâce a nos amis de Rhône alpes (merci a eux) une expo a été faite alors que l’association n’existait pas encore. les retombées furent très bonnes  
+merci encore a eux (Chimere )  
+et merci a ceux qui m’ont aidé (Jibouille,
+
+**–** diapositive22  
+compet de sumo organisé par JLB et Gaël  
+sympa .. vivement la prochaine (date à déterminer)
+
+**–** diapositive 23  
+expo de plobsheim  
+merci aux organisateur de cette expo Marc Shickele et Fabien Bontemps (Gunter)  
+avec le magnifique tram :-)
+
+**–** diapositive 25  
+visite en groupe de l’expo du modélisme  
+merci a l’organisateur (fabien)  
+nous avons eu l’occas de voir les membres belges  
+nous avons 2 membres belges francophone et un suisse, et un futur membre américain
+
+**–** diapositive26  
+activite prochaine  
+la tour du pin.  
+pascal remarque que les regions rhones-alpes et alsace sont tres active :-)  
+Chimere remercie encore didier malon pour son transfert  
+il faut finaliser la plaquette  
+lettre d’information : a définir pour qu’est ce qu’on veut faire, a qui on la destine, quel périodicité ..  
+l’idée de la lettre d’info : pour les adhérents Internet : faire la synthèse des activités qui peut être aussi utile pour des démarches auprès des maires ..  
+pour les adhérents non Internet : avoir un lien avec l’association et qu’ils sachent ce qu’il se passe  
+Pascal précise qu’une périodicité mensuelle est très lourde si l’on veut faire quelque chose de bien. Sauf si on envoi uniquement la sortie de ce qui passe sur le site ..  
+Bref il faut bien réfléchir a ce qu’on veut faire.  
+Et surtout pour quelle cible : pour qui et pour quoi ? (ces 2 questions sont essentielles)  
+discussion sur a qui on l’envoie : a priori uniquement aux adhérents qui n’ont pas accès au net. les autres pourront la récupérer en ligne au format pdf ..  
+discussion sur le fait qu’aujourd’hui quelqu’un qui n’a pas internet n’a pas d’interet a adherer a FreeLUG ..  
+Legoworld 2003 :  
+le legoworld etait un festival lego sur 4 jours avec entree payante : resultat = 35000 visiteurs en 2002  
+Organise par l’asso Hollandaise De Bowsteen (600 membres) et 10 ans d’existance  
+discussion sur la gestion d’une association a de 600 membres  
+Remarque de Yann : la traduction de l’invitation a legoword devrait etre diffusee sur FreeLUG-general.  
+discussion sur comment de bowsteen a réussi a passer a 600 membres : en organisant une grande expo comme legoworl  
+Pascal précise qu’en 2003 il n’est pas dans les projets de FreeLUG d’organiser une grande expo en son nom propre.  
+en 2003 nous nous incrusterons "seulement" dans d’autre expo  
+une expo en nom propre de FreeLUG sera peut-être organise par FreeLUG ( avoir suivant l’évolution)  
+discussion sur le fait d’y aller en tant qu’exposant ou visiteur. il semble être intéressant d’y aller en tant qu’exposant (même si on est petit par rapport aux autres) l’essentiel étant d’y participer :-) et de se montrer.  
+pascal précise d’ailleurs que nous avons des réalisations dont nous n’avons pas a avoir honte et dont nous pouvons être fier de les présenter  
+visite du parc lego en GB  
+pourquoi en GB et pas en Allemagne ?  
+Car charlotte (de LEGO ) pourra nous ouvrir le plus facilement les portes du parc pour voir un peu l’envers du décors.  
+Gaël ajoute aussi a cause de la langue, il y a plus de personne susceptible de comprendre l’anglais que le germanique  
+pascal parle rapidement d’une expo potentielle au muse de l’air début 2004  
+ce serait une expo temporaire d’une période de 1 a 2 mois ..  
+avec environ 50000 visiteur.  
+l’association du musée de l’air semble intéressée par une expo lego l’idée étant de présenter tout ce qui s’est fait depuis les débuts de LEGO a nos jour dans le domaine a de l’aéronautique  
+pascal dit que cela représente environ 350 boites officiels  
+l’idée serait que chacun puisse apporter quelque modèles pour regrouper l’ensemble de ces boites  
+il est aussi possible de présenter des MOC autour de l’aéronautique  
+l’avantage : expo gratuite, sur plusieurs mois, surveillee , sous vitrine, 50000 visiteurs ..  
+\+ mis a dispo d’un architecte de disposition d’expo.  
+\=> si on arrive a se mobiliser, cela peut être très intéressant  
+\=> la première étape est de faire l’inventaire des boites officielles et d’essayer de les retrouver chez nos adhérents (qui voudraient bien les prêter pendant 2mois)  
+fin du rapport moral  
+Gael ajoute : + la commune de Betton a cote de rennes (novembre) + une expo le 22 juin à Schirmeck (samrotule) Schirmeck => 40km à louest de strasbourg
+
+**Questions :**  
+Pas de questions sur place  
+Sur le net :  
+Chimere : qu’est ce que cela représente pour lego une association de 50 personnes, est- ce important ?  
+Réponse :  
+oui c’est important .  
+en tout cas c’est le sentiment qu’on eu pascal et gaël lors de la visite en GB. c’est déjà significatif.  
+nous sommes déjà des interlocuteurs intéressant.  
+la preuve ils nous prêtent des modèles pour le tdp.  
+fin de réponse  
+Gael ajoute : Tout a fais, le sentiment était aussi que même petits les clubs présentent un intérêt indéniable, et trop longtemps négligé par LEGO
+
+2ieme question de chimere : présence , oui ou non au salon du modélisme 2004 en tant qu’exposant : c un tremplin pour FreeLUG  
+réponse : tout dépend des conditions.  
+pascal a demander a LEGO pourquoi ils n’y sont plus => a cause du prix  
+JLB précise que c’est gratuit pour les associations  
+\=> exposer oui, mais il faut avoir du monde pour tenir le stand pendant toute la durée  
+\=> si suffisamment volontaire pour couvrir cela, alors on peut le faire  
+\=> c’est envisageable
+
+Frogleap 2 questions + une proposition  
+Q1 : j’ai bien lu le développement du président sur sa façon de voir le fonctionnement d’une association = assemblée nationale, mais il existe d’autres modèles de démocratie...la démocratie participative par exemple, où les citoyens sont consultés pour chaque décision impliquant le rapport moral ou financier.c’est mieux adapté à une petite assemblée que la démocratie représentative.donc question : qui décide de ce qui relève du CA et ce qui relève des AG ?  
+Réponse : certes mais ce n’est pas le principe de fonctionnement d’une association . on peut faire des débats ouverts sans problème, mais la décision finale en revient au CA. il est tout a fait faisable d’en discuter en publique. Le CA prend les décisions. l’AG sanctionne ou valide ces décisions.  
+Frogleap : la décision finale peut-être un vote, je sais ce qui est à craindre, c’est l’invasion d’une association par un groupe qui devient brutalement majoritaire... donc d’accord sur le principe CA + AG, ma question est qui décide quand il faut s’adresser à l’AG ?  
+Réponse : il faut lire les statuts : les adhérents peuvent demander une AG extraordinaire pour revenir sur les décisions du CA (article 16).
+
+Q2 : quelle est la taille que nous considérons comme l’objectif de croissance de FreeLUG ?  
+le budget qu’on va présenter sur 2003 est base sur 50 membres actifs  
+le budget va être développé par la suite  
+pas de chiffre précis pour 2004  
+il faudra se poser la question lorsque la croissance viendra (si elle arrive)
+
+Proposition : bon pour aller vite, une proposition, un stand à l’expo de modélisme ferroviaire d’Orléans, je peux prendre les contacts si vous voulez  
+R : bien sur, merci  
+R : toutes les initiatives de ce genre sont les bienvenues de toute façon :-))
+
+Brickerik :  
+Q : Dans le cadre des relations avec le sc LEGO, sera t il possible d’envisager des tarifs préférentiels sur des boites LEGO ou avoir accès à des offres promotionnelles ?  
+pas de tarif spécifique LEGO aujourd’hui :-(  
+pascal a essayé d ’ouvrir une porte sur les offres promotionnelles. un espoir la dessus  
+pascal a l’idée de rentrer en contact avec des sociétés de distribution de jouet pour avoir remise sur présentation de carte d’adhérents  
+pascal n’a pas forcement bcp d’expoir , mais il va tenter le coup. (écriture de lettre + rencontre de gens pour se présenter a ces chaînes de distribution de jouets)
+
+yl32 : envisageons nous de participer a Legoworld 2003 ? Les italiens ont déjà annonce qu’ils iraient.  
+R : il semble qu’on a répondu oui. si assez de volontaire.
+
+Philippe rivolet :  
+Suggestion : Pour les expos je pense qu’il faut mieux en faire moins mais quelque chose de top. Voila c’est tout tu peux redonner la main a quelqu’un d’autre.  
+R : projet expo air et espace au musée de l’air en 2004  
+et puis tant qu’on a des gens pour faire des expos, c’est l’essentiel :-)  
+en 2003 on se rode sur les "petites" expos
+
+Q : Le magazine Lego est il au courant de notre association et peut il en parler pour nous faire connaître ?  
+R de Gaël : je peux te répondre de suite puisque j’étais a Londres ; oui c’est Charlotte la Vigilante qui nous a reçu et oui si on fait une expo qui leur plait ils nous ferons de la pub
+
+**RAPPORT FINANCIER :**
+
+**–** Diapositive 28 - 29 - 30  
+nous avons actuellement 715 euros de cotisation pour un prévision a 790 euros pour la fin de l’annee  
+donc nous sommes a priori sur le bon chemin pour atteindre notre prévision a la fin de l’année
+
+**–** diapositive 31  
+charges  
+prévisionnel de charge a 625 euros  
+énumération des charges  
+50 euros d’hébergement par l’association ipsyn (hébergement web, mail, mailing list etc etc )  
+12 euros de nom de domaine (FreeLUG.org)  
+assurance : les mettre en concurrence pour avoir une assurance pour les expos  
+150 euros pour frais de publicité (tract et impression de plaquette/newsletter pour distribution)  
+150 frais expos : mobilier d’expo, achats de matériel d’expo fait au nom de FreeLUG ..ce matériel pourrait être acheté aux enchères  
+36 euros = frais de publication au JO (création de l’association )
+
+**–** diapositive 32  
+Examen de la simulation du budget 2003  
+Les charges prévues sont actuellement inférieures ce que nous avons déjà en caisse => le budget est déjà valable même si nous n’atteignons pas 50 adhérents.
+
+**–** diapositive 33  
+Adhérents débiteurs = on a 45 adhérents payant sur 50 prévus => au nivo budget on comptes les 5 adhérents qui manquent comme débiteur.  
+Discussion sur la notion des membres fondateurs .. qui et pourquoi ?  
+est ce qu’on considère que les membres cotisants avant l’AG sont des membres fondateurs ? idée a creuser dans le CA.  
+sachant que membre fondateur n’est qu’un titre honorifique..
+
+**–** diapositive 34  
+rien de particulier
+
+**–** diapositive35  
+vote et questions  
+pas de question dans la salle.
+
+Gaël : juste un commentaire, l’un des membres demande a voir le contrat d’assurance avant qu’il soit signe..Il a de quoi le faire examiner (les petites lignes)  
+Gaël : pas de questions ici  
+R : OK
+
+Remarque de Jibouille :  
+oui, je ne pense pas que ce soit une bonne idée d’investir dans du matériel d’expo difficile à stocker et à transporter du fait de l’éparpillement des membres et donc des expos futures.  
+yl32 ajoute que chimere Frogleap, Samrotule legnome partagent cet avis.  
+R : l’achat de matériel ne rentre de toute façon pas dans le budget.  
+c’est a point à discuter et à étudier
+
+Remarque de Didier Malon demande si l’on prévoit quelque chose pour l’éducation des enfants dans les écoles ?  
+R : question a étudier
+
+Tous les candidats sont élus au CA  
+Le rapport moral est approuve a l’unanimité 100%  
+Le rapport financier est approuve a 100%
+
+L’AG est ajournée :  
+Reste vote des membres du bureau par le CA  
+Clôture de l’AG.

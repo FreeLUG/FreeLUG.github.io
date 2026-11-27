@@ -1,0 +1,157 @@
+---
+title: "Compte-rendu de l’Assemblée Générale du 17 mars 2018"
+permalink: "/articles/compte-rendu-de-l-assemblee-generale-du-17-mars-2018/"
+section: "/association/reunions-evenements/assemblees-generales/"
+published_at: "2018-04-22T07:56:55Z"
+authors: [ "Jac", "Sébastien HAMON" ]
+description: "Afin de procéder au décompte des bulletins de vote, nous faisons
+  appel aux volontaires pour le dépouillement des votes. Se portent volontaires
+  : Cyriac F, Denis L, Dominique Q et Julien S."
+source_id: 2868
+source_url: "https://www.freelug.org/spip.php?article2868"
+---
+
+Afin de procéder au décompte des bulletins de vote, nous faisons appel aux volontaires pour le dépouillement des votes.
+
+Se portent volontaires : Cyriac F, Denis L, Dominique Q et Julien S.
+
+_Début de séance 15h02_
+
+## Ordre du jour
+
+**–** Le mot du Président  
+**–** Rapport Moral  
+**–** Rapport Financier  
+**–** Renouvellement du Conseil d’Administration  
+**–** FFMF  
+**–** Questions Réponses
+
+## Décompte des personnes présentes et représentées
+
+-   Présents : 65
+-   Représentés : 42
+-   **Total : 107**
+
+Nombre d’adhérents le jour de l’assemblée : 331
+
+## Le mot du Président
+
+Le président fait un discours d’ouverture, en rappelant que notre association fête ses 15 ans en 2018 et rendant hommage à deux de nos adhérents disparus pendant l’année 2017.
+
+_15h05_
+
+## Rapport Moral
+
+Le président procède au déroulement du bilan moral.
+
+Nous sommes 382 adhérents à fin 2017 et il y a une constante augmentation depuis la création de l’association. Il rappelle les actions menées depuis la dernière Assemblée Générale :
+
+-   Mise à jour de l’outil de gestion du site internet
+-   Mise en place d’un cloud pour le CA et les organisateurs des Briqu’Events
+-   Mise en place d’un nouvel outil pour les votes / décisions du CA.
+
+Pour 2018, il est prévu :
+
+-   Nouvel outil pour la gestion des adhérents
+-   Réorganisation du site internet
+-   Suppression du wiki après une sauvegarde des points importants y figurant encore.
+
+Il a été décidé de mettre un membre à l’honneur :
+
+**–** Antoine CLEMENT-LAROSIERE pour l’initiative d’organisation de la Briqu’Expo Rhône-Alpes
+
+L’ensemble des coordinateurs des quatre Comité Régionaux présentent leurs activités respectives de 2017.
+
+-   Philippe LABEL pour le CoR Massif-Cenrtal
+-   Marie URSO pour le VoldeCoR
+-   Mickaël GOBLET pour le CoR Nord Macleod
+-   Denis HAVART, par la voix du Président, pour le CoR Occitanie
+
+Vote à bulletin secret du rapport moral :
+
+**–** Pour : 96  
+**–** Contre : 5  
+**–** Abstention : 1  
+**–** Nuls : 4  
+**–** Non Exprimé : 1
+
+**Le rapport moral est approuvé à 96 voix contre 5**
+
+_15h37_
+
+## Rapport Financier
+
+Le trésorier présente les différents comptes de FreeLUG. En fin d’exercice 2017, le budget est négatif de -8 014,47 €.
+
+**Questions / Réponses :**
+
+**–** **Paul M** : Qu’est ce que la ligne Caisse FreeLUG ?  
+**Réponse** : Il s’agit du fond de caisse servant pour nos expositions et l’Assemblée générale quand les adhérents paient en espèces.
+
+**–** **Jérémie D** : Une association ou une entreprise peut-elle adhérer comme personne morale ?  
+**Réponse** : Oui
+
+**–** **Simon P** : Pourquoi le budget de l’Assemblée Générale a augmenté entre 2016 et 2017 ?  
+**Réponse** : Dans ce budget nous y mettons également les dépenses de la réunion du CA en live. Également en 2017 nous avons investi dans du matériel de cuisine (casserole, plaque de cuisson électrique, saladiers, couverts en métal...).
+
+**–** **Paul M** : Que vont devenir les oeuvres d’Histoire en Briques  
+**Réponse** : l’idée est de déconstruire et mettre en sachet les pièces pour les vendre aux adhérents.
+
+**–** **Mickaël G** : Et pour Beauharnais, est il prévu qu’il revienne dans le Nord, vu qu’il a été construit là bas ?  
+**Réponse**  : Oui s’il faut pour refaire un autre monument.
+
+**–** **Sylvie B** : Qu’en est-il des Minifigs ayant servi pour ce projet ?  
+**Réponse** : A notre connaissance, ces minifigs appartiennent toutes à Frenchbrick. Il faut se renseigner entre Frenchbrick et Epicure pour savoir si elles sont toujours utilisées et où elles sont actuellement.
+
+Vote à bulletin secret du rapport financier :
+
+**–** Pour : 98  
+**–** Contre : 3  
+**–** Abstention : 3  
+**–** Nul : 1  
+**–** Non exprimé : 2
+
+**Le rapport financier est approuvé à 98 voix contre 3**
+
+_16h08_
+
+## Renouvellement du Conseil d’Administration
+
+Nous procédons au renouvellement de 6 postes du conseil d’administration, 4 pour une période de 3 ans et 2 pour une période de 2 ans. En voici les résultats :
+
+Vote à bulletin secret :  
+**–** Pierre CHARLES 100  
+**–** Xavier CLAUDEL 84  
+**–** Philippe LABEL 105  
+**–** Alexis PHILIPPOT 92  
+**–** Xavier VIALLEFONT 104  
+**–** Philippe ZYTKA 93
+
+Sont élus pour 3 ans : Philippe LABEL, Xavier VIALLEFONT, Pierre CHARLES et Philipe ZYTKA.  
+Est élu pour 2 ans : Alexis PHILIPPOT  
+Est élu pour 1 an : Xavier CLAUDEL
+
+_16h18_
+
+## FFMF
+
+Richard rappelle que FreeLUG est affilié à la FFMF par le biais de l’adhésion de certains de ses adhérents.
+
+**Questions / Réponses :**
+
+**–** **Paul M** : Comment est-ce que l’on est au courant des différents ateliers de la FFMF ?  
+**Réponse** : Il faut aller voir sur leur [site internet](http://www.ffmf.info/jo-25/)
+
+_16h24_
+
+## Questions / Réponses
+
+**–** **Sylvie B** : Est-ce que FreeLUG participera à nouveau à des expositions type "Geekopolis" ?
+
+**Réponse** Geekopolis, non car l’organisateur n’a pas réussi à boucler son budget lors du dernier événement, par contre nous participons au Comic-Con. Et nous sommes présents sur d’autres expositions geek en région.
+
+Rappel de l’élection du MOC de l’année de Jocelyn FAVAREL. La photo de ce MOC figure sur les cartes d’adhérents 2018.
+
+_Fin de séance : 16h28_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [CA@freelug.org](mailto:CA@freelug.org)

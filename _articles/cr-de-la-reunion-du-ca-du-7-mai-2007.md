@@ -1,0 +1,127 @@
+---
+title: "CR de la réunion du CA du 7 mai 2007"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-7-mai-2007/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2007-05-29T08:46:49Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "CR de la réunion du CA du 7 mai 2007"
+source_id: 608
+source_url: "https://www.freelug.org/spip.php?article608"
+---
+
+CR de la réunion du CA du 7 mai 2007
+
+## Ordre du jour
+
+_Ordre du jour :_  
+**–** Invitation à une exposition à La Plagne le week-end du 14 juillet 2007  
+**–** Invitation à une exposition à Gien (Loiret) les 22 et 23 septembre 2007  
+**–** Invitation à Cannes Expo Modélisme les 8-9-10 février 2008  
+**–** Proposition d’animation LEGO pour la section jeunes de la FFMF.  
+**–** Exposition de Skaerbaek 28-30 septembre 2007  
+**–** Demande d’accord de participation à une exposition de modélisme qui aura lieu à Nohanent (63) le Dimanche 28 Octobre 2007  
+**–** Eventuelle participation au Lorraine Mondial Air Ballons 2007  
+**–** Récupération d’un lot de LEGO à Dunkerque  
+**–** REF : demande de lots pour concours  
+**–** Production des vêtements  
+**–** Cotisations FFMF  
+**–** Demande d’achat de plaques vertes  
+**–** Impression de cartes de membres  
+**–** Badges pour les adhérents  
+**–** Liste adhérents pour Jan Beyer
+
+_Présents (10) :_  
+**–** Erik Amzallag  
+**–** Emmanuel Bonnard  
+**–** Pascal Brugier  
+**–** Didier Enjary  
+**–** Nicolas Huyard  
+**–** Eric Létang  
+**–** Didier Malon  
+**–** Gilles Micheletti  
+**–** Alain Parra  
+**–** Marc Schickelé
+
+_Excusés (2) :_  
+**–** Jean-Louis Bergamo  
+**–** Gaël Frazier
+
+_Début de séance : 20h06_
+
+## Invitation à une exposition à La Plagne le week-end du 14 juillet 2007
+
+Les organisateurs de cette exposition ont rencontré FreeLUG lors du Mondial de la Maquette et nous ont invités pour participer à cette exposition. Toutefois, elle tombe lors du week-end de la Rencontre Estivale FreeLUG et un rapide sondage parmi les adhérents de la région Rhône-Alpes a montré qu’ils ne seraient pas disponibles pour y participer. L’invitation est déclinée, mais l’association reste en contact pour une éventuelle prochaine participation.
+
+## Invitation à une exposition à Gien (Loiret) les 22 et 23 septembre 2007
+
+FreeLUG a été invité à participer une exposition à Gien, suite au Mondial de la Maquette. L’accord est donné, un appel aux volontaires parmi les adhérents avec le détail va être lancé.
+
+## Invitation à Cannes Expo Modélisme les 8-9-10 février 2008
+
+FreeLUG a été invité à participer une exposition à Cannes, suite au Mondial de la Maquette. L’accord est donné, un appel aux volontaires parmi les adhérents avec le détail va être lancé.
+
+## Proposition d’animation LEGO pour la section jeunes de la FFMF
+
+Bruno Saunier, le responsable de la section jeunes de la FFMF a proposé d’organiser un stage "LEGO" avec la FFMF. Pour ce stage, organisé par la FFMF, il est prévu d’intervenir avec quelques volontaires pour animer un  
+atelier LEGO un samedi après midi à définir fin septembre. Le support serait des boîtes Hobby Train données par LEGO. On monterait également pour l’occasion un petit réseau 9V pour faire tourner les réalisations des jeunes modélistes ferroviaires. Sachant qu’en contre partie, la FFMF publierait dans les revues Le Train et Loco Revue un  
+compte-rendu de cet atelier.
+
+## Exposition de Skaerbaek 28-30 septembre 2007
+
+L’accord est donné pour participer pour la deuxième fois à l’exposition organisée par Jan Beyer à Skaerbaek au Danemark.
+
+## Demande d’accord de participation à une exposition de modélisme qui aura lieu à Nohanent le Dimanche 28 Octobre 2007
+
+L’accord est donné.
+
+## Eventuelle participation au Lorraine Mondial Air Ballons 2007
+
+LEGO France a reçu de la part de Lorraine Mondial Air Ballons une invitation commerciale à participer à cet évènement. LEGO nous a fait suivre cette invitation. Une participation payante de FreeLUG n’est pas acceptée.
+
+## Récupération d’un lot de LEGO à Dunkerque
+
+LEGO France nous fait don d’un stock de LEGO se trouvant dans leurs entrepôts de Dunkerque. La nature du lot n’est pas connue. La récupération et le transport est à notre charge. Pascal doit se rendre sur place afin de faire un inventaire.
+
+## REF : demande de lots pour concours
+
+Pour la REF, les organisateurs demandent la possibilité d’avoir des lots pour les concours réalisés. Des boites fournies par LEGO France sont mises à disposition pour les concours.
+
+## Production des vêtements
+
+L’accord est donné pour lancer la production de vêtements (sweat, t-shirt et écussons). L’idéal serait de les obtenir avant Fana’Briques.
+
+## Cotisations FFMF
+
+Suite au Mondial de la Maquette, la FFMF nous demande de porter à 10 le nombre de membres affiliés. Un appel a été lancé parmi les participants au Mondial. Si cela ne suffit pas, un autre appel sera fait parmi les adhérents.
+
+## Demande d’achat de plaques vertes
+
+Eric Létang demande si l’association pourrait investir dans l’achat de plaques de base vertes. L’association dispose actuellement de 69 plaques vertes obtenues suite à l’animation à Deauville. Une quantité souhaitable serait environ 150.
+
+_Points pour :_  
+**–** problème de répartition dans les régions ;  
+**–** faire face à plusieurs demandes simultanées ;  
+**–** permettre de réaliser des réseaux plus grands.
+
+_Points contre :_  
+**–** arrêter de chercher à toujours faire plus grand ;  
+**–** si l’investissement se fait dans les plaques vertes, pourquoi ne pas le faire pour d’autre couleurs ou d’autres éléments d’usure (moteurs Technic ou moteurs de train par exemple).
+
+L’idéal serait de pouvoir obtenir ces éléments lors d’animation comme ce fut le cas pour les premières plaques.
+
+Le débat est suspendu pour laisser le temps à d’autres réflexions.
+
+## Impression de cartes de membres
+
+Il faut imprimer et expédier les cartes des nouveaux membres. Afin de réduire les frais postaux, un message sera envoyé pour demander quels membres souhaitent recevoir leur carte.
+
+## Badges pour les adhérents
+
+Nicolas devait ramener des Etats-Unis les badges gravés réalisés par Brickengraver lors de son voyage à BrickFest. Malheureusement, celui-ci n’a pu venir et donc Nicolas n’a pu obtenir les badges. FreeLUG prend en charge les frais d’envoi des badges vers la France.
+
+## Liste des adhérents pour Jan Beyer
+
+Jan Beyer a demandé la liste des AFOLS de l’association pour réaliser une estimation des passionnés et des recoupements avec les autres LUGs et/ou Lugnet. Nous lui fournirons uniquement le décompte anonyme des adultes qui ne sont ni sur Lugnet ni dans d’autres LUGs afin de conserver l’anonymat de nos membres. Jan Beyer a par contre la possibilité de consulter la liste publique des adhérents.
+
+_Fin de séance : 21h42_

@@ -1,0 +1,42 @@
+---
+title: "8073 - Le guerrier Manta"
+permalink: "/articles/8073-le-guerrier-manta/"
+section: "/themes/atlantis/"
+published_at: "2010-01-11T08:47:09Z"
+authors: [ "Manu Bonnard" ]
+description: "Le guerrier manta n’a qu’un but : empêcher quiconque d’approcher
+  l’ancienne citée engloutie de l’Atlantis."
+source_id: 1065
+source_url: "https://www.freelug.org/spip.php?article1065"
+---
+
+Le guerrier manta n’a qu’un but : empêcher quiconque d’approcher l’ancienne citée engloutie de l’Atlantis.
+
+**–** Référence : 8073  
+**–** Nom : Le guerrier Manta  
+**–** Nombre de pièces : 13  
+**–** Prix : 2,90 euro sur le s@h
+
+Ce set fait parti de la gamme "Impulse" donc petite boîte avec un sachet pour les pièces et la notice, pas d’autocollants non plus.
+
+![](/media/archive/0a082792a9e721b6e52d2767.jpg)
+
+**1 sachet et une notice**
+
+Le montage est très rapide pour ce type de set sans difficulté, alors attardons-nous plutôt sur le guerrier par lui-même.
+
+![](/media/archive/0ed4e3bf6cf7d86955a6973f.jpg)
+
+**Sans masque**
+
+![](/media/archive/68c3365dfad57d38767f3100.jpg)
+
+**Profil**
+
+![](/media/archive/b18424213f3d35dc3b3353c7.jpg)
+
+**Dos**
+
+Un rocher, un guerrier en embuscade... La suite au prochain article : Le propulseur sous-marin.
+
+![](/media/archive/1203babea9c39e0ee9ce4029.jpg)

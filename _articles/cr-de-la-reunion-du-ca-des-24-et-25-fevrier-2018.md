@@ -1,0 +1,137 @@
+---
+title: "CR de la réunion du CA des 24 et 25 Février 2018"
+permalink: "/articles/cr-de-la-reunion-du-ca-des-24-et-25-fevrier-2018/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2018-04-17T19:42:47Z"
+authors: [ "Jac", "Sébastien HAMON" ]
+description: "CR de la réunion du CA des 24 et 25 Février 2018"
+source_id: 2867
+source_url: "https://www.freelug.org/spip.php?article2867"
+---
+
+CR de la réunion du CA des 24 et 25 Février 2018
+
+## Ordre du jour
+
+_Présents (9) :_  
+**–** Erik Amzallag  
+**–** Pierrick Francou  
+**–** Sébastien Hamon  
+**–** Philippe Label  
+**–** Pierre Laurenge  
+**–** Richard Lemeiter  
+**–** Jérôme Teissier (uniquement le samedi)  
+**–** Xavier Viallefont  
+**–** Yannick Vignat (uniquement le samedi)
+
+_Excusés (2) :_
+
+**–** Pierre Charles  
+**–** Daniela Drost
+
+_Ordre du jour :_
+
+**–** Outils informatique
+
+-   Cloud
+-   Outil pour les réunions mensuelles
+-   Outil de décisions / votes
+-   Site internet
+-   Facebook
+-   Forum
+
+**–** Point Briqu’Events et politique des expositions  
+**–** Processus de validation des expositions  
+**–** Budget 2018  
+**–** Règle de participation Lugbulk  
+**–** Organisation Assemblée Générale
+
+_Samedi 24 février_  
+_Début de séance : 10h17_
+
+## Outils informatique
+
+Suite à la mise à jour de l’outil de gestion de notre site internet, Erik et Sébastien ont également travaillé sur de nouveaux outils informatiques pour aider le CA dans son travail quotidien.
+
+-   Cloud  
+    Une proposition est faite pour la mise en place d’un cloud dédié au CA ainsi qu’aux organisateurs de Briqu’Events. Erik et Sébastien ont opté pour Nextcloud et une instance a été installée sur nos serveurs. La discussion porte sur l’organisation de cet espace, des sous dossiers sont créés pour :
+    -   les trésoriers
+    -   les commandes groupées avec séparation des minifigs et du Bulk
+    -   l’historique des Assemblées Générales par année
+
+Une "bannette", comprendre un dossier fourre-tout, est créée pour le dépôt des factures à traiter par les trésoriers.
+
+-   Discord  
+    Nous proposons de changer d’outil pour nos réunions mensuelles en passant à Discord (outil de chat et discussion online pour gamers à l’origine). Après un test durant le week-end, l’outil est validé et la prochaine réunion mensuelle se fera sur cet outil.
+
+Il a l’avantage de pouvoir être installé sur nos serveurs pour une meilleure sauvegarde des discussions. Cela va être demandé à notre webmaster.
+
+-   Loomio  
+    Nous avons également regardé pour remplacer le système de vote _via_ le wiki, nous proposons l’outil Loomio. Après un test avant cette réunion, l’outil est validé. Comme pour l’outil précédent une instance peut être installée sur nos serveurs. Cela va être demandé à notre webmaster.
+
+-   Site internet  
+    Erik nous fait une présentation des résultats de l’enquête qu’il a mené auprès de certains adhérents.
+
+-   Facebook  
+    Une interrogation se porte sur l’intérêt d’avoir une page par événement. La réponse est oui car cela permet de gérer localement les informations. Toutefois un compte est créé au nom de FreeLUG pour que celui-ci soit administrateur de toutes les pages et groupes qui existent déjà. Cela permettre de garder la main si l’organisateur change.
+
+-   Forum  
+    Un point d’avancement est fait en partant des propositions faites par le groupe 2.0. Cela plaît aux présents.
+
+## Briqu’Events et politique des expositions
+
+Le débat porte sur l’utilité, ou non, d’organiser des expositions. La réponse est un grand oui car cela permet d’être reconnu RLUG auprès de LEGO DK et ainsi bénéficier des dotations, du droit à la participation au Bulk, à la réception des stickers RLUG. Cela se poursuit sur la taille des expositions à organiser. Une grosse exposition, est une exposition avec une grande surface et un retour limité en terme d’investissement ou bien une surface plus limitée et un retour plus important. Les avis sont très partagés.  
+Seul un point ressort, le manque d’investissements de certains adhérents dans l’aide pour l’organisation de tels événements.
+
+## Processus de validation d’une exposition
+
+A chaque demande d’expositions (nouvelles ou récurrentes) nous nous posons la question du rapprochement de nos buts associatifs avec les buts des organisateurs d’expositions. Un débat s’engage car l’appréciation est tellement personnelle qu’il en devient impossible d’établir des règles de bases.
+
+Il est décidé que chaque cas sera étudié séparément et individuellement mais en se référant à ce que FreeLUG a déjà pu observer.
+
+_Fin de réunion pour le samedi 18h00_
+
+_Dimanche 25 février_  
+_Reprise à 10h30_
+
+## Budget 2018
+
+Les trésoriers nous présentent le bilan de l’exercice 2017. Nous avons un déficit de fonctionnement de -8014.47 €. Ils nous fournissent leur analyse sur ce chiffre. Cela provient de la location des 2 box de stockage d’Orléans et de Saint-Étienne, de la vente des séries de minifig - trop de doublons nous restent sur les bras ainsi que certaines séries complètes qui n’ont pas trouvées preneuses en totalité par rapport à notre estimation. Pour ce dernier cas, il y a également une série qui a été payée par FreeLUG auprès de LEGO alors qu’elle n’a pas encore été proposée aux adhérents à la vente.
+
+Pour rééquilibrer le budget dans le prochain exercice, plusieurs scénarii sont envisagés et discutés, puis un seul est retenu :
+
+-   Diminution de la surface de stockage pour le local de Saint-Étienne.
+-   Vente des restes de Bulk des années précédentes en excluant celui de 2017 car il n’a pas été livré en totalité.
+-   Vente des minifig restantes des séries précédentes.
+-   Vente au prix le plus juste des futures séries de minifig
+-   Démontage des oeuvres d’Histoires en Briques pour gagner en place de stockage.
+-   Vente de quelques sets de l’association ayant servis pour des animations..
+-   Vente du surplus de plaques de bases en stock à Orléans.
+-   Augmentation du nombre de visiteurs dans nos événements en améliorant encore notre communication.
+-   Organisation de petites expositions au budget minimal.
+
+Pour les ventes envisagées, une partie sera faite pour la prochaine assemblée générale, l’autre le sera pour la Rencontre Estivale FreeLUG de 2018.
+
+## Règle de participation au Lugbulk
+
+Nous avons été confrontés cette année à différents cas ne rentrant pas dans les règles déjà établies, cas de l’adhérent actif mais n’ayant pas un an d’ancienneté, cas d’adhérents ne faisant pas d’expositions, cas d’adhérents semblant se livrer à de la revente.
+
+A l’issue du débat, il est proposé d’écrire une charte qui sera distribuée lors de la remise du prochain Bulk. Elle rappellera les différentes règles et informera que le Bulk est un gros travail pour l’association. Mais également de faire un mail régulier de rappel des règles et de demander l’état d’avancement des constructions ou projets.
+
+## Organisation de l’Assemblée Générale
+
+Cette Assemblée Générale doit elle rester en Région Parisienne tous les ans ?
+
+Il est rappelé l’historique de cette localisation, mais nous ne sommes pas fermés. Pourquoi ne pas proposer aux différents CoR de l’organiser une année sur 2 puis de revenir en Région Parisienne l’autre année. Cela permettra peut-être de mobiliser plus d’adhérents lors de ce rendez-vous incontournable de l’association.
+
+Pour 2019 nous allons y réfléchir.
+
+Afin de préparer celle de 2018, le Conseil d’Administration décide de mettre à l’honneur Antoine CLEMENT-LAROSIERE pour l’organisation de la Briqu’Expo Rhône Alpes.  
+Dans la suite des décorations de l’année, Jocelyn FAVAREL se voit attribué le MOC de l’année qui figure sur nos cartes adhérents 2018.
+
+Enfin les anciens membres du CA nous quittant lors de la prochaine AG se voient offrir chacun un set issu du stock de l’association en remerciement.
+
+_Fin de séance : 16h30_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

@@ -1,0 +1,106 @@
+---
+title: "CR de la réunion du CA du 7 Novembre 2005"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-7-novembre-2005/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2005-11-22T10:44:50Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "CR de la réunion du CA du 7 Novembre 2005"
+source_id: 438
+source_url: "https://www.freelug.org/spip.php?article438"
+---
+
+CR de la réunion du CA du 7 Novembre 2005
+
+**Ordre du jour**
+
+**–** Compte rendu de la participation au LEGOWorld  
+**–** Compte rendu de l’exposition de Claix  
+**–** Point sur le bulk  
+**–** Point sur notre participation au salon de la maquette  
+**–** Préparation de l’Assemblée Générale (choix de dates, réservation de la salle)  
+**–** Point sur la réunion estivale  
+**–** Mise en place du suivi des banderoles et production de nouvelles banderoles  
+**–** Changement d’adresse du siège social  
+**–** Lancement du choix du logo de la carte de membre 2006  
+**–** Accord de participation à une exposition de modélisme à Revin en Octobre 2006  
+**–** Exposition de la nef des jouets à Soultz (68)
+
+_Présents (10)_  
+**–** Erik Amzallag  
+**–** Loys Bailly  
+**–** Jean-Louis Bergamo  
+**–** Emmanuel Bonnard  
+**–** Pascal Brugier  
+**–** Gael Frazier  
+**–** Philippe Label  
+**–** Yann Laurent  
+**–** Marc Schickelé  
+**–** Didier Malon
+
+_Excusé (1)_  
+**–** Nicolas Huyard
+
+_Absent (1)_  
+**–** Pascal Bréard
+
+_Début de séance : 20h05_
+
+## Compte rendu de la participation au LEGOWorld
+
+Un debriefing entre les participants doit avoir lieu pour faire un bilan de ce qui allait / n’allait pas.  
+Un article est en cours de redaction.
+
+## Compte rendu de l’exposition de Claix
+
+L’exposition s’est très bien passée, un petit millier de visiteurs ont pu découvrir les tables proposées par FreeLUG et Brique-A-Brac.
+
+## Point sur le bulk
+
+Toutes les commandes sont arrivées. Les balances restent à faire ( pièces annulées, frais de port etc.)
+
+## Point sur notre participation au salon de la maquette
+
+Rien à signaler.
+
+## Préparation de l’Assemblée Générale (choix de dates, reservation de la salle)
+
+Les dates retenues pour l’Assemblée Générale qui se tiendra comme tous les ans à Saint Michel Sur Orge sont les suivantes, par ordre de préférence :
+
+**–** 18 et 19 Février (Week end commun aux vacances des 3 zones)  
+**–** 25 et 26 Février  
+**–** 11 et 12 Février
+
+La date définitive sera fixée en fonction de la disponibilité de la salle. Pascal en est chargé.
+
+## Point sur la réunion estivale
+
+Aucune proposition n’a été reçue par le conseil jusqu’à présent. La date limite des candidatures était fixée au 31 Octobre.
+
+Toutefois, un groupe de personnes regardent actuellement pour organiser la rencontre estivale sur Toulouse.
+
+## Mise en place du suivi des banderoles et production de nouvelles banderoles
+
+**–** Emmanuel propose d’offrir un polo au graphiste ayant retravaillé le logo FreeLUG et réalisé la minifig.
+
+Pour : 9
+
+**–** Les banderoles et affiche existantes seront déplacées au gré des expositions. Une page wiki va être réalisée pour permettre la réservation des banderoles.
+
+## Changement d’adresse du siège social
+
+Suite au déménagement du Président de l’association, le siège social de l’association est lui aussi amené à être modifié.
+
+L’adresse postale de l’association reste identique.
+
+## Lancement du choix du logo de la carte de membre 2006
+
+Le thème retenu cette année est le train. Loys est en charge de faire un appel aux adhérents pour que ceux-ci proposent un logo d’ici fin Novembre.
+
+## Accord de participation à une exposition de modélisme à Revin en Octobre 2006
+
+L’association AREL nous invite à participer à une exposition en Octobre 2006. A la vue des conditions proposées, le conseil approuve la participation de FreeLUG. Erik est en charge de faire l’appel aux volontaires parmi les adhérents.
+
+## Exposition de la Nef des Jouets à Soultz (68)
+
+Le musée la Nef des Jouets nous a fait appel pour réaliser en ses locaux une exposition temporaire sur les jeux LEGO. Elle durera 3 mois et débutera fin Mars 2006. Le conseil approuve la participation de FreeLUG. Marc est en charge de l’appel parmi les adhérents.

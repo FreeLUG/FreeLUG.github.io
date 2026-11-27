@@ -1,0 +1,23 @@
+---
+title: "Salon européen du modélisme à St Chély d’Apcher (48), 4 et 5 avril 2009"
+permalink: "/articles/salon-europeen-du-modelisme-a-st-chely-d-apcher-48-4-et-5\
+  -avril-2009/"
+section: "/regions/languedoc-roussillon/"
+published_at: "2009-04-04T11:00:00Z"
+authors: [ "Jac" ]
+description: "L’équipe de FreeLUG, spécialisée en construction de réseaux ferrés
+  LEGO, a été invitée à prendre part au Salon européen du modélisme de St Chély
+  d’Apcher. C’est aussi un salon de la maquette et modèle réduit qui aura lieu
+  les 4 et 5 avril 2009 dans le département de la Lozère. Nous sommes déjà un
+  petit groupe à placer nos Pierres pour assurer une belle animation à cette
+  nouvelle exposition. Nous vous attendons nombreux entre 13h 30 et 19h le
+  samedi et 9h et 18h, le dimanche."
+source_id: 824
+source_url: "https://www.freelug.org/spip.php?article824"
+---
+
+L’équipe de FreeLUG, spécialisée en construction de réseaux ferrés LEGO, a été invitée à prendre part au Salon européen du modélisme de St Chély d’Apcher. C’est aussi un salon de la maquette et modèle réduit qui aura lieu les 4 et 5 avril 2009 dans le département de la Lozère. Nous sommes déjà un petit groupe à placer nos Pierres pour assurer une belle animation à cette nouvelle exposition. Nous vous attendons nombreux entre 13h 30 et 19h le samedi et 9h et 18h, le dimanche.
+
+![](/media/archive/21afe7de59dae0d0dc93a241.jpg)
+
+[Gévaudan Modélisme](http://gevaudanmodelism.canalblog.com/)

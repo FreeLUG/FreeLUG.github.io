@@ -1,0 +1,75 @@
+---
+title: "[REVIEW] LEGO 71230 – Fun Pack : Doc Brown (LEGO Dimensions)"
+permalink: "/articles/review-lego-71230-fun-pack-doc-brown-lego-dimensions/"
+section: "/themes/divers/"
+published_at: "2016-02-17T20:58:08Z"
+authors: [ "Jeremie DESCALIS" ]
+description: "Aujourd’hui je vous propose la review du set 71230 dans la gamme
+  Dimensions : Fun pack : Doc Brown. Ce set sorti en 2016 au prix de 14,99 € est
+  composé de 69 pièces, soit un ratio prix/pièce de 22 centimes d’euro. Ce set
+  est un Fun Pack (ou Level Pack) du jeu LEGO Dimensions sorti en 2015."
+source_id: 2227
+source_url: "https://www.freelug.org/spip.php?article2227"
+---
+
+Aujourd’hui je vous propose la review du set 71230 dans la gamme _Dimensions_ : **Fun pack : Doc Brown**.  
+Ce set sorti en 2016 au prix de 14,99 € est composé de 69 pièces, soit un ratio prix/pièce de 22 centimes d’euro.  
+Ce set est un _Fun Pack_ (ou _Level Pack_) du jeu [_LEGO Dimensions_](http://www.lego.com/fr-fr/dimensions) sorti en 2015.
+
+[![](/media/archive/f7dd0b244642354e953a08cf.png)](https://www.freelug.org/IMG/png/DimensionsBttF_2_box.png)
+
+Avant de commencer, il faut savoir qu’il n’y a pas de notice de construction dans les _Level Pack_, le livret fournit les instructions rudimentaires du fonctionnement des socles à puce RFID. Vous pouvez vous rendre sur le site LEGO à [_cette adresse_](https://wwwsecure.us.lego.com/fr-fr/service/buildinginstructions/search#?search&theme=10000-20229), avec le numéro du set (ici 71230), afin de récupérer les instructions de montage. Enfin sachez que le modèle de ce _Level Pack_ a trois versions de construction différentes.
+
+J’ai choisi pour cette review de construire la version classique du _Traveling Time Train_ (le modèle que l’on voit sur la boite).
+
+De plus je n’ai pas le jeu _LEGO Dimensions_, l’achat de ce pack est du à la présence de _Doc Brown_, minifigure que je n’avais pas et qui possède ici une chevelure exclusive.
+
+* * *
+
+On retrouve le packaging des _Fun Pack_ en forme de "X". Sont représentés sur la boite, la minifig de _Doc Brown_ et le mini véhicule dans sa forme "classique"
+
+[![](/media/archive/700d8f9905d8cf6e48d08f1b.jpg)](https://www.freelug.org/IMG/jpg/DimensionsBttF_2_01.jpg)
+
+Au dos on peut voir les trois modèles qu’il est possible de monter.
+
+[![](/media/archive/f806043082642bde929349cc.jpg)](https://www.freelug.org/IMG/jpg/DimensionsBttF_2_02.jpg)
+
+Ce _Level Pack_ contient deux sachets de briques et une notice de d’instruction pour le jeu _LEGO Dimensions_.
+
+[![](/media/archive/8aa2d614725465e517cdd324.jpg)](https://www.freelug.org/IMG/jpg/DimensionsBttF_2_03.jpg)
+
+La minifigure de _Doc Brown_ sur son socle RFID sérigraphié à son nom. Belle sérigraphie sur le torso et visage bien détaillé.
+
+[![](/media/archive/e98925bb7a293dbc8c4ee211.jpg)](https://www.freelug.org/IMG/jpg/DimensionsBttF_2_04.jpg)
+
+Le dos du torso lui aussi joliment fini et le visage alternatif du _Doc_ est vraiment réussi
+
+[![](/media/archive/0071c027ccc898fc017a2c8c.jpg)](https://www.freelug.org/IMG/jpg/DimensionsBttF_2_05.jpg)
+
+On commence le mini _Traveling Time Train_.
+
+[![](/media/archive/2cd09f48454b7577c2b56db2.jpg)](https://www.freelug.org/IMG/jpg/DimensionsBttF_2_06.jpg)
+
+En bon inventeur, _Doc_ peaufine lui-même sa machine.
+
+[![](/media/archive/f31a06cc5465b4eed4b5f40a.jpg)](https://www.freelug.org/IMG/jpg/DimensionsBttF_2_07.jpg)
+
+Fini, plus qu’à installer le train sur son socle.
+
+[![](/media/archive/e9c069680974c06c088e8aa6.jpg)](https://www.freelug.org/IMG/jpg/DimensionsBttF_2_08.jpg)
+
+Une belle photo pour immortaliser tout ça.
+
+[![](/media/archive/6b766c6dbb080f4fd738992d.jpg)](https://www.freelug.org/IMG/jpg/DimensionsBttF_2_09.jpg)
+
+* * *
+
+**AVIS :**
+
+Encore un _Fun Pack_ acheté uniquement pour une fig (en l’occurrence, _Doc Brown_). Il faut avouer que LEGO réussit le pari de vendre des pack même aux gens qui ne jouent pas au jeu en incorporant pas mal de minifigs exclusives.
+
+**BONUS :**
+
+Voici un GIF animé réalisé avec les nombreuses photos prises pour cette review.
+
+![](/media/archive/341009a166dade3ad0e5f2b2.gif)

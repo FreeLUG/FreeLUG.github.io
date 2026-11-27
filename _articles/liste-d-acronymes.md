@@ -1,0 +1,178 @@
+---
+title: "Liste d’acronymes"
+permalink: "/articles/liste-d-acronymes/"
+section: "/association/divers/"
+published_at: "2003-11-15T09:50:05Z"
+authors: [ "Didier ENJARY" ]
+description: "Cette article est plus une liste destinée à s’enrichir
+  progressivement. Elle contient la signification des acronymes régulièrement
+  rencontrés dans le monde des briques LEGO. MAJ 25/05/2008"
+source_id: 128
+source_url: "https://www.freelug.org/spip.php?article128"
+---
+
+Cette article est plus une liste destinée à s’enrichir progressivement. Elle contient la signification des acronymes régulièrement rencontrés dans le monde des briques LEGO.
+
+MAJ 25/05/2008
+
+Liste d’acronymes du monde LEGO [^1]
+
+  
+**A**
+
+-   AFOL : Adult Fan of LEGO. Passionné de LEGO ; Adulte
+-   ALE : Adult LEGO Enthusiast. Passionné de LEGO.
+
+  
+**B**
+
+-   BB : BlueBrick. Programme destiné à modéliser rapidement et facilement des réseaux de train LEGO®.
+
+-   BI : : Building Instructions : Instructions de montage, notice de montage. Vous en trouverez en ligne :
+
+**–** [Site LEGO](http://www.lego.com/eng/buildinginstructions/default.asp?x=x&noflash=true)  
+**–** [BrickShelf](http://library.brickshelf.com/scans/)  
+**–** [Brick Builder](http://www.hccamsterdam.nl/brick/)
+
+-   BimP : Bricks in my Pocket, [http://www.bricksinmypocket.org](http://www.bricksinmypocket.org/). Un webzine consacré aux briques LEGO®
+
+-   BJ : [BrickJournal](http://www.brickjournal.com/news) : Fanzine sur le monde des AFOLs.
+
+-   BL : BrickLink, [http://www.bricklink.com](http://www.bricklink.com/). Un site marchand pour acheter et vendre des LEGO®.
+
+-   BS : Brickshelf, [http://www.brickshelf.com](http://www.brickshelf.com/). Un site consacré aux briques LEGO® hébergeant des galeries de photos de fans et des notices de montage des modèles officiels.
+
+-   BURP : Big Ugly Rock Piece. Littéralement Gros rocher moche. [La pièce 6082](http://www.peeron.com/inv/parts/6082)
+
+  
+**C**
+
+-   CAD : Computer Aided Design. Conception/Dessin Assisté par Ordinateur (CAO/DAO)
+
+-   CLSOTW : Cool LEGO® Site of the Week, [http://www.lugnet.com/cool/](http://www.lugnet.com/cool/). Site web orienté LEGO® élu meilleur site de la semaine.
+
+  
+**D**
+
+-   DDK : Droid Developer Kit, 9748.
+
+-   DSDK : Dark Side Developer Kit, 9754.
+
+  
+**E**
+
+-   ELTEP : En LEGO® Tout Est Possible, salutation des membres de FreeLUG érigée en philosophie.
+
+  
+**F**
+
+-   FAQ : Frequently Asked Questions. Questions souvent posées, Foire Aux Questions.
+
+-   FBTB : From Bricks To Bothans, [www.fbtb.net](http://www.fbtb.net/). Site web orienté briques LEGO® évoquant le thème Star Wars.
+
+-   FL : FreeLug - voir ce terme
+
+-   FLL : [FIRST LEGO League](http://www.firstlegoleague.org/). Compétition internationale de robotique LEGO®.
+
+-   FreeLUG : French enthusiast Lego User Group, [www.freelug.org](/). L’association des passionnés de LEGO.
+
+  
+**G**
+
+-   GBB : [Le Grand Bidule à Balles](/articles/le-grand-bidule-a-balles/)
+
+-   GBC : Great Ball Contraption, nom anglais du GBB.
+
+-   GoB : Guild of Bricksmiths. La guilde des forgerons de la brique. Site de création personnelles [http://www.bricksmiths.com/](http://www.bricksmiths.com/)
+
+  
+**H**
+
+-   HP : Harry Potter, thème LEGO®.
+
+  
+**IJ**
+
+-   IJ : Indiana Jones, thème LEGO®
+
+  
+**L**
+
+-   LA : [LEGO® Ambassadors](http://www.lego.com/eng/info/default.asp?page=ambassadors). Programme communautaire
+
+-   LA : Linear Actuator. Pièce ressemblant à un piston pneumatique mais basé sur le principe vis-écrou et qui par conséquent transforme un mouvement de rotation en mouvement de translation.
+
+-   LDD : [LEGO Digital Designer](http://ldd.lego.com/) - Logiciel de CAO dédié aux briques LEGO
+
+-   LOL : Laughing Out Loud. Mort de rire (MDR).
+
+-   LOM : Life On Mars, thème LEGO.
+
+-   LTC : LEGO Train Club, Club Train LEGO.
+
+-   LUG : LEGO& User Group, Club de passionnés de LEGO®.
+
+-   LUGNET : LEGO User Group Network, [www.lugnet.com](http://www.lugnet.com/) - Le site des passionnés de LEGO du web.
+
+-   LURP : Little Ugly Rock Piece. Littéralement Petit rocher moche. [La pièce 6083](http://www.peeron.com/inv/parts/6083)
+
+  
+**M**
+
+-   MF : MiniFig ou Millenium Falcon
+
+-   MISB : Mint In Sealed Box. Neuf dans la boite d’origine jamais ouverte.
+
+-   MLCAD : Mike’s LEGO® CAD. Logiciel de CAO. [http://www.lm-software.com/mlcad/](http://www.lm-software.com/mlcad/)
+
+-   MOC : My Own Creation. Créations originales.
+
+  
+**P**
+
+-   PaB : Pick A Brick. Il s’agit d’une vente "à la pièce" aussi bien disponible [en ligne](http://us.factory.lego.com/pab/?warning=false&resetbag=&modelid=&speciallinkid=&shipto=) que dans les LEGOLAND ou certains magasins LEGO. Seulement certaines pièces sont disponibles, cette disponibilité variant dans le temps et suivant les magasins.
+
+-   PFS : Power Function System. Le système électrique introduit en 2007.
+
+-   POOP : Piece (That can/should be made) Of Other Pieces. Pièce (qui peut/devrait être faite) avec d’autres pièces. Les POOP sont des pièces complexes qui sont susceptibles d’être remplacées par un montage de pièces plus simples. Ces pièces ne sont généralement pas appréciées des fans adultes qui considèrent qu’elles constituent une juniorisation inutile du système de construction et rapproche LEGO de PLAYMOBIL. (Note : Poop signifie "caca" e n anglais)
+
+  
+**R**
+
+-   RB : [RailBricks](http://www.railbricks.com/). Fanzine sur le thème des trains LEGO®.
+
+-   RCX : Robotic Command eXplorer. La fameuse brique programmable LEGO®
+
+-   RIS : Robotic Invention System, trois versions 1.0 (9719), version 1.5 (9747) et version 2.0 (3804). Contient la fameuse brique RCX.
+
+  
+**S**
+
+-   S@H : LEGO© Shop at Home - Le service de vente en ligne ou téléphonique de LEGO®.
+
+-   SNOT : Studs Not On Top. "Pas de tenon sur le dessus". Méthodes originales de montage pour créer des modèles LEGO® réalistes.
+
+-   SW : Star Wars, thème LEGO®
+
+  
+**T**
+
+-   TD : Track Designer - Programme destiné à modéliser rapidement et facilement des réseaux de train ou monorail. Disponible [ici](http://www.ngltc.org/train_depot/td.htm)
+
+-   TLC : The LEGO© Company. La société LEGO®.
+
+-   TLG : The LEGO© Group. Le groupe LEGO®.
+
+-   TRU : Toys ’R’ Us. Chaine de magasins de jouets.
+
+  
+**U**
+
+-   UCS : Ultimate Collector’s Series, Série de modèles Star Wars pour les collectionneurs et les constructeurs chevronnés.
+
+  
+**X**
+
+-   XB : eXtrem Building - Constructions extrêmes, constructions de grandes tailles et/ou constructions réalisées en un temps record. Elles peuvent être aussi bien en System comme la [girafe](http://www.freelug.org/article.php3?id_article=176) réalisé lors de l’animation LEGO® que Technic comme les oeuvres de [TJ Avery](http://www.texbrick.com/). Le montage de l’[ISD](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=60720) par 10 AFOLs en un temps record qui se déroule régulièrement aux Etats-Unis et en Europe relève aussi de l’eXtreme Building.
+
+[^1]: Cette liste est très largement inspiré de la liste créée par Shiri Dori et disponible à [http://www.lugnet.com/ 88/acronym\_faq/all](http://www.lugnet.com/~88/acronym_faq/all)

@@ -1,0 +1,27 @@
+---
+title: "Festirail en Rouergue, Capdenac-Gare 29 et 30 mai"
+permalink: "/articles/festirail-en-rouergue-capdenac-gare-29-et-30-mai/"
+section: "/regions/midi-pyrenees/"
+published_at: "2010-05-29T08:00:00Z"
+authors: [ "Jac" ]
+description: "Il y a deux ans, l’association FreeLUG était invitée à participer
+  au Festirail en Rouergue. Il en est de même pour l’édition 2010."
+source_id: 1002
+source_url: "https://www.freelug.org/spip.php?article1002"
+---
+
+Il y a deux ans, l’association FreeLUG était invitée à participer au Festirail en Rouergue. Il en est de même pour l’édition 2010.
+
+L’association _Courant d’art_ organise le Festirail en Rouergue. Il a lieu les 29 et 30 mai 2010 à Capdenac-Gare (12). C’est à une petite dizaine de kilomètres de Figeac.
+
+Pour cette édition, seulement deux emplacements seront occupés pour l’exposition. Elle n’aura pas lieu dans toute la ville, comme la précédente.
+
+Mais, c’est tout de même très intéressant par les réseaux présentés et par les animations extérieures présente sur du matériel en taille réelle.
+
+Comme d’habitude, une très bonne ambiance, notamment lors du repas du samedi soir.
+
+[Site Courant d’art](http://www.festirail.bzh.bz/)
+
+[Résumé de notre participation 2008](/articles/festirail-en-rouergue-le-festival-du-rail-a-capdenac-gare-17-et-18-mai-2008/)
+
+![](/media/archive/4507f04d58ed6ba1765d0b97.jpg)

@@ -1,0 +1,51 @@
+---
+title: "Fana’briques 2011 du 24 au 26 juin, Rosheim"
+permalink: "/articles/fana-briques-2011-du-24-au-26-juin-rosheim/"
+section: "/regions/alsace/"
+published_at: "2011-06-24T17:00:00Z"
+authors: [ "Laurent THEVENARD" ]
+description: "L’association Fanabriques récidive en 2011 pour la sixième édition
+  avec une exposition dédiée aux sapeurs-pompiers."
+source_id: 1317
+source_url: "https://www.freelug.org/spip.php?article1317"
+---
+
+L’association Fanabriques récidive en 2011 pour la sixième édition avec une exposition dédiée aux sapeurs-pompiers.
+
+L’exposition se déroulera du 24 au 26 juin 2011 à la salle des fêtes de Rosheim (67).
+
+![](/media/archive/ef1b3a66438a7f5be6ef34b8.jpg)
+
+## Informations pour les visiteurs
+
+Une première cette année, l’exposition commencera par une nocturne de 19h00 à 23h00 le 24 juin.
+
+Elle sera ensuite ouverte de 10h00 à 18h00 le samedi, et de 9h00 à 17h00 le dimanche.
+
+Le prix d’entrée pour le public est de 3 € pour un adulte et de 2 € pour un enfant (1€ le samedi).  
+Il est également possible d’acquérir pour 5 € un pass week-end (adulte ou enfant).
+
+Prévente sur internet à partir du 1er mars.
+
+Le village regroupera sur 3000 m² les réalisations d’une centaines d’exposants, ainsi qu’une boutique de produits LEGO neufs ou occasions, une buvette avec petite restauration, le tout accessible dès le vendredi soir.
+
+L’association FreeLUG participe à l’évènement. Elle sera représentée par les membres inscrits au préalable en qualité d’exposant sur le site de l’association Fanabriques et sur la page wiki ouverte à cet effet.
+
+**Quelques liens**  
+**–** [Le site de l’exposition](http://fanabriques.freelug.org/)  
+**–** [L’article de l’édition 2010](http://www.freelug.org/article.php3?id_article=1157)  
+**–** [Le site de l’association Fanabriques](http://www.fanabriques.fr/)
+
+## Informations pour les exposants
+
+Pour les passionnés souhaitant exposer, il faut s’inscrire en ligne avant le 30 avril.
+
+Vous retrouverez toutes les informations pratiques sur le site de [Fanabriques](http://www.fanabriques.fr/)
+
+## Informations pour les membres de FreeLUG
+
+En plus de s’inscrire sur le site de Fanabriques, il faut aussi s’inscrire :  
+**–** sur la [page wiki dédiée](http://wiki.freelug.org/tiki-index.php?page=Fana%27briques+2011)  
+**–** à la liste de discussion associée
+
+L’objectif est de présenter un grand stand FreeLUG unique pour tous les participants, pour faciliter le roulement des présences sur le stand et pour soulager l’organisation côté Fanabriques afin qu’elle n’aie pas à gérer une multitude de petits stands.

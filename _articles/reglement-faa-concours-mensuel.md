@@ -1,0 +1,64 @@
+---
+title: "Règlement FAA : concours mensuel"
+permalink: "/articles/reglement-faa-concours-mensuel/"
+section: "/association/concours-et-challenges/"
+published_at: "2014-04-21T16:48:46Z"
+authors: [ "Stephanie Fleuriot" ]
+description: "Voici le règlement du concours mensuel établi par la FAA."
+source_id: 1817
+source_url: "https://www.freelug.org/spip.php?article1817"
+---
+
+Voici le règlement du concours mensuel établi par la FAA.
+
+**_But_**  :  
+**–** Organiser un concours chaque mois avec un thème différent.  
+**–** Dynamiser le groupe FreeLug afin de permettre à tous de participer.  
+**–** Créer, imaginer, des réalisations et des MOC.
+
+**_Composition des membres de la FAA_**  :
+
+La FreeLUG Academy Awards est un groupe composé de personnes toutes membres de FreeLUG.
+
+L’adhésion est libre, chaque membre peut s’y inscrire ou se désinscrire.
+
+**_Conditions de participation_**  :
+
+Ce concours est ouvert à tous les membres abonnés à la « Liste réservée aux membres de FreeLUG » donc adhérent à l’association FreeLug.
+
+Le MOC devra être nouveau, c’est-à-dire n’avoir jamais été présenté dans tout autre lieu et ne pas provenir d’un set officiel.
+
+Toutes les pièces et les autocollants utilisées pour la réalisation du MOC sont issus de The LEGO Group.
+
+Une seule participation par personne.
+
+Les participants donnent autorisation de publication de leurs photos de participation sur les sites (et leurs extensions) :
+
+[Galerie FreeLUG FAA](http://photos.freelug.org/main.php/v/FreeLUG/FAA/)
+
+[Site FreeLUG](/)
+
+[Groupe facebook](https://www.facebook.com/groups/FreeLUG)
+
+[Page facebook](https://www.facebook.com/freelug?notif_t=page_new_likes)
+
+**_Modalités de participation_**  :
+
+Les photos de participation doivent être envoyées à l’adresse orga-concours@freelug.org avant la date annoncée par la FAA.
+
+La FAA se réserve le droit d’annuler une participation si elle juge que les règles ne sont pas appliquées.
+
+**_Désignation du gagnant_**  :
+
+Le jury sera composé de :
+
+**–** membres de la FAA ne participant pas au concours.(1 membre FAA pourra créer un MOC mais ne pourra pas être membre du jury)  
+**–** plus 5 membres de FreeLUG ne participant pas au concours.
+
+Si vous voulez être membre du jury, envoyez un email d’inscription à orga-concours@freelug.org avec en objet « Inscription pour être membre du jury ». Votre inscription sera valable uniquement pour ce concours. Les 5 premiers inscrits seront retenus.
+
+Le jury désignera un unique gagnant à ce concours.
+
+Il sera tenu compte pour la désignation du gagnant : du respect du thème, du mérite technique du MOC et de l’originalité de la présentation.
+
+Le gagnant recevra un lot qui sera remis en main propre.

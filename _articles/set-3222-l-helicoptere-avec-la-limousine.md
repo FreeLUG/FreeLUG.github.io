@@ -1,0 +1,111 @@
+---
+title: "Set 3222 - L’hélicoptère avec la limousine"
+permalink: "/articles/set-3222-l-helicoptere-avec-la-limousine/"
+section: "/themes/ville-city/"
+published_at: "2010-03-08T08:21:58Z"
+authors: [ "Pierre LAURENGE" ]
+description: "Avec le retour de la gamme aéroportuaire cette année, LEGO nous
+  propose un set qui sort de l’ordinaire par son contenu : un hélicoptère avec
+  une limousine !"
+source_id: 1086
+source_url: "https://www.freelug.org/spip.php?article1086"
+---
+
+Avec le retour de la gamme aéroportuaire cette année, LEGO nous propose un set qui sort de l’ordinaire par son contenu : un hélicoptère avec une limousine !
+
+## La boîte
+
+![](/media/archive/8783a3c0fcc49d08930971a5.jpg)
+
+**la boîte**
+
+**–** numéro du set : 3222  
+**–** nom du set : l’hélicoptère et la limousine  
+**–** gamme : CITY  
+**–** année : 2010  
+**–** nombre de pièces : 267  
+**–** nombre de minifigs : 4  
+**–** prix moyen constaté : environ 30€
+
+![](/media/archive/55ef8bb514b703f91094cb5d.jpg)
+
+**l’arrière de la boîte**
+
+Rien d’extraordinaire sur la boîte. C’est du classique.  
+On voit bien que l’intérieur de l’hélicoptère et de la limousine est accessible.
+
+## Le montage
+
+On ouvre la boîte...
+
+![](/media/archive/d513ca5f1adf3431db4a9c2d.jpg)
+
+**le contenu**
+
+Et on découvre deux notices, trois sachets numérotés et une planche d’autocollants.
+
+Puis on commence le montage par la limousine.
+
+La base de la limousine est fait de deux châssis de voitures...
+
+![](/media/archive/5406517df918bee3ac2702e1.jpg)
+
+**le châssis**
+
+Puis après ça se construit tranquillement. Six portes pour la limousine...
+
+![](/media/archive/c8b1e1ae02931497d2b644d5.jpg)
+
+**en construction...**
+
+Et puis on arrive à la fin quand le moteur démarre et embarque ses passagers...
+
+![](/media/archive/72b61f86cb1918fd0fb70530.jpg)
+
+**limousine finie**
+
+L’intérieur de la limousine est un peu équipé. Il y a deux verres pour le champagne et une télé avec la diffusion des aventures de Clutch Powers ;-)
+
+![](/media/archive/c640400c7fc16534705dad61.jpg)
+
+**intérieur de la limousine**
+
+**–** Après la limousine, on attaque le montage de l’hélicoptère...
+
+![](/media/archive/4cc089a4429bb2377c4473b8.jpg)
+
+**pièces pour l’hélico...**
+
+Rien de particulier pour le montage de l’hélicoptère. Quand on arrive à la fin du sachet numéro 2, on a déjà fait la moitié de l’hélicoptère.
+
+![](/media/archive/6065cc92be62ce7c9b1aa193.jpg)
+
+**fin du 1er sachet de l’hélico...**
+
+Puis on fini cet hélicoptère privé sans difficulté.
+
+![](/media/archive/b5a9ed3a62ab1a048b2065be.jpg)
+
+**hélico fini**
+
+Il ne manque plus que les passagers et c’est parti. Comme dans la limousine, il y a 2 tasses. Là c’est pour prendre de l’aspirine après avoir un peu trop bu de champagne !
+
+![](/media/archive/b5fc3274df5efdb856e9fefe.jpg)
+
+**intérieur de l’hélico**
+
+## Conclusion
+
+![](/media/archive/0eb9f92223d44cf85e7c73e2.jpg)
+
+**à l’héliport....**
+
+Donc, en conclusion, un set bien sympa.
+
+Une vrai limousine, longue et de la même largeur des voitures, 6 portes, intérieur détaillé. Il y a seulement les vitres fumées qui sont en noir. Mais pour moi, ça me va comme ça !
+
+L’hélicoptère, tout aussi détaillé, est sympa lui aussi, enfin il est simple mais accompagne très bien la limousine.
+
+4 minifigs dans ce set, c’est parfait !
+
+Que demander de plus...

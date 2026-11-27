@@ -1,0 +1,151 @@
+---
+title: "CR de la réunion du CA des 18 et 19 février 2017"
+permalink: "/articles/cr-de-la-reunion-du-ca-des-18-et-19-fevrier-2017/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2017-04-22T16:15:37Z"
+authors:
+  [
+    "Antoine CL",
+    "Arnaud GINDRE",
+    "Daniela Drost",
+    "Erik \"brickerik\" Amzallag",
+    "Philippe \"Frogleap\" LABEL",
+    "Pierre LAURENGE",
+    "Richard LEMEITER",
+    "Sébastien HAMON",
+    "Xavier Viallefont",
+    "Yannick VIGNAT"
+  ]
+description: "CR de la réunion du CA des 18 et 19 février 2017"
+source_id: 2609
+source_url: "https://www.freelug.org/spip.php?article2609"
+---
+
+CR de la réunion du CA des 18 et 19 février 2017
+
+## Ordre du jour
+
+_Début de séance : 11h20 le 18 février_
+
+_Présents (10) :_  
+**–** Erik Amzallag  
+**–** Antoine Clément-Larosière  
+**–** Arnaud Gindre  
+**–** Daniela Drost  
+**–** Sébastien Hamon  
+**–** Philippe Label  
+**–** Pierre Laurenge  
+**–** Richard Lemeiter  
+**–** Xavier Viallefont  
+**–** Yannick Vignat (présent uniquement le samedi)
+
+_Excusés (2) :_  
+**–** Pierre Charles  
+**–** Jérôme Teissier
+
+_Ordre du jour :_
+
+**–** Actualité des CoR  
+**–** Actions 2016 non effectués  
+**–** Histoire en Brique  
+**–** Suite de la réunion sur les BE  
+**–** Renouvellement du CA  
+**–** Avenir FreeLUG  
+**–** Cahier des charges pour le nouveau site  
+**–** Préparation AG
+
+## Actualité des CoR
+
+**–** VoldeCoR
+
+Un restoLEGO est organisé au moins à chaque AFOL Day. Il a y également le tri des minifigs et bien entendu la préparation de la Briqu’Expo Lyon.
+
+Il est prévu l’organisation d’un concours pour le premier anniversaire de ce CoR.
+
+**–** Nord
+
+Un restoLEGO est organisé également à chaque AFOL Day. Pour 2017, il est prévu la construction des modules Techball. Une étude est en cours pour la construction d’un MOC collectif.
+
+**–** Massif-Central
+
+Une animation a été faite dans une école avec les briques vertes 2x4. Sinon la préparation de la Briqu’Expo Combrailles est lancée pour une édition en 2018.
+
+## Actions 2016 non effectués
+
+Un point est fait sur les différentes actions qui devaient être faites depuis la dernière réunion "live". Seule la réunion sur la mutualisation des expériences des BE a eu lieu. Il reste le point sur le nouveau site. Pour être certain de le traiter en 2017. Il n’y aura pas d’autres actions d’envisagées.
+
+## Histoire en Brique
+
+Le partenariat avec la société Epicure arrivant à échéance plus tôt que prévu suite à la demande de cette dernière.  
+Nous faisons un bilan des œuvres à récupérer, elles le sont toutes sauf le dôme des Invalides qui sera encore utilisé par Epicure. Il est prévu de les conserver une à deux années avant la déconstruction.
+
+Les 2 fiacres, la petite Malmaison et l’hôtel de la victoire seront descendus sur la région Lyonnaise. Xavier accepte de les stocker.
+
+Les petites scénettes iront dans le nord tout comme le château de Beauharnais (qui y est déjà).
+
+Erik et Pierre C doivent se concerter pour le château de Malmaison.
+
+Nous évoquons tout de même le cas du dôme et nous évoquons un don/vente aux Invalides. Ceci n’est qu’une idée rien n’a été initié.
+
+## Suite de la réunion sur les BE
+
+A la suite de cette réunion les participants ont proposé de travailler sur des documents d’aide pour les prochaines éditions. L’ensemble des documents sont rédigés et doivent passer en relecture auprès des participants à la réunion. Un nouveau point est abordé sur l’accueil de mineur comme exposants/bénévoles. Daniela nous a fait part du document qu’elle utilise pour la BE Veneux sur l’autorisation parentale. Nous y apportons 2 obligations :
+
+-   signature obligatoire sur le site de l’exposition.
+-   obligation de noter le numéro de la pièce d’identité (une photocopie fortement recommandée).
+
+Si le mineur vient sans le représentant légal, l’accès lui sera refusé.
+
+## Renouvellement du CA
+
+Les 4 membres sortants indiquent qu’ils souhaitent continuer.
+
+## Avenir FreeLUG
+
+Une discussion est lancée pour parler de l’avenir de FreeLUG : moyens nécessaire au vu du nombre croissant d’adhérents, position par rapport aux autres RLUG français et étranger. Chacun évoque ce qu’il pense et certains points sont communs. Pour permettre à l’association de continuer d’évoluer, il nous faut d’autres outils pour la gestion des adhérents (nouvelle version de Dolibarr). Pour ce qui est de la partie financière, nous évoquons la possibilité de limiter à terme le nombre de série de minifig à une par foyer. Pour le Bulk, nous rétablissons la règle du minimum d’un an d’ancienneté dans l’association pour pouvoir y participer. Le but de ces règles est de favoriser les adhérents acteurs plutôt que les consommateurs.
+
+Erik et Richard, nous rappellent, que nous devons respecter également les lois fiscales - règles apprises à l’issue de la formation de la FFMF à laquelle ils ont participé, pour cela nous proposons de documenter ces paramètres dans l’année.
+
+Nous évoquons la situation du nombre croissant d’associations de fan de LEGO. Ayant acquis une certaine expertise au fil des années, nous proposons d’aider ces nouvelles associations soit par un partenariat, soit par un accompagnement dans leur développement. Le but est de rester en bons termes.
+
+Nous terminons la première journée par un brainstorming sur ce que nous pouvons envisager comme dépenses pour l’association (matériel nécessaire, goodies, nouveau visuel...)
+
+* * *
+
+Reprise le lendemain à 10h30
+
+## Cahier des charges pour le nouveau site
+
+Antoine et Erik se proposent de mener ce sujet à bien d’ici la fin de l’année. Afin de laisser du temps à Erik nous proposons de répartir une partie de ces taches à l’ensemble du CA.
+
+Un tour de table est fait pour voir ce qu’il faut garder ou pas du site actuel, il en résulte ceci :
+
+-   Accès adhérent (fiche, espace commande, galerie)
+-   Agenda (Calendrier + liste, saisie facilité d’un évènement)
+-   Carrousel de photos des BE
+-   Lien twitter/facebook plutôt en haut
+-   Retrait du wiki
+-   Retrait des brèves
+-   Retrait du flux RSS
+
+Cette liste est non exhaustive et pourra être adaptée selon les possibilités techniques.
+
+Après le tour de table, une discussion s’engage sur l’outil à utiliser pour le nouveau site. Erik rappelle que la dernière version de SPIP propose pleins de nouvelles fonctionnalités. Afin de les tester, il propose de mettre à disposition de l’association un serveur qu’il n’utilise pas pour faire des tests. Yannick et Antoine se proposent de l’aider dans cette démarche. A l’issue de ces tests un point sera fait sur le futur outil à utiliser.
+
+## Préparation AG
+
+Nous établissons le budget pour l’année 2017, au niveau des dépenses, seuls la confection de nouvelles nappes et le goodie de l’année sont gardés du brainstorming afin de dégager un budget pour le nouveau site (hébergement, et fabrication).
+
+Nous décidons de mettre à l’honneur plusieurs membres pour 2016 :
+
+-   Simon Pinta pour sa disponibilité dans la création de mosaïques et le prêt le cas échéant de ces briques.
+-   Jérémie Descalis pour le nombre de review qu’il a fait sur le site
+-   Philippe Zytka et Mickaël Goblet pour la Briqu’Expo de Lomme
+-   Kris Heirman pour la Briqu’Expo de Combrailles
+
+Un point est fait sur les sets disponibles au local. d’après le fichier d’inventaire de Sébastien, un choix est fait pour récompenser ces membres et le gagnant du MOC de l’année (figurant sur la carte d’adhérent de l’année) : Denis Havart
+
+_Fin de séance : 15h10_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [CA@freelug.org](mailto:CA@freelug.org)

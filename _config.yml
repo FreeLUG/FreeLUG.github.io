@@ -1,6 +1,6 @@
 title: FreeLUG
 lang: fr
-url: https://freelug.github.io
+url: https://www.freelug.org
 baseurl: ""
 collections:
   sections:
@@ -8,6 +8,8 @@ collections:
   articles:
     output: true
   authors:
+    output: true
+  redirects:
     output: true
 defaults:
   - scope:
@@ -25,6 +27,12 @@ defaults:
       type: authors
     values:
       layout: author
+  - scope:
+      path: ""
+      type: redirects
+    values:
+      layout: redirect
+      sitemap: false
 exclude:
   - README.md
   - Gemfile

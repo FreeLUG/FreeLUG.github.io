@@ -1,0 +1,69 @@
+---
+title: "Que peut on trouver sur le site de FreeLUG ?"
+permalink: "/articles/que-peut-on-trouver-sur-le-site-de-freelug/"
+section: "/association/faq/"
+published_at: "2006-12-14T21:02:11Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "Le site de FreeLUG regorge d’articles sur de nombreux sujets
+  rédigés par nos adhérents. Petite visite guidée du site."
+source_id: 449
+source_url: "https://www.freelug.org/spip.php?article449"
+---
+
+Le site de FreeLUG regorge d’articles sur de nombreux sujets rédigés par nos adhérents. Petite visite guidée du site.
+
+## L’association
+
+**Nous contacter**
+
+Pour nous contacter, rien de plus simple. Consultez l’article [Nous contacter](/articles/nous-contacter/).
+
+**Notre but**
+
+L’association FreeLUG a pour but premier le rassemblement des passionnés francophones de la brique LEGO.
+
+Nous souhaitons ensuite partager notre passion, à travers nos rencontres, à travers le site et ses articles ou bien à travers les expositions où nous montrons nos dernières créations.
+
+![](/media/archive/2f406eeee93bf9119334bc8d.jpg)
+
+**Nos statuts**
+
+Vous souhaitez connaître précisément le fonctionnement de notre association avant d’adhérer, consultez [les statuts](/articles/les-statuts/) ou bien [le règlement intérieur](/articles/reglement-interieur-de-l-association-freelug/).
+
+Et si vous décidez de nous rejoindre, vous vous posez sans doute la question [Comment adhérer à l’association FreeLUG](/articles/comment-adherer-a-l-association-freelug/).
+
+**Nos activités**
+
+Rencontres, expositions, repas ou autres évènements particuliers constituent nos principales activités. Consultez la rubrique [Réunions & Evénements](/association/reunions-evenements/) pour en découvrir davantage.
+
+![](/media/archive/d0d416c4ca7385b899d7ba6a.jpg)
+
+**Communiquer avec d’autres passionnés**
+
+Le plus simple est de vous [inscrire sur la liste de discussion](http://lists.freelug.org/cgi-bin/mailman/listinfo/freelug-general) ouverte à tous les passionnés.
+
+Ou bien, de façon plus directe, vous pouvez aussi venir "chatter" avec d’autres soit par [le client web](http://www.freelug.info/cgi-bin/cgiirc/irc.cgi) ou bien en vous connectant avec un [client IRC comme XChat](/articles/xchat-2-x-x-installation-simple-et-rapide-sous-windows/) sur le serveur irc.freelug.org, channel #freelug.
+
+![](/media/archive/32f7df08dc985b824d298898.jpg)
+
+## Les régions
+
+Pour connaître plus particulièrement l’actualité de votre région, les évènements à venir ou passés, consultez les [rubriques régionales](/regions/). Pour connaître l’ensemble de nos prochains évènements, consultez donc la [liste des manifestations](https://www.freelug.org/manifestations.php3) et venez nous rencontrer lors d’un de ces évènements.
+
+![](/media/archive/8bdd97d05ded351c3457d27f.jpg)
+
+## La FAQ
+
+Vous vous posez des questions comme où trouver des notices, vous comprenez peu le jargon de l’AFOL (que signifie d’ailleurs AFOL ?), consultez donc la [Foire aux Questions](/association/faq/).
+
+Si malgré tout vous ne trouvez pas votre bonheur, essayez l’outil de recherche accessible depuis toutes les pages.
+
+## Les thèmes
+
+Vous êtes passionnés de trains, de StarWars ou bien encore de Technic, consultez donc les [rubriques thématiques](/themes/) pour découvrir des créations personnelles, des revues de modèles et bien d’autres choses.
+
+## La galerie photos
+
+Les adhérents de FreeLUG peuvent bénéficier d’[une galerie de photos](http://photos.freelug.org/) qui permet de partager ses dernières créations, ou bien de mettre en ligne les photos de nos expositions et évènements.
+
+D’une façon générale, n’hésitez pas à fouiner à droite à gauche pour découvrir des articles intéressants. Et si vous cherchez une vue globale du site et de ses articles, regardez donc [le plan du site](https://www.freelug.org/plan.php3) ou consultez [le calendrier](https://www.freelug.org/agenda.php3) pour une vue par date.

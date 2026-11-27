@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtemp, mkdir, writeFile, readFile, rm } from 'node:fs/promises';
+import { mkdtemp, mkdir, writeFile, readFile, rm, rename } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { parse } from 'yaml';
@@ -51,6 +51,15 @@ test('authors without biographies accept the original public-host alias without 
   await importAuthorPage(file, identity, site);
   const markdown = await readFile(path.join(site, '_authors', '2.md'), 'utf8');
   assert.equal(markdown.match(/^---\n[\s\S]*?\n---\n([\s\S]*)$/)[1].trim(), '');
+});
+
+test('author relationships resolve renamed articles through historical IDs', async t => {
+  const { file, site, identity } = await fixture(t);
+  await rename(path.join(site, '_articles/3.md'), path.join(site, '_articles/recit.md'));
+  const result = await importAuthorPage(file, identity, site);
+  assert.equal(result.articles, 1);
+  const text = await readFile(path.join(site, '_authors/2.md'), 'utf8');
+  assert.deepEqual(parse(text.match(/^---\n([\s\S]*?)\n---/)[1]).articles, ['/articles/recit/']);
 });
 
 test('mismatched author identity or profile markup cannot publish a profile', async t => {

@@ -1,0 +1,50 @@
+---
+title: "Résumé de la seconde Expo Lorraine"
+permalink: "/articles/resume-de-la-seconde-expo-lorraine/"
+section: "/regions/lorraine/"
+published_at: "2012-01-25T09:08:23Z"
+authors:
+  [
+    "Clotilde HAMIA",
+    "Erik \"brickerik\" Amzallag",
+    "jean-christophe guilbaud",
+    "THIERRY MEYER"
+  ]
+description: "Cette seconde édition a été une réussite, puisque les exposants
+  (pour moitié des Lorrains) et les visiteurs ont répondu présents pour ces deux
+  jours d’exposition."
+source_id: 1416
+source_url: "https://www.freelug.org/spip.php?article1416"
+---
+
+Cette seconde édition a été une réussite, puisque les exposants (pour moitié des Lorrains) et les visiteurs ont répondu présents pour ces deux jours d’exposition.
+
+Face à l’affluence, 1200 visiteurs, nous changerons probablement de salle l’année prochaine car trop étroite désormais.
+
+![](/media/archive/168942263fc3f7af161fca1d.jpg)
+
+Nous franchissons une nouvelle étape avec un nouveau challenge et un thème pour 2012 : "Médiéval et Fantastique" ce qui n’empêche pas de retrouver les thèmes conventionnels City, jeux, StarWars...
+
+![](/media/archive/6e599f33c55365edf8f89a74.jpg)
+
+La capacité d’accueil sera doublée voir triplée en fonction du nombre d’exposants. Date prévue 17-18 Novembre 2012 Complex sportif 4 rue Lasalle 54390 FROUARD.
+
+![](/media/archive/0f891f2c0d30b71c094ec0cb.jpg)
+
+* * *
+
+_Le mot d’Erik_
+
+Le week-end a mal débuté pour nous, avec une panne de l’alternateur de la voiture à 100km de Nancy, ce qui a imposé à Samuel de venir nous chercher...
+
+A part ce contre temps, une chouette seconde édition, avec plus d’exposants, mais aussi beaucoup plus de visiteurs, plus de 1100 sur le week-end, la salle était alors remplie aux heures de forte affluence.
+
+![](/media/archive/f5b6aec6b7301805c2a4581e.jpg)
+
+Un tas de choses exposées, du City, du Technic, du Bionicle, du seventies (par Thierry ;) ) un diorama Noel et moyen age, et de notre côté nous avions amené l’animation de la fusée.
+
+![](/media/archive/9419cf7150bdd26fa1f1ff5a.jpg)
+
+## Galeries photos
+
+[Photos d’Erik](http://photos.freelug.org/main.php/v/brickerik/expositions/2011/Saizerais/)

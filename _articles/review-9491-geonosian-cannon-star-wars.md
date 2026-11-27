@@ -1,0 +1,113 @@
+---
+title: "[REVIEW] 9491 – Geonosian Cannon (Star Wars)"
+permalink: "/articles/review-9491-geonosian-cannon-star-wars/"
+section: "/themes/star-wars/"
+published_at: "2015-11-24T09:35:29Z"
+authors: [ "Jeremie DESCALIS" ]
+description: "Aujourd’hui je vous propose la review du set 9491 dans la gamme
+  Star Wars : Geonosian Cannon. Ce set sorti en septembre 2012 au prix de 26,99
+  € est composé de 132 pièces, soit un ratio prix/pièce de 20,4 centimes d’€."
+source_id: 2159
+source_url: "https://www.freelug.org/spip.php?article2159"
+---
+
+Aujourd’hui je vous propose la review du set 9491 dans la gamme Star Wars : Geonosian Cannon.  
+Ce set sorti en septembre 2012 au prix de 26,99 € est composé de 132 pièces, soit un ratio prix/pièce de 20,4 centimes d’€.
+
+[![](/media/archive/2615ae4993eed4d190e69968.jpg)](https://www.freelug.org/IMG/jpg/GEONOSIANCANNON-jpg_Box.jpg)
+
+Le set Geonosian Cannon est composé de deux sachets, d’un livret d’instructions et d’une planche plastique prédécoupée contenant les ailes des deux minifigs Geonosiens.
+
+[![](/media/archive/2ecf6444b2ffc162ae5d628e.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_01.jpg)
+
+La minifig de la Chevalier Jedi Barriss Offee est vraiment réussie, même si elle n’est tampographiée que sur le torse. Elle aurait mérité de l’être aussi dans le dos ou au moins sur les jambes.  
+Au niveau du visage la tampographie est là aussi parfaite.
+
+[![](/media/archive/aa352c1e02e83f566d432f18.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_02.jpg)
+
+[![](/media/archive/0b590d65bf400e588b1dff98.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_03.jpg)
+
+La minifig du Clone Commander Gree est une figurine exclusive à ce set (on la retrouve aussi dans un livre et dans un polybag) et elle est vraiment réussie. Tampographie recto-verso noire et verte pour le torse, sur les jambes et sur le casque, bref cette minifigure est une réussite.
+
+[![](/media/archive/7227da51bb88df42ada709f4.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_04.jpg)
+
+[![](/media/archive/631ee8c70a4b351d5e5ab12a.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_06.jpg)
+
+[![](/media/archive/7ad0f121c5707174837b6a44.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_05.jpg)
+
+Le Geonosian Zombie est aussi une petite merveille de réalisation, notamment avec sa tampographie dorée
+
+[![](/media/archive/66341390db6f96b87610ab84.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_07.jpg)
+
+[![](/media/archive/3f6bc5d79ca4f3e321502f3e.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_08.jpg)
+
+Le Geonosian Warrior se voit doté lui aussi une tampographie recto/verso du plus bel effet. Même si j’avoue avoir une préférence pour la version Zombie.
+
+[![](/media/archive/f6d4d2212bfaa4a2d6ff1370.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_09.jpg)
+
+[![](/media/archive/b6f74f0c1521e63df8f81caa.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_10.jpg)
+
+une fois les quatre figurines montées, on s’attelle au montage du canon avec le sachet 1.
+
+[![](/media/archive/496f4bd4b71abfd0f15cee38.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_11.jpg)
+
+Une fois les deux "missiles clic" posés, on place la plateforme.
+
+[![](/media/archive/0a171fd308265ae987087b80.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_12.jpg)
+
+Puis le support de la base du canon.
+
+[![](/media/archive/e4d6acecda407918debe4a39.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_14.jpg)
+
+Quelques ornements.
+
+[![](/media/archive/2d90b1c3fda764151d35af14.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_15.jpg)
+
+On finit le premier sachet en achevant le corps du canon et la pose des leviers de commande.
+
+[![](/media/archive/01d6fa75579c53c18a7f8282.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_16.jpg)
+
+On commence le deuxième sachet en montant les pieds du canon.
+
+[![](/media/archive/7aaba61e329baf90857a25ae.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_17.jpg)
+
+On poursuit le montage. Assez simple au passage.
+
+[![](/media/archive/3ae51f64933f066bc0cd70ad.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_19.jpg)
+
+Voilà un des deux pieds finalisé.
+
+[![](/media/archive/7affe3c85bc17aaf9d327f0e.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_20.jpg)
+
+Et monté sur la plateforme du canon.
+
+[![](/media/archive/1da5ff8ecef0408e67c5dac2.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_21.jpg)
+
+Le deuxième pied est en place.
+
+[![](/media/archive/ab6d14e9ee1adba4a436327c.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_22.jpg)
+
+On s’attaque maintenant au canon en lui même.
+
+[![](/media/archive/c958ba759acc261413406b15.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_23.jpg)
+
+Ça prend forme.
+
+[![](/media/archive/d5c5f1c564fc756ceaae1d12.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_24.jpg)
+
+Voilà le canon finalisé
+
+[![](/media/archive/80e1dc5882b85377296e8cfc.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_26.jpg)
+
+Et une petite mise en scène du set.
+
+[![](/media/archive/e97313e1f47a18cab393d909.jpg)](https://www.freelug.org/IMG/jpg/GeonosianCannon_27.jpg)
+
+**Avis :**  
+Bon on va pas se le cacher, ce set est juste intéressant pour les quatre minifigures qu’il contient. Si le canon est assez quelconque, les figs sont quant à elles superbes.  
+Le set a été démonté juste après la réalisation de cette review et a rejoint mon vrac de briques.
+
+_Bonus :_  
+Comme d’habitude, voici un GIF animé réalisé avec les photos prises pour cette review (cliquez sur l’image pour lancer l’animation).
+
+![](/media/archive/7e31dec7f72c9f4d6728c590.gif)

@@ -1,0 +1,28 @@
+---
+title: "La BB 675084 Infra : la notice"
+permalink: "/articles/la-bb-675084-infra-la-notice/"
+section: "/themes/train/"
+published_at: "2012-11-21T08:14:21Z"
+authors: [ "Denis CDHD" ]
+description: "Un précedent article sur la construction d’une BB 675084 Infra
+  vous annonçait que la notice de cette locomotive allait être publiée dans
+  RailBricks."
+source_id: 1569
+source_url: "https://www.freelug.org/spip.php?article1569"
+---
+
+![](/media/archive/9ed970fee7aebb7de5e1ef9d.jpg)
+
+Un précedent article sur la construction d’une [BB 675084 Infra](/articles/la-bb-675084-infra/) vous annonçait que la notice de cette locomotive allait être publiée dans RailBricks.
+
+Malheureusement, vu sa grande taille et malgré la grande qualité du travail de Didier Enjary pour la réaliser à partir de mon MLCad ’artisanal’, il n’a pas été possible de l’intégrer dans RailBrick.
+
+Et donc, avec l’accord de Didier que je remercie, voici cette notice en exclusivité pour FreeLUG ;-).
+
+Je pense qu’il y a matière à l’améliorer. Qui sera le premier ?
+
+[![](/media/archive/b2908fe7db4d9b3542d155c1.svg)](https://www.freelug.org/IMG/pdf/BB7500_notice_all-a.pdf "PDF - 1.5 Mio")
+
+**Notice BB67508**
+
+cdhd

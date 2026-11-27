@@ -1,0 +1,11 @@
+---
+layout: "section"
+title: "Centre"
+source_id: 30
+permalink: "/regions/centre/"
+source_url: "https://freelug.org/spip.php?rubrique30"
+description: "Activités du club en Région Centre."
+parent: "/regions/"
+---
+
+Activités du club en Région Centre.

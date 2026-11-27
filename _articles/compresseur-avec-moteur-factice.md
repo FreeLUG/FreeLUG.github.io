@@ -1,0 +1,25 @@
+---
+title: "Compresseur avec moteur factice"
+permalink: "/articles/compresseur-avec-moteur-factice/"
+section: "/themes/technic/"
+published_at: "2010-11-21T14:45:03Z"
+authors: [ "joebar67" ]
+description: "J’ai réalisé ce MOC pour répondre à mes besoins pneumatiques sur
+  mon engin (ma configuration V4, deux L2 à environs 90 degrés), je voulais un
+  truc simple mais peu banal."
+source_id: 1217
+source_url: "https://www.freelug.org/spip.php?article1217"
+---
+
+J’ai réalisé ce MOC pour répondre à mes besoins pneumatiques sur mon engin (ma configuration V4, deux L2 à environs 90 degrés), je voulais un truc simple mais peu banal.
+
+Le principe de fonctionnement est très simple et efficace.  
+Le groupe compresseur est motorisable à souhait, il est compact 6t x 10t x 6t ( L x l x h ) dans cette configuration (selon envie de chacun).
+
+Il délivre plus de 2 Bar ou plus de 30 PSI de pression en une dizaine de tours de vilebrequin ce qui est relativement rapide. Petit mais costaud.
+
+Il est facilement intégrable dans des réalisations Technic mais aussi dans du City, Train etc.
+
+Je voulais en faire part aux autres MOCeurs pour le partager.
+
+Ci-joint la notice photos.

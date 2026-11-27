@@ -1,0 +1,38 @@
+---
+title: "CR de  notre atelier de construction libre pour l’association Enfance
+  Adolescence & Diabète"
+permalink: "/articles/cr-de-notre-atelier-de-construction-libre-pour-l-associat\
+  ion-enfance-adolescence-diabete/"
+section: "/regions/midi-pyrenees/"
+published_at: "2022-01-13T20:22:49Z"
+authors: [ "Caty BRUNIQUEL", "Pierre AUBRY" ]
+description: "Une trentaine de parents et environ 25 enfants se sont retrouvés
+  ce samedi sur une péniche sur le canal du midi. Les familles ne se
+  connaissaient pas mais toutes avaient un point commun : un de leurs enfants
+  est diabétique. La rencontre était patronnée par l’association Enfance
+  Adolescence & Diabète."
+source_id: 3168
+source_url: "https://www.freelug.org/spip.php?article3168"
+---
+
+Une trentaine de parents et environ 25 enfants se sont retrouvés ce samedi sur une péniche sur le canal du midi. Les familles ne se connaissaient pas mais toutes avaient un point commun : un de leurs enfants est diabétique. La rencontre était patronnée par l’association Enfance Adolescence & Diabète.
+
+L’objectif de notre atelier de construction libre LEGO était d’occuper les enfants et ainsi permettre aux parents de discuter de la prise en charge quotidienne de la santé de leurs enfants.
+
+Nous étions somptueusement installés sur une péniche ancrée sur le canal du midi à Toulouse.
+
+[![](/media/archive/75953cae88042ba1ca2cfe7c.jpg)](https://www.freelug.org/IMG/jpg/img_8253.jpg)
+
+Les enfants étaient contents de construire et fiers de leurs créations. Une étape importante était la photo et la remise du diplôme.
+
+[![](/media/archive/021ec39b78686e70e353d2b7.jpg)](https://www.freelug.org/IMG/jpg/img_8266.jpg)
+
+Les enfants ont appris à se connaître à travers des constructions collaboratives.
+
+[![](/media/archive/60ef7fab00e4b5d2e9760ef0.jpg)](https://www.freelug.org/IMG/jpg/img_8278.jpg)
+
+Les enfants étaient de tous ages et même les plus petits ont participé.
+
+[![](/media/archive/e36e25f34d828f682a8a6ca3.jpg)](https://www.freelug.org/IMG/jpg/img_8275.jpg)
+
+L’objectif a été atteint. Les enfants étaient contents. Les parents ont pu largement échanger entre eux. Nous nous sommes promis de nous revoir.

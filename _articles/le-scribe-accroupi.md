@@ -1,0 +1,56 @@
+---
+title: "Le scribe accroupi"
+permalink: "/articles/le-scribe-accroupi/"
+section: "/themes/moc/"
+published_at: "2017-11-11T09:53:06Z"
+authors: [ "Didier ENJARY" ]
+description: "J’apprécie particulièrement les figurines construites à l’échelle
+  Miniland. Dans des articles précédents, je vous avais déjà proposé d’en
+  construire. Ces personnages (1,2,3,4), de l’univers StarWars, n’étaient pas
+  des créations originales mais des reconstitutions des modèles vus au MINILAND
+  du parc LEGOLAND de Billund au Danemark."
+source_id: 2769
+source_url: "https://www.freelug.org/spip.php?article2769"
+---
+
+J’apprécie particulièrement les figurines construites à l’échelle Miniland. Dans des articles précédents, je vous avais déjà proposé d’en construire. Ces personnages ([1](/articles/les-personnages-miniland-yoda/),[2](/articles/les-personnages-miniland-officiers-de-l-empire/),[3](/articles/les-personnages-miniland-pilote-rebelle/),[4](/articles/les-personnages-miniland-obi-wan-ben-kenobi/)), de l’univers StarWars, n’étaient pas des créations originales mais des reconstitutions des modèles vus au MINILAND du parc LEGOLAND de Billund au Danemark.
+
+Au contraire, le modèle que je vous propose ici est une construction originale créée à l’occasion d’un concours organisé par le [comité régional](/articles/reglement-sur-les-comites-regionaux/) VoldeCoR (Rhône Ain Isère Loire) dont le thème était l’Égypte.
+
+Souhaitant être original, j’ai laissé de côté tout les sujets les plus connus de l’Égypte. Exit donc les pharaon, sphinx et momie ou même les statues du temple d’Abou Simbel. Le sujet finalement choisi est ainsi beaucoup moins connu. Un voyage en Égypte vous sera épargné si vous souhaitez le voir puisqu’il est exposé au Louvre à Paris.
+
+Il s’agit d’une sculpture polychrome de l’Égypte antique représentant un scribe assis en tailleur : le scribe accroupi [^1].
+
+[![](/media/archive/461c155fc532a3a0eda29488.jpg)](https://www.freelug.org/IMG/jpg/Scribe_Accroupi.jpg)
+
+La construction en pièces LEGO du personnage nécessite un socle permettant un décalage entre l’arrière en 5 tenons de large et l’avant représentant les jambes, montées en SNOT, en 6 tenons de large.
+
+[![](/media/archive/e925c695799b0234082c1386.png)](https://www.freelug.org/IMG/png/Page_3.png)
+
+[![](/media/archive/c4a6012dd7148316a5187a3f.png)](https://www.freelug.org/IMG/png/Page_7.png)
+
+Mis à part ce montage technique, le reste du corps (buste, tête, bras) est classique.
+
+Cela ne se voit pas sur les images, mais notez que le bras droit est fixé plus haut sur le buste que le bras gauche, avec un décalage d’un demi tenon.
+
+[![](/media/archive/07f815d68aef30be4dccb7a9.png)](https://www.freelug.org/IMG/png/Page_12.png)
+
+Le papyrus - un rouleau de papier partiellement déroulé - est représenté par une petite porte placée à plat. [^2]
+
+[![](/media/archive/51b0a4b4695f17916948fbd1.png)](https://www.freelug.org/IMG/png/Page_14.png)
+
+Voici enfin le modèle "en vrai", placé dans son écrin respectant très largement le règlement du concours d’une création tenant sur une plaque 16x16.
+
+[![](/media/archive/2ff21c4d326c0969886a209b.jpg)](https://www.freelug.org/IMG/jpg/photoMOC.jpg)
+
+Vous retrouverez la notice détaillée complète ci-dessous sous forme d’un fichier pdf. Je suis d’autant plus content de la partager qu’elle a déjà inspiré un autre constructeur pour la création d’un bouddha.
+
+[![](/media/archive/b2908fe7db4d9b3542d155c1.svg)](https://www.freelug.org/IMG/pdf/ScribeAccroupi.pdf "PDF - 2.9 Mio")
+
+**Scribe Accroupi**
+
+Notice de montage du Scribe Accroupi
+
+[^1]: Dont l’état de conservation est impressionnant quand on songe qu’il est vieux de plus de 4000 ans
+
+[^2]: Cet usage de la porte m’a été inspiré par un usage classique de la porte en guise de rouleau de papier hygiénique.

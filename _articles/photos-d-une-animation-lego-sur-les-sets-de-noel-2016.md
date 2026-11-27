@@ -1,0 +1,116 @@
+---
+title: "Photos d’une animation LEGO sur les sets de Noël 2016"
+permalink: "/articles/photos-d-une-animation-lego-sur-les-sets-de-noel-2016/"
+section: "/themes/divers/"
+published_at: "2016-10-09T07:30:34Z"
+authors: [ "Jeremie DESCALIS" ]
+description: "Mercredi 14 septembre, j’étais invité par LEGO pour une
+  présentation des sets de fin d’année, l’occasion pour moi de les voir \"en
+  vrai\"."
+source_id: 2453
+source_url: "https://www.freelug.org/spip.php?article2453"
+---
+
+Mercredi 14 septembre, j’étais invité par _LEGO_ pour une présentation des sets de fin d’année, l’occasion pour moi de les voir "en vrai".
+
+Rendez-vous était donc pris à Paris, à la galerie Joseph (rue Bachaumont), pour cette rencontre sous le signe de la brique.
+
+[![](/media/archive/a60f9b5ca45278614055b8db.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_00.jpg)
+
+Des nouveautés et des sets à succès, voilà ce que _LEGO_ nous a préparé pour cette fin d’année.
+
+Les sets _Rogue One - A Star Wars Story_ étaient présentés montés, et ils sont bien plus alléchants que sur les photos.
+
+En _Technic_ l’excavatrice est juste énorme. La série _Ninjago_ se voit elle aussi dotée de très jolis sets.
+
+Bref, regardez les photos qui suivent pour vous faire une idée de ce qui vous attends.
+
+-   **DUPLO**
+
+[![](/media/archive/c3dab6009acf18e45b2f744a.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_01-2.jpg)
+
+[![](/media/archive/775691c8345d4ab8bcac4097.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_02.jpg)
+
+[![](/media/archive/e4ccfcba2056be702e542bae.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_03.jpg)
+
+-   **Friends**
+
+[![](/media/archive/28ba3fd991cad934f2ad9a8d.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_04.jpg)
+
+-   **Elves**
+
+[![](/media/archive/a897dbf18bcc53929cd8bd40.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_05.jpg)
+
+-   **Disney Princess**
+
+[![](/media/archive/3c79fdffd9dfab6087dd6b90.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_06.jpg)
+
+[![](/media/archive/7f3e87239b165a314ebf2909.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_07-2.jpg)
+
+-   **City**
+
+[![](/media/archive/885b7d7eb78661ef41e93c24.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_08.jpg)
+
+-   **Ninjago**
+
+[![](/media/archive/737be97d7ba8ca68804e5097.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_10.jpg)
+
+[![](/media/archive/cd2eb45b8f88ec4d0d8340c4.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_09.jpg)
+
+[![](/media/archive/fd2c4fd332c1f9c9ed703d36.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_11-2.jpg)
+
+-   **Technic**
+
+[![](/media/archive/14b14b8b3f760bb62886bc33.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_12.jpg)
+
+[![](/media/archive/7ebfea34f0f6967093fb789e.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_13.jpg)
+
+[![](/media/archive/8d145a3e959fc6987fbef20e.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_14-3.jpg)
+
+[![](/media/archive/24bbe990095f8be6200a9ab3.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_15.jpg)
+
+-   **Nexo Knight**
+
+[![](/media/archive/11ef906b53a15c849a8bfa74.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_16.jpg)
+
+[![](/media/archive/0be60f5f1748cabc78a47016.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_17-2.jpg)
+
+[![](/media/archive/4fc97c49084006097544da58.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_18-2.jpg)
+
+[![](/media/archive/660b1afcb25e97a65914f1b7.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_19-2.jpg)
+
+[![](/media/archive/9fa86a67beed68a73aa11c42.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_20.jpg)
+
+[![](/media/archive/74d613af0546cb894416ffa9.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_21.jpg)
+
+-   **Star Wars**
+
+[![](/media/archive/76ee14cfa4e23b097610c5b3.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_23.jpg)
+
+[![](/media/archive/41d17966e4ace48cb29e91a3.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_24.jpg)
+
+[![](/media/archive/1ffbd96dda56926a34c2f959.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_25.jpg)
+
+[![](/media/archive/64738fe060735bf3f19e672e.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_26.jpg)
+
+[![](/media/archive/7b23cf5c669520f9ff3f3ef9.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_27.jpg)
+
+[![](/media/archive/4b810be7afeef250618dda9b.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_28.jpg)
+
+[![](/media/archive/253d1bb03ca5f3d6dae425e6.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_29.jpg)
+
+[![](/media/archive/85c271ac1b5ee7b26cc273e6.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_30.jpg)
+
+[![](/media/archive/41c0e9d6a1095f542a85844e.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_31.jpg)
+
+[![](/media/archive/180b002ba1294bfa2fb89ebf.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_32-2.jpg)
+
+[![](/media/archive/ab9155417707f80668bb9b24.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_33.jpg)
+
+[![](/media/archive/98b0d851b1d38e545deb14ca.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_34.jpg)
+
+[![](/media/archive/06ad656c81eee8e81ca6a493.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_35-2.jpg)
+
+[![](/media/archive/6d41e9ab89f0f38b4bfca24b.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_36.jpg)
+
+[![](/media/archive/9929a1fa41a23b66bfb7f5f7.jpg)](https://www.freelug.org/IMG/jpg/Noel2016_37.jpg)

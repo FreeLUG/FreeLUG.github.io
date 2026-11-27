@@ -1,0 +1,141 @@
+---
+layout: "article"
+title: "Démarches à suivre pour coordonner une participation à une exposition"
+source_id: 632
+permalink: "/articles/demarches-a-suivre-pour-coordonner-une-participation-a-un\
+  e-exposition/"
+source_url: "https://freelug.org/spip.php?article632"
+published_at: "2010-01-10T09:30:00Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "La participation à des expositions représente une part non
+  négligeable de l’activité externe de l’association. Depuis la création de
+  l’association, les outils et les méthodes mis en oeuvre dans la pré"
+section: "/association/au-sujet-des-expositions/"
+---
+
+La participation à des expositions représente une part non négligeable de l’activité externe de l’association. Depuis la création de l’association, les outils et les méthodes mis en oeuvre dans la préparation et le suivi des expositions ont évolué. Cet article a pour objectif de rappeler la démarche pour tout adhérent souhaitant coordonner la participation de l’association à une exposition. La coordination au quotidien d’une exposition sera le sujet d’un autre article.
+
+Les étapes :
+
+1.  Validation par le CA
+2.  Diffusion de l’annonce sur la liste de discussion
+3.  Inscription auprès de l’organisateur
+4.  Création d’un article pour le calendrier
+5.  Rappel de l’exposition quelques jours avant
+6.  Rédaction du résumé
+7.  Remerciements auprès de l’organisateur
+
+## Préambule
+
+**–** _l’organisateur_ : club, association, professionnel, administration, etc. qui invite l’association à la participation à un événement ;  
+**–** _les participants_ : adhérents FreeLUG (à jour de cotisation, cela s’entend) participants à l’évènement ;  
+**–** _le coordinateur_ : adhérent FreeLUG (généralement participant) qui est en relation avec _l’organisateur_, coordonne _les participants_ et est en charge des démarches décrites dans cet article.
+
+## 1) Validation par le CA
+
+Toute participation au nom de l’association FreeLUG doit être approuvée par le CA.  
+Les informations suivantes doivent être apportées :  
+**–** les dates de début et de fin ;  
+**–** le lieu ;  
+**–** le nom ou raison sociale de l’organisateur ;  
+**–** le cadre de l’exposition (modélisme, associatif local...) ;  
+**–** présence conjointe d’autres associations ou particuliers sur le stand FreeLUG ;  
+**–** le tarif des entrées (si connu) ;  
+**–** le nom du coordinateur FreeLUG ;  
+**–** la date limite d’inscription ;  
+**–** les prestations prises en charge par l’organisation (repas, déplacements, hébergements) ;  
+**–** le nombre maximum de participants (s’il y a limitation) ;  
+**–** notre surface d’exposition allouée ;  
+**–** le nombre de visiteurs attendus (si connu) ;  
+**–** les demandes de moyens mis à disposition par FreeLUG :
+
+-   nouvelle liste de diffusion spécifique,
+-   tables,
+-   banderoles,
+-   budget,
+-   plaques,
+-   nappes,
+-   autres demandes.
+
+Toutes les demandes de moyens mis à disposition seront examinées par le CA, qui répondra au cas par cas en fonction de la disponibilité des moyens et de l’importance des événements.
+
+Certaines de ces informations arriveront peut-être après coup, d’autres ne seront peut-être pas disponibles ou pas utiles pour l’exposition, mais dans l’ensemble ça reste un minimum nécessaire pour expliquer à tous les adhérents intéressés ce qui va se passer et de permettre à chacun de voir, s’il peut participer ou pas.
+
+Ne pas oublier que plus la demande sera faite à l’avance, mieux il sera possible d’y répondre.
+
+Toutes les demandes de budget devront être soumises à accord préalable du CA. Les dépenses devront être justifiées par factures et _le coordinateur_ en sera le responsable.  
+Ces points sont issus du [règlement intérieur, section 1, article 5](/articles/reglement-interieur-de-l-association-freelug/)
+
+## 2) Diffusion de l’annonce sur la liste de discussion
+
+L’approbation du CA obtenue, _le coordinateur_ diffuse l’appel à participation sur la liste de discussion adhérente. Il prend soin de communiquer les informations suivantes :  
+**–** lieu de l’exposition ;  
+**–** date de l’exposition, et date de l’installation ;  
+**–** thème général de l’exposition, et éventuellement thème du stand de l’association FreeLUG ;  
+**–** date limite d’inscription ;  
+**–** nombre de personnes maximum ;  
+**–** surface disponible ;  
+**–** obligation de présence sur l’ensemble des jours, possibilité de roulement, etc. ;  
+**–** les éventuelles prises en charge par _l’organisateur_ : transport, hébergement, repas, etc. ;  
+**–** l’éventuelle liste de discussion dédiée à la préparation (liste régionale) ;  
+**–** l’éventuelle page wiki dédiée à la préparation (pour son contenu, voir aussi [\[WIKI\] Page d’organisation d’une exposition](/articles/wiki-page-d-organisation-d-une-exposition/)).
+
+_Le coordinateur_ n’hésite pas à relancer régulièrement, et notamment à l’approche de la date limite d’inscription, si il estime le nombre de participants trop faible. C’est particulièrement vrai si l’annonce initiale a eu lieu plusieurs mois avant la date limite.
+
+## 3) Inscription auprès de _l’organisateur_
+
+Une fois que _le coordinateur_ dispose des informations nécessaires (nombre de participants, surface), il n’oublie pas de confirmer auprès de _l’organisateur_ l’inscription de FreeLUG.
+
+Dès lors, _les participants_ - en particulier _le coordinateur_ - et donc l’association FreeLUG s’engagent à fournir la prestation annoncée : occupation de la surface demandée et présence du bon nombre de participants sur la durée convenue. En cas de désistement d’un des participants, _le coordinateur_ s’arrange pour trouver un remplaçant et/ou s’assurer de l’occupation de l’espace libéré. Il pense à informer _l’organisateur_ en cas de changement d’effectif.
+
+## 4) Création d’un article pour le calendrier
+
+Une fois l’inscription validée, _le coordinateur_ s’empresse de rédiger un petit article pour le calendrier du site, afin de promouvoir l’exposition et annoncer au plus tôt notre présence sur l’évènement. Cet article contient :  
+**–** nom de l’exposition ;  
+**–** lieu de l’exposition (ville, ainsi que l’adresse ou le nom du local) ;  
+**–** _organisateur_ de l’exposition ;  
+**–** thème de l’exposition ;  
+**–** date de l’exposition ;  
+**–** horaires d’ouverture au public (si connues) ;  
+**–** tarifs d’entrée (si connus) ;  
+**–** éventuellement thème du stand FreeLUG.
+
+A partir de cet instant, l’évènement est intégré dans le [calendrier papier](http://photos.freelug.org/main.php/v/FreeLUG/Documents/calendrier/) que nos partenaires diffusent, notamment à travers les commandes BrickLink. C’est donc l’assurance d’une plus grande visibilité. Un évènement ne saurait être intégré dans ce calendrier papier si il n’y a pas d’information sur le site Internet.
+
+## 5) Rappel de l’exposition quelques jours avant
+
+Quelques jours avant l’exposition (une semaine par exemple), _le coordinateur_ fait un rappel de la tenue de l’exposition sur la liste de discussion générale (en donnant le lien vers l’article du calendrier).
+
+## 6) Rédaction du résumé
+
+L’évènement passé, _le coordinateur_ s’assure de la rédaction d’un article pour le site résumant l’exposition dans un délai raisonnable.  
+Cet article peut être rédigé par _le coordinateur_ et/ou tout autre _participant_. Chaque _participant_ doit avoir la possibilité de s’y exprimer.  
+L’article contient au moins :  
+**–** nom de l’exposition ;  
+**–** lieu de l’exposition ;  
+**–** date de l’exposition ;  
+**–** _organisateur_ de l’exposition ;  
+**–** nombre de visiteurs (si connu) ;  
+**–** un résumé, qui peut faire quelques lignes à plusieurs paragraphes, des réalisations apportées ;  
+**–** une ou plusieurs photos pour illustration.
+
+L’article peut être un résumé unique coécrit par plusieurs participants, ou une succession de paragraphes signés par chaque participant, liberté sur la forme est donnée.
+
+L’objectif de cet article est triple, du plus important au moins important :
+
+-   conserver une trace de l’activité locale de l’association :
+    -   avant tout, pour nous même,
+    -   pour que les passionnés de la région puissent, à la lecture des résumés, découvrir qu’il y a une activité locale et donc les inciter à rejoindre d’autres passionnés de leur secteur,
+    -   pour se faire connaître auprès d’autres organisateurs locaux ;
+-   présenter les réalisations apportées par les participants ;
+-   retranscrire les moments partagés durant l’évènement afin d’inciter les autres passionnés à participer.
+
+## 7) Remerciements auprès de _l’organisateur_
+
+Une fois l’article résumé publié, il est toujours bon de faire un petit mot à _l’organisateur_ pour lui signaler, et en profiter pour le remercier une nouvelle fois. [Un modèle de courrier est disponible](https://freelug.org/priv_article.php3?id_article=937).
+
+## Conclusion
+
+Les démarches décrites dans cet article sont celles attendues pour chaque exposition. Elles ne relèvent pas du caractère exclusif du _coordinateur_, qui peut être secondé par tout autre adhérent souhaitant s’impliquer.
+
+Toute aide que _le coordinateur_ pourra associer à l’événement sur la base de démarches personnelles, des actions des participants ou d’autres sponsors ou partenaires de l’événement est la bienvenue, sans que cela ne constitue un engagement de FreeLUG en matière de contrepartie, de quelque nature qu’elle soit.

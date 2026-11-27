@@ -1,0 +1,75 @@
+---
+title: "[Revue] LEGO 60090 - L’explorateur sous-marin"
+permalink: "/articles/revue-lego-60090-l-explorateur-sous-marin/"
+section: "/themes/ville-city/"
+published_at: "2016-11-21T18:56:17Z"
+authors: [ "Nicolas W" ]
+description: "Pour changer un peu des Mixels, je vous propose aujourd’hui une
+  revue du set 60090, L’explorateur sous-marin."
+source_id: 2483
+source_url: "https://www.freelug.org/spip.php?article2483"
+---
+
+Pour changer un peu des Mixels, je vous propose aujourd’hui une revue du set 60090, **L’explorateur sous-marin**.
+
+Ce set, sorti en 2016 au prix de 5,99 €, comporte 42 pièces, dont une figurine et une pieuvre, soit un ratio de 14 centimes par pièce.
+
+* * *
+
+L’envers de la boîte comporte le logo _CITY_ — même si nous sommes sous l’eau, c’est clairement un set « réaliste ». L’image présente le véhicule sous-marin, le plongeur et la pieuvre ayant un magnifique diamant dans un tentacule.
+
+[![](/media/archive/f93157be401f224d059f8be3.jpg)](https://www.freelug.org/IMG/jpg/20161015_110850.jpg)
+
+Le dos de la boîte montre au dos la pieuvre se reposant auprès de son trésor et, en bas, le plongeur qui s’enfuit après l’avoir dévalisée — un vrai scandale, heureusement il ne semble pas avoir utilisé ses harpons.
+
+[![](/media/archive/c2371795cdb2a529abeae341.jpg)](https://www.freelug.org/IMG/jpg/20161015_110927.jpg)
+
+La boîte contient, outre le manuel, un sachet de pièces et la pieuvre à part.
+
+[![](/media/archive/beafe31090c90fa9ad6a7b2b.jpg)](https://www.freelug.org/IMG/jpg/20161015_111456.jpg)
+
+Le personnage du plongeur présente sur l’avant du torse une sérigraphie adaptée à son rôle, avec des cadrans, sangles, etc., tandis que les jambes ont une marque laissant imaginer une combinaison. À noter le sourire presque narquois, voire cruel.
+
+[![](/media/archive/c72325c4be9d503b37c7b9f8.jpg)](https://www.freelug.org/IMG/jpg/20161015_111137.jpg)
+
+Le dos, qui sera caché en partie par les bouteilles, présente le même motif sur le torse, avec la suite des sangles, mais les jambes elles sont uniformes.
+
+[![](/media/archive/65ce9c46086f72635a8c0f0c.jpg)](https://www.freelug.org/IMG/jpg/20161015_111156.jpg)
+
+Et voici le plongeur monté, avec ses bouteilles sur le dos, ses palmes d’un beau rouge, et son masque bleu transparent.
+
+[![](/media/archive/09b351184ebec77f9261ddf2.jpg)](https://www.freelug.org/IMG/jpg/20161015_111414.jpg)
+
+La pieuvre n’est pas en reste, avec deux yeux jaunes transparent, et un diamant bleu dans un tentacule. On remarquera que les tentacules, même s’ils ne tiennent pas suffisamment le diamant pour par exemple le pendre à l’envers, peuvent s’accrocher par le dessus sur un tenon. On construit également une magnifique algue, en deux pièces.
+
+[![](/media/archive/50d86217451e60120edc9d0b.jpg)](https://www.freelug.org/IMG/jpg/20161015_111639.jpg)
+
+Commence ensuite la construction du véhicule sous-marin, qui sera totalement symétrique. La base comporte simplement deux propulseurs, qui ne serviront — surprise ! — pas à propulser l’engin.
+
+[![](/media/archive/0e47424170d2d5090408a083.jpg)](https://www.freelug.org/IMG/jpg/20161015_111736.jpg)
+
+On rajoute ensuite des ailerons sur le côté, pour stabiliser, ainsi qu’une pièce transparente pour simuler les lampes avant — c’est qu’il peut faire sombre dans les profondeurs !
+
+[![](/media/archive/be06fd4b974dc982f1b75f81.jpg)](https://www.freelug.org/IMG/jpg/20161015_111823.jpg)
+
+Après avoir ajouté le « capot », ainsi que le volant sur l’arrière, on arme le véhicule de deux harpons, pour se défendre (ou attaquer ?). On insère dans chaque propulseur une sorte de piolet, qui traverse de part en part et servira de point d’attache.
+
+[![](/media/archive/01737b994bd6fb2dff03c6bd.jpg)](https://www.freelug.org/IMG/jpg/20161015_112001.jpg)
+
+Sur l’avant des dits piolets on accroche des pinces, pouvant pivoter verticalement et autour de l’axe du propulseur, tandis que sur l’arrière on ajoute des hélices qui propulseront le véhicule.
+
+[![](/media/archive/91974076caef62b9f5a91fa6.jpg)](https://www.freelug.org/IMG/jpg/20161015_112134.jpg)
+
+Enfin on accroche le plongeur au véhicule, on ajoute un diamant dans une pince, et la construction est terminée. Voici le plongeur attaquant la pauvre pieuvre, avec sur le côté les pièces en bonus, dont un masque de plongée.
+
+[![](/media/archive/959627168707fe400d379a34.jpg)](https://www.freelug.org/IMG/jpg/20161015_112301.jpg)
+
+* * *
+
+**Avis :** sans technique de construction particulière, ce petit set est amusant pour la pieuvre, pièce que je n’ai pour ma part pas tellement vue ailleurs. Le personnage équipé est par ailleurs un bon ajout à une collection.
+
+Bref, même s’il ne contient aucune pièce vraiment spéciale, un petit set est sympathique.
+
+**Bonus :** animation de la construction (cliquer pour lancer).
+
+[![](/media/archive/ae6ea4a62c0e89b22fda80d8.png)](https://www.freelug.org/IMG/gif/60090-l-explorateur-sous-marin.gif)

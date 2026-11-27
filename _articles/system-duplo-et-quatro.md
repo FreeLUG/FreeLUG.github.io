@@ -1,0 +1,87 @@
+---
+title: "System, Duplo et Quatro"
+permalink: "/articles/system-duplo-et-quatro/"
+section: "/association/divers/"
+published_at: "2005-03-09T16:00:08Z"
+authors: [ "Didier ENJARY" ]
+description: "Vous connaissiez déjà les briques de la gamme Duplo®. Deux fois
+  plus grandes que les briques System® elles sont réputées pour être compatibles
+  entre elles."
+source_id: 369
+source_url: "https://www.freelug.org/spip.php?article369"
+---
+
+Vous connaissiez déjà les briques de la gamme Duplo®. Deux fois plus grandes que les briques System® elles sont réputées pour être compatibles entre elles.
+
+Depuis 2004 sont apparues les briques Quatro®, deux fois plus grandes que les briques Duplo, 4 fois plus que les briques System :
+
+![](/media/archive/7c048f314cd959b097c92a73.jpg)
+
+![](/media/archive/deddca3e234b2e897ec295dc.jpg)
+
+Il existe aussi des plaques (uniquement System et Duplo)
+
+![](/media/archive/b2e02f466d97b3e96975f612.jpg)
+
+On note qu’alors que les plaques System sont 3 fois moins épaisses qu’une brique System, les plaques Duplo sont uniquement 2 fois moins épaisses qu’une brique Duplo. (et donc aussi épaisses qu’une brique System)
+
+Un rapide montage permet de voir que la compatibilité est aussi bien montante :
+
+![](/media/archive/6030ff51d46898d389f912a7.jpg)
+
+![](/media/archive/a4cbd2851138adbd0bbe6c74.jpg)
+
+![](/media/archive/bad62cc755efdff012425620.jpg)
+
+que descendante :
+
+![](/media/archive/ac53682a57657d23ffe61bb3.jpg)
+
+![](/media/archive/4157cc3491d57d17c42af731.jpg)
+
+![](/media/archive/6723756350c895041662bcdb.jpg)
+
+La compatibilité montante est respectée dans la majorité des cas, alors que de nombreuses exceptions existent à la compatibilité descendante :
+
+**–** Liés au facteur 2 : les briques System de tailles impaires ne sont pas compatibles avec les briques et les plaques Duplo.
+
+![](/media/archive/6c0ed15b2d7f90f6d7151acf.jpg)
+
+**–** Les plaques System ne sont pas compatibles avec les briques et les plaques Duplo.
+
+![](/media/archive/181879c2a75b89726e929e57.jpg)
+
+alors que les plaques Duplo sont compatibles avec les briques Quatro.
+
+![](/media/archive/14fd0f64f7089a06e621c100.jpg)
+
+Seule la brique Duplo 2x2 est compatible avec les briques Quatro :
+
+![](/media/archive/75f10c8c3e00a54546a197a4.jpg)
+
+![](/media/archive/fe870b46c18abd96b56ba220.jpg)
+
+et cela à cause des nervures de renfort entre les tubes :
+
+![](/media/archive/1adb2f6281c3ea4760acca51.jpg)
+
+**A quoi cela sert-il ?**
+
+C’est marketing : les briques que vous achetez aujourd’hui pour un enfant de 1-3 ans (Quatro) sont compatibles avec celles que vous lui acheterez plus tard (Duplo, puis System).
+
+Les fans adultes se serviront des Quatro et Duplo pour les recouvrir de briques System et créer ainsi de grosses structures (montagnes).
+
+**Un futur gamme Octo ?**
+
+C’est peu probable. Il existe une gamme Baby (0-12 mois) mais incompatible.
+
+**Une gamme en dessous du System ?**
+
+Elle a existé : C’est la gamme [Modulex](http://www.peeron.com/inv/parts/x702)
+
+En parlant de grosses briques, quelques liens sympathiques :
+
+**–** [http://www.bmts.com/ bccook/blocks.htm](http://www.bmts.com/~bccook/blocks.htm)  
+**–** [http://www.brickshelf.com/cgi-bin/gallery.cgi?f=26552](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=26552)  
+**–** [http://www.brickshelf.com/cgi-bin/gallery.cgi?i=77707](http://www.brickshelf.com/cgi-bin/gallery.cgi?i=77707)  
+**–** [http://www.brickshelf.com/cgi-bin/gallery.cgi?i=77708](http://www.brickshelf.com/cgi-bin/gallery.cgi?i=77708)

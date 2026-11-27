@@ -90,6 +90,12 @@ async function serve() {
 }
 
 async function generate() {
+  try {
+    await readFile(path.join(destination, '_data/url-redirects.json'), 'utf8');
+    throw new Error('This site uses descriptive URLs. Use the individual importers; bulk legacy generation would overwrite migrated content.');
+  } catch (error) {
+    if (error.code !== 'ENOENT') throw error;
+  }
   const inventory = JSON.parse(await readFile(path.join(cache, 'inventory.json'), 'utf8'));
   const report = JSON.parse(await readFile(path.join(cache, 'report.json'), 'utf8'));
   if (inventory.running || inventory.queue.length || inventory.errors.length || report.running || !report.completedAt || report.errors.length) {

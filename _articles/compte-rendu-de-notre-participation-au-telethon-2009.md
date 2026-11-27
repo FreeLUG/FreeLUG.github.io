@@ -1,0 +1,53 @@
+---
+title: "Compte-rendu de notre participation au Téléthon 2009"
+permalink: "/articles/compte-rendu-de-notre-participation-au-telethon-2009/"
+section: "/regions/haute-normandie/"
+published_at: "2010-02-22T13:09:43Z"
+authors: [ "LeGnome" ]
+description: "Comme convenu avec les Pompiers de Criquetot l’Esneval (76), nous
+  sommes arrivés le matin, à l’aube, et surtout à la fraiche..."
+source_id: 1085
+source_url: "https://www.freelug.org/spip.php?article1085"
+---
+
+Comme convenu avec les Pompiers de Criquetot l’Esneval (76), nous sommes arrivés le matin, à l’aube, et surtout à la fraiche...
+
+Il faisait très froid le samedi matin, et nous avons apprécié que le chauffage soit en route dans le garage de la caserne.
+
+Du coup, pour la première fois, nous avons pu rentrer les voitures, et la remorque jusqu’à notre emplacement. Montage des tables, mise en place des bâtiments et du réseau de trains, nous avons pu présenter une exposition assez rapidement, et mis en place dès l’ouverture au public, le Fil Rouge.
+
+[![](/media/archive/d7084f7c049489c503b6e2d2.jpg)](https://www.freelug.org/IMG/jpg/1-4.jpg)
+
+Nous avons proposé de construire une mosaïque LEGO pour reconstituer le logo du TELETHON en fonction des dons des visiteurs.
+
+[![](/media/archive/7cb88494143cad13a40090db.jpg)](https://www.freelug.org/IMG/jpg/2-4.jpg)
+
+Le barème était simple : 1 tenon pour 10 centimes d’euro.  
+Par contre, la logistique et le montage ont été bien plus complexes que prévu.
+
+Les participants ne montant pas la mosaïque comme moi je l’avais prévue, Florence et Médérik ont passé leur journée à assister les artistes en briques et à corriger leurs erreurs.
+
+Heureusement que j’avais prévu plus de petites briques (1x1, 1x2, 1x3, etc.) pour pouvoir palier à ce problème.  
+Certaines personnes n’ayant pas forcément envie de monter les briques, mais nous avons trouvé de l’assistance.
+
+[![](/media/archive/64bc064e301e5f5e2e48fc64.jpg)](https://www.freelug.org/IMG/jpg/4-3.jpg)
+
+Les pompiers aussi ont fait l’animation, avec un lavage auto improvisé. Mieux que l’éléphant bleu...
+
+[![](/media/archive/2912321e88c51408bf8b8942.jpg)](https://www.freelug.org/IMG/jpg/3-4.jpg)
+
+Une vue d’ensemble de notre stand.
+
+[![](/media/archive/6edd4e695972c8e0dc65d64a.jpg)](https://www.freelug.org/IMG/jpg/5-2.jpg)
+
+Nous avons réussi à compléter le logo, et même commencé à faire une deuxième couche.
+
+[![](/media/archive/63db2f66e353f25ac87cfb3d.jpg)](https://www.freelug.org/IMG/jpg/6.jpg)
+
+Une très agréable journée...
+
+Nous avons été recontactés pour participer en 2010 !
+
+![](/media/archive/7240f50e0be4468a86952a63.jpg)
+
+[Les photos](http://www.brickshelf.com/cgi-bin/gallery.cgi?f=410237)

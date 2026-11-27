@@ -1,0 +1,104 @@
+---
+title: "Des balles avec des briques. Partie III : les fruits."
+permalink: "/articles/des-balles-avec-des-briques-partie-iii-les-fruits/"
+section: "/themes/cad/"
+published_at: "2012-07-16T12:42:02Z"
+authors: [ "Didier ENJARY" ]
+description: "Nous pouvons faire varier le diamètre et la couleur pour
+  représenter des objet parfaitement sphériques (balle) ou hémisphériques (dôme
+  architecturaux). Mais de nombreux objets ne sont pas parfaitement sphériques
+  et nous pouvons faire mieux en modifiant un peu la structure de base pour
+  représenter des objets imparfaitement sphériques comme les fruits."
+source_id: 1489
+source_url: "https://www.freelug.org/spip.php?article1489"
+---
+
+Nous pouvons faire varier le diamètre et la couleur pour représenter des objet parfaitement sphériques (balle) ou hémisphériques (dôme architecturaux). Mais de nombreux objets ne sont pas parfaitement sphériques et nous pouvons faire mieux en modifiant un peu la structure de base pour représenter des objets imparfaitement sphériques comme les fruits.
+
+Les modifications, toujours simples, peuvent être d’ordre géométriques, jouer sur la couleur ou sur l’adjonction d’un détail extérieur. Nous allons voir cela concrètement sur deux exemples : une orange et une pomme.
+
+L’orange est de 9 tenons de diamètre. Elle est plus plate à la base qu’à son sommet qui est orné d’une feuille.
+
+![](/media/archive/1063d073ee68d7c6d52dbd43.png)
+
+[![](/media/archive/a9b686bf2d0c2940697336a9.png)](https://www.freelug.org/IMG/png/Orange_0_00_ci-2.png)
+
+[![](/media/archive/d7c3f7e89d4c9d2e315cdac4.png)](https://www.freelug.org/IMG/png/Orange_0_01_ci-2.png)
+
+[![](/media/archive/0c33c7fd4df96d6095b2f960.png)](https://www.freelug.org/IMG/png/Orange_0_02_ci-2.png)
+
+[![](/media/archive/5fb456a08afcd3aadc1e0c32.png)](https://www.freelug.org/IMG/png/Orange_0_03_ci-2.png)
+
+[![](/media/archive/a30734c7d5aaa46b56b67936.png)](https://www.freelug.org/IMG/png/Orange_0_04_ci.png)
+
+[![](/media/archive/18c288c8fe7f5b51c0e0b790.png)](https://www.freelug.org/IMG/png/Orange_0_05_ci.png)
+
+[![](/media/archive/6ce480fede8410e43ec31a9a.png)](https://www.freelug.org/IMG/png/Orange_0_06_ci.png)
+
+[![](/media/archive/43b294ca358662fef058df8f.png)](https://www.freelug.org/IMG/png/Orange_0_07_ci.png)
+
+[![](/media/archive/2d48f8665e3a1a6dac7bfdd6.png)](https://www.freelug.org/IMG/png/Orange_0_08_ci.png)
+
+[![](/media/archive/96f88d565e9018b5b37868f1.png)](https://www.freelug.org/IMG/png/Orange_0_09_ci.png)
+
+[![](/media/archive/be0a5b8db01eafa21dfece35.png)](https://www.freelug.org/IMG/png/Orange_0_10_ci.png)
+
+[![](/media/archive/12b0b3e8aa02bd1dc6e943d4.png)](https://www.freelug.org/IMG/png/Orange_0_11_ci.png)
+
+[![](/media/archive/895ee2c3d308478b7a1f4e97.png)](https://www.freelug.org/IMG/png/Orange_0_12_ci.png)
+
+[![](/media/archive/82fc2b132a5c972d8b90b6d3.png)](https://www.freelug.org/IMG/png/Orange_0_13_ci.png)
+
+[![](/media/archive/828e7b92c8095d0f89ac6dfd.png)](https://www.freelug.org/IMG/png/Orange_0_14_ci.png)
+
+[![](/media/archive/4dbc10a0f640bbf87506bf2f.png)](https://www.freelug.org/IMG/png/Orange_0_15_ci.png)
+
+![](/media/archive/68d30eca1e06c7596ae792da.png)
+
+![](/media/archive/dd763a7b0a0cfc7dc91c6520.png)
+
+La pomme, pour sa part, présente une dépression au sommet avec  
+une tige. Son diamètre est de 10 tenons. Tout comme pour l’orange, nous n’hésitons pas à renforcer la construction en conservant des briques à l’intérieur. Ces briques, jaunes dans nos exemples, non visibles de l’extérieur, peuvent être de n’importe quelle autre couleur - celle dont vous disposez. Remarquez aussi que le montage est plus solide en utilisant les briques d’angle (corner). Voici la liste des pièces suivi de la notice de montage.
+
+![](/media/archive/616f3da42d2b3cd811f2d5c5.png)
+
+[![](/media/archive/8975d2a797a77a47cb76be9a.png)](https://www.freelug.org/IMG/png/Pomme_0_00_ci.png)
+
+[![](/media/archive/aff0f85abb73411d8a396ec6.png)](https://www.freelug.org/IMG/png/Pomme_0_01_ci.png)
+
+[![](/media/archive/ab9da832f141c1c529b6997f.png)](https://www.freelug.org/IMG/png/Pomme_0_02_ci.png)
+
+[![](/media/archive/83d51b6dc0cddb800dd0c13d.png)](https://www.freelug.org/IMG/png/Pomme_0_03_ci.png)
+
+[![](/media/archive/6cc6cb24bcb9c6b8a317db62.png)](https://www.freelug.org/IMG/png/Pomme_0_04_ci.png)
+
+[![](/media/archive/b573639601aee7edf69ea930.png)](https://www.freelug.org/IMG/png/Pomme_0_05_ci.png)
+
+[![](/media/archive/cc9fcdca91fa0bcbd63c0151.png)](https://www.freelug.org/IMG/png/Pomme_0_06_ci.png)
+
+[![](/media/archive/0de61307208c0f93005b7e93.png)](https://www.freelug.org/IMG/png/Pomme_0_07_ci.png)
+
+[![](/media/archive/9f5a11f05f9fbd0307f778ac.png)](https://www.freelug.org/IMG/png/Pomme_0_08_ci.png)
+
+[![](/media/archive/51318581c4ec2a0b21269c3f.png)](https://www.freelug.org/IMG/png/Pomme_0_09_ci.png)
+
+[![](/media/archive/07a2c21a1209315cff4ff08d.png)](https://www.freelug.org/IMG/png/Pomme_0_10_ci.png)
+
+[![](/media/archive/0fab9311407f933a569ab7e7.png)](https://www.freelug.org/IMG/png/Pomme_0_11_ci.png)
+
+[![](/media/archive/e14553bca16595afc4a6b37b.png)](https://www.freelug.org/IMG/png/Pomme_0_12_ci.png)
+
+[![](/media/archive/3ddad877da620a3c87f9f568.png)](https://www.freelug.org/IMG/png/Pomme_0_13_ci.png)
+
+[![](/media/archive/03daaa62aa474ef0e9fb3c87.png)](https://www.freelug.org/IMG/png/Pomme_0_14_ci.png)
+
+[![](/media/archive/8e61f518bf63e9c874d9b2fa.png)](https://www.freelug.org/IMG/png/Pomme_0_15_ci.png)
+
+![](/media/archive/3954ad8bf58630ce1e0f19f9.png)
+
+![](/media/archive/5c34c38a665cd0f1e55e6b27.png)
+
+* * *
+
+**–** [Des balles avec des briques. Partie I : les dômes](/articles/des-balles-avec-des-briques-partie-i-les-domes/)  
+**–** [Des balles avec des briques. Partie II : la sphère](/articles/des-balles-avec-des-briques-partie-ii-la-sphere/)

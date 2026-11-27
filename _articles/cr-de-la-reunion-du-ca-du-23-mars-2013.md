@@ -1,0 +1,57 @@
+---
+title: "CR de la réunion du CA du 23 Mars 2013"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-23-mars-2013/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2013-07-08T11:45:06Z"
+authors: [ "Jac", "Pierre CHARLES (Tribolego)" ]
+description: "CR de la réunion du CA du 23 Mars 2013"
+source_id: 1681
+source_url: "https://www.freelug.org/spip.php?article1681"
+---
+
+CR de la réunion du CA du 23 Mars 2013
+
+## Ordre du jour
+
+_Présents (12) :_  
+**–** Erik Amzallag  
+**–** Emmanuel Bonnard  
+**–** Pierre Charles  
+**–** Daniela Drost  
+**–** Sébastien Hamon  
+**–** Philippe Label  
+**–** Pierre Laurenge  
+**–** Richard Lemeiter  
+**–** Jean-Claude Petit  
+**–** Jérémy Roblin  
+**–** Jérôme Teissier  
+**–** Xavier Viallefont
+
+_Ordre du jour :_
+
+**–** Renouvellement du Bureau  
+**–** Renouvellement des responsabilités au sein du CA
+
+## Renouvellement du Bureau
+
+Le bureau 2012-2013 est renouvellé dans son ensemble pour la période 2013-2014 :  
+**–** **Président :** Erik  
+**–** **Vice-président :** Xavier  
+**–** **Secrétaire :** Pierre C.  
+**–** **Secrétaire Adjoint :** Jérôme  
+**–** **Trésorier :** Richard  
+**–** **Trésorier adjoint :** Philippe
+
+## Renouvellement des responsabilités au sein du CA
+
+**–** **Expositions :** Sébastien  
+**–** **Relations avec LEGO DK :** Daniela  
+**–** **Relation avec LEGO Fr et Animations :** Jérémy  
+**–** **Commandes exceptionnelles de briques :** Pierre L.  
+**–** **Commandes de vêtements et goodies FreeLUG :** Emmanuel
+
+Jean-Claude ne reprend pas pour le moment son poste de **Responsable du matériel** car, pour lui, malgré le différentes alertes qu’il a lancé, c’est impossible dans l’état actuel du fonctionnement (notamment du suivi des prêts, si les dépositaires du matériel ne jouent pas le jeu). Jérémy s’en occupera le temps qu’on trouve éventuellement une nouvelle méthode de suivi.  
+Jean-Claude est pour le moment sans responsabilités au CA. Il reste dépositaire d’une grande partie du matériel.
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [CA@freelug.org](mailto:CA@freelug.org)

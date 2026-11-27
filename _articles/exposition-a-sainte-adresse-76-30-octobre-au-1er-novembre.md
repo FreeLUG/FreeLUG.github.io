@@ -1,0 +1,26 @@
+---
+title: "Exposition à Sainte-Adresse (76), 30 octobre au 1er novembre"
+permalink: "/articles/exposition-a-sainte-adresse-76-30-octobre-au-1er-novembre/"
+section: "/regions/haute-normandie/"
+published_at: "2009-10-30T09:00:00Z"
+authors: [ "LeGnome" ]
+description: "Exposition de modélisme à Sainte-Adresse (76), les 30, 31 octobre
+  et 1er novembre 2009."
+source_id: 997
+source_url: "https://www.freelug.org/spip.php?article997"
+---
+
+Exposition de modélisme à Sainte-Adresse (76), les 30, 31 octobre et 1er novembre 2009.
+
+Comme chaque année, nous avons été contactés pour participer à l’exposition de modélisme organisée par le club naval de Sainte-Adresse, près de la plage du Havre.
+
+Les dates : du vendredi 30 octobre au dimanche 1er novembre.
+
+Nous serons heureux de vous accueillir pour découvrir notre stand LEGO.
+
+Seront également présents, des modélistes de tous genres (bateaux, voiture, trains, camions et engins de chantier...)  
+Nous pourrons faire naviguer les modèles LEGO sur un immense bassin.
+
+Lieu : Salle Paul Vatine, au pied du Phare de la Hève (Phare du Havre).
+
+Venez nombreux...

@@ -1,0 +1,154 @@
+---
+title: "CR de la réunion du CA du 07 décembre 2009"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-07-decembre-2009/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2010-01-06T19:02:55Z"
+authors: [ "Jac", "Pierre CHARLES (Tribolego)" ]
+description: "CR de la réunion du CA du 07 décembre 2009"
+source_id: 1036
+source_url: "https://www.freelug.org/spip.php?article1036"
+---
+
+CR de la réunion du CA du 07 décembre 2009
+
+## Ordre du jour
+
+_Début de séance : 20h10_
+
+_Présents (9) :_  
+**–** Erik Amzallag  
+**–** Emmanuel Bonnard  
+**–** Pierre Charles  
+**–** Pierrick Dauny  
+**–** Gaël Frazier  
+**–** Nicolas Huyard  
+**–** Jérôme Teissier  
+**–** Xavier Viallefont  
+**–** Richard Lemeiter (représenté dans un premier temps par Erik)
+
+_Excusés (2) :_  
+**–** Didier Malon  
+**–** Jean-Louis Bergamo
+
+_Absents (1) :_  
+**–** Marc Schickelé
+
+_Ordre du jour :_
+
+-   Expositions  
+    **–** Exposition de Cusset, point sur l’avancement  
+    **–** Exposition d’orléans, point sur notre participation  
+    **–** Point pour les frais de Miramas  
+    **–** "Gare aux idées"
+
+-   Pour l’Assemblée Générale  
+    **–** Date de l’AG à valider  
+    **–** Salle proposée par Daniela  
+    **–** Concours de locotracteurs  
+    **–** Concours de petit MOC pour l’AG  
+    **–** Loterie lors de l’Assemblée Générale
+
+-   Autres points  
+    **–** Concours de vignettes SW  
+    **–** Point sur la commande groupée de boîtes chez LEGO  
+    **–** Achat de calendriers RailBricks  
+    **–** Demande de dossier pour la REF 2010  
+    **–** Relance des inscriptions à FreeLUG  
+    **–** Nouvelle adresse  
+    **–** Point sur la Boîte Postale  
+    **–** Point sur les badges
+
+## Expositions
+
+**Exposition de Cusset, point sur l’avancement**
+
+Jérôme va contacter la personne en charge de cet évènement chez LEGO France pour que l’on voie ce que l’on peut faire avec eux. Erik lui transmet le contact.
+
+**Exposition d’Orléans, point sur notre participation**
+
+Nicolas a pu discuter avec Philippe de l’organisation de notre participation à l’exposition ferroviaire d’Orléans 2010. Philippe souhaite un nombre limité de personne pour que chaque Freelugien participant puisse espérer avoir un défraiement de la part de l’organisation. C’est aussi pour lui plus simple à gérer dans son optique de thème principal pour créer une unicité du décor.
+
+**Point pour les frais de Miramas**
+
+Pour le moment nous n’avons pas encore reçu le remboursement des frais de l’exposition de Miramas.
+
+**"Gare aux idées"**
+
+Nous attendons des nouvelles des organisateurs.
+
+## Pour l’Assemblée Générale
+
+  
+**Date de l’AG et salle proposée par Daniela**
+
+Le CA a choisi pour l’AG le 20-21 mars pour l’AG 2010. Cette date reste à confirmer selon la disponibilité de la salle proposée par Daniela. Le cas contraire une date début mars ou fin février sera privilégiée selon disponibilité.
+
+_Note post-réunion : la date de l’AG est finalement fixée au 27-28 février 2010, seule date disponible pour la salle._
+
+  
+**Concours de locotracteurs**
+
+Jérôme et Richard nous proposent un concours de locotracteurs pour l’AG 2010. Les modalités seront transmises aux adhérents par mail.
+
+  
+**Concours de petit MOC pour l’AG**
+
+Pour cette même AG un concours de MOC sera organisé. Le thème et les modalités exactes sont à définir. Pierrick se charge de proposer un sujet par mail au CA.
+
+**Loterie lors de l’Assemblée Générale**
+
+Pour l’AG 2010, une loterie sera organisée. Les lots restent à définir.
+
+## Autres points
+
+  
+**Concours de vignette SW**
+
+Erik propose un concours de vignettes 16x16 sur le thème de Noël et de Star-Wars avec obligation de présence d’une minifig Star-Wars officielle. Le gagnant désigné par tirage au sort recevra un Darth-Vader Chrome Black.
+
+  
+**Point sur la commande groupée de boîtes chez LEGO**
+
+Le CA a décidé des 10 boîtes de LEGO qui seront proposées aux adhérents FreeLUG en achat groupé chez LEGO France, pour janvier 2010. Une limite de 250€ par foyer (même adresse) a été fixée. Le reste des modalités se trouveront dans un mail envoyé sur la liste de diffusion globale. Xavier se charge de la communication sur ce sujet avec les adhérents.
+
+  
+**Achat de calendriers RailBricks**
+
+Le CA a décidé de prendre à sa charge les frais d’envois de la commande groupée de calendriers RailBricks 2010 depuis l’éditeur jusque chez Pierre Laurenge qui coordonne cet achat.  
+**–** Pour : 6  
+**–** Contre : 2  
+**–** Abstention : 1
+
+Le CA a aussi décidé d’acheter 6 calendriers pour l’association.  
+**–** Pour : 8  
+**–** Abstention : 1
+
+  
+**Demande de dossier pour la REF 2010**
+
+Jérôme se charge avant la fin de l’année de rédiger la demande de dossiers pour la REF 2010, qui sera transmise aux adhérents pour qu’ils fassent des propositions.
+
+  
+**Relance des inscriptions à FreeLUG**
+
+Richard se charge de rédiger le mail de relance des inscriptions.
+
+  
+**Nouvelle adresse**
+
+Pour le moment, les courriers sont soit adressés chez le Président, soit chez un des deux trésoriers, selon la nature du courrier et plus sur la boîte postale.
+
+  
+**Point sur la boîte postale**
+
+La boîte postale est maintenue pour une année pour ne pas perdre d’éventuels courriers, il n’en est plus fait mention sur le site internet.
+
+  
+**Point sur les badges**
+
+Une ultime relance sera effectuée pour savoir si le dernier badge manquant à été envoyé à son destinataire. L’association payera la facture des badges en conséquence.
+
+_Fin de séance : 22h46_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : ca@freelug.org

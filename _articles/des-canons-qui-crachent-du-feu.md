@@ -1,0 +1,57 @@
+---
+title: "Des canons qui crachent du feu !"
+permalink: "/articles/des-canons-qui-crachent-du-feu/"
+section: "/themes/moc/"
+published_at: "2012-01-17T19:23:55Z"
+authors: [ "Laurent Le Berre" ]
+description: "Branle-bas de combat, tout le monde sur le pont ! Ce petit article
+  va vous exposer ma méthode toute simple pour installer de la lumière dans un
+  canon LEGO, et animer ainsi vos bateaux pirates !"
+source_id: 1437
+source_url: "https://www.freelug.org/spip.php?article1437"
+---
+
+Branle-bas de combat, tout le monde sur le pont !
+
+Ce petit article va vous exposer ma méthode toute simple pour installer de la lumière dans un canon LEGO, et animer ainsi vos bateaux pirates !
+
+Alors, je vous entends déjà d’ici : dans quelle mesure est-ce encore jouer aux LEGO lorsque l’on planque de l’électronique à l’intérieur ? Eh bien écoutez, je suis moi-même ravi de pouvoir faire du 100% LEGO lorsque c’est possible, mais si c’est pour se faire plaisir aux yeux, quel mal y a-t-il si en plus aucun élément LEGO n’est esquinté au cours de la manipulation ! De plus, les éléments électroniques, en plus d’être des plus basiques, miniaturisent ici ce que les LEGO, en l’état actuel du catalogue des items, ne permettent pas de faire.
+
+[![](/media/archive/1026590973be438060230793.jpg)](https://www.freelug.org/IMG/jpg/canon1-2.jpg)
+
+En partant des canons que l’on trouve sur tous les sets de bateaux pirates qui se respectent, je propose simplement de séparer chacun des éléments qui le constituent : affût, canon, culot et dispositif du ressort sont donc séparés.
+
+[![](/media/archive/ca54b04ca9b35348ced14601.jpg)](https://www.freelug.org/IMG/jpg/canon2-3.jpg)
+
+Pour faire sauter le culot, je me sers de la tête d’une aiguille pour appuyer sur les deux minuscules pressoirs qui se trouvent de part et d’autre du tube, ainsi que d’un ongle pour tirer doucement sur le culot.
+
+[![](/media/archive/32b6973ddef1989e83c02e14.jpg)](https://www.freelug.org/IMG/jpg/canon3.jpg)
+
+Une fois arrivé là, on peut mettre le dispositif du ressort à part ; le canon sera remonté sans lui, car on a besoin du trou qu’il occupe dans le culot.
+
+[![](/media/archive/0f27dc88ffdb93126932ce72.jpg)](https://www.freelug.org/IMG/jpg/canon4.jpg)
+
+C’est maintenant que ça devient plus technique. Une soudure rapide led (blanche ou rouge) + résistance (bleu, rouge, marron, or), permettra d’alimenter la lumière en 9v ; n’hésitez pas à mettre de l’adhésif sur les pattes de la led pour limiter les risques de faux-contact.
+
+[![](/media/archive/d35049bf418ce5568df8bbbd.jpg)](https://www.freelug.org/IMG/jpg/canon5.jpg)
+
+Pour insérer la led dans le canon, on fait passer les fils en premier, un par un, en entrant par la gueule.
+
+[![](/media/archive/c8a9e8ffd05b1ad5f1b7d1a0.jpg)](https://www.freelug.org/IMG/jpg/canon6.jpg)
+
+Une fois cette étape terminée, et qui n’est pas la plus simple, le culot peut être remis en place en faisant passer les fils dans le trou qui servait au dispositif du ressort. Pendant ce temps, on assemble une flamme sur un ensemble cône et cylindre de couleur trans red ou trans orange, qui ira s’enfiler directement sur la led.
+
+[![](/media/archive/1041d05ea051d292be9ffb36.jpg)](https://www.freelug.org/IMG/jpg/canon7.jpg)
+
+C’est bon ! Avec une pile 9v, le canon est prêt à cracher du feu ! Et en plus on se retrouve avec un ressort en plus. Bon, je referai un tutoriel quand j’aurai trouvé quoi faire avec le ressort...  
+En fait, la principale difficulté de cette manipulation, ça sera de cacher les fils, parce que je vous rejoins sur ce point : les fils électriques dans les LEGO, c’est moche.
+
+Bon allez, un petit bonus pour conclure cet article. Avec un peu de patience, quelques mètres de fils électriques en plus et quelques chenillards commandés sur internet, on peut en arriver à reconstituer un tir de batterie, un plus spectaculaire, avouez :
+
+[Vidéo de la publication d’origine](https://www.youtube.com/v/PH2EDUXljYM?version=3&hl=fr_FR)
+
+Voilà pour ce tutoriel, c’est un montage extrêmement basique, mais je tenais à partager l’idée pour enrichir les possibilités de moc en matière de pirates, j’espère qu’il vous aura plu !
+
+A bientôt !
+
+LaurentB

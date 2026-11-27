@@ -1,0 +1,109 @@
+---
+title: "REVUE : CITY 60171 - L’évasion des bandits en montagne"
+permalink: "/articles/revue-city-60171-l-evasion-des-bandits-en-montagne/"
+section: "/themes/ville-city/"
+published_at: "2018-01-08T19:32:14Z"
+authors: [ "Mickael GOBLET", "Philippe ZYTKA" ]
+description: "Pour le moment 7 sets sont prévus dans la nouvelle gamme de la
+  police des montagnes : 60170 à 60176 Penchons nous ici sur le deuxième set en
+  terme de taille. Cette fois ci, les bandits qui se sont échappés de la prison
+  partent dans les montagnes à le recherche du(des) trésor(s) qu’il y ont
+  cachés. La brigade de la police des montagnes arrivera t’elle à les rattraper
+  avant qu’ils ne s’enfuient ?"
+source_id: 2809
+source_url: "https://www.freelug.org/spip.php?article2809"
+---
+
+Pour le moment 7 sets sont prévus dans la nouvelle gamme de la police des montagnes : 60170 à 60176 Penchons nous ici sur le deuxième set en terme de taille. Cette fois ci, les bandits qui se sont échappés de la prison partent dans les montagnes à le recherche du(des) trésor(s) qu’il y ont cachés. La brigade de la police des montagnes arrivera t’elle à les rattraper avant qu’ils ne s’enfuient ?
+
+Le thème de la police est, avec celui des pompiers, le thème récurent chez la firme danoise. On ne compte plus les commissariats, hélicoptères, camions d’intervention déclinés en diverses versions. Après quelques sets en 2016 autour d’une prison située sur une île, et une police des marais auparavant, c’est dans la montagne que LEGO® envoie les policiers cette année.
+
+-   Set N° : 60171 - L’évasion des bandits en montagne
+-   Nombre de pièces : 88
+-   Prix : 9,99€
+-   Rapport prix/pièce : 11 cents/pièce
+-   Nombre de figs : 4
+
+La première chose que l’on remarque sur cette nouvelle gamme CITY, c’est le relooking de l’emballage. Le bandeau bleu est toujours présent, mais il est travaillé de manière à donner un effet de texture, pas seulement sur la face avant, mais sur 5 des côtés de la boîte (seule la face avec le code barre ne change pas).
+
+[![](/media/archive/f2d618510c0ae65f63ddce15.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_003.jpg)
+
+La partie droite du bandeau propose toujours une tête de minifig, mais un élément de décor travaillé est placé en arrière plan. Pour cette thématique police de la montagne, il s’agit d’un beau sommet enneigé duquel dépasse un soleil couchant (ou levant). Le contenu de la boîte est également mis en valeur sur un beau décor, dépassant du cadre. L’ensemble est vraiment dynamique.
+
+[![](/media/archive/286363a5a4580a9047ebaefc.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_004.jpg)
+
+La face arrière, à son habitude, propose les différents éléments de jouabilité dans 4 vignettes mises en relief. Là encore, le contenu dépasse des bords, dynamisant l’ensemble.
+
+![](/media/archive/be05aebb52a18ff1ad8f91c3.jpg)
+
+[![](/media/archive/4f1637ddcaf1c3d43378cee0.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_006.jpg)
+
+Il n’y a pas à dire, avec ce nouveau relooking de la gamme les boites gagnent vraiment en attrait. Ça fait vraiment envie.
+
+Deux sachets et une notice, le contenu habituel des boites dans cette catégorie de prix.
+
+[![](/media/archive/21fadc5a079d96ff0561a3f4.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_007.jpg)
+
+Contrairement au set similaire de la série mineurs, le 60184, les figurines sont montées dès le début de la notice. deux bandits et deux policiers, c’est équitable, un homme et une femme dans chaque camp, la parité est respectée.
+
+On construit ensuite les éléments de jouabilité de chacun.
+
+Le tronc d’arbre sur laquelle madame bandit s’enfuit avec ses lingots d’or sur le dos.
+
+[![](/media/archive/4738be04b7eac6d6634f9446.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_001.jpg)
+
+[![](/media/archive/b949030ec6bb0b3284107c3e.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_011.jpg)
+
+On notera la tile round 2x2 reddish brown sérigraphiée pour faire le tronc d’arbre, qui n’apparaissait auparavant que dans le set Disney Princess : Snow White Cottage.
+
+![](/media/archive/d4220ad7434e65bb153022f6.jpg)
+
+On équipe ensuite le policier de son quad afin qu’il se lance à la poursuite du tronc d’arbre, le long des rives de la rivière déchaînée.
+
+[![](/media/archive/afb264fc10b54e165ddcf716.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_012.jpg)
+
+Nouvelle pièce à l’inventaire : le garde boue. N’ayez crainte, il ne restera pas longtemps inédit à cette boite...
+
+[![](/media/archive/6ce71872381795a847f4f30b.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_010.jpg)
+
+Vient le temps de monter l’arbre creux, autour duquel se retrouvent la policière et le bandit armé d’une pelle. Un peu de branchage vient habilement dissimuler la cachette (hu hu hu). C’est ici qu’intervient LA nouvelle pièce qui a été largement commentée dans les différents forums lorsque les premiers visuels ont fuité : l’essaim d’abeille.  
+C’est sympa, elle s’emboite sur la tête de la fig. Je suis très curieux et impatient de voir comment cette pièce va être détournée dans de futurs sets ou par les MOCeurs sur la toile.
+
+[![](/media/archive/6ed31f569e0069fc7f649a5b.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_002.jpg)
+
+[![](/media/archive/5384b3ef66692e3a1d12ef47.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_013.jpg)
+
+Du côté des figs :
+
+_Madame bandit :_
+
+![](/media/archive/5d234db35afcad45e12d325a.jpg)
+
+Elle a camouflé son uniforme rayé de prisonnière sous une chemise à carreau style trappeur. Le design est simple, le designer a même pensé à une pièce raccord sur le devant, mais le travail sur l’impression des carreaux est vraiment réussi. Sourcils froncés sur la tête, pour bien indiquer que c’est une personne pas commode.
+
+_Monsieur bandit :_
+
+![](/media/archive/8fc7b4e9b4e5c3641357c52a.jpg)
+
+Pourquoi TLC se sent obligé de coller systématiquement une dent en or ou manquante aux bad guys ??? Rien d’exceptionnel sur la sérigraphie du torse, avec les traditionnelles rayures grises et blanches et le numéro d’identification. Par contre la tête bénéficie d’une double face, dont une assez drôle qui présente des boursouflures de piqûre de guêpes.
+
+_La policière :_
+
+[![](/media/archive/a303a90968ffdad3d7d71d08.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_017.jpg)
+
+Il n’est jamais évident de faire du neuf lorsqu’on doit évoquer un uniforme de policier. LEGO® réutilise les jambes en dark tan qui figurent également dans le thème mineurs, et équipe sa policière d’un gilet tactique avec talkie-walkie, gourde, micro, et badge. Le travail est propre, fin et fait parfaitement le job !
+
+_Le policier pilote de quad :_
+
+![](/media/archive/9acbfb034ae3d5100755efaf.jpg)
+
+On notera les deux petites décorations sur les pointes du col de chemise. Pour le reste, même si la sérigraphie est propre, rien de vraiment original.
+
+[![](/media/archive/6354f300284e706ce2626f74.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60171_L_evasion_des_bandits_en_montagne_014.jpg)
+
+**Conclusion :**  
+Malgré ses 6 pièces de plus, je suis moins emballé par ce set que par le [60184 : l’équipe minière](/articles/revue-city-60184-l-equipe-miniere/). Il faut reconnaître que les sets police ont du mal à se renouveler malgré l’environnement dans lequel les personnages évoluent. On tourne en rond entre les différentes évasions et poursuites. Ce ne sont pas les deux pièces inédites du set, ni les nouveaux vêtements qui feront la différence. J’attends avec impatience que le motif chemise à carreaux trappeur soit utilisé sans un uniforme de prisonnier en dessous.
+
+Et voilà un arbre alternatif...
+
+![](/media/archive/52e7d74517c5e07dab555764.jpg)

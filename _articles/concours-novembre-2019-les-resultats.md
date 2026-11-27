@@ -1,0 +1,86 @@
+---
+title: "Concours novembre 2019 : les résultats"
+permalink: "/articles/concours-novembre-2019-les-resultats/"
+section: "/association/concours-et-challenges/"
+published_at: "2019-11-24T17:49:33Z"
+authors:
+  [
+    "Loïc TARENTO",
+    "Lydie LEPETIT",
+    "Mathieu WEINGAERTNER",
+    "Pierre CHARLES (Tribolego)",
+    "Rémi LEJUS"
+  ]
+description: "Voici en exclusivité mondiale les résultats du concours de
+  Novembre 2019 qui avait pour thème, rappelons-le, le célèbre justicier Batman
+  (qui fête ses 80 ans cette année)."
+source_id: 2996
+source_url: "https://www.freelug.org/spip.php?article2996"
+---
+
+Voici en exclusivité mondiale les résultats du concours de Novembre 2019 qui avait pour thème, rappelons-le, le célèbre justicier Batman (qui fête ses 80 ans cette année).
+
+Nous tenons tout d’abord à féliciter les 4 participants qui nous ont proposé des créations toutes plus sympathiques les unes que les autres et nous tenons également à remercier les personnes qui se sont portées volontaires pour faire partie du jury.
+
+Il est temps d’abréger le suspens et d’applaudir **Hervé S.** qui remporte le set **DC Super Hero Girls 41236 Harley Quinn Dorm**.
+
+Voici les photos des 4 participations :
+
+Participation 1 : Hervé S.
+
+[![](/media/archive/ff51f6ad43b78de5de6d2e68.jpg)](https://www.freelug.org/IMG/jpg/part1_photo1.jpg)
+
+[![](/media/archive/52c73a002ac2f7c821bb5d50.jpg)](https://www.freelug.org/IMG/jpg/part1_photo2.jpg)
+
+[![](/media/archive/79a7020acca2d74b939e972a.jpg)](https://www.freelug.org/IMG/jpg/part1_photo3.jpg)
+
+[![](/media/archive/d903a66553408da5ee2263d2.jpg)](https://www.freelug.org/IMG/jpg/part1_photo4.jpg)
+
+[![](/media/archive/3c4805b7e8809f639aa66838.jpg)](https://www.freelug.org/IMG/jpg/part1_photo5.jpg)
+
+Participation 2 : Valentin P.
+
+[![](/media/archive/5bed4d56a2e971fe6cb67ba9.jpg)](https://www.freelug.org/IMG/jpg/part2_photo.jpg)
+
+Participation 3 : Nicolas G.
+
+[![](/media/archive/d397579a40c26abf9a4085f4.jpg)](https://www.freelug.org/IMG/jpg/part3_photo1.jpg)
+
+[![](/media/archive/3e53f8bec1d46be952c47f9e.jpg)](https://www.freelug.org/IMG/jpg/part3_photo2.jpg)
+
+[![](/media/archive/5f903c8cbda393c16c7c69ff.jpg)](https://www.freelug.org/IMG/jpg/part3_photo3.jpg)
+
+[![](/media/archive/0db78f2d1b8309571f4ed1dd.jpg)](https://www.freelug.org/IMG/jpg/part3_photo4.jpg)
+
+[![](/media/archive/0c1f04318344c2aa40c822dc.jpg)](https://www.freelug.org/IMG/jpg/part3_photo5.jpg)
+
+Participation 4 : Nicolas R.
+
+[![](/media/archive/d32594f6d22841f4787ab008.jpg)](https://www.freelug.org/IMG/jpg/part4_photo1.jpg)
+
+[![](/media/archive/cff36c8f952cb00b97d4ac05.jpg)](https://www.freelug.org/IMG/jpg/part4_photo2.jpg)
+
+[![](/media/archive/da64ab72ea57975d0c9e42ba.jpg)](https://www.freelug.org/IMG/jpg/part4_photo3.jpg)
+
+A bientôt pour un nouveau concours !
+
+* * *
+
+**Composition du jury** :
+
+-   BORELLY Xavier
+-   CHALAUX Laurent
+-   CHARLES Pierre (Membre FAA)
+-   LEJUS Rémi (Membre FAA)
+-   LEPETIT Lydie (Coordinatrice FAA)
+-   TARENTO Loïc (Membre FAA)
+-   VANNIER Jérôme
+-   WEINGAERTNER Mathieu (Membre FAA)
+
+**Classement** :
+
+1\. Hervé S.  
+2\. Nicolas R.  
+3\. Nicolas G. et Valentin P.
+
+* * *

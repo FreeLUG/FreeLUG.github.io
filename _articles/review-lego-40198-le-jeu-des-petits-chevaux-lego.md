@@ -1,0 +1,100 @@
+---
+title: "[REVIEW] LEGO 40198 - Le jeu des petits chevaux LEGO®"
+permalink: "/articles/review-lego-40198-le-jeu-des-petits-chevaux-lego/"
+section: "/themes/divers/"
+published_at: "2020-11-24T20:25:06Z"
+authors: [ "Nicolas W" ]
+description: "Pour changer un peu, je vous propose de voir rapidement un jeu de
+  petits chevaux en briques, en l’occurrence l’ensemble 40198 intitulé Le jeu
+  des petits chevaux LEGO®."
+source_id: 3059
+source_url: "https://www.freelug.org/spip.php?article3059"
+---
+
+Pour changer un peu, je vous propose de voir rapidement un jeu de petits chevaux en briques, en l’occurrence l’ensemble _40198_ intitulé _Le jeu des petits chevaux LEGO®_.
+
+* * *
+
+Sorti en 2018, pour la somme en boutique officielle de 39,99 €, cette boîte contient 398 pièces. Elle propose, comme son intitulé le laisse deviner, de construire en briques LEGO un jeu des petits chevaux, avec lequel on peut vraiment jouer, en plus.
+
+La face avant de la boîte présente le jeu, auquel s’adonnent 4 figurines LEGO, vraisemblablement des enfants. Une petite mention en bas à droite indique que « les règles sont incluses », et en effet la notice décrit, très sommairement, les règles des petits chevaux.
+
+Les chevaux sont comme il se doit des minifigurines LEGO, et il y en a donc 16, j’en reparlerai.
+
+Le jeu reprend les quatre couleurs me semble-t-il habituelles d’un tel jeu, rouge, vert, bleu, jaune. Chaque quadrant du plateau dans lequel sont posées les figurines en attente présente un petit décor sommaire.
+
+[![](/media/archive/e412ee9a0fe130ac6a5f6f1f.jpg)](https://www.freelug.org/IMG/jpg/dsc02651.jpg)
+
+Au dos une mise en scène du plateau au milieu d’une partie. Les figurines non dans la course profitent de leur quadrant pour se reposer ou s’amuser, c’est plus rigolo que simplement attendre son tour.
+
+[![](/media/archive/fa5bb80e0e89b1da0cda35c1.jpg)](https://www.freelug.org/IMG/jpg/dsc02653.jpg)
+
+* * *
+
+Je ne vais pas en faire des tonnes sur le montage, qui implique 5 sachets (un pour la plaque et un pour chaque quadrant), il n’y a rien de compliqué. À noter que c’est la première fois que je vois dans une notice une indication claire de faire attention à la couleur de plaques : pour les quadrants rouge et jaune, les deux plaques tan et tan foncé sont côte à côte, et l’une est barrée d’un trait rouge. Ceci permet de bien montrer qu’il y a des couleurs similaires et qu’il faut prendre la bonne.
+
+* * *
+
+Voici donc le jeu totalement monté.
+
+Chaque quadrant a quatre plaques 2x2 pour recevoir une figurine au repos. Le plateau ne comporte que 5 cases sur chaque ligne droite, alors que me semble-t-il les petits chevaux habituels en comportent 7, mais je ne vais pas faire la fine bouche.
+
+[![](/media/archive/86eec478ce0330499735e456.jpg)](https://www.freelug.org/IMG/jpg/dsc02489-r90.jpg)
+
+[![](/media/archive/100985e9f9b047ec45c09647.jpg)](https://www.freelug.org/IMG/jpg/dsc02490-r90.jpg)
+
+Le plateau de jeu se compose d’une plaque de base sur laquelle on monte des pièces lisses et d’autres à quelques tenons, et on pose les quadrants directement dessus. Il est donc facile de les enlever, c’est pratique même si la plaque de base prend toujours la même place elle...
+
+[![](/media/archive/ce91df3e63f7f1492de7bf00.jpg)](https://www.freelug.org/IMG/jpg/dsc02497.jpg)
+
+[![](/media/archive/29748794c4b9d069c564fcb8.jpg)](https://www.freelug.org/IMG/jpg/dsc02498.jpg)
+
+Le quadrant vert est sur un thème un peu naturel, avec un arbre fleuri et une table à pique-nique, avec quand même une tasse, il faut bien pouvoir boire un peu de temps en temps.
+
+[![](/media/archive/f100740d3a3c4807a71c3070.jpg)](https://www.freelug.org/IMG/jpg/dsc02491.jpg)
+
+[![](/media/archive/08fff96626a529fef8f04543.jpg)](https://www.freelug.org/IMG/jpg/dsc02508.jpg)
+
+Le quadrant jaune est clairement orienté plage, avec un palmier, un transat et un mini château de sable, au fond. Les figurines ont d’ailleurs une tenue de plage et des lunettes de soleil, on sent l’été !
+
+[![](/media/archive/bf65e20bcd2eccdb4ecbb9d9.jpg)](https://www.freelug.org/IMG/jpg/dsc02492.jpg)
+
+[![](/media/archive/310b47f45831c5f962d1be2b.jpg)](https://www.freelug.org/IMG/jpg/dsc02505.jpg)
+
+Côté rouge c’est plutôt l’automne, avec encore un arbre et une petite citrouille (tête orange plus fleur verte, un grand classique vu dans de nombreux ensembles).
+
+[![](/media/archive/e7ae2293e1df93d6040a9c29.jpg)](https://www.freelug.org/IMG/jpg/dsc02493.jpg)
+
+[![](/media/archive/040765696e7d566e38b41afb.jpg)](https://www.freelug.org/IMG/jpg/dsc02506.jpg)
+
+Enfin le quadrant bleu est nautique, avec un petit toboggan et un mini flotteur. Par contre les figurines n’ont pas du tout une tenue adaptée à l’eau...
+
+[![](/media/archive/d9f6686b9432a96c36516325.jpg)](https://www.freelug.org/IMG/jpg/dsc02494.jpg)
+
+[![](/media/archive/a69bd50cc9909b5ccf7fbd98.jpg)](https://www.freelug.org/IMG/jpg/dsc02507.jpg)
+
+Le dé de son côté est un disque 8x8 sérigraphié à six cases numérotées de 1 à 6, sur lequel on assemble une charnière et une petite pointe verte pour indiquer la case choisie.
+
+Le principe est simple : on donne une impulsion à la pièce verte qui tourne et s’arrête sur un chiffre au hasard. En pratique j’ai quelques doutes, si la plaque n’est pas exactement horizontale, le chiffre qui sort n’est pas totalement aléatoire... Je ne sais pas pourquoi LEGO n’a pas fourni un dé comme il en existe, à 6 faces.
+
+[![](/media/archive/1b578afa29df3f547530e0ab.jpg)](https://www.freelug.org/IMG/jpg/dsc02495.jpg)
+
+* * *
+
+Côté figurines, il y a donc 16 figurines, 4 de chaque couleur. Elles sont en double, il y a donc 8 figurines distinctes, chacune à dominante de la couleur de son quadrant. La parité est bien respectée, il y a deux hommes et deux femmes de chaque couleur.
+
+Seules les jambes jaunes sont sérigraphiées, avec un maillot de bain de face uniquement (plus une bande rouge au dos), les autres sont uniformes. Les torses sont encore spécifiques plage pour le jaune, et moins liés à un thème pour les autres couleurs, mais ils ont tous des motifs au dos.
+
+Toutes les chevelures et têtes sont différentes entre les 8 figurines, et on pourrait donc mélanger sur une même couleur pour avoir 4 figurines distinctes par couleur. 4 têtes ont un visage alternatif.
+
+[![](/media/archive/a41b04944b0c11f326b9fddc.jpg)](https://www.freelug.org/IMG/jpg/dsc02499.jpg)
+
+[![](/media/archive/6b1b443a155dba2af89025ac.jpg)](https://www.freelug.org/IMG/jpg/dsc02502.jpg)
+
+[![](/media/archive/2366186b46ce910c9b4db635.jpg)](https://www.freelug.org/IMG/jpg/dsc02503.jpg)
+
+* * *
+
+_Avis :_ cet ensemble est bien amusant et vraiment fonctionnel, on peut réellement jouer aux petits chevaux avec. Après, j’admets l’avoir pris plutôt pour sa collection de pièces : une plaque de base, 4 plaques 16x16, et 16 figurines, ça fait un bon ratio pour le prix, je trouve.
+
+Donc un ensemble pas indispensable, mais ça peut permettre d’ajouter quelques figurines et morceaux de décor dans une scène plus grande pour un prix raisonnable.

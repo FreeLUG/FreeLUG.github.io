@@ -1,0 +1,93 @@
+---
+title: "Concours AG 2020 - les résultats"
+permalink: "/articles/concours-ag-2020-les-resultats/"
+section: "/association/concours-et-challenges/"
+published_at: "2020-02-24T19:43:46Z"
+authors:
+  [
+    "Loïc TARENTO",
+    "Lydie LEPETIT",
+    "Mathieu WEINGAERTNER",
+    "Pierre CHARLES (Tribolego)",
+    "Rémi LEJUS"
+  ]
+description: "Ils étaient 10 candidat-e-s (8 adultes et 2 enfants) à tenter leur
+  chance au concours de l’AG 2020. Qui a su convaincre le jury ?"
+source_id: 3020
+source_url: "https://www.freelug.org/spip.php?article3020"
+---
+
+Ils étaient 10 candidat-e-s (8 adultes et 2 enfants) à tenter leur chance au concours de l’AG 2020. Qui a su convaincre le jury ?
+
+A l’occasion de la tenue de l’AG 2020 qui avait lieu à Irigny (69), la FAA a proposé un concours sur le thème de "Lyon". Il s’agissait donc de représenter un symbole Lyonnais...en 50 pièces maximum.
+
+Dix personnes ont relevé ce défi : 8 adultes et 2 enfants.
+
+Voici donc les résultats :
+
+**Catégorie enfant**
+
+En première position, le jury a plébiscité la création de Gabin qui nous a présenté un théâtre de Guignol de toute beauté avec, petit +, des marionnettes animées.  
+Il remporte donc le set **LEGO Marvel 76129 : Spiderman et l’attaque d’Hydro-Man**.
+
+[![](/media/archive/c151f587600b2016fe4ea7e8.jpg)](https://www.freelug.org/IMG/jpg/004-3.jpg)
+
+En deuxième position, nous avons la place Bellecour en version minimaliste de Jules que nous applaudissons également.  
+Il remporte le set **LEGO Creator 31044 : Les animaux du parc**.
+
+**Catégorie adulte**
+
+Chez les adultes, nous retrouvons, en troisième position, la basilique de Fourvière en version boule à neige créée par Fabrice V. - _création 1 sur les photos_  
+Il remporte donc le set **LEGO Architecture 21019 : La Tour Eiffel**.
+
+Pour les deux premières places, nous avons eu le droit à une égalité parfaite.  
+C’est donc Monsieur le Maire d’Irigny venu nous rendre visite qui nous a fait l’honneur de départager les deux participants.
+
+En deuxième place, nous retrouvons donc la mini basilique de Fourvière (encore une !) réalisée par Julien G. - _création 2 sur les photos_  
+Il remporte le set **LEGO Architecture 21031 : Burj Khalifa**.
+
+Et le vainqueur dont la création a été le coup de cœur de Monsieur da Passano se trouve être Jérémie D. qui a su recréer à la perfection une station Vélo’v (pour les non-Lyonnais, il s’agit des vélos en libre-service disponibles dans la métropole de Lyon).  
+Il gagne donc le set **LEGO Architecture 21029 : Le Palais de Buckingham**.
+
+_Première place :_
+
+[![](/media/archive/77e3de0dab3012d613d0069c.jpg)](https://www.freelug.org/IMG/jpg/005-4.jpg)
+
+[![](/media/archive/71aa242f6f7d2fa20101a0d9.jpg)](https://www.freelug.org/IMG/jpg/003-3.jpg)
+
+[![](/media/archive/9e0908a1172926a7f2c8b4ab.jpg)](https://www.freelug.org/IMG/jpg/001-5.jpg)
+
+[![](/media/archive/67295180156807d934b03991.jpg)](https://www.freelug.org/IMG/jpg/002-5.jpg)
+
+Nous félicitons également Wilfried R. (MoC n°3 sur les photos), Bénédicte G. (MoC n°5), Nicolas G. (MoC n°6), Mathieu C. (MoC n°7) et Didier E. (MoC n°8).
+
+Merci à tous les participants et participantes et aux cinq personnes qui ont été volontaires pour composer le jury.
+
+A bientôt pour un nouveau concours !
+
+* * *
+
+_Composition du jury :_
+
+GOULVESTRE Mavinig  
+LEPETIT Lydie (coordinatrice FAA)  
+MAGAUD Sébastien  
+MOREL Jacques  
+RABALLAND Julia  
+VANNIER Jérôme
+
+_Classement catégorie enfant :_
+
+1.  Gabin
+2.  Jules
+
+_Classement catégorie adulte :_
+
+1.  Jérémie D.
+2.  Julien G.
+3.  Fabrice V.
+4.  Mathieu C.
+5.  Wilfried R.
+6.  Bénédicte G.
+7.  Nicolas G.
+8.  Didier E.

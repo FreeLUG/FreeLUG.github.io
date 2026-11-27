@@ -1,0 +1,98 @@
+---
+title: "CR de la réunion du CA du 2 août 2017"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-2-aout-2017/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2017-11-01T10:17:40Z"
+authors: [ "Jac", "Sébastien HAMON" ]
+description: "CR de la réunion du CA du 2 août 2017"
+source_id: 2747
+source_url: "https://www.freelug.org/spip.php?article2747"
+---
+
+CR de la réunion du CA du 2 août 2017
+
+## Ordre du jour
+
+_Début de séance : 20h39_
+
+_Présents (7) :_  
+**–** Erik Amzallag  
+**–** Antoine Clément-Larosière  
+**–** Daniela Drost  
+**–** Sébastien Hamon  
+**–** Pierre Laurenge  
+**–** Richard Lemeiter  
+**–** Yannick Vignat
+
+_Excusés (2) :_  
+**–** Jérôme Teissier  
+**–** Philippe Label
+
+_Absents (3) :_  
+**–** Pierre Charles  
+**–** Pierrick Francou  
+**–** Xavier Viallefont
+
+_Ordre du jour :_
+
+**–** Expos validées / à valider  
+**–** Point Briqu’Event
+
+-   BE Rhône Alpes
+-   BE Veneux
+-   BE Toulouse
+-   BC Villeurbanne
+
+**–** Bilan REF  
+**–** Nappes  
+**–** Goodies 2018  
+**–** Minifigs  
+**–** Point adhérents
+
+## Expositions
+
+L’association FreeLUG a été invitée à participer à une exposition multithème qui aura lieu à Chaulnes (80) les 21 et 22 avril 2018. Cette exposition a été validée par les membres du CA.
+
+## Point Briqu’Event
+
+**–** BE Rhône Alpes
+
+Antoine nous informe d’une mise à jour du budget prévisionnel en lien avec la sécurité et les consultants. Le reste de l’organisation suit son cours. Un reporter du journal "Le Progrès" a interviewé Antoine pour faire la promotion de l’exposition.
+
+**–** BE Veneux
+
+Daniela nous informe que le nombre d’exposants est pourvu. Un achat a été fait auprès de LEGO DK via les dotations et sera absorbé dans le budget.  
+Daniela nous présente également le tableau du budget prévisionnel.
+
+**–** BE Toulouse
+
+Aucune nouvelle depuis la réunion précédente, il semble que l’édition de la BE 2017 soit clairement compromise.
+
+**–** BC Villeurbanne
+
+Pierre L nous informe que le bilan est fini. Une discussion va voir lieu avec Fabrice sur la suite à donner à la Brique Convention.
+
+## Bilan REF
+
+La REF a une nouvelle fois rencontré un beau succès, avec 3 concours dont un surprise fait sur place.
+
+## Nappes
+
+Les nouvelles nappes ont été fabriquées par le prestataire mais il semble qu’il y ait eu un souci de compréhension sur les dimensions souhaitées. Ce dernier nous propose soit de tout refaire à sa charge mais avec du temps supplémentaire, soit de nous offrir la confection. Nous optons pour le second choix pour être certain de les avoir pour début septembre et la BE RA.
+
+## Goodies 2018
+
+Nous réfléchissons déjà au goodie 2018 qui sera l’année des 15 ans de FreeLUG.
+
+## Minifigs
+
+En l’absence de Xavier, il est difficile d’avancer sur ce point, toutefois nous le contactons par mail pour lui demander de faire le bon de commande de la série 17.
+
+## Point adhérents
+
+En l’absence de Philippe, nous pouvons juste dire que nous avons 2 adhérents de plus que le mois dernier.
+
+_Fin de séance : 22h32_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [CA@freelug.org](mailto:CA@freelug.org)

@@ -1,0 +1,73 @@
+---
+title: "Concours AG 2011 : transport de containers"
+permalink: "/articles/concours-ag-2011-transport-de-containers/"
+section: "/association/concours-et-challenges/"
+published_at: "2011-01-26T07:06:37Z"
+authors: [ "Jac", "Richard LEMEITER" ]
+description: "Le concours de l’année dernière ayant reçu un réel succès, nous
+  avons été motivés pour en lancer un nouveau. Il reste axé sur le transport de
+  marchandises, mais cette fois entre rail et route. Tout comme l’année
+  dernière, il est constitué de deux phases."
+source_id: 1271
+source_url: "https://www.freelug.org/spip.php?article1271"
+---
+
+Le concours de l’année dernière ayant reçu un réel succès, nous avons été motivés pour en lancer un nouveau. Il reste axé sur le transport de marchandises, mais cette fois entre rail et route. Tout comme l’année dernière, il est constitué de deux phases.
+
+Pour rappel, la date de l’Assemblée Générale est fixée au week-end du 19 et 20 mars 2011.
+
+Sans attendre nos retrouvailles de fin mars, nous vous proposons dores et déjà à vous atteler à une construction pour un concours ouvert à tous.
+
+## Principe général
+
+Vous devez construire un container et un camion avec sa remorque pour le transporter. Il faudra bien penser à ce que le container soit transportable par la route, le rail et le bateau.
+
+C’est à dire qu’ils devront s’emboîter les uns sur les autres, côte à côte sans contrainte de sens et pouvoir se caler sur une remorque de camion ou sur un wagon.Comme dans la réalité, il existe quelques variantes, suivant ce que le container peut transporter.  
+   
+Un jury choisira l’ensemble le plus joli.
+
+Dans un deuxième temps pendant le week-end de l’AG, nous organiserons un concours de manutentions de containers.  
+Il vous faudra charger ou décharger une petite rame de wagons porte containers.  
+Pour cette partie, nous travaillerons avec des containers normalisés, construits à l’avance.
+
+Par la suite, votre petite construction permettra d’agrémenter par exemple vos réseaux de trains lors de prochaines expositions.  
+   
+Pour résumer ce double concours :
+
+1.  Construction camion + remorque + container, jugée sur l’esthétique et son originalité.
+2.  Participation à l’épreuve de manutentions (ouverte à tous, même celles et ceux n’ayant pas participé au premier concours), sur un réseau dédié, lors du week-end de l’AG, avec containers, wagons, portiques, construits pour l’occasion.  
+     
+
+## Caractéristiques de construction des différents éléments pour le premier concours
+
+**Pour les containers :**
+
+Il existe différents types de containers suivant la nature de la marchandise transportée : Boite « classique », frigorifique, citerne...  
+**–** Le concours de construction est ouvert à toutes les variantes.  
+   
+Dans la réalité, on trouve des 20 pieds, des 40 pieds voire des 45 pieds. La longueur peut donc varier.  
+**–** Le concours de construction est ouvert aux différentes longueurs.  
+   
+Néanmoins :  
+**–** la longueur maxi de ces derniers ne devra pas dépasser 32 tenons ;  
+**–** la hauteur ne devra pas dépasser 7 briques ;  
+**–** la largeur ne devra pas dépasser 8 tenons.
+
+   
+**Pour la remorque et le camion :**
+
+Le matériel pour transporter le container est libre. La remorque devra être adaptée au container, le camion quant à lui restera proportionné au reste et pourra être de facture américaine, européenne... cabine courte ou allongée...
+
+**–** Le concours de construction est ouvert à toutes les variantes.  
+   
+   
+ 
+
+## Épreuve de manutentions
+
+   
+Les containers, wagons marchandises seront imposés pour que tout le monde ait le même matériel à manœuvrer, ainsi que le portique pour déplacer les containers.
+
+Cette épreuve sera dévoilée lors du week-end de l’AG, des séances d’essais libres seront prévues avant les épreuves chronométrées.  
+   
+Bonnes constructions et à bientôt !

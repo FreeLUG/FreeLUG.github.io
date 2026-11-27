@@ -1,0 +1,11 @@
+{%- assign thumbnail = '/media/freelug-logo.png' -%}
+{%- assign image_tags = include.article.content | markdownify | split: '<img ' -%}
+{%- if image_tags.size > 1 -%}
+  {%- assign first_image = image_tags[1] | split: '>' | first -%}
+  {%- assign image_sources = first_image | split: 'src="' -%}
+  {%- if image_sources.size > 1 -%}
+    {%- assign image_source = image_sources[1] | split: '"' | first -%}
+    {%- if image_source != '' -%}{%- assign thumbnail = image_source -%}{%- endif -%}
+  {%- endif -%}
+{%- endif -%}
+{{- thumbnail -}}

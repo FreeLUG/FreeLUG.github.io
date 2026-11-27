@@ -1,0 +1,100 @@
+---
+title: "CR de la réunion du CA du 03 Janvier 2018"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-03-janvier-2018/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2018-04-08T07:40:56Z"
+authors: [ "Jac", "Sébastien HAMON" ]
+description: "CR de la réunion du CA du 03 Janvier 2018"
+source_id: 2811
+source_url: "https://www.freelug.org/spip.php?article2811"
+---
+
+CR de la réunion du CA du 03 Janvier 2018
+
+## Ordre du jour
+
+_Début de séance : 20h42_
+
+_Présents (8) :_  
+**–** Erik Amzallag  
+**–** Pierrick Francou  
+**–** Daniela Drost  
+**–** Sébastien Hamon  
+**–** Philippe Label  
+**–** Pierre Laurenge  
+**–** Richard Lemeiter  
+**–** Jérôme Teissier
+
+_Excusés (2) :_
+
+**–** Pierre Charles  
+**–** Yannick Vignat
+
+_Absents (1) :_
+
+**–** Xavier Viallefont
+
+_Ordre du jour :_
+
+**–** Expositions  
+**–** Point Briqu’Events
+
+-   Briqu’Convention Villeurbanne
+-   Briqu’Expo Combrailles
+-   Briqu’Expo du Nord
+-   Briqu’Expo Veneux
+
+**–** Site FreeLUG  
+**–** Point goodies 2018  
+**–** Point adhérents  
+**–** Contact LEGO France  
+**–** Projet d’expo multiLUG  
+**–** Place libre au CA  
+**–** Ateliers VoldeCoR
+
+## Expositions
+
+Pas d’exposition de validée depuis notre dernière réunion.
+
+## Point Briqu’Events
+
+-   Briqu’Convention Villeurbanne, la préparation est en cours. La convention est annoncée dans le catalogue LEGO du premier semestre 2018.
+
+-   Briqu’Expo Combrailles, la préparation est en cours, notamment pour la demande de support auprès de TLC.
+
+-   Briqu’Expo du Nord aura lieu en 2019. Ce choix a été fait lors de la dernière réunion du CoR Nord Macleod.
+
+-   Briqu’Expo Veneux : la préparation est en cours.
+
+## Site FreeLUG
+
+Suite à quelques recherches ciblées, nous avons a trouvé une ressource documentaire qui va nous aider à mieux cerner et cibler le besoin et l’organisation du futur site.
+
+## Point goodies 2018
+
+Nous essayons de trouver des pièces un peu différentes de ce que nous avons l’habitude de proposer. Nous évoquons quelques idées. Des recherches sont déjà en cours sur des thèmes plus précis. Mais nous devons aussi faire avec le budget prévisionnel de 2018.
+
+## Point adhérents
+
+Au 31 décembre 2017 nous étions 382. Aujourd’hui nous comptons 203 adhérents. Les renouvellements sont en cours.
+
+## Contact LEGO France
+
+Nous préparons le prochain rendez-vous de début d’année avec LEGO France. L’interlocuteur actuel, membre du CA, ne peut pas poursuivre cette tâche. Nous devons donc présenter son remplaçant en même temps.
+
+## Projet d’expo multiLUG
+
+Une personne du groupe Facebook "LEGO Fan Communauté" nous a contacté pour un projet d’expo multiLUG. Erik doit préparer une réponse à cette demande qui peut intéresser nos exposants.
+
+## Place libre au CA
+
+Suite à la démission de l’un de nos membres, nous pensons proposer à nos adhérents un remplacement temporaire jusqu’à l’Assemblée Générale. Il y a pas mal de sujet intéressants à travailler. Peut-être que cela pourrait donner le goût pour une vraie inscription.
+
+## Ateliers VoldeCoR
+
+Pierrick F a organisé un atelier sous le thème de l’utilisation de LDD. Cela a été un succès et le motive pour recommencer.
+
+_Fin de séance : 22h03_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [ca@freelug.org](mailto:ca@freelug.org)

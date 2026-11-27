@@ -1,0 +1,83 @@
+---
+title: "[REVIEW] LEGO 75939 - Le labo de Dr Wu : l’évasion des bébés dinosaures"
+permalink: "/articles/review-lego-75939-le-labo-de-dr-wu-l-evasion-des-bebes-dinosaures/"
+section: "/themes/divers/"
+published_at: "2020-06-29T06:53:58Z"
+authors: [ "efde71" ]
+description: "Partons à la découverte de cette boite avec de mignons bébés dinosaures !"
+source_id: 3050
+source_url: "https://www.freelug.org/spip.php?article3050"
+---
+
+Partons à la découverte de cette boite avec de mignons bébés dinosaures !
+
+[![](/media/archive/a70185cf844ba8889c010235.jpg)](https://www.freelug.org/IMG/jpg/sam_3049.jpg)
+
+Le set comprend 164 pièces avec deux personnages, deux bébés dinosaures et un mini laboratoire. Pour un prix de 19,99€ soit un rapport prix/pièces de 0,12Euros, c’est correct pour un set sous licence.
+
+Une petite vue arrière donne une idée de la jouabilité du set :
+
+[![](/media/archive/aada34f378c8294f45941382.jpg)](https://www.freelug.org/IMG/jpg/sam_3050.jpg)
+
+Venons au principal : le contenu de la boite :
+
+[![](/media/archive/4cfaade6520b0386bb7a18a7.jpg)](https://www.freelug.org/IMG/jpg/sam_3051.jpg)
+
+soit 3 sachets de pièces, une petite planche de stickers et deux dinosaures
+
+![](/media/archive/e0eae8136d96b7ad5311c0d4.jpg)
+
+Le premier bébé dino : le tricératops
+
+[![](/media/archive/f81037cdf2a66777be7f9832.jpg)](https://www.freelug.org/IMG/jpg/sam_3054.jpg)
+
+le deuxième : l’ankylosaure
+
+![](/media/archive/974c935ed7d34ff0606f74d5.jpg)
+
+Nous avons aussi deux personnages Owen Et le docteur Wu
+
+[![](/media/archive/78928f8bf59a00fc78416365.jpg)](https://www.freelug.org/IMG/jpg/sam_3058.jpg)
+
+[![](/media/archive/be7232804654fa83fa1dabf4.jpg)](https://www.freelug.org/IMG/jpg/sam_3059.jpg)
+
+Et une pièce très sympa : un morceau d’ambre avec le moustique
+
+![](/media/archive/2abba319dc6a5a12bf3ea94d.jpg)
+
+Pour la petite histoire, ce n’est pas le premier morceau d’ambre de l’histoire de la gamme, avant c’était un [cristal de la gamme Monster Fighter avec un aussi un moustique](https://www.bricklink.com/v2/catalog/catalogitem.page?P=10178pb08#T=C&C=98)… Là c’est largement mieux !
+
+Passons au montage du petit laboratoire :
+
+[![](/media/archive/e52549ffd1c341f59ab7978e.jpg)](https://www.freelug.org/IMG/jpg/sam_3064.jpg)
+
+On rajoute des écrans :
+
+[![](/media/archive/633689d4d464a4cc625783a9.jpg)](https://www.freelug.org/IMG/jpg/sam_3065.jpg)
+
+Un système robotisé avec une couveuse : (et des œufs de dinosaures !)
+
+[![](/media/archive/a9141205a7bba3b0a6670ca6.jpg)](https://www.freelug.org/IMG/jpg/sam_3067.jpg)
+
+Un petit bout d’enclos avec un abreuvoir :
+
+[![](/media/archive/441d9c6c4be2328f93c43e3b.jpg)](https://www.freelug.org/IMG/jpg/sam_3068.jpg)
+
+Et on fini avec une table de recherche (avec le morceau d’ambre et un microscope !)
+
+[![](/media/archive/0a533c94d39e3541e87cbe66.jpg)](https://www.freelug.org/IMG/jpg/sam_3069.jpg)
+
+Voilà fini, une petite photo de famille !
+
+[![](/media/archive/5ca81ff201b3ccb5b7abb73b.jpg)](https://www.freelug.org/IMG/jpg/sam_3071.jpg)
+
+Et pour terminer les extra parts :
+
+[![](/media/archive/42ff063065d95ea5e2a65315.jpg)](https://www.freelug.org/IMG/jpg/sam_3072.jpg)
+
+**Conclusion**
+
+Alors achat ou pas ? Pour moi oui achat, avec deux bébés dinosaures inédits ! (Je dirais même enfin) Le Tricératops, ses parents sont sortis quelques années avant et l’ankylosaure dans la même vague (Review dès que je le trouve…)  
+Le petit labo est réussi avec une couveuse très réussie.
+
+Donc un petit set pas si cher que ça !

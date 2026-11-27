@@ -1,0 +1,87 @@
+---
+title: "Le record du monde de vitesse d’un train LEGO - 09/2013"
+permalink: "/articles/le-record-du-monde-de-vitesse-d-un-train-lego-09-2013/"
+section: "/themes/train/"
+published_at: "2013-09-29T18:32:06Z"
+authors: [ "Denis CDHD" ]
+description: "Pour cette première édition de BRIQU’Expo Diemoz, c’est la
+  première sortie de la LGV V2 complète avec sa rampe."
+source_id: 1709
+source_url: "https://www.freelug.org/spip.php?article1709"
+---
+
+## Briqu’Expo Diemoz 2013
+
+Pour cette première édition de BRIQU’Expo Diemoz, c’est la première sortie de la LGV V2 complète avec sa rampe.
+
+![](/media/archive/0242407a5cd7ebf626551868.jpg)
+
+Plus de 1600 ’runs’ tous trains confondus ont été faits dont environ 800 ont été validés par le tout nouveau système de chronométrage avec affichage sur grand écran.
+
+![](/media/archive/2c333c3cfbad1e85b11fd275.jpg)
+
+Malheureusement pas de record de vitesse pure à la clef même si cela est passé très très près aussi bien pour les prototypes que pour la catégorie trains officiels.
+
+Malgré tout, le spectacle fût au rendez-vous avec quasiment tous les trains roulant entre 20 et 28 Km/h sur les 2 grandes lignes droites, plus de nombreux crashs au bout des lignes droites.
+
+![](/media/archive/a84f7f0169814e2bef7f54d1.jpg)
+
+## Résultats
+
+Ces tableaux sont un récapitulatif des vitesses atteintes.
+
+Pour établir les tableaux de résultats, il a été gardé un maximum de 3 chronos par manifestation/catégorie/train.
+
+## Récapitulatif catégorie officielle
+
+Record actuel : 25,59 Km/H
+
+![](/media/archive/7a3c929ae2732ae4cd5297dd.jpg)
+
+## Récapitulatif catégorie "proto"
+
+Record actuel : 29,81 Km/H
+
+![](/media/archive/afab92ebe1cbf9f50dcc1ca6.jpg)
+
+**Et pour finir, quelques trains...**
+
+_La flèche double_
+
+![](/media/archive/4f55d01112fccc84ea0984a9.jpg)
+
+_Bat Train_
+
+![](/media/archive/b2deca1a4490f4025b354b94.jpg)
+
+_Plasmazator 1_
+
+![](/media/archive/43d03843b6e9b2f08208c1dc.jpg)
+
+![](/media/archive/768e6a867f3e799d61e90951.jpg)
+
+_Plasmazator II_
+
+![](/media/archive/c37eb49cf7afe3b204aa1baa.jpg)
+
+![](/media/archive/39aa10d0a0bacab87bf13bf9.jpg)
+
+![](/media/archive/f2406c668a646a41dee0d832.jpg)
+
+_La flèche_
+
+![](/media/archive/738bf506852674e4af389ad6.jpg)
+
+_1903 - Schnelltriebwagen_
+
+![](/media/archive/c53ee7e80c95acd46353046f.jpg)
+
+_Shinkansen_
+
+![](/media/archive/a609ee88ed15205402ef03b5.jpg)
+
+_Thalys_
+
+![](/media/archive/1dbb07adbb17dafbc87a971c.jpg)
+
+... et le vôtre prochainement ?

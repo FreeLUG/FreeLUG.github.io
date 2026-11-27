@@ -9,16 +9,8 @@
   <p class="archive-result visually-hidden" role="status" aria-live="polite"></p>
   <div class="article-list">
     {% for item in include.articles %}
-    {% assign preview_image = '/media/freelug-logo.png' %}
-    {% assign image_tags = item.content | markdownify | split: '<img ' %}
-    {% if image_tags.size > 1 %}
-      {% assign first_image = image_tags[1] | split: '>' | first %}
-      {% assign image_sources = first_image | split: 'src="' %}
-      {% if image_sources.size > 1 %}
-        {% assign image_source = image_sources[1] | split: '"' | first %}
-        {% if image_source != '' %}{% assign preview_image = image_source %}{% endif %}
-      {% endif %}
-    {% endif %}
+    {% capture preview_image %}{% include article-preview-image.html article=item %}{% endcapture %}
+    {% assign preview_image = preview_image | strip %}
     <article class="archive-entry" data-entry>
       <div class="archive-entry-text">
         {% if item.published_at and item.published_at != "" %}<time datetime="{{ item.published_at | escape }}">{% include date.html value=item.published_at %}</time>{% endif %}

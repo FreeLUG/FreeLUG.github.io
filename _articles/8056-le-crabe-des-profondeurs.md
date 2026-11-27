@@ -1,0 +1,54 @@
+---
+title: "8056 - Le crabe des profondeurs"
+permalink: "/articles/8056-le-crabe-des-profondeurs/"
+section: "/themes/atlantis/"
+published_at: "2010-02-07T21:06:52Z"
+authors: [ "Manu Bonnard" ]
+description: "– Référence : 8056 – Nom : Le crabe des profondeurs – Nombre de
+  pièces : 68 – Prix : 7,50 euro sur le S@H"
+source_id: 1080
+source_url: "https://www.freelug.org/spip.php?article1080"
+---
+
+**–** Référence : 8056  
+**–** Nom : Le crabe des profondeurs  
+**–** Nombre de pièces : 68  
+**–** Prix : 7,50 euro sur le [S@H](http://shop.lego.com/ByTheme/Product.aspx?p=8056&cn=616&d=70)
+
+Contrairement aux boîtes du [Guerrier Manta](/articles/8073-le-guerrier-manta/) ou du [propulseur sous-marin](/articles/8072-le-propulseur-sous-marin/), la boîte du crabe indique d’emblée la présence d’une clé de l’ancienne cité de l’Atlantis ainsi que sa couleur, ici orange.
+
+![](/media/archive/55af1fca9ca69904ae5e8a15.jpg)
+
+Une fois ouverte, la boîte laisse apparaitre la notice, deux sachets de pièces et une planche d’autocollants.
+
+![](/media/archive/c57a13819abe9f89e252e470.jpg)
+
+Commençons par le montage du plongeur, ce dernier possède une tête double face.
+
+![](/media/archive/26ee979532a0e22d6da24f86.jpg)
+
+Avec cette clef, à moi le trésor de l’Atlantis.
+
+![](/media/archive/33aa1550a490f8a8279a8a4e.jpg)
+
+ARGgggggg un requin........
+
+Poursuivons par le montage du crabe. Pas de grande surprise au montage si ce n’est qu’il me rappelle un peu celui de [l’Arachnide Combattant](/articles/8112-arachnide-combattant/) pour le système de fixation des pattes.
+
+![](/media/archive/3a0271d790937dbc0559bca6.jpg)
+
+**Etape 10**
+
+A l’étape 10, le corps du crabe a pris forme, encore 4 étapes et le crabe sera fini. Les pattes se terminent par des [pointes souples](http://www.bricklink.com/catalogItemIn.asp?P=87747&in=S) créées pour la série.
+
+![](/media/archive/3503bec6fa2daf765337b8f3.jpg)
+
+(Source Bricklink)
+
+Une petite critique sur ce set : le manque de mouvement des pinces du crabes, limité à l’horizontale.
+
+Voilà, la suite sera le set 8057 : Le scooter des profondeurs
+
+![](/media/archive/bb1582f8d3c725cbee285925.jpg)
+
+Le modèle fini et ses extra parts.

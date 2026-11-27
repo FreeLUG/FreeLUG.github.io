@@ -1,0 +1,112 @@
+---
+title: "[REVIEW] 10242 – Mini Cooper MK VII (Creator Expert)"
+permalink: "/articles/review-10242-mini-cooper-mk-vii-creator-expert/"
+section: "/themes/designer-creator/"
+published_at: "2015-12-01T13:38:40Z"
+authors: [ "Jeremie DESCALIS" ]
+description: "Bonjour à tous, aujourd’hui je vous propose une review du set
+  10242 dans la gamme Creator Expert : Mini Cooper MK VII. Ce set sorti en 2014
+  est composé de 1077 pièces et coûte 89,99€, soit un ratio prix/pièce de 8,4
+  centimes d’€."
+source_id: 2165
+source_url: "https://www.freelug.org/spip.php?article2165"
+---
+
+Bonjour à tous, aujourd’hui je vous propose une review du set 10242 dans la gamme Creator Expert : Mini Cooper MK VII.  
+Ce set sorti en 2014 est composé de 1077 pièces et coûte 89,99€, soit un ratio prix/pièce de 8,4 centimes d’€.
+
+![](/media/archive/8d4536edfbda2ea391646781.jpg)
+
+Une fois n’est pas coutume je ne vous présenterais pas le contenu de la boite, ayant acheté ce set d’occasion sans boite il m’a été impossible de prendre en photo les sachets contenus dans ce set.
+
+On commence la construction par le bas de caisse avant et la plaque d’immatriculation. La planche de stickers comprend plusieurs modèles de plaques (anglaise, allemande, américaine), le volant étant à droite sur le modèle et la Mini étant d’origine anglaise, j’ai opté pour la plaque de ce pays.
+
+[![](/media/archive/e937cec233975dcc6bd63cd3.jpg)](https://www.freelug.org/IMG/jpg/Mini_02_mini.jpg)
+
+Construction du châssis avec des briques Technic, on voit déjà l’emplacement des roues.
+
+[![](/media/archive/78d6ddc38ac2df698661d3b4.jpg)](https://www.freelug.org/IMG/jpg/Mini_03_mini.jpg)
+
+L’ossature du châssis est maintenant terminée, ainsi que l’emplacement dédié à la roue de secours.
+
+[![](/media/archive/17b0951b5e3a58f18ffcb48c.jpg)](https://www.freelug.org/IMG/jpg/Mini_04_mini.jpg)
+
+On commence à poser le sol sur le châssis.
+
+[![](/media/archive/6a935fa9c277a452df0b3ceb.jpg)](https://www.freelug.org/IMG/jpg/Mini_05_mini.jpg)
+
+Passages de roues, support moteur et fixations des sièges sont en place.
+
+[![](/media/archive/7afcdd74ee77b6beefc5b78e.jpg)](https://www.freelug.org/IMG/jpg/Mini_06_mini.jpg)
+
+Les pare-chocs avant et arrière sont montés (avec des pièces métallisées du plus bel effet), la roue de secours est dans son logement.
+
+[![](/media/archive/97b6917d15adad4897627816.jpg)](https://www.freelug.org/IMG/jpg/Mini_07_mini.jpg)
+
+D’après le manuel d’instructions, on débute le sachet 2. Et c’est le levier de vitesses et le plancher du coffret qui ouvrent le bal.
+
+[![](/media/archive/727823296c4f7fdbcf0522fb.jpg)](https://www.freelug.org/IMG/jpg/Mini_08_mini.jpg)
+
+On continue avec les assises des sièges avant et de la banquette arrière.
+
+[![](/media/archive/7a108ea8e8df57cbd04cf634.jpg)](https://www.freelug.org/IMG/jpg/Mini_09_mini.jpg)
+
+Les ailes arrières prennent forme, le dossier de la banquette aussi.
+
+[![](/media/archive/ff3202f91a94db31f4b63949.jpg)](https://www.freelug.org/IMG/jpg/Mini_10_mini.jpg)
+
+Le dossier de la banquette est finie.
+
+[![](/media/archive/a954e5f6cbe1bb8034af38c9.jpg)](https://www.freelug.org/IMG/jpg/Mini_12_mini.jpg)
+
+Montage des vitres et de la lunette arrière.
+
+[![](/media/archive/158d16c992c13efdee23406b.jpg)](https://www.freelug.org/IMG/jpg/Mini_13_mini.jpg)
+
+Dossiers et appuis-têtes des sièges mis en place, on peut voir que la sellerie à carreaux est du plus bel effet.
+
+[![](/media/archive/7dfd803df1c86ce5f344986f.jpg)](https://www.freelug.org/IMG/jpg/Mini_14_mini.jpg)
+
+Le panier, la bouteille et la nappe sont en place dans le coffre. Déjà prêt à s’arrêter au bord d’un champs pour pique-niquer.
+
+[![](/media/archive/eb9aa78c7fbefb6bfecf147d.jpg)](https://www.freelug.org/IMG/jpg/Mini_15_mini.jpg)
+
+Ça y est, le volant est en place.
+
+[![](/media/archive/7ef2116655c556513b10f253.jpg)](https://www.freelug.org/IMG/jpg/Mini_16_mini.jpg)
+
+Enfin le cœur de la Mini est installé.
+
+[![](/media/archive/f4c959d298ce752ece7fe8f7.jpg)](https://www.freelug.org/IMG/jpg/Mini_18_mini.jpg)
+
+Installation du tableau de bord, de la grille de radiateur et des ailes de la voiture.
+
+[![](/media/archive/c0e4b20b12e2ac6118339735.jpg)](https://www.freelug.org/IMG/jpg/Mini_20_mini.jpg)
+
+Le capot à bande blanche, le pare-brise, les phares, les rétroviseurs sont en place. On n’est pas loin de la fin.
+
+[![](/media/archive/01784396dde336773097236a.jpg)](https://www.freelug.org/IMG/jpg/Mini_21_mini.jpg)
+
+Enfin, on monte le toit et les roues. La Mini est finie.
+
+[![](/media/archive/271d74cc4530db917456031a.jpg)](https://www.freelug.org/IMG/jpg/Mini_22_mini.jpg)
+
+Voici quelques photos de la belle sous toutes ses coutures.
+
+[![](/media/archive/9f3ef8f7d68f494356f35470.jpg)](https://www.freelug.org/IMG/jpg/Mini_23_mini.jpg)
+
+[![](/media/archive/e938be53cd83bc2ebdd34854.jpg)](https://www.freelug.org/IMG/jpg/Mini_24_mini.jpg)
+
+[![](/media/archive/c94ed92e77ac0a6f4f7b4106.jpg)](https://www.freelug.org/IMG/jpg/Mini_25_mini.jpg)
+
+[![](/media/archive/94b3e71fdc6972abcf640770.jpg)](https://www.freelug.org/IMG/jpg/Mini_26_mini.jpg)
+
+[![](/media/archive/c7c1af35a549e5ad75d3fbf6.jpg)](https://www.freelug.org/IMG/jpg/Mini_27_mini.jpg)
+
+**Avis :**  
+J’ai vraiment pris mon pied à monter cette Mini Cooper. Plusieurs techniques intéressantes sont utilisées, le rendu est superbe. Bref ce set est un must have.
+
+_Bonus :_  
+Comme d’habitude, voici un GIF animé réalisé avec les photos prises pour cette review (cliquez sur l’image pour lancer l’animation).
+
+![](/media/archive/3cdef76087877e08f6a47d6d.gif)

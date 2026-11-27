@@ -1,0 +1,621 @@
+{
+  "status": "applied",
+  "entries": [
+    {
+      "title": "Régions",
+      "source_id": 1,
+      "old_file": "_sections/1.md",
+      "old_url": "/regions/",
+      "proposed_file": "_sections/regions.md",
+      "proposed_url": "/regions/"
+    },
+    {
+      "title": "Western - The Lone Ranger",
+      "source_id": 103,
+      "old_file": "_sections/103.md",
+      "old_url": "/rubriques/103/",
+      "proposed_file": "_sections/themes-western-the-lone-ranger.md",
+      "proposed_url": "/themes/western-the-lone-ranger/"
+    },
+    {
+      "title": "Ninjago",
+      "source_id": 109,
+      "old_file": "_sections/109.md",
+      "old_url": "/rubriques/109/",
+      "proposed_file": "_sections/themes-ninjago.md",
+      "proposed_url": "/themes/ninjago/"
+    },
+    {
+      "title": "Nexo Knights",
+      "source_id": 111,
+      "old_file": "_sections/111.md",
+      "old_url": "/rubriques/111/",
+      "proposed_file": "_sections/themes-nexo-knights.md",
+      "proposed_url": "/themes/nexo-knights/"
+    },
+    {
+      "title": "Architecture",
+      "source_id": 115,
+      "old_file": "_sections/115.md",
+      "old_url": "/rubriques/115/",
+      "proposed_file": "_sections/themes-architecture.md",
+      "proposed_url": "/themes/architecture/"
+    },
+    {
+      "title": "Modular",
+      "source_id": 117,
+      "old_file": "_sections/117.md",
+      "old_url": "/rubriques/117/",
+      "proposed_file": "_sections/themes-modular.md",
+      "proposed_url": "/themes/modular/"
+    },
+    {
+      "title": "Interview",
+      "source_id": 119,
+      "old_file": "_sections/119.md",
+      "old_url": "/rubriques/119/",
+      "proposed_file": "_sections/themes-interview.md",
+      "proposed_url": "/themes/interview/"
+    },
+    {
+      "title": "The LEGO Movie",
+      "source_id": 127,
+      "old_file": "_sections/127.md",
+      "old_url": "/rubriques/127/",
+      "proposed_file": "_sections/themes-the-lego-movie.md",
+      "proposed_url": "/themes/the-lego-movie/"
+    },
+    {
+      "title": "Ideas / Cuusoo",
+      "source_id": 128,
+      "old_file": "_sections/128.md",
+      "old_url": "/rubriques/128/",
+      "proposed_file": "_sections/themes-ideas-cuusoo.md",
+      "proposed_url": "/themes/ideas-cuusoo/"
+    },
+    {
+      "title": "Statuts",
+      "source_id": 13,
+      "old_file": "_sections/13.md",
+      "old_url": "/rubriques/13/",
+      "proposed_file": "_sections/association-statuts.md",
+      "proposed_url": "/association/statuts/"
+    },
+    {
+      "title": "Jurassic World - Dino",
+      "source_id": 133,
+      "old_file": "_sections/133.md",
+      "old_url": "/rubriques/133/",
+      "proposed_file": "_sections/themes-jurassic-world-dino.md",
+      "proposed_url": "/themes/jurassic-world-dino/"
+    },
+    {
+      "title": "Friends",
+      "source_id": 134,
+      "old_file": "_sections/134.md",
+      "old_url": "/rubriques/134/",
+      "proposed_file": "_sections/themes-friends.md",
+      "proposed_url": "/themes/friends/"
+    },
+    {
+      "title": "Réunions du Conseil d’Administration de FreeLUG",
+      "source_id": 16,
+      "old_file": "_sections/16.md",
+      "old_url": "/rubriques/16/",
+      "proposed_file": "_sections/association-reunions-evenements-reunions-du-conseil-d-administration-de-freelug.md",
+      "proposed_url": "/association/reunions-evenements/reunions-du-conseil-d-administration-de-freelug/"
+    },
+    {
+      "title": "Thèmes",
+      "source_id": 17,
+      "old_file": "_sections/17.md",
+      "old_url": "/themes/",
+      "proposed_file": "_sections/themes.md",
+      "proposed_url": "/themes/"
+    },
+    {
+      "title": "Technic",
+      "source_id": 18,
+      "old_file": "_sections/18.md",
+      "old_url": "/rubriques/18/",
+      "proposed_file": "_sections/themes-technic.md",
+      "proposed_url": "/themes/technic/"
+    },
+    {
+      "title": "Mindstorms",
+      "source_id": 19,
+      "old_file": "_sections/19.md",
+      "old_url": "/rubriques/19/",
+      "proposed_file": "_sections/themes-mindstorms.md",
+      "proposed_url": "/themes/mindstorms/"
+    },
+    {
+      "title": "Ile-de-France",
+      "source_id": 2,
+      "old_file": "_sections/2.md",
+      "old_url": "/rubriques/2/",
+      "proposed_file": "_sections/regions-ile-de-france.md",
+      "proposed_url": "/regions/ile-de-france/"
+    },
+    {
+      "title": "Star Wars",
+      "source_id": 20,
+      "old_file": "_sections/20.md",
+      "old_url": "/rubriques/20/",
+      "proposed_file": "_sections/themes-star-wars.md",
+      "proposed_url": "/themes/star-wars/"
+    },
+    {
+      "title": "Nos compagnes et compagnons",
+      "source_id": 21,
+      "old_file": "_sections/21.md",
+      "old_url": "/rubriques/21/",
+      "proposed_file": "_sections/association-divers-nos-compagnes-et-compagnons.md",
+      "proposed_url": "/association/divers/nos-compagnes-et-compagnons/"
+    },
+    {
+      "title": "Adhésion",
+      "source_id": 22,
+      "old_file": "_sections/22.md",
+      "old_url": "/rubriques/22/",
+      "proposed_file": "_sections/association-adhesion.md",
+      "proposed_url": "/association/adhesion/"
+    },
+    {
+      "title": "Troc",
+      "source_id": 23,
+      "old_file": "_sections/23.md",
+      "old_url": "/rubriques/23/",
+      "proposed_file": "_sections/association-troc.md",
+      "proposed_url": "/association/troc/"
+    },
+    {
+      "title": "Divers",
+      "source_id": 24,
+      "old_file": "_sections/24.md",
+      "old_url": "/rubriques/24/",
+      "proposed_file": "_sections/association-divers.md",
+      "proposed_url": "/association/divers/"
+    },
+    {
+      "title": "Alsace",
+      "source_id": 25,
+      "old_file": "_sections/25.md",
+      "old_url": "/rubriques/25/",
+      "proposed_file": "_sections/regions-alsace.md",
+      "proposed_url": "/regions/alsace/"
+    },
+    {
+      "title": "Aquitaine",
+      "source_id": 26,
+      "old_file": "_sections/26.md",
+      "old_url": "/rubriques/26/",
+      "proposed_file": "_sections/regions-aquitaine.md",
+      "proposed_url": "/regions/aquitaine/"
+    },
+    {
+      "title": "Auvergne",
+      "source_id": 27,
+      "old_file": "_sections/27.md",
+      "old_url": "/rubriques/27/",
+      "proposed_file": "_sections/regions-auvergne.md",
+      "proposed_url": "/regions/auvergne/"
+    },
+    {
+      "title": "Bourgogne",
+      "source_id": 28,
+      "old_file": "_sections/28.md",
+      "old_url": "/rubriques/28/",
+      "proposed_file": "_sections/regions-bourgogne.md",
+      "proposed_url": "/regions/bourgogne/"
+    },
+    {
+      "title": "Bretagne",
+      "source_id": 29,
+      "old_file": "_sections/29.md",
+      "old_url": "/rubriques/29/",
+      "proposed_file": "_sections/regions-bretagne.md",
+      "proposed_url": "/regions/bretagne/"
+    },
+    {
+      "title": "Rhône-Alpes",
+      "source_id": 3,
+      "old_file": "_sections/3.md",
+      "old_url": "/rubriques/3/",
+      "proposed_file": "_sections/regions-rhone-alpes.md",
+      "proposed_url": "/regions/rhone-alpes/"
+    },
+    {
+      "title": "Centre",
+      "source_id": 30,
+      "old_file": "_sections/30.md",
+      "old_url": "/rubriques/30/",
+      "proposed_file": "_sections/regions-centre.md",
+      "proposed_url": "/regions/centre/"
+    },
+    {
+      "title": "Champagne-Ardenne",
+      "source_id": 31,
+      "old_file": "_sections/31.md",
+      "old_url": "/rubriques/31/",
+      "proposed_file": "_sections/regions-champagne-ardenne.md",
+      "proposed_url": "/regions/champagne-ardenne/"
+    },
+    {
+      "title": "Haute-Normandie",
+      "source_id": 32,
+      "old_file": "_sections/32.md",
+      "old_url": "/rubriques/32/",
+      "proposed_file": "_sections/regions-haute-normandie.md",
+      "proposed_url": "/regions/haute-normandie/"
+    },
+    {
+      "title": "Languedoc-Roussillon",
+      "source_id": 33,
+      "old_file": "_sections/33.md",
+      "old_url": "/rubriques/33/",
+      "proposed_file": "_sections/regions-languedoc-roussillon.md",
+      "proposed_url": "/regions/languedoc-roussillon/"
+    },
+    {
+      "title": "Lorraine",
+      "source_id": 34,
+      "old_file": "_sections/34.md",
+      "old_url": "/rubriques/34/",
+      "proposed_file": "_sections/regions-lorraine.md",
+      "proposed_url": "/regions/lorraine/"
+    },
+    {
+      "title": "Midi-Pyrénées",
+      "source_id": 35,
+      "old_file": "_sections/35.md",
+      "old_url": "/rubriques/35/",
+      "proposed_file": "_sections/regions-midi-pyrenees.md",
+      "proposed_url": "/regions/midi-pyrenees/"
+    },
+    {
+      "title": "Nord",
+      "source_id": 36,
+      "old_file": "_sections/36.md",
+      "old_url": "/rubriques/36/",
+      "proposed_file": "_sections/regions-nord.md",
+      "proposed_url": "/regions/nord/"
+    },
+    {
+      "title": "Pays de la Loire",
+      "source_id": 37,
+      "old_file": "_sections/37.md",
+      "old_url": "/rubriques/37/",
+      "proposed_file": "_sections/regions-pays-de-la-loire.md",
+      "proposed_url": "/regions/pays-de-la-loire/"
+    },
+    {
+      "title": "Picardie",
+      "source_id": 38,
+      "old_file": "_sections/38.md",
+      "old_url": "/rubriques/38/",
+      "proposed_file": "_sections/regions-picardie.md",
+      "proposed_url": "/regions/picardie/"
+    },
+    {
+      "title": "Poitou-Charente",
+      "source_id": 39,
+      "old_file": "_sections/39.md",
+      "old_url": "/rubriques/39/",
+      "proposed_file": "_sections/regions-poitou-charente.md",
+      "proposed_url": "/regions/poitou-charente/"
+    },
+    {
+      "title": "Association",
+      "source_id": 4,
+      "old_file": "_sections/4.md",
+      "old_url": "/association/",
+      "proposed_file": "_sections/association.md",
+      "proposed_url": "/association/"
+    },
+    {
+      "title": "P.A.C.A",
+      "source_id": 40,
+      "old_file": "_sections/40.md",
+      "old_url": "/rubriques/40/",
+      "proposed_file": "_sections/regions-p-a-c-a.md",
+      "proposed_url": "/regions/p-a-c-a/"
+    },
+    {
+      "title": "Autres",
+      "source_id": 41,
+      "old_file": "_sections/41.md",
+      "old_url": "/rubriques/41/",
+      "proposed_file": "_sections/regions-autres.md",
+      "proposed_url": "/regions/autres/"
+    },
+    {
+      "title": "Train",
+      "source_id": 42,
+      "old_file": "_sections/42.md",
+      "old_url": "/rubriques/42/",
+      "proposed_file": "_sections/themes-train.md",
+      "proposed_url": "/themes/train/"
+    },
+    {
+      "title": "CAD",
+      "source_id": 44,
+      "old_file": "_sections/44.md",
+      "old_url": "/rubriques/44/",
+      "proposed_file": "_sections/themes-cad.md",
+      "proposed_url": "/themes/cad/"
+    },
+    {
+      "title": "Ville - City",
+      "source_id": 45,
+      "old_file": "_sections/45.md",
+      "old_url": "/rubriques/45/",
+      "proposed_file": "_sections/themes-ville-city.md",
+      "proposed_url": "/themes/ville-city/"
+    },
+    {
+      "title": "BIONICLE - Hero Factory",
+      "source_id": 47,
+      "old_file": "_sections/47.md",
+      "old_url": "/rubriques/47/",
+      "proposed_file": "_sections/themes-bionicle-hero-factory.md",
+      "proposed_url": "/themes/bionicle-hero-factory/"
+    },
+    {
+      "title": "Espace",
+      "source_id": 48,
+      "old_file": "_sections/48.md",
+      "old_url": "/rubriques/48/",
+      "proposed_file": "_sections/themes-espace.md",
+      "proposed_url": "/themes/espace/"
+    },
+    {
+      "title": "Harry Potter",
+      "source_id": 49,
+      "old_file": "_sections/49.md",
+      "old_url": "/rubriques/49/",
+      "proposed_file": "_sections/themes-harry-potter.md",
+      "proposed_url": "/themes/harry-potter/"
+    },
+    {
+      "title": "MOC",
+      "source_id": 50,
+      "old_file": "_sections/50.md",
+      "old_url": "/rubriques/50/",
+      "proposed_file": "_sections/themes-moc.md",
+      "proposed_url": "/themes/moc/"
+    },
+    {
+      "title": "Sports",
+      "source_id": 51,
+      "old_file": "_sections/51.md",
+      "old_url": "/rubriques/51/",
+      "proposed_file": "_sections/themes-sports.md",
+      "proposed_url": "/themes/sports/"
+    },
+    {
+      "title": "Designer - Creator",
+      "source_id": 52,
+      "old_file": "_sections/52.md",
+      "old_url": "/rubriques/52/",
+      "proposed_file": "_sections/themes-designer-creator.md",
+      "proposed_url": "/themes/designer-creator/"
+    },
+    {
+      "title": "Portraits",
+      "source_id": 53,
+      "old_file": "_sections/53.md",
+      "old_url": "/rubriques/53/",
+      "proposed_file": "_sections/themes-portraits.md",
+      "proposed_url": "/themes/portraits/"
+    },
+    {
+      "title": "Réunions & Evénements",
+      "source_id": 55,
+      "old_file": "_sections/55.md",
+      "old_url": "/rubriques/55/",
+      "proposed_file": "_sections/association-reunions-evenements.md",
+      "proposed_url": "/association/reunions-evenements/"
+    },
+    {
+      "title": "Partenariat",
+      "source_id": 56,
+      "old_file": "_sections/56.md",
+      "old_url": "/rubriques/56/",
+      "proposed_file": "_sections/association-partenariat.md",
+      "proposed_url": "/association/partenariat/"
+    },
+    {
+      "title": "Track Designer",
+      "source_id": 57,
+      "old_file": "_sections/57.md",
+      "old_url": "/rubriques/57/",
+      "proposed_file": "_sections/themes-track-designer.md",
+      "proposed_url": "/themes/track-designer/"
+    },
+    {
+      "title": "Astuces",
+      "source_id": 63,
+      "old_file": "_sections/63.md",
+      "old_url": "/rubriques/63/",
+      "proposed_file": "_sections/association-divers-astuces.md",
+      "proposed_url": "/association/divers/astuces/"
+    },
+    {
+      "title": "Adhérents",
+      "source_id": 64,
+      "old_file": "_sections/64.md",
+      "old_url": "/rubriques/64/",
+      "proposed_file": "_sections/association-adhesion-adherents.md",
+      "proposed_url": "/association/adhesion/adherents/"
+    },
+    {
+      "title": "Promotions",
+      "source_id": 65,
+      "old_file": "_sections/65.md",
+      "old_url": "/rubriques/65/",
+      "proposed_file": "_sections/association-divers-promotions.md",
+      "proposed_url": "/association/divers/promotions/"
+    },
+    {
+      "title": "Assemblées Générales",
+      "source_id": 67,
+      "old_file": "_sections/67.md",
+      "old_url": "/rubriques/67/",
+      "proposed_file": "_sections/association-reunions-evenements-assemblees-generales.md",
+      "proposed_url": "/association/reunions-evenements/assemblees-generales/"
+    },
+    {
+      "title": "FAQ",
+      "source_id": 68,
+      "old_file": "_sections/68.md",
+      "old_url": "/rubriques/68/",
+      "proposed_file": "_sections/association-faq.md",
+      "proposed_url": "/association/faq/"
+    },
+    {
+      "title": "Stop-Motion",
+      "source_id": 69,
+      "old_file": "_sections/69.md",
+      "old_url": "/rubriques/69/",
+      "proposed_file": "_sections/themes-stop-motion.md",
+      "proposed_url": "/themes/stop-motion/"
+    },
+    {
+      "title": "Moyen-Age / Castle",
+      "source_id": 70,
+      "old_file": "_sections/70.md",
+      "old_url": "/rubriques/70/",
+      "proposed_file": "_sections/themes-moyen-age-castle.md",
+      "proposed_url": "/themes/moyen-age-castle/"
+    },
+    {
+      "title": "Divers",
+      "source_id": 72,
+      "old_file": "_sections/72.md",
+      "old_url": "/rubriques/72/",
+      "proposed_file": "_sections/themes-divers.md",
+      "proposed_url": "/themes/divers/"
+    },
+    {
+      "title": "Exo-Force",
+      "source_id": 77,
+      "old_file": "_sections/77.md",
+      "old_url": "/rubriques/77/",
+      "proposed_file": "_sections/themes-exo-force.md",
+      "proposed_url": "/themes/exo-force/"
+    },
+    {
+      "title": "Etranger",
+      "source_id": 80,
+      "old_file": "_sections/80.md",
+      "old_url": "/rubriques/80/",
+      "proposed_file": "_sections/regions-etranger.md",
+      "proposed_url": "/regions/etranger/"
+    },
+    {
+      "title": "Basse-Normandie",
+      "source_id": 81,
+      "old_file": "_sections/81.md",
+      "old_url": "/rubriques/81/",
+      "proposed_file": "_sections/regions-basse-normandie.md",
+      "proposed_url": "/regions/basse-normandie/"
+    },
+    {
+      "title": "Franche-Comté",
+      "source_id": 83,
+      "old_file": "_sections/83.md",
+      "old_url": "/rubriques/83/",
+      "proposed_file": "_sections/regions-franche-comte.md",
+      "proposed_url": "/regions/franche-comte/"
+    },
+    {
+      "title": "Limousin",
+      "source_id": 84,
+      "old_file": "_sections/84.md",
+      "old_url": "/rubriques/84/",
+      "proposed_file": "_sections/regions-limousin.md",
+      "proposed_url": "/regions/limousin/"
+    },
+    {
+      "title": "Speed Champions - Racers - Ferrari - Speed Racer",
+      "source_id": 85,
+      "old_file": "_sections/85.md",
+      "old_url": "/rubriques/85/",
+      "proposed_file": "_sections/themes-speed-champions-racers-ferrari-speed-racer.md",
+      "proposed_url": "/themes/speed-champions-racers-ferrari-speed-racer/"
+    },
+    {
+      "title": "Power Miners",
+      "source_id": 86,
+      "old_file": "_sections/86.md",
+      "old_url": "/rubriques/86/",
+      "proposed_file": "_sections/themes-power-miners.md",
+      "proposed_url": "/themes/power-miners/"
+    },
+    {
+      "title": "Pirates",
+      "source_id": 87,
+      "old_file": "_sections/87.md",
+      "old_url": "/rubriques/87/",
+      "proposed_file": "_sections/themes-pirates.md",
+      "proposed_url": "/themes/pirates/"
+    },
+    {
+      "title": "Jeux de société",
+      "source_id": 88,
+      "old_file": "_sections/88.md",
+      "old_url": "/rubriques/88/",
+      "proposed_file": "_sections/themes-jeux-de-societe.md",
+      "proposed_url": "/themes/jeux-de-societe/"
+    },
+    {
+      "title": "Au sujet des expositions",
+      "source_id": 89,
+      "old_file": "_sections/89.md",
+      "old_url": "/rubriques/89/",
+      "proposed_file": "_sections/association-au-sujet-des-expositions.md",
+      "proposed_url": "/association/au-sujet-des-expositions/"
+    },
+    {
+      "title": "Atlantis",
+      "source_id": 92,
+      "old_file": "_sections/92.md",
+      "old_url": "/rubriques/92/",
+      "proposed_file": "_sections/themes-atlantis.md",
+      "proposed_url": "/themes/atlantis/"
+    },
+    {
+      "title": "Les outils informatiques",
+      "source_id": 95,
+      "old_file": "_sections/95.md",
+      "old_url": "/rubriques/95/",
+      "proposed_file": "_sections/association-les-outils-informatiques.md",
+      "proposed_url": "/association/les-outils-informatiques/"
+    },
+    {
+      "title": "Adventurers - Pharaoh’s Quest",
+      "source_id": 96,
+      "old_file": "_sections/96.md",
+      "old_url": "/rubriques/96/",
+      "proposed_file": "_sections/themes-adventurers-pharaoh-s-quest.md",
+      "proposed_url": "/themes/adventurers-pharaoh-s-quest/"
+    },
+    {
+      "title": "Concours et challenges",
+      "source_id": 97,
+      "old_file": "_sections/97.md",
+      "old_url": "/rubriques/97/",
+      "proposed_file": "_sections/association-concours-et-challenges.md",
+      "proposed_url": "/association/concours-et-challenges/"
+    },
+    {
+      "title": "Super Héros",
+      "source_id": 99,
+      "old_file": "_sections/99.md",
+      "old_url": "/rubriques/99/",
+      "proposed_file": "_sections/themes-super-heros.md",
+      "proposed_url": "/themes/super-heros/"
+    }
+  ]
+}

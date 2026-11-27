@@ -1,0 +1,85 @@
+---
+title: "[Review] 31042 - L’avion à réaction"
+permalink: "/articles/review-31042-l-avion-a-reaction/"
+section: "/themes/designer-creator/"
+published_at: "2017-12-04T10:23:41Z"
+authors: [ "Nicolas W" ]
+description: "Aujourd’hui, prenons un peu d’altitude avec la review d’un set
+  d’avion à réaction, à savoir 31042, L’avion à réaction, dans la gamme Creator.
+  Sorti en 2016, ce petit set comporte 100 pièces pour 9,99 €, soit un ratio
+  relativement élevé à mon goût de 10 centimes par pièce."
+source_id: 2765
+source_url: "https://www.freelug.org/spip.php?article2765"
+---
+
+Aujourd’hui, prenons un peu d’altitude avec la review d’un set d’avion à réaction, à savoir _31042_, _L’avion à réaction_, dans la gamme Creator.
+
+Sorti en 2016, ce petit set comporte 100 pièces pour 9,99 €, soit un ratio relativement élevé à mon goût de 10 centimes par pièce.
+
+Comme attendu, l’avant de la boîte se concentre sur l’avion à réaction, modèle principal, tout en montrant les deux autres modèles proposés, tandis que le « 3 in 1 » à droite et le « Creator » en haut au centre rappellent la gamme du set.
+
+[![](/media/archive/a80810a595d96686d0d731d6.jpg)](https://www.freelug.org/IMG/jpg/20170611_112330.jpg)
+
+L’arrière classiquement montre les trois modèles simultanément, en vol au-dessus d’une étendue d’eau, tandis qu’un encart montre que les ailes de l’avion à réaction sont mobiles, pouvant se replier.
+
+[![](/media/archive/e0964d4e5631943b516cd0b1.jpg)](https://www.freelug.org/IMG/jpg/20170611_112355.jpg)
+
+La boîte ouverte fait apparaître trois notices et deux sachets, qui fournissent un petit tas de briques oranges, grises, bleues et blanches.
+
+[![](/media/archive/3c6b437f166bb3f82f36611d.jpg)](https://www.freelug.org/IMG/jpg/20170611_112257.jpg)
+
+La construction de l’avion à réaction commence par le corps principal, à base de plaque grise 4x10, sur lequel viendront se greffer les ailes. Les deux pivots permettront la rotation des ailes, tandis que la plaque lisse à l’arrière permettra aux réacteurs de coulisser.
+
+[![](/media/archive/b2b4b18d6966bac2c4fb72cc.jpg)](https://www.freelug.org/IMG/jpg/20170611_105640.jpg)
+
+Le cockpit est l’étape suivante, avec deux pièces transparentes en symétrique et un nez conique. Puis on s’attelle aux ailes, ici la gauche, qui comportent une charnière verticale qui sera reliée au bloc des réacteurs.
+
+[![](/media/archive/b0a0b0c9db96dee39cd72b14.jpg)](https://www.freelug.org/IMG/jpg/20170611_110007.jpg)
+
+L’aile de droite est symétrique, et on pose les deux ailes sur les pivots appropriés.
+
+[![](/media/archive/98c8e1fdd1be1e78c128dfa0.jpg)](https://www.freelug.org/IMG/jpg/20170611_110249.jpg)
+
+L’étape suivante, après avoir posé quelques éléments du toit de l’avion, est le bloc de réacteurs à l’arrière. Les pinces rouges permettront la connexion aux charnières des ailes, asservissant les trois éléments. Les réacteurs sont des cônes à sommet à tenon sur lequel est fixée une pièce ronde orange transparent.
+
+[![](/media/archive/62b3c43deccc12662426057e.jpg)](https://www.freelug.org/IMG/jpg/20170611_110627.jpg)
+
+On fixe les réacteurs puis quelques ailerons sur le sommet, et quelques jumpers et grilles pour compléter le modèle. Les ailes sont ici en position déployée, avec les réacteurs sortis vers l’arrière. Sur le côté gauche les quelques pièces bonus.
+
+[![](/media/archive/4f67edd9ced53d524e37f7ad.jpg)](https://www.freelug.org/IMG/jpg/20170611_110739.jpg)
+
+Et voici la position ailes repliées, qui provoque la rentrée des réacteurs dans le fuselage.
+
+[![](/media/archive/ee1330322021dff0fea31f6e.jpg)](https://www.freelug.org/IMG/jpg/20170611_110747.jpg)
+
+Une vue de derrière, ailes repliées et dépliées, illustrant mieux le déplacement d’un tenon environ des réacteurs.
+
+[![](/media/archive/ea873a2a928ab7a4223c90d0.jpg)](https://www.freelug.org/IMG/jpg/20170611_110807.jpg)
+
+[![](/media/archive/a1189295db46ba3501875740.jpg)](https://www.freelug.org/IMG/jpg/20170611_110819.jpg)
+
+* * *
+
+**Avis :** comme la plupart des sets Creator, celui-ci propose des constructions pas trop complexes mais donnant un bon rendu. L’avion est sympathique, avec des couleurs pas forcément réalistes mais pas si choquantes au final me semble-t-il, et les ailes pivotantes sont un élément de jouabilité agréable.
+
+Bref un bon set.
+
+**Bonus 1 :** quelques photos des modèles secondaires, le jet futuriste...
+
+[![](/media/archive/a47f7dabfd6e02543f3820f4.jpg)](https://www.freelug.org/IMG/jpg/20170611_105008.jpg)
+
+[![](/media/archive/6da1beaca7d3c5f4d7ff44ec.jpg)](https://www.freelug.org/IMG/jpg/20170611_105017.jpg)
+
+[![](/media/archive/7ac3dfe956a1f1e563a29656.jpg)](https://www.freelug.org/IMG/jpg/20170611_105024.jpg)
+
+... et l’avion à simili-hélices.
+
+[![](/media/archive/09075fb2a96df3b18d9d9d99.jpg)](https://www.freelug.org/IMG/jpg/20170611_104016.jpg)
+
+[![](/media/archive/11625dfb6311d436428b8fc7.jpg)](https://www.freelug.org/IMG/jpg/20170611_104022.jpg)
+
+[![](/media/archive/46b6a131d2ab1dccb3837fb0.jpg)](https://www.freelug.org/IMG/jpg/20170611_104027.jpg)
+
+**Bonus 2 :** animation de la construction de l’avion à réaction (cliquer pour lancer).
+
+![](/media/archive/39d0306a471d19fdaee73f4a.gif)

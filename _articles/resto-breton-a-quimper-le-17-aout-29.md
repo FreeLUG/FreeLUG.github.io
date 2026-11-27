@@ -1,0 +1,25 @@
+---
+title: "Resto Breton à Quimper le 17 août (29)"
+permalink: "/articles/resto-breton-a-quimper-le-17-aout-29/"
+section: "/regions/bretagne/"
+published_at: "2010-08-17T10:00:00Z"
+authors: [ "Ronan COIC" ]
+description: "Une rencontre autour d’une table entre passionnés est toujours une
+  bonne façon de se rencontrer."
+source_id: 1171
+source_url: "https://www.freelug.org/spip.php?article1171"
+---
+
+Une rencontre autour d’une table entre passionnés est toujours une bonne façon de se rencontrer.
+
+Pour cela, un déjeuner est organisé dans le Finistère ce mois d’août :  
+Le mardi 17 août à midi  
+Pizzeria L’Adriana  
+1 rue Jean Jaurès  
+29000 Quimper
+
+[http://adriana29.com/plan](http://adriana29.com/plan)
+
+Je souhaite avoir une confirmation de chacun de vous qui serait partant avant le 15/08 afin de pouvoir connaitre le nombre exact de participants.
+
+Merci

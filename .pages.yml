@@ -82,7 +82,7 @@ content:
         label: Adresse de la rubrique
         type: string
         required: true
-        description: "Adresse unique et stable, par exemple /rubriques/alsace/. Ne pas modifier après publication."
+        description: "Adresse unique et stable, par exemple /regions/alsace/ ou /themes/train/. Ne pas modifier après publication."
         pattern: "^/([a-z0-9-]+/)+$"
       - name: parent
         label: Rubrique parente
@@ -95,6 +95,14 @@ content:
       - name: description
         label: Description pour les moteurs de recherche
         type: text
+      - name: image
+        label: Vignette de la rubrique
+        type: image
+        description: "Facultative. Affichée dans l’en-tête et les cartes des rubriques, sans recadrage."
+      - name: image_source
+        label: Vignette d’origine
+        type: string
+        readonly: true
       - name: body
         label: Présentation
         type: rich-text

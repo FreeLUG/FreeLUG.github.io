@@ -1,0 +1,56 @@
+---
+title: "L’Orbicom H17"
+permalink: "/articles/l-orbicom-h17/"
+section: "/themes/moc/"
+published_at: "2016-08-31T17:48:58Z"
+authors: [ "Jac" ]
+description: "L’orbicom est né de ma décision de créer un vaisseau tout simple
+  avec des pieds rétractables sur les côtés."
+source_id: 2197
+source_url: "https://www.freelug.org/spip.php?article2197"
+---
+
+L’orbicom est né de ma décision de créer un vaisseau tout simple avec des pieds rétractables sur les côtés.
+
+Des fois, il suffit juste de quelques pièces pour mettre en réel ce que l’on a en tête. J’avais peu de critères et du coup beaucoup de liberté pour démarrer ce petit vaisseau. Sur certaines créations, je passe beaucoup de temps à réfléchir, à mettre certains détails ou assemblages au point, même sur de petites constructions. Mais là, tout est allé très vite, le premier "jet" était le bon.
+
+[![](/media/archive/8f8c92d8d16f791d8a5c98e8.jpg)](https://www.freelug.org/IMG/jpg/Art-01-59.jpg)
+
+Petit tour en extérieur.........
+
+[![](/media/archive/bdadf17bb437375b3a19312c.jpg)](https://www.freelug.org/IMG/jpg/Photo_09.jpg)
+
+Depuis le premier vaisseau que j’ai fait, il y a eu très peu de modification ce n’est pas dans mes habitudes. Mais le plus flagrant dans son évolution c’est surtout le changement de propriétaire, puisque mes pirates de l’espace se sont accaparé le brevet.........
+
+Au début c’était juste de la peinture puis il y a eu le drapeau pirate et une amélioration du canon avant. Ça c’est pour la partie la plus visible....
+
+[![](/media/archive/b1117e844c72a122294d0461.jpg)](https://www.freelug.org/IMG/jpg/Art-02-56.jpg)
+
+Donc comme je tente de vous l’expliquer depuis le début, bin oui parce que je m’égare, c’est un petit vaisseau conçu pour des vols d’inspection à courte distance. Le nom "Orbicom" provient du bureau de conception. Ils sont tout de même munis d’un armement de défense conséquent. Un canon à l’avant muni de radar très puissant et un double canon laser sur un côté. Ça parait mal équilibré, mais il est assez proche du pilote et du coup, le contrôle est très aisé. C’est ce qui a séduit mes pirates. Ils en ont pris en chasse. Ils les ont récupérés, repeints, remaniés sur certains points et rebaptisés après de multiples mises au point, 17 du coup ! Ils appartiennent donc maintenant à l’unité de surveillance de la base.
+
+Pour la propulsion nous avons un réacteur arrière, deux propulseurs orientables et deux fixes situés en bout de stabilisateurs.
+
+[![](/media/archive/1a4c2edd6995c7ce079243ed.jpg)](https://www.freelug.org/IMG/jpg/Art-05-24.jpg)
+
+Sur ma base pirate, ils servent à protéger la base uniquement, alors que d’autres peuvent aussi servir à escorter le "[Bluhacker](http://photos.freelug.org/main.php/v/JAC/MOC/Vaisseaux/pirate/bluhacker/)", comme les "[Renard noir](http://photos.freelug.org/main.php/v/JAC/MOC/Vaisseaux/pirate/RenardNoirV2/)" ou les "[Gourmandos](http://photos.freelug.org/main.php/v/JAC/MOC/Vaisseaux/pirate/Gourmando/)".
+
+J’ai voulu faire une flotte suffisamment persuasive, mais j’ai pu construire seulement 2 vaisseaux. A croire qu’ils soient efficaces.
+
+[![](/media/archive/7ad02a4de89c7580e771d432.jpg)](https://www.freelug.org/IMG/jpg/Art-04-35.jpg)
+
+Ce vaisseau n’était pas destiné à défendre la base pirate à l’origine, d’où des caractéristiques qui ne correspondent pas à leur construction habituelle :
+
+-   Configuration du moteur : Flux divisé à bouillon B
+-   Code modèle : Pirat-1125 H17
+-   Surface de stabilisation : V28
+-   Système de frein : AL 112568B
+-   Contrôle d’armes : ALP PRO-Arm type 3
+-   Equipage : Un pilote.
+
+Taille réelle : 15,5 cm de long, 10,3 cm de large, 8 cm de hauteur.
+
+[![](/media/archive/95444ea67f30eeaa80610384.jpg)](https://www.freelug.org/IMG/jpg/Art-03-45.jpg)
+
+Liens vers la galerie de photo : [Orbicom H17](http://photos.freelug.org/main.php/v/JAC/MOC/Vaisseaux/pirate/orbicom/)
+
+Plus tard je joindrai la notice à ce dossier.

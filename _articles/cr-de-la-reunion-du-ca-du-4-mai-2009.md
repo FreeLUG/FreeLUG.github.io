@@ -1,0 +1,160 @@
+---
+title: "CR de la réunion du CA du 4 mai 2009"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-4-mai-2009/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2009-05-30T14:47:32Z"
+authors: [ "Erik \"brickerik\" Amzallag", "Pierre CHARLES (Tribolego)" ]
+description: "CR de la réunion du CA du 4 mai 2009"
+source_id: 912
+source_url: "https://www.freelug.org/spip.php?article912"
+---
+
+CR de la réunion du CA du 4 mai 2009
+
+## Ordre du jour
+
+_Début de séance : 20h01_
+
+_Présents (8) :_  
+**–** Erik Amzallag  
+**–** Jean-Louis Bergamo  
+**–** Emmanuel Bonnard  
+**–** Pierrick Dauny  
+**–** Richard Lemeiter  
+**–** Marc Schickelé  
+**–** Jérôme Teissier  
+**–** Xavier Viallefont
+
+_Excusés (4) :_  
+**–** Gaël Frazier  
+**–** Pierre Charles  
+**–** Nicolas Huyard  
+**–** Didier Malon
+
+_Ordre du jour :_  
+**–** Points hors réunion  
+**–** Appel à volontaire pour Montluçon  
+**–** Point sur l’édition du calendrier des événements  
+**–** Point sur les pièces demandées par l’organisation de l’exposition de Miramas  
+**–** Point sur le projet d’animation LEGO sur Lille  
+**–** Point sur l’envoi des cartes de membres  
+**–** Achats groupés : point sur la situation actuelle  
+**–** Point sur le remboursement des frais pour le Salon du Cinéma  
+**–** Assurance - attestation  
+**–** Procédure pour la mise à jour des statuts / RI  
+**–** Choix d’un fournisseur pour les nappes  
+**–** Point sur l’organisation de la REF
+
+## Points hors réunion
+
+**Invitation à une exposition à Montluçon**
+
+FreeLUG a été invitée à participer à Montlu Models Expo, une exposition multi-modélisme à Montluçon les 17 et 18 octobre 2009. L’accord est donné. L’appel à volontaires devait être envoyé.
+
+**Démonstration(s) au Pic-Wic de Gennevilliers (92)**
+
+Christophe Fosse demande l’accord pour présenter au nom de FreeLUG une animation Technic dans le PicWic partenaire de Gennevilliers. L’accord est donné. Des cartes de visites et un petit présentoir lui sera remis.
+
+**Piles pour l’animation Tech-Ball**
+
+Suite à notre décision d’achat de piles pour l’animation Tech-Ball de Fanabriques, Sylvain (1001bricks) nous fait à la place un don de 100 piles. Le CA tient à le remercier pour cette donation et son soutien.
+
+## Exposition de Montluçon
+
+Jérôme doit lancer l’appel à volontaires sur la liste.
+
+## Edition du calendrier des événements pour Sylvain - 1001bricks
+
+Pierrick a réalisé une maquette du calendrier. Il doit prendre en compte les dernières remarques avant de la soumettre à Sylvain. Pierrick s’est également renseigné sur d’éventuels coûts d’impression si Sylvain ne propose pas l’impression. Une impression de 200 exemplaire format A5 en N&B sur papier blanc couterait 10 euros.
+
+## Point sur les pièces demandées par l’organisation Miramas fête le train
+
+L’organisationa fait parvenir le dossier d’inscription dans lequel ilest demandé des informations telles que numéro SIRET ou code APE. Jérôme doit reprendre contacte avec les organisateurs pour savoir si ces informations sont vraiment nécéssaires pour notre association.
+
+## Animation LEGO sur Lille
+
+Il s’agit de réaliser une maquette en LEGO et durant un week-end animer des ateliers à base de LEGO. En tant que régional de l’étape et partie prenante tant du coté FreeLUG que du coté ville de Lille, Richard propose d’être coordinateur de cette exposition.
+
+La première possibilité était de réaliser une maquette  
+représentant Lille au XIIIe siècle qui rentrerait dans la  
+scénographie de l’Exposition montée par la Ville et  
+consacrée à Jeanne de Flandre et au XIIIème siècle.
+
+Mais les délais très courts (exposition en septembre) ne  
+permettraient pas une réalisation de cette maquette du style "micromodule" d’environ 1,50mx2,50m, dans des conditions raisonnables.
+
+Une seconde possibilité est donc de réaliser une maquette  
+d’une partie de Lille qui sera remise en eau. Dans le cadre du projet de valorisation de l’eau dans la ville, l’idée d’une maquette en LEGO pour toucher un public plus jeune, lors d’une exposition ou une explication de ce projet d’urbanisme est intéressante.
+
+Le service d’art et d’histoire de la ville est très motivé  
+sur ce sujet. Il souhaite faire une exposition et des animations récurrentes car le sujet de l’eau dans la ville va durer plusieurs années.
+
+Le premier grand rendez-vous sera mai 2010, c’est à ce  
+moment que sera dévoilé le projet lauréat de remise en eau. Date où aura lieu aussi l’exposition. Un travail a été aussi entamé avec le conseil municipal des enfants (très motivés), un support maquette serait utile.
+
+Ce sujet de l’eau dans la ville est vaste notamment pour les animations comme "Construit ta maison sur l’eau", le  
+"Transport sur l’eau" ou "L’architecture liée à l’eau" qui  
+pourraient être faites avec des LEGO.
+
+Pour les animations, une prochaine rencontre en juin avec le service d’art et d’histoire permettra de finaliser les  
+ateliers possibles.
+
+Un prochain point sera fait par Richard à la réunion du CA  
+de juillet.
+
+## Point sur l’envoi des cartes de membres
+
+Emmanuel a préparé les enveloppes. Il doit procéder à l’envoi par vague durant le mois.
+
+Certains badges n’ont toujours pas été payés. Il doit faire le point avec le trésorier Gaël pour ces envois.
+
+Emmanuel précise également qu’il a relancé de nouveau le graveur pour les badges et briques manquants.
+
+## Achats groupés : point sur la situation
+
+Un revendeur serait éventuellement prêt à nous aider pour faire des achats groupés, mais il fait face à de gros problèmes de délais de livraison. Il attend l’issue de sa première commande pour évaluer l’intérêt de la chose.
+
+## Remboursement des frais pour le Salon du Cinéma
+
+Gaël doit préparer le récapitulatif des frais engagés par certains membres pour le Salon du Cinéma pour remboursement par la société LEGO. Gaël étant excusé, le point n’est pas abordé.
+
+## Assurance - attestation
+
+Marc a pris contact avec l’assurance pour l’envoi d’une attestation de couverture pour la location de la salle de la REF.
+
+## Procédure pour la mise à jour des statuts / RI
+
+Richard a proposé la procédure suivante pour la tâche de mise à jour des statuts et du règlement intérieur.
+
+Richard et Pierrick lancent début mai un appel à volontaires en demandant une lettre de motivation. Le CA sélectionne un ou deux adhérents motivés lors de la réunion du mois de juin.
+
+Le planning prévisionnel est le suivant :  
+**–** _juin :_ relecture individuelle des statuts et RI pour se faire chacun une liste des choses à rafraichir. Premiers échanges par mails ;  
+**–** _été :_ lors de la REF, recueil de quelques sentiments sur le sujet ;  
+**–** _rentrée 2009 :_ recueil d’idées de la part du CA, liste de questions à valider auprès du CA pour un sondage ciblé auprès des adhérents ;  
+**–** _octobre et novembre 2009 :_ écriture des nouveaux articles pour les soumettre au CA ;  
+**–** _décembre 2009 :_ premières validations au CA ;  
+**–** _janvier 2010 :_ validations (suite) et insertion de chaque nouveau article "validé" dans l’ordre du jour de l’Assemblée Générale pour les soumettre au vote.
+
+La procédure est approuvée à l’unanimité (8 voix pour).
+
+Une liste de discussion dédiée à ce groupe de travail sera créée.
+
+## Choix d’un fournisseur pour les nappes
+
+Marc et Erik ont fait des recherches de prix pour les nappes ignifugées. Il y a encore quelques devis en attente. Il est décidé d’attendre encore une ou deux semaines avant de faire un choix et de procéder à la commande.
+
+## REF : point sur l’organisation
+
+Pierrick a reçu le chèque de caution de la part de Gaël.
+
+Un budget de 150 euros maximum est attribué pour le repas du samedi soir. Le budget prévu en Assemblée Générale prévoyait 300 euros, la location de la salle ampute déja 150 euros.
+
+Le budget est approuvé à l’unanimité.
+
+_L’ordre du jour est épuisé._
+
+Pierrick demande si FreeLUG pourrait organiser une impression groupée du poster minifigs Star Wars dont l’image a été disponible en ligne quelques jours. Nous devons d’abord nous renseigner sur la validité d’une telle opération (l’image étant la propriété de TLC et sous licence Lucas Arts).
+
+_Fin de séance : 21h22_

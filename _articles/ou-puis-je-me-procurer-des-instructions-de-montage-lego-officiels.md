@@ -1,0 +1,27 @@
+---
+layout: "article"
+title: "Où puis-je me procurer des instructions de montage LEGO® officiels ?"
+source_id: 220
+permalink: "/articles/ou-puis-je-me-procurer-des-instructions-de-montage-lego-officiels/"
+source_url: "https://freelug.org/spip.php?article220"
+published_at: "2005-03-01T11:51:00Z"
+authors: [ "Didier ENJARY" ]
+description: "Où puis-je me procurer des instructions de montage LEGO® officielles ?"
+section: "/association/faq/"
+---
+
+Où puis-je me procurer des instructions de montage LEGO® officielles ?
+
+Vous pouvez trouver des instructions de montage des sets officiels en ligne sur ces sites :  
+**–** [Le site officiel LEGO](http://service.lego.com/fr-fr/buildinginstructions/) présente de plus en plus d’instructions de montage en lien direct.  
+**–** [Brickset](http://www.brickset.com/) vous permet d’accéder aux notices en lien indirect (numéro d’item) du site officiel LEGO aisément grâce au seul numéro de boîte.  
+**–** [Peeron](http://www.peeron.com/cgi-bin/invcgis/scans/?ct=1)  
+**–** [Brickfactory](http://www.brickfactory.info/)
+
+Ces deux derniers liens proposent un grand nombre d’instructions de montage mais pour la plupart anciennes (plus de 2 ans environ).
+
+Pour l’ensemble de ces sites, attention toutefois, les fichiers sont généralement très volumineux et seuls les liaisons haut débit s’en sortiront sans mal !
+
+En conclusion :
+
+Si vous souhaitez vous constituer une bibliothèque de notices, utilisez Brickfactory. Si vous souhaitez consulter des notices récentes utilisez Brickset. Peeron à d’autres atouts si vous souhaitez par exemple connaître la liste des pièces d’une boîte par la même occasion.

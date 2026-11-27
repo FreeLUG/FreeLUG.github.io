@@ -1,0 +1,194 @@
+---
+title: "[Review] 10244 - La fête foraine"
+permalink: "/articles/review-10244-la-fete-foraine/"
+section: "/themes/designer-creator/"
+published_at: "2016-08-04T10:19:06Z"
+authors: [ "Nicolas CHARNAY" ]
+description: "Voici la revue du set 10244 dans la gamme Expert : Fairground
+  Mixer (la fête foraine). Il est sorti en 2014 au prix de 129,99 euros pour
+  1746 pièces. Soit un ratio de 7,4 centimes par pièce avec 12 minifigs."
+source_id: 2409
+source_url: "https://www.freelug.org/spip.php?article2409"
+---
+
+Voici la revue du set 10244 dans la gamme Expert : Fairground Mixer (la fête foraine). Il est sorti en 2014 au prix de 129,99 euros pour 1746 pièces. Soit un ratio de 7,4 centimes par pièce avec 12 minifigs.
+
+La boite possède les logos CREATOR et EXPERT. La boite montre le manège et autres stands dans un décor de fête foraine.
+
+[![](/media/archive/06bc328debae876023310e3d.jpg)](https://www.freelug.org/IMG/jpg/10244_alt1.jpg)
+
+![](/media/archive/0d61ed71c7944aa3a35efefa.jpg)
+
+Les sachets sont numérotés de 1 à 3 correspondants aux différentes étapes de montage et au numéro du livret fourni. Ce qui permet de faire le montage en plusieurs fois.
+
+[![](/media/archive/889e0fde66a861a89c9ffd9e.jpg)](https://www.freelug.org/IMG/jpg/P1070767.jpg)
+
+## Etape 1 - Les stand et leur camion de transport
+
+Voici les pièces des sachets numéro 1
+
+[![](/media/archive/e3cba4c73d6159c4a61b42d7.jpg)](https://www.freelug.org/IMG/jpg/P1070523.jpg)
+
+On commence par le jongleur
+
+[![](/media/archive/b23cd5d9d3fe15991a57e4cd.jpg)](https://www.freelug.org/IMG/jpg/P1070773.jpg)
+
+Voici la base du camion. On comprendra après pourquoi ce trou.
+
+[![](/media/archive/dfbbe7453c6ea6276b5168e4.jpg)](https://www.freelug.org/IMG/jpg/P1070786.jpg)
+
+Et le camion fini.
+
+[![](/media/archive/24946ddd7c2c75de4ff91704.jpg)](https://www.freelug.org/IMG/jpg/P1070798.jpg)
+
+Avec l’autocollant ’LEGO Amusements’
+
+[![](/media/archive/d7d54244d059a3f1bad0bbfa.jpg)](https://www.freelug.org/IMG/jpg/P1070799.jpg)
+
+Le stand de qui est le plus fort
+
+[![](/media/archive/1276d390732b828549c1d633.jpg)](https://www.freelug.org/IMG/jpg/P1070812.jpg)
+
+Avec les masses
+
+[![](/media/archive/eb25c756858572ad113951c4.jpg)](https://www.freelug.org/IMG/jpg/P1070816.jpg)
+
+Le stand du lancer de balles
+
+[![](/media/archive/943ff901f0282510296fbfc4.jpg)](https://www.freelug.org/IMG/jpg/P1070830.jpg)
+
+Et le stand de vente des tickets
+
+[![](/media/archive/8e1905dc226ef0d92cec70b1.jpg)](https://www.freelug.org/IMG/jpg/P1070840.jpg)
+
+Voici l’ensemble des constructions du sachet 1
+
+[![](/media/archive/d30567f9a583491912516f26.jpg)](https://www.freelug.org/IMG/jpg/P1070841.jpg)
+
+Cette fois tout est rangé sur le camion
+
+[![](/media/archive/274cff1f61b47c12619af0f1.jpg)](https://www.freelug.org/IMG/jpg/P1070842.jpg)
+
+[![](/media/archive/a05ac0088257aa2cd23e7244.jpg)](https://www.freelug.org/IMG/jpg/P1080365.jpg)
+
+Et oui tout tient sur le camion !
+
+## Etape 2 - Le camion manège et la base de sa remorque
+
+Voici les pièces des sachets numéro 2
+
+[![](/media/archive/77c15211a05d98a8abe2a049.jpg)](https://www.freelug.org/IMG/jpg/P1070843.jpg)
+
+On commence par le camion. Voici le châssis
+
+[![](/media/archive/42c49436ad52cd7392e73db6.jpg)](https://www.freelug.org/IMG/jpg/P1070854.jpg)
+
+La cabine avec une couchette.
+
+[![](/media/archive/9bcb97e1ef5309c7cccce090.jpg)](https://www.freelug.org/IMG/jpg/P1070865.jpg)
+
+La calandre
+
+[![](/media/archive/77be499a96ba993818b3cfe4.jpg)](https://www.freelug.org/IMG/jpg/P1070874.jpg)
+
+Et voilà le résultat
+
+[![](/media/archive/966dde00faf0d13904860ad8.jpg)](https://www.freelug.org/IMG/jpg/P1070891.jpg)
+
+Le toit s’ouvre pour pouvoir mettre les minifigs
+
+[![](/media/archive/74b385b9a9678c66be37191e.jpg)](https://www.freelug.org/IMG/jpg/P1080364.jpg)
+
+On continue avec la base de la remorque faite en pièces technic.
+
+[![](/media/archive/4e6655f67b6721babf7829a0.jpg)](https://www.freelug.org/IMG/jpg/P1070902.jpg)
+
+Il y a une grande démultiplication au niveau des engrenages pour permettre le montage d’un moteur (pour que l’ensemble ne tourne pas trop vite). On note aussi la présence d’un engrenage blanc qui permet de protéger le moteur en cas de blocage.
+
+[![](/media/archive/896a7803df283660a71e3804.jpg)](https://www.freelug.org/IMG/jpg/P1070915.jpg)
+
+Voici le résultat à la fin du montage de la remorque.
+
+[![](/media/archive/845afa8d4a203aac999af402.jpg)](https://www.freelug.org/IMG/jpg/P1070937.jpg)
+
+A la fin du sachet on monte un bloc manivelle pour pouvoir faire tourner le manège à la main. Il possède une très grande roue pour être capable de ne pas faire tourner le manège trop lentement (à cause de la forte démultiplication de la remorque).
+
+[![](/media/archive/2cf2dc4719c111f55a160836.jpg)](https://www.freelug.org/IMG/jpg/P1070947.jpg)
+
+## Etape 3 - Le manège de la remorque
+
+Voici les pièces des sachets numéro 3
+
+[![](/media/archive/8af22173ca109bce1fc75e03.jpg)](https://www.freelug.org/IMG/jpg/P1080284.jpg)
+
+On commence par le montage des barrières,
+
+[![](/media/archive/f063466a82c9c5a11ba03de9.jpg)](https://www.freelug.org/IMG/jpg/P1080295.jpg)
+
+Puis on attaque la base,
+
+[![](/media/archive/ad552ed769e25578eab927e7.jpg)](https://www.freelug.org/IMG/jpg/P1080313.jpg)
+
+On monte la partie centrale,
+
+[![](/media/archive/ec37eebd26e184a4ada7eb44.jpg)](https://www.freelug.org/IMG/jpg/P1080332.jpg)
+
+La partie fixe des sièges (j’ai fait les trois ensemble),
+
+[![](/media/archive/43c728cb279d15e37cd57e5e.jpg)](https://www.freelug.org/IMG/jpg/P1080339.jpg)
+
+La partie mobile,
+
+[![](/media/archive/f2566932049024f054e08653.jpg)](https://www.freelug.org/IMG/jpg/P1080344.jpg)
+
+Et voilà le manège fini.
+
+[![](/media/archive/c9f8897d233c29a99c769d61.jpg)](https://www.freelug.org/IMG/jpg/P1080354.jpg)
+
+On finit ce modèle par le rack de rangement des barrières.
+
+[![](/media/archive/c182912e49cf972e4d8fb66b.jpg)](https://www.freelug.org/IMG/jpg/P1080361.jpg)
+
+Voilà le résultat final installé,
+
+[![](/media/archive/9fc64f7f0765f9dcd1c67f7f.jpg)](https://www.freelug.org/IMG/jpg/P1080371.jpg)
+
+Et rangé sur les camions.
+
+[![](/media/archive/794c5e236d881a751ec48c1b.jpg)](https://www.freelug.org/IMG/jpg/P1080363.jpg)
+
+Ce set est vraiment très intéressant à construire avec beaucoup d’accessoires et 12 minifigs
+
+![](/media/archive/d63982f157029bfab14fb5f3.jpg)
+
+![](/media/archive/6476993a5a323f7a88bd3609.jpg)
+
+![](/media/archive/583df3f428225cffb9cc6b6e.jpg)
+
+## Etape 4 - La motorisation
+
+Le modèle est déjà prévu pour être motorisé. Il faut un moteur M et un boitier de pile ou batterie (l’axe sur le moteur est fourni avec le set).
+
+[![](/media/archive/7c2de8295e627ca4bc8398a1.jpg)](https://www.freelug.org/IMG/jpg/P1080378.jpg)
+
+Le moteur se loge dans la remorque.
+
+[![](/media/archive/8b7271105fcc77ae27738b70.jpg)](https://www.freelug.org/IMG/jpg/P1080379.jpg)
+
+Voici le manège motorisé.
+
+Video Player
+
+[Vidéo de la publication d’origine](https://www.freelug.org/IMG/mov/P1080380.mov)
+
+**Motorisé**
+
+Voici le manège en fonction avec un moteur
+
+Si l’on souhaite faire de l’automatisation avec des temps d’arrêt, il est aussi possible de loger un petit moteur mindstorm.
+
+[![](/media/archive/f35831652e9e4b88960ca23c.jpg)](https://www.freelug.org/IMG/jpg/P1080381.jpg)
+
+**Animations du montage** (Cliquez pour lancer l’animation)
+
+![](/media/archive/5d039769cb98060c2e02ca49.gif)

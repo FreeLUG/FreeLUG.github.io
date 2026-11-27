@@ -1,0 +1,127 @@
+---
+title: "CR de la  réunion du CA du 14 Février 2005"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-14-fevrier-2005/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2005-02-25T09:11:43Z"
+authors: [ "Erik \"brickerik\" Amzallag", "Jean-Louis \"JLB\" Bergamo" ]
+description: "– Point sur l’exposition itinérante d’été (Summer AFOL’s Day),
+  suite à la présentation de Richard à l’Assemblée Générale – Création
+  d’autocollants FreeLUG – Création de polo/sweat à manches longues – Lancement
+  du bulk V2 – Accord pour l’exposition de Claix fin 2005, et partenariat
+  eventuel avec Bricabrac – Discussion et choix de ce qu’on fait des briques que
+  l’association reçoit en don (ILTCO, Deauville et à venir) – Participation de
+  Casper au Mondial de la Maquette – Demande d’accord pour une
+  exposition/atelier de construction vers Mai/Juin au PicWic Sainte-Gennevieve –
+  Résilitation des adhérents n’ayant pas renouvellés leur cotisation –
+  Intérêt/Envie pour l’association d’organiser sa propre manifestation LEGO
+  ouverte au public"
+source_id: 356
+source_url: "https://www.freelug.org/spip.php?article356"
+---
+
+## Ordre du jour
+
+**–** Point sur l’exposition itinérante d’été (Summer AFOL’s Day), suite à la présentation de Richard à l’Assemblée Générale  
+**–** Création d’autocollants FreeLUG  
+**–** Création de polo/sweat à manches longues  
+**–** Lancement du bulk V2  
+**–** Accord pour l’exposition de Claix fin 2005, et partenariat eventuel avec Bricabrac  
+**–** Discussion et choix de ce qu’on fait des briques que l’association reçoit en don (ILTCO, Deauville et à venir)  
+**–** Participation de Casper au Mondial de la Maquette  
+**–** Demande d’accord pour une exposition/atelier de construction vers Mai/Juin au PicWic Sainte-Gennevieve  
+**–** Résilitation des adhérents n’ayant pas renouvellés leur cotisation  
+**–** Intérêt/Envie pour l’association d’organiser sa propre manifestation LEGO ouverte au public
+
+## Séance
+
+_Présents (10)_  
+**–** Erik Amzallag  
+**–** Jean Louis Bergamo  
+**–** Emmanuel Bonnard  
+**–** Pascal Breard  
+**–** Pascal Brugier  
+**–** Nicolas Huyard  
+**–** Gael Frazier  
+**–** Yann Laurent  
+**–** Didier Malon  
+**–** Marc Schickelé
+
+_Excusés (2)_  
+**–** Loys Bailly  
+**–** Philippe Label
+
+_Début de séance : 20h05_
+
+## Point sur l’exposition itinérante d’été (Summer AFOL’s Day), suite à la présentation de Richard à l’Assemblée Générale
+
+On effectue une dernière relance pour obtenir d’éventuelles propositions (rappel : date butoire 28 Février pour le dépot de dossier). Si il n’y a pas d’autre candidature, la proposition de Richard est adoptée.
+
+10 Pour
+
+## Création d’autocollants FreeLUG
+
+Un de nos membres travaillant dans l’imprimerie, nous allons voir avec lui si il peut nous fournir gratuitement des autocollants.
+
+10 Pour
+
+## Création de polo/sweat à manches longues
+
+Pascal Brugier se charge de faire une première selection sur le catalogue de notre imprimeur de t-shirts, que l’on proposera aux adhérents afin de sélectionner le produit préféré.
+
+10 Pour
+
+## Lancement du bulk V2
+
+On est toujours en attente des derniers prix.  
+Nous allons démarrer un projet de développement d’une interface en ligne pour passer les commandes.
+
+10 Pour
+
+## Accord pour l’exposition de Claix fin 2005, et partenariat éventuel avec Bricabrac
+
+L’accord est donné à Loys pour l’exposition à Claix fin 2005.
+
+En l’absence de précisions (statuts de Bricabrac, précision sur la nature du partenariat) et du principal intéressé ( Loys), nous ne sommes pas en mesure de décider quant à la suite du partenariat avec BricaBrac.
+
+## Discussion et choix de ce qu’on fait des briques que l’association reçoit en don (ILTCO, Deauville et à venir)
+
+Sur ce long débat, plusieurs propositions ont été avancées :  
+**–** échange de tout le lot (qui est composées de briques neuves) contre des briques usées. Cette formule permet à l’adhérent de diposer de briques neuves, et l’association d’un stock de briques usagées à destination d’éventuelles animations.  
+**–** tombola : l’ensemble est reparti en petit lot qui sont mis proposé en tombola  
+**–** dons à une oeuvre de charité pour enfants, écoles...
+
+La solution retenue est la suivante :  
+**–** Toutes les plaques de base (notamment les plaques vertes de Deauville), les RCX et autres moteurs provenant du lot ILTCO restent à la propriété de FreeLUG, et seront repartis dans les régions pour aider dans les expositions ;  
+**–** L’ensemble des briques (bricks), briques de toit (slopes) et plates de Deauville et ILTCO sont mises en commun ;  
+**–** Une partie de ce lot est proposé à l’échange (contre des briques usagées) ;  
+**–** Ce qui n’est pas parti à l’échange et le reste ILTCO (tous les autres types de pièces) est proposé à la tombola ;  
+**–** La tombola est sur basée sur le principe suivant : chaque participant tire un numéro et se voit attribué le lot correspondant.
+
+La répartition Echange/Tombola sur les briques, slopes et plates retenue est 60/40.  
+**–** Pour 60/40 : 5  
+**–** Pour 50 /50 : 1  
+**–** Abstention : 3 (étant donné l’absence de précision sur la quantité du "reste" ILTCO)
+
+## Participation de Casper au Mondial de la Maquette
+
+Casper, ami Hollandais de LowLUG, souhaitait participé au Mondial de la Maquette avec FreeLUG. Souhaitant adhérer à FreeLUG, il peut donc participer sans problème à l’exposition.
+
+## Demande d’accord pour une exposition/atelier de construction vers Mai/Juin au PicWic Sainte-Gennevieve
+
+9 Pour
+
+## Résilitation des adhérents n’ayant pas renouvellés leur cotisation (Go/NOGO)
+
+9 GO. Les membres n’ayant pas renouvellés leur cotisation seront donc prochainement désinscrit des listes adhérentes FreeLUG.
+
+## Intérêt/Envie pour l’association d’organiser sa propre manifestation LEGO ouverte au public
+
+_Question de Alban Nanty_
+
+Une telle exposition est déjà en cours de projet (MAE).  
+Un événement tel que le LGO Festival ou LEGOWorld a un coût élevé et nécéssite des partenaires. On essaie pour le moment de se consacrer à faire des expositions/ rencontres AFOLs qui ne sont déjà pas évidentes à organiser (une seule proposition pour l’événement estival).
+
+FreeLUG participe aujourd’hui à de nombreuses expositions. L’intéret d’une exposition uniquement à nous n’apporte pour le moment pas réellement d’interêt.
+
+_Fin de séance à 21h50_

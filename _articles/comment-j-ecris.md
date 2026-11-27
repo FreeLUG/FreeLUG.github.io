@@ -1,0 +1,79 @@
+---
+title: "Comment j’écris ?"
+permalink: "/articles/comment-j-ecris/"
+section: "/association/les-outils-informatiques/"
+published_at: "2005-08-27T09:18:00Z"
+authors: [ "Erik \"brickerik\" Amzallag" ]
+description: "Les administrateurs des articles publiés sur notre site FreeLUG
+  doivent souvent faire des corrections afin qu’un article soit dans la bonne
+  catégorie ou soit correctement lisible."
+source_id: 418
+source_url: "https://www.freelug.org/spip.php?article418"
+---
+
+Les administrateurs des articles publiés sur notre site FreeLUG doivent souvent faire des corrections afin qu’un article soit dans la bonne catégorie ou soit correctement lisible.
+
+Quelques recommandations...
+
+[Didier ENJARY](https://www.freelug.org/spip.php?auteur24) nous a décrit dans son article [Pourquoi j’écris !](/articles/pourquoi-j-ecris/) ses motivations pour la rédaction d’articles, mais il incite également les adhérents à en écrire.
+
+La question qui en découle naturellement est « Comment j’écris ? ».
+
+## L’interface en ligne Spip
+
+Vouloir écrire, c’est bien, mais certains d’entre vous sont rebutés par l’interface de Spip, outil utilisé par FreeLUG pour la publication des articles.
+
+Cet article n’a pas pour vocation d’être un tutorial de Spip, vous en trouverez bon nombre sur Internet. L’aide en ligne saura également vous guider (petit bouton ?).
+
+> Note de migration : l’ancienne icône d’aide n’était pas disponible dans la capture du site d’origine. Son texte alternatif « ? » est conservé ci-dessus.
+
+La première chose à faire est de se connecter sur [l’interface](http://www.freelug.org/ecrire/) grâce à l’identifiant et au mot de passe que vous avez choisi lors de votre inscription sur FreeLUG.
+
+Pour écrire un article, il suffit de cliquer sur le bouton « Ecrire un nouvel article », et pour une brève sur le bouton « Ecrire une nouvelle brève ». Une fois votre article rédigé et enregistré, il suffira de demander la publication. Mais quelle est la différence entre article et brève ?
+
+## Article ou brève ?
+
+Une brève se veut, par son nom, être un contenu de quelques lignes. Le plus souvent, une brève relate un fait dans l’actualité, une information qui a une valeur que sur un court terme. Par exemple, l’annonce de la sortie d’une [nouvelle boite](https://www.freelug.org/spip.php?breve175) ou [série](https://www.freelug.org/spip.php?breve158) trouve naturellement sa place dans une brève.
+
+Une brève peut aussi être la présentation succincte d’un article disponible sur un autre site comme l’illustrent les brèves [Mathématiques](https://www.freelug.org/spip.php?breve182) ou [Un article de synthèse pour les fans des trains LEGO®.](https://www.freelug.org/spip.php?breve151).
+
+Un article, au contraire, va avoir un contenu bien plus étoffé, qui garde un intérêt sur le long terme. Un article peut être le compte rendu d’une [exposition](/articles/exposition-modelisme-ferroviaire-amfc-orleans-2004/), le [montage commenté](/articles/montage-commente-du-cloud-city-n-10123/) d’un set, un [mode d’emploi](/articles/tutoriel-anasazi/) d’un logiciel qu’un fan de LEGO pourrait utiliser pour sa passion, l’[étude d’une pièce](/articles/etude-de-piece-7-les-axes-technic/) ou encore une [technique de construction](/articles/une-fenetre-en-snir-et-snot/) ou un [regroupement d’exemples commentés](/articles/automatiser-les-aiguillages-9v/) pour une construction précise.
+
+Ce ne sont que des exemples d’articles, mais les sujets en relation avec nos briques sont nombreux.
+
+## Quelle rubrique ?
+
+La rubrique dans laquelle vous allez placer votre article ou brève est importante, car c’est un moyen rapide de le retrouver quand il ne sera plus sur la première page de FreeLUG. Les principales catégories sont les suivantes :  
+**–** **Association**, qui regroupe les articles étant liés à l’association : son fonctionnement, les évènements à venir, et de manière plus générale, tout ce qui a attrait à la vie associative ;  
+**–** **Régions**, rubrique dans laquelle on place généralement les expositions locales (annonce, compte rendu) ;  
+**–** **Thèmes**, qui regroupe comme son nom l’indique les articles abordant un set ou un thème particulier. Si toutefois un thème que vous souhaitez aborder n’est pas présent dans la liste, n’hésitez pas à demander à un administrateur de la créer.
+
+## La mise en page
+
+Spip possède ses propres raccourcis typographiques pour la mise en page (titre, texte en gras, italique, lien vers d’autres articles, notes de bas de page, tableau...). Tout ceci est expliqué en détail dans l’aide en ligne de Spip.
+
+Un correcteur d’orthographe est même présent.
+
+Pour ceux qui préfèrent taper leur texte sous un logiciel de traitement de texte comme Word, sachez que lorsque vous collerez votre texte dans Spip, vous perdrez toute mise en page ou image. La mise en page se fait exclusivement sur le site.
+
+Evitez aussi les grandes ou lourdes images. Préférez des images au format .jpeg ou .png, de résolution maximum 640x480 et n’excédant pas les 100ko.
+
+Retenez qu’un article bien présenté sera d’autant plus facile à lire.
+
+## Encore quelques conseils
+
+N’oubliez pas aussi qu’il existe quelques règles concernant le contenu d’un article.
+
+Essayez d’être complet. Quand vous faites référence à une création, un autre article, etc., citez toujours la source, et mieux, donnez un lien qui permet de l’atteindre.
+
+Les appels ou propositions n’ont pas forcément leur place dans un article ou brève. Passez plutôt par la liste adhérente pour communiquer si vous souhaitez lancer un débat ou attendez des réponses.
+
+La brève a plus souvent un caractère informatif tandis que l’article a plutôt un caractère personnel, subjectif.
+
+Vous retrouverez des règles de comportement notamment dans le [Règlement intérieur de l’association FreeLUG](/articles/reglement-interieur-de-l-association-freelug/). N’oubliez pas non plus d’essayer de suivre la [charte fair play LEGO](/articles/traduction-francaise-des-regles-de-fair-play-de-lego/). Si votre article à un caractère commercial, je vous renvoie aussi à la [Charte sur les ventes de produits des adhérents et sur les partenariats](https://www.freelug.org/spip.php?article394).
+
+Si malgré tout, vous continuez à rencontrer des difficultés, n’hésitez pas à passer sur le chat irc où il y aura souvent quelqu’un qui pourra vous aider ou vous donner conseil.
+
+## Pour conclure
+
+Vous avez un article ou brève ? Vous avez donc déjà le contenu, et c’est peut être le plus dur. Il ne reste plus qu’à le faire partager avec les autres, en espérant que cet article vous aidera à franchir l’étape « technique ».

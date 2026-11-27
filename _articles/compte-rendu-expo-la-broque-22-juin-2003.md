@@ -1,0 +1,30 @@
+---
+title: "Compte-rendu : Expo La Broque 22 juin 2003"
+permalink: "/articles/compte-rendu-expo-la-broque-22-juin-2003/"
+section: "/regions/alsace/"
+published_at: "2003-07-01T21:42:34Z"
+authors: [ "Marc" ]
+description: "Dimanche dernier (le 22 juin 2003 pour être précis ) nous étions
+  conviés à une petite exposition sympathique à la petite salle des fêtes de La
+  Broque organisée par l’asso Salm Auto Sport (des fanas de voitures de rallye)
+  Vrooummm ! Vroummm !!"
+source_id: 122
+source_url: "https://www.freelug.org/spip.php?article122"
+---
+
+Dimanche dernier (le 22 juin 2003 pour être précis ) nous étions conviés à une petite exposition sympathique à la petite salle des fêtes de La Broque organisée par l’asso Salm Auto Sport (des fanas de voitures de rallye) Vrooummm ! Vroummm !!
+
+Une dizaine de tables nous attendais (pas de problème pour remplir). En face de notre stand je retrouve mes collègues du Club Maquettes de Strasbourg dont je suis trésorier et dissident en même temps (à cause des briques LEGO©) :-))
+
+L’accueil fût chaleureux, un des organisateurs Philippe Chatin, a même ramené un superbe Black cat 5571 avec une superbe remorque, ainsi que deux magnifiques bateaux pirates... à l’abordage !!...Sacrebleu !!
+
+Malgré le tapage médiatique, la journée était très calme (env. 50 visiteurs) et pour cause , la chaleur insoutenable dehors, et surtout à cause du concert de Johnny le même jour à Strasbourg...Merci Johnny ! Mais ça n’a pas entamé le moral des exposants (une dizaine). Nous avons largement fait connaissance en toute tranquilité.
+
+Marc Klein, Moi et mon fils Alexandre nous avons donc fait connaissance avec Laurent Knuchel de Bâle (Suisse) et de Philippe Chatin qui se remet également au LEGO© depuis peu.
+
+Laurent nous a fait honneur avec le Santa Fee, le superbe hangar tout neuf, et ses châteaux. Marc Klein nous a ressorti un vieux train de 1972. En fin d’après-midi, nous avons fait des démonstrations aux enfants présents, et quel ne fût pas notre erreur de les laisser toucher les modèles. Du coup nous avons inauguré notre petite "salle de jeu LEGO©" où les enfants se sont donnés à coeur joie sur les Technic, le train...etc... pendant une bonne heure. Les enfants se sont régalés et nous on a joué aux "éducateurs".  
+Bref une journée sympa sous le signe de la convivialité.
+
+Nous avons dores et déjà pris rendez-vous pour printemps 2004, mais cette fois dans la grande salle des fêtes.
+
+Une chose est sûre : Les LEGO© aux expos c’est le succès assuré... alors profitons-en !

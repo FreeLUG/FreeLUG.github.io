@@ -1,0 +1,147 @@
+---
+title: "[Revue] LEGO 41566, 41567 et 41568 - Mixels série 8, Sharx, Skulzy et Lewt"
+permalink: "/articles/revue-lego-41566-41567-et-41568-mixels-serie-8-sharx-skul\
+  zy-et-lewt/"
+section: "/themes/divers/"
+published_at: "2016-12-02T20:16:53Z"
+authors: [ "Nicolas W" ]
+description: "Après la revue des Mixels série 8 « pompiers », je vous propose la
+  revue des sets de la même série sur la thématique « pirates », les boîtes
+  41566, 41567 et 41568, à savoir Sharx, Skulzy et Lewt."
+source_id: 2485
+source_url: "https://www.freelug.org/spip.php?article2485"
+---
+
+Après la revue des Mixels série 8 « [pompiers](/articles/revue-lego-41563-41564-et-41565-mixels-serie-8-splasho-aquad-et-hydro/) », je vous propose la revue des sets de la même série sur la thématique « pirates », les boîtes _41566_, _41567_ et _41568_, à savoir **Sharx**, **Skulzy** et **Lewt**.
+
+Ces Mixels, sortis en 2016, coûtent 3,99 €, et comportent 55, 66 et 62 pièces respectivement, soit un ratio entre 6 et 7 centimes.
+
+## Le set 41566, Sharx
+
+Le sachet contient un sac de pièces et une notice de construction, comme tout sachet Mixel. Sharx, qui ressemble à un requin, d’où son nom, est clairement un capitaine pirate, avec son chapeau magnifique noir.
+
+[![](/media/archive/b16eadebf40514495db5d1d6.jpg)](https://www.freelug.org/IMG/jpg/20161002_153818.jpg)
+
+La construction commence par la mâchoire supérieure, qui a de belles dents, sur les côtés et devant, et un nez pyramidal. Le rouge sera quasiment invisible, sauf sur le dessous.
+
+[![](/media/archive/19637dbbb30e080e1466430c.jpg)](https://www.freelug.org/IMG/jpg/20161002_154033.jpg)
+
+On termine la tête en plaçant les yeux, dont l’un noir pour simuler un bandeau, et ensuite on monte le chapeau noir, indispensable à tout bon pirate. Une petite boucle d’oreille dorée vient mettre une touche de couleur.
+
+[![](/media/archive/37ba57c08ee74d143a36f62a.jpg)](https://www.freelug.org/IMG/jpg/20161002_154212.jpg)
+
+L’étape suivante consiste à monter la mâchoire inférieure, qui a comme il se doit de belles dents également, et une langue rouge. Quatre articulations serviront à placer les jambes et les bras, la tête se plaçant sur l’arrière.
+
+[![](/media/archive/8d3b3577b9115683ede20c05.jpg)](https://www.freelug.org/IMG/jpg/20161002_154341.jpg)
+
+Et voilà la tête montée, la bouche donnant vraiment l’impression de pouvoir s’ouvrir en grand pour avaler des trésors ou des imprudents cherchant à le voler.
+
+[![](/media/archive/7b1945acc3672d95f3ce7f49.jpg)](https://www.freelug.org/IMG/jpg/20161002_154405.jpg)
+
+Pour compléter l’œil noir, l’un des bras est une pince, ce capitaine a certainement vécu de nombreuses aventures ! Et l’un des pieds est déformé.
+
+[![](/media/archive/ca8be6b3fb0d4a1d3073d4be.jpg)](https://www.freelug.org/IMG/jpg/20161002_154534.jpg)
+
+En guise de second pied, un tonneau, et voici Sharx terminé, contemplant les deux pièces bonus (dont une dorée). Et surprise, dans le tonneau s’est glissée une pièce ! Donc quand le personnage se déplace, cela fait un petit bruit de crécelle amusant. À noter que sur l’image du sachet, la pièce est dans le bras droit, il est prudent et préfère la cacher.
+
+[![](/media/archive/5f8ee66baec209298129ab19.jpg)](https://www.freelug.org/IMG/jpg/20161002_154639.jpg)
+
+## Le set 41567, Skulzy
+
+Skulzy, pour sa part, est probablement un matelot, qui en a vu de dures, avec un bandeau sur un œil — qui réserve une surprise. Le sachet contient les pièces dans un sac et la notice.
+
+[![](/media/archive/11605e0d848ef388bd42e96d.jpg)](https://www.freelug.org/IMG/jpg/20161002_154730.jpg)
+
+La construction commence par la partie inférieure du corps, qui utilise un coquillage comme mâchoire inférieure, pour un excellent rendu. Quatre articulations permettront d’accrocher les membres, la tête allant sur l’arrière.
+
+[![](/media/archive/f7aa10dbc0cdc64b87f850a0.jpg)](https://www.freelug.org/IMG/jpg/20161002_154931.jpg)
+
+Une pièce plate à crochets sur l’arrière permettra d’accrocher la tête. L’étape suivante est de construire les bras, qui sont plutôt symétriques même si l’un tient un sabre tandis que l’autre comporte une fleur verte du plus bel effet.
+
+[![](/media/archive/1e12d3e43ee998a0f07afbc6.jpg)](https://www.freelug.org/IMG/jpg/20161002_155101.jpg)
+
+La tête est la partie suivante à construire. Un fanion est incrusté afin de simuler un foulard, tandis que 4 pièces à tenon vertical sont posées sur l’avant, l’une en retrait.
+
+[![](/media/archive/c7fa3ae60dd47d41a3920fec.jpg)](https://www.freelug.org/IMG/jpg/20161002_155229.jpg)
+
+Deux des pièces servent à faire l’œil droit, tandis qu’un drapeau noir ferme la cavité de l’œil gauche dans laquelle est introduite une pièce dorée — encore un pirate protégeant son trésor ! Les deux pièces centrales simulent également en partie des narines.
+
+[![](/media/archive/92415fad86f0eeaa1562f7ae.jpg)](https://www.freelug.org/IMG/jpg/20161002_155529.jpg)
+
+La tête montée sur le corps, et dévoilant la boucle d’oreille sur le côté droit, reste à faire les jambes. L’une est assez standard, mais comporte, comme le bras gauche, une fleur verte.
+
+[![](/media/archive/c269c2b98567a81bb9db526b.jpg)](https://www.freelug.org/IMG/jpg/20161002_155646.jpg)
+
+Enfin la jambe gauche est un moignon de bois, encore un pirate qui a bourlingué dans des endroits dangereux ! Le Nixel est à l’avenant, avec un œil bandé. Et il reste quelques petites pièces dont encore une dorée.
+
+[![](/media/archive/5c4bad58fa550c940250e479.jpg)](https://www.freelug.org/IMG/jpg/20161002_155852.jpg)
+
+## Le set 41568, Lewt
+
+Pour terminer la série, quoi de plus normal pour des pirates que d’avoir un coffre au trésor ? C’est le rôle joué par Lewt, qui combine trésor et crabe (aux pinces d’or, en plus !) [^1].
+
+[![](/media/archive/45fdccef50d9f389a8d536e2.jpg)](https://www.freelug.org/IMG/jpg/20161015_112636.jpg)
+
+Le corps est assez parallélépipédique, avec des bords remontant et des crochets qui permettront de fixer des pieds.
+
+[![](/media/archive/01c5556248484f009072cb1e.jpg)](https://www.freelug.org/IMG/jpg/20161015_113012.jpg)
+
+Que serait un coffre au trésor sans trésor à l’intérieur ? Enfin, il y a une langue rouge, c’est quand même l’intérieur d’une bouche !
+
+[![](/media/archive/a2eec5104efef39a10cc6487.jpg)](https://www.freelug.org/IMG/jpg/20161015_113201.jpg)
+
+De même, il est indispensable d’avoir une serrure, que l’on place donc sur le devant comme il se doit. Et comme c’est un personnage en thème de crabe, il lui faut des pinces dorées pour faire les pieds. Et, heu, mais le Nixel a volé une pièce !
+
+[![](/media/archive/df63637b7faade73e8ed05b6.jpg)](https://www.freelug.org/IMG/jpg/20161015_113416.jpg)
+
+Pour compléter la panoplie, rien de tel qu’une tête avec deux yeux articulés, qui malheureusement ne permettent pas de surveiller le Nixel qui s’approche à nouveau du tas de pièces après avoir donné son butin à Sharx.
+
+[![](/media/archive/b448cd883a1992bd870d8974.jpg)](https://www.freelug.org/IMG/jpg/20161015_113703.jpg)
+
+Heureusement Lewt va être équipé d’un bras agrippant une pièce, l’autre étant une magnifique pince dorée, qu’il lorgne avec intérêt.
+
+[![](/media/archive/c3f1d5ddec29ffe949f84bae.jpg)](https://www.freelug.org/IMG/jpg/20161015_113950.jpg)
+
+Et voici Lewt complété, et il a même récupéré les pièces bonus volées par le Nixel ! Encore une dorée, et une serrure. Les pieds articulés permettent de nombreuses positions verticalement, avec une bonne stabilité — c’est un crabe, pas de doute. Et les yeux sont excellents, très articulés et bougeant dans tous les sens.
+
+[![](/media/archive/377b43286e3b0f1c6077e6c8.jpg)](https://www.freelug.org/IMG/jpg/20161015_114056.jpg)
+
+* * *
+
+**Avis :** je me suis vraiment amusé à monter ces personnages, qui sont à la fois délirants et parfaitement cohérents avec leur rôle. La thématique « pirate » est bien exploitée, avec tous les ingrédients requis, et les différentes pièces sont bien sympathiques.
+
+Bref de bons sets amusants.
+
+**Bonus 1 :** photos de groupe, et un, et deux...
+
+[![](/media/archive/b4d5daec49f9365a1bddad49.jpg)](https://www.freelug.org/IMG/jpg/20161015_114126.jpg)
+
+et trois !
+
+[![](/media/archive/61444285c1ac3131495dbf90.jpg)](https://www.freelug.org/IMG/jpg/20161015_114155.jpg)
+
+**Bonus 2 :** animations de toutes les étapes (cliquer pour lancer).
+
+_Sharx_
+
+[![](/media/archive/9f921dde5ea330d537b63039.png)](https://www.freelug.org/IMG/gif/41566-sharx.gif)
+
+_Skulzy_
+
+![](/media/archive/1fc6cf0a4d3e978d6c443ba3.png)
+
+_Lewt_
+
+[![](/media/archive/281600d1caa01ca18d4fec62.png)](https://www.freelug.org/IMG/gif/41568-lewt.gif)
+
+**Bonus 3 :** « Argh, moussaillon, l’ennemi est trop fort, combinons nos forces en _Pyrratz Max_ pour le vaincre ! Avec ces belles griffes (recyclage des pattes de Lewt) et notre grande bouche, rien ne nous résistera ! Même si notre look en prend un sérieux coup... »
+
+Je dois avouer trouver le personnage moins amusant que les trois individuels, la tête en particulier me paraît déséquilibrée.
+
+[![](/media/archive/06efbf72ee284bf397a58083.jpg)](https://www.freelug.org/IMG/jpg/pyrratz-max-1.jpg)
+
+[![](/media/archive/ce31a8585ef81eed551f9b8a.jpg)](https://www.freelug.org/IMG/jpg/pyrratz-max-2.jpg)
+
+[![](/media/archive/16b66f18ff037064fe6180f6.jpg)](https://www.freelug.org/IMG/jpg/pyrratz-max-3.jpg)
+
+[^1]: On pourrait même penser au Bagage du Disque-Monde s’il n’avait pas d’yeux.

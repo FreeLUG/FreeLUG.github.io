@@ -112,6 +112,10 @@ h3 { font-size: 1.2rem; }
 .article-body h2, .article-body h3, .article-body h4 { margin-top: 2rem; }
 .article-body .chapo { font-size: 1.15rem; color: var(--blue-dark); }
 .article-body img, .page-heading img { max-width: 100%; height: auto; }
+.section-title { display: flex; align-items: center; gap: 1.5rem; }
+.section-title h1 { min-width: 0; }
+.section-thumbnail, .page-heading .section-thumbnail { display: block; flex-shrink: 0; width: 100px; height: 100px; object-fit: contain; }
+.card .section-thumbnail { margin-bottom: 1rem; }
 .article-body figure { margin: 1.8rem 0; }
 .article-body figcaption, .article-body .spip_doc_descriptif, .article-body .spip_doc_titre { color: var(--muted); font-size: .9rem; }
 .article-body .spip_documents_center { text-align: center; }

@@ -1,0 +1,58 @@
+---
+title: "Le tas de pièces d’or"
+permalink: "/articles/le-tas-de-pieces-d-or/"
+section: "/themes/moyen-age-castle/"
+published_at: "2010-10-13T11:21:51Z"
+authors: [ "Erik Scrooge" ]
+description: "Que serait un dragon sans son fameux tas de pièces d’or à protéger ?"
+source_id: 1204
+source_url: "https://www.freelug.org/spip.php?article1204"
+---
+
+Que serait un dragon sans son fameux tas de pièces d’or à protéger ?
+
+## Pendant ce temps, à Kaamelott
+
+Les preux chevaliers de la table ronde ont ouï dire qu’un précieux butin était protégé par un farouche dragon.
+
+![](/media/archive/dc1d25d9a8a71bf0bcdb939b.jpg)
+
+**Les chevaliers de la table ronde**
+
+Le brave Lancelot accepte cette périlleuse quête et s’en va pourfendre le monstre de la grotte maudite...
+
+## Réalisation du tas de pièces
+
+Il semble logique de posséder :  
+**–** un nombre de pièces dorées conséquent (dans mon exemple, il en faudra au minimum 69)  
+**–** des plates pour réaliser le support  
+**–** une pièce longue et fine pour remettre les pièces d’or qui auraient bougé pendant la réalisation, comme une flamme minifig par exemple.  
+**–** de l’adresse et de la patience ^^
+
+Voici mon support :
+
+![](/media/archive/a009c9125a81bd5b7d0174b8.jpg)
+
+Pour commencer, il faut placer une pièce d’or sur chaque tenon qui entoure la plate qui se trouve au niveau le plus bas. Conseil : placez des briques 1x2x1 ou plus longues comme indiqué pour une plus grande stabilité des pièces :
+
+![](/media/archive/3c9693064083d659833e3651.jpg)
+
+Ensuite, faire en sorte que les pièces du niveau supérieur soient placées contre les tenons du support :
+
+![](/media/archive/7a5b5eb4517c2165e32eb8bd.jpg)
+
+Mettre les pièces du niveau suivant sur les tenons du support :
+
+![](/media/archive/ed65463e4c80b2c975ac68b9.jpg)
+
+Et ainsi de suite... :
+
+![](/media/archive/18c7e573d9634b6df9f4f7a7.jpg)
+
+Voici le résultat après beaucoup d’efforts !
+
+![](/media/archive/39b56ff5609fe9bedbd11d9b.jpg)
+
+Pour finir en beauté, placez le dragon sur les plates centrales, rajoutez des pièces (s’il vous en reste) un peu partout (un vrai tas de pièces n’est pas uniforme), un squelette et un preux chevalier : voilà une magnifique scène pour vos créations du Moyen-âge !
+
+![](/media/archive/63f5ca382bd4319ac37e90f6.jpg)

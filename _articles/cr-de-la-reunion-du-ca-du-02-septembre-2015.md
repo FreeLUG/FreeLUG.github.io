@@ -1,0 +1,102 @@
+---
+title: "CR de la réunion du CA du 02 Septembre 2015"
+permalink: "/articles/cr-de-la-reunion-du-ca-du-02-septembre-2015/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2016-01-12T17:16:04Z"
+authors: [ "Jac", "Pilili Cuicui", "Sébastien HAMON" ]
+description: "CR de la réunion du CA du 09 Septembre 2015"
+source_id: 2141
+source_url: "https://www.freelug.org/spip.php?article2141"
+---
+
+CR de la réunion du CA du 09 Septembre 2015
+
+## Ordre du jour
+
+_Début de séance : 20h45_
+
+_Présents (10) :_  
+**–** Erik Amzallag  
+**–** Pierre Charles  
+**–** Daniela Drost  
+**–** Sébastien Hamon  
+**–** Philippe Label  
+**–** Pierre Laurenge  
+**–** Richard Lemeiter  
+**–** Xavier Viallefont  
+**–** Yannick Vignat  
+**–** Lucie Vigreux
+
+_Excusés (1) :_
+
+**–** Jérôme Teissier
+
+_Absents (0) :_
+
+_Ordre du jour :_
+
+**–** Expositions  
+**–** Point Briqu’Events
+
+-   Diemoz
+-   Veneux Les Sablons
+-   La Ville Du Bois
+
+**–** Point comptabilité  
+**–** Point adhérents  
+**–** Transfert matériel JCP - quand est-ce que nous vidons le fourgon ?  
+**–** minifigs simpsons2 + commande minifigs serie 14  
+**–** lieu de stockage des briques rouges (2 caisses) suite à Diémoz (besoin en RA de briques sur place ?)
+
+## Expositions
+
+L’association FreeLUG a été invitée à participer à une animation de Noël qui aura lieu à Abbeville (80) du 05 Décembre 2015 au 02 Janvier 2016. Cette animation a été validée par les membres du CA.
+
+L’association FreeLUG a été invitée à participer à une exposition de fin d’année sur multi-thème qui aura lieu à Donges (44) du 28 au 31 Décembre 2015. Cette exposition a été validée par les membres du CA.
+
+## Point Briqu’Events
+
+**Diemoz**
+
+Nous sommes dans la dernière ligne droite et le rush final est là. Yannick nous fait un point des besoins en matériel de l’association pour être sûr de ne rien oublier. Le chapiteau prêté par LEGO sera installé à partir de vendredi dans la matinée.
+
+**Veneux Les Sablons**
+
+Les préparatifs touchent à leur fin également, une cinquantaine de personnes sont impliquées dans l’événement. Il reste encore quelques détails à finaliser, notamment la partie intendance. En effet certains personnes tardent à répondre, un énième mail de relance va être fait.
+
+Daniela fait la demande d’avance de trésorier aux trésoriers.
+
+**La Ville Du Bois**
+
+Le nombre souhaité d’exposant pour remplir la salle est atteint, avec essentiellement des FreeLUGiens. La demande de support a été faite auprès de LEGO DK, et la livraison est déjà annoncée.
+
+Une réunion avec La Troupe Des Roussettes a eu lieu, le but était de commencer à parler du choix des repas et de la somme allouée par repas.
+
+Sébastien propose la version finale de l’affiche de l’exposition, elle fait l’unanimité, toutefois, Daniela émet une réserve quant à la présence de produits sous licence qui n’est pas autorisée par LEGO. Mais, elle va tout de même proposer cette version à LEGO et attendre leur réaction.
+
+## Point comptabilité
+
+Les trésoriers nous font part un peu avant la réunion de l’état des finances de FreeLUG, tout se porte bien, ils attirent notre attention que nous avons un stock en cours avec les séries de minifig qu’il serait temps de lancer les ventes.
+
+## Point adhérent
+
+Philippe nous fait part comme chaque fin de mois du nombre d’adhérents dans l’association. Nous sommes aujourd’hui 267.
+
+## Transfert de matériel de chez Jean Claude PETIT
+
+Jean Claude nous a contacté le dimanche 30 août pour nous annoncer qu’il fallait vider le local de Paris en toute urgence, avant les travaux de mise en sécurité qui doivent commencer le jeudi suivant. Sébastien, Erik et Pierre C se sont proposés de faire cela le mardi 1er septembre. Maintenant que tout est vide chez Jean Claude et que le fourgon est plein, il se pose la question de ce que nous allons faire de ce qu’il y a dedans.
+
+Au vu des échéances à venir et de la disponibilité des uns et des autres (surtout de Sébastien), il nous est impossible de définir une date. Nous décidons donc de mettre ce qui ne servira pas à la déchetterie.
+
+## Série minifig Simpsons et 14
+
+Le bon de commande de la série Simpsons est prêt, reste à finaliser l’article sur le site de FreeLUG. La série 14 n’est toujours pas disponible à l’achat chez LEGO. Xavier surveille de prêt et commandera dès disponibilité.
+
+## Caisses de briques 2x4 rouge
+
+Suite à la BE de Diemoz et à l’Event Support qui y est associé FreeLUG a fait l’acquisition d’une seconde caisse de 6000 briques 2x4 rouge. Nous décidons à l’unanimité de stocker les 2 caisses en région Rhône Alpes. Le lieu de stockage sera défini à l’issue de la BE de Diemoz.
+
+_Fin de séance : 22h05_
+
+Pour toute remarque ou commentaire, merci de contacter le CA : [CA@freelug.org](mailto:CA@freelug.org)

@@ -1,0 +1,23 @@
+---
+title: "Résumé de l’exposition de la Foire de Printemps d’Isdes 2011 (EXPO BRICK
+  ISDOISE)"
+permalink: "/articles/resume-de-l-exposition-de-la-foire-de-printemps-d-isdes-2\
+  011-expo-brick-isdoise/"
+section: "/regions/centre/"
+published_at: "2011-05-23T06:33:49Z"
+authors: []
+description: "Comme l’année passée, j’ai réalisé une petite exposition avec
+  plusieurs dioramas, comme le train avec la gare, la ville, le chantier,
+  l’incendie de la plate forme pétrolière et du Technic."
+source_id: 1332
+source_url: "https://www.freelug.org/spip.php?article1332"
+---
+
+Comme l’année passée, j’ai réalisé une petite exposition avec plusieurs dioramas, comme le train avec la gare, la ville, le chantier, l’incendie de la plate forme pétrolière et du Technic.
+
+L’exposition a attiré beaucoup de spectateurs qui étaient tous émerveillés en voyant l’exposition, et surtout les gens haut placés.
+
+**–** Je remercie le CA d’avoir accordé que je représente l’association en exposant mes LEGO.  
+**–** Je remercie le président du comité des fêtes de m’avoir accordé cette petite exposition.
+
+Je vous donne rendez-vous l’année prochaine pour une nouvelle exposition LEGO le second dimanche de mai.

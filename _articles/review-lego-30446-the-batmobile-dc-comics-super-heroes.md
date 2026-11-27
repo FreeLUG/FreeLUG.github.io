@@ -1,0 +1,99 @@
+---
+title: "[Review] Lego 30446 - The Batmobile (DC Comics Super Heroes)"
+permalink: "/articles/review-lego-30446-the-batmobile-dc-comics-super-heroes/"
+section: "/themes/super-heros/"
+published_at: "2016-06-13T18:45:06Z"
+authors: [ "Sylvain" ]
+description: "Salut tout le monde,"
+source_id: 2365
+source_url: "https://www.freelug.org/spip.php?article2365"
+---
+
+Salut tout le monde,
+
+Aujourd’hui, je vous propose la review du polybag de la gamme _DC Comics Super Heroes_ 30446 **The Batmobile** sorti en mai 2016 et notamment offert lors du grand opening du Lego Store de Bordeaux (en tout cas, c’est ainsi que je me le suis procuré !).  
+Le set est composé de 63 pièces ce qui fait un ratio de... ben 0,00cts la pièce vu que le polybag est offert ! (il y en a qui sont pas attentifs !)
+
+[![](/media/archive/1503b8b3f6692c234555471d.jpg)](https://www.freelug.org/IMG/jpg/30446_alt1.jpg)
+
+* * *
+
+[![](/media/archive/0eb1ccbe774830b9e71f05c4.jpg)](https://www.freelug.org/IMG/jpg/1-7.jpg)
+
+Polybag classique présentant la construction terminée avec en haut la bannière DC Comics Super Heroes et en bas à droite l’icône DC précédée du logo du film "Batman VS Superman". Le dos est tellement neutre que j’ai de la peine à vous montrer la photo...
+
+* * *
+
+[![](/media/archive/1b0fdc53d5db531439427c6b.jpg)](https://www.freelug.org/IMG/jpg/P1040468.jpg)
+
+Sachet ouvert, 63 pièces et la petite notice en 17 étapes ce qui fait peu mais je reviendrai là-dessus dans ma conclusion.
+
+* * *
+
+Allez, c’est parti pour la construction avec l’aide de Batman en personne !
+
+[![](/media/archive/84e981509f8c2f77f3f464fd.jpg)](https://www.freelug.org/IMG/jpg/P1040470.jpg)
+
+Évidemment, on commence par le châssis et on construit autour.
+
+[![](/media/archive/28927d71dae8ca24442a6ac5.jpg)](https://www.freelug.org/IMG/jpg/P1040471.jpg)
+
+[![](/media/archive/177bfa81c70a478e85fa786c.jpg)](https://www.freelug.org/IMG/jpg/P1040472.jpg)
+
+[![](/media/archive/336d796a5a642fc827e63a16.jpg)](https://www.freelug.org/IMG/jpg/P1040473.jpg)
+
+Que vois-je ?! Le Joker tente de saboter la construction en embarquant la plaquette modifiée 2x2x2/3 rouge !
+
+[![](/media/archive/dcf34e597c812373b7b33ab3.jpg)](https://www.freelug.org/IMG/jpg/P1040475.jpg)
+
+Heureusement, le Chevalier noir s’en rend compte et utilise la barre noire du polybag pour arrêter sa Némésis et poursuivre la construction.
+
+[![](/media/archive/8b0d1c4a5d65b0f36d8a9033.jpg)](https://www.freelug.org/IMG/jpg/P1040477.jpg)
+
+[![](/media/archive/eacd54a303d90cc7b5ba60f8.jpg)](https://www.freelug.org/IMG/jpg/P1040480.jpg)
+
+[![](/media/archive/4c7aacd8496568989d8018d5.jpg)](https://www.freelug.org/IMG/jpg/P1040481.jpg)
+
+[![](/media/archive/f24abaadf19fc1016bffa2a9.jpg)](https://www.freelug.org/IMG/jpg/P1040483.jpg)
+
+Non, Batman, tu ne tues pas, le pistolet n’est pas fait pour ça ! Il est là pour fixer les protections sur les côtés de ta voiture.
+
+[![](/media/archive/60dccee243f10e392fd3f6de.jpg)](https://www.freelug.org/IMG/jpg/P1040485.jpg)
+
+[![](/media/archive/0c92638c9dcf396e919674e5.jpg)](https://www.freelug.org/IMG/jpg/P1040487.jpg)
+
+La flamme à l’arrière du véhicule apparaît et ça fait sursauter le guerrier masqué ce qui déclenche l’hilarité du Joker.
+
+[![](/media/archive/b8b08051af706f092897594e.jpg)](https://www.freelug.org/IMG/jpg/P1040489.jpg)
+
+Mais l’homme chauve-souris calme le clown afin de terminer sa Batmobile dans le calme.
+
+[![](/media/archive/141416c943f0743bd1f3e1f0.jpg)](https://www.freelug.org/IMG/jpg/P1040491.jpg)
+
+[![](/media/archive/fd4b443c7d0cd311bf6146f5.jpg)](https://www.freelug.org/IMG/jpg/P1040493.jpg)
+
+[![](/media/archive/fb703bff111afae15936260b.jpg)](https://www.freelug.org/IMG/jpg/P1040495.jpg)
+
+Notre super-héros admire son destrier mécanique flambant neuf sous toutes les coutures pendant que son pire ennemi prend discrètement la fuite.
+
+[![](/media/archive/b6098633348ee32a169ff0cf.jpg)](https://www.freelug.org/IMG/jpg/P1040496.jpg)
+
+[![](/media/archive/7b175752f5f11804c6ea5f49.jpg)](https://www.freelug.org/IMG/jpg/P1040500.jpg)
+
+[![](/media/archive/3daa35d600bb388c7e3ef133.jpg)](https://www.freelug.org/IMG/jpg/P1040505.jpg)
+
+Le Joker a disparu mais il a quand même laissé les pièces en rab.
+
+* * *
+
+En conclusion, ce polybag n’a rien d’exceptionnel. Je ne cache pas ma déception... La construction est certes classique mais la notice s’emballe un peu par moment : il arrive qu’on ait qu’une pièce à poser et étape suivante il y en a 4-5 d’un coup, c’est un peu brouillon pour s’y retrouver (ce qui m’a d’ailleurs valu un petit retour en arrière sur seulement 17 étapes !).  
+Après, un détail : je sais qu’on n’est pas dans la collection _Elves_ ou _Friends_ avec des couleurs partout, mais excepté deux pièces, on reste dans le trio gris clair / gris foncé / noir. Je sais bien que c’est Batman et pas Bob l’Eponge mais je sais pas, j’ai trouvé ça rébarbatif voire triste même avec si peu de pièces...  
+De plus, pas de pièce exclusive au set, non vraiment, à mon sens même pour un set offert, ça ne ravira que les fans / collectionneurs de l’univers _Batman_ (ou _DC Comics_) et/ou les adorateurs du format Midi Scale.
+
+[![](/media/archive/2f8123879e901d6fb10f00f6.jpg)](https://www.freelug.org/IMG/jpg/P1040507.jpg)
+
+En attendant une prochaine review, Batman peut désormais partir à la poursuite du clown sadique...
+
+Merci de m’avoir lu !
+
+A une prochaine !

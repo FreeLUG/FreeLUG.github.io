@@ -1,0 +1,128 @@
+---
+title: "[REVIEW] LEGO 70817 - Batman And Super Angry Kitty Attack (The LEGO Movie)"
+permalink: "/articles/review-lego-70817-batman-and-super-angry-kitty-attack-the\
+  -lego-movie/"
+section: "/themes/the-lego-movie/"
+published_at: "2016-06-03T17:58:51Z"
+authors: [ "Jeremie DESCALIS" ]
+description: "Aujourd’hui FreeLUG vous propose la review du set 70817 dans la
+  gamme The LEGO Movie : Batman And Super Angry Kitty Attack.Ce set sorti en
+  2015 au prix de 12,99 euros est composé de 115 pièces, soit un ratio
+  prix/pièce d’environ 11 centimes d’euros."
+source_id: 2355
+source_url: "https://www.freelug.org/spip.php?article2355"
+---
+
+Aujourd’hui _FreeLUG_ vous propose la review du set 70817 dans la gamme _The LEGO Movie_ : **Batman And Super Angry Kitty Attack**.  
+Ce set sorti en 2015 au prix de 12,99 euros est composé de 115 pièces, soit un ratio prix/pièce d’environ 11 centimes d’euros.
+
+[![](/media/archive/27c68aa18db582aa9767d51a.png)](https://www.freelug.org/IMG/png/BatmanAngryKittyAttack.png)
+
+* * *
+
+Le visuel de la boite est composé en haut des logos _LEGO_ et _The LEGO Movie_.  
+Le set est inséré dans une scène se passant dans la ville du film.
+
+[![](/media/archive/af810d696e1b822db715e1ed.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_01.jpg)
+
+Au verso, on retrouve plusieurs vignettes avec les éléments de jouabilités du set.
+
+[![](/media/archive/1ff151227cb60c953236ef82.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_02.jpg)
+
+La boite contient trois sachets, un carton pour protéger la cape de _Batman_ et une notice de construction.
+
+[![](/media/archive/57dc98ba14e951cf659a8fd3.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_03.jpg)
+
+* * *
+
+Première minifig, le _[Robo Skeleton](http://brickset.com/minifigs/tlm048/Robo-Skeleton)_. Aucune sérigraphie hormis la tête.
+
+[![](/media/archive/7cce0ca2b9b857844a3d1c3d.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_04.jpg)
+
+De dos rien à signaler, c’est tout gris.
+
+[![](/media/archive/7ff7fb7bd0966fe04787246d.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_05.jpg)
+
+Deuxième fig, _[Super Angry Kitty](http://brickset.com/minifigs/tlm091/Super-Angry-Kitty)_. Les nombreuses sérigraphies sont très bien réalisées, mention "_coup de cœur_" pour la bouche et les yeux en colère.
+
+[![](/media/archive/54005b24a2c490a1910b1053.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_06.jpg)
+
+Pas de sérigraphie à l’arrière de la tête.
+
+[![](/media/archive/e574e87f233aff01535b4dc9.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_07.jpg)
+
+Dernière fig, _[Batman](http://brickset.com/minifigs/tlm090/Batman-Dual-Sided-Head-Grin-and-Angry-Face-\(Type-2-Cowl\))_. Sérigraphies classiques pour le torse, par contre au niveau de la tête c’est la joie avec des expressions vraiment cartoonesques.
+
+[![](/media/archive/8c3fc2bd0997761d24cbacb7.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_08.jpg)
+
+Sans le masque on se rend mieux compte des dites expressions.
+
+[![](/media/archive/0f3a6f372c49629b59381970.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_09.jpg)
+
+Visage alternatif énervé avec une bouche disproportionnée (j’adore !).
+
+[![](/media/archive/68bf429a35bc6face9682343.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_10.jpg)
+
+* * *
+
+On commence la construction du robot sentinelle.
+
+[![](/media/archive/c7f7bf59e8fe4df0dbfe8aed.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_11.jpg)
+
+On passe rapidement au dessous.
+
+[![](/media/archive/5d5ddd9c69ca12c36a892151.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_12.jpg)
+
+Puis on continue la construction du corps.
+
+[![](/media/archive/125484d51b8fe8a9d23d7db1.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_13.jpg)
+
+Les barres _Technic_ permettront de lancer les missiles clic.
+
+[![](/media/archive/604174cb109e729097325811.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_14.jpg)
+
+La _Plate 4x2_ permettra d’activer le système pour simuler la destruction du robot.
+
+[![](/media/archive/7475efde1dc528cacc8d843b.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_15.jpg)
+
+On commence les bras.
+
+[![](/media/archive/68ef290be7c9a91947b35543.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_16.jpg)
+
+Une fois les bras fixés, le set est terminé.
+
+[![](/media/archive/a3a770b8c9d6202dd3aeb173.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_17.jpg)
+
+Voici plusieurs photos du set en situation.
+
+[![](/media/archive/f5949def395c649af3011c8b.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_18.jpg)
+
+[![](/media/archive/9df3ab604c0d4360f6643a84.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_19.jpg)
+
+[![](/media/archive/b97f89a71bfef0043b53c036.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_20.jpg)
+
+[![](/media/archive/bcc6e38ebce8cca47521acae.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_21.jpg)
+
+[![](/media/archive/0f2d5a50b63fa9d72876aecf.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_22.jpg)
+
+[![](/media/archive/b557afe8b9634e8ff73ddfa2.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_23.jpg)
+
+[![](/media/archive/7e459e7c676cd22c705eb3aa.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_24.jpg)
+
+[![](/media/archive/6c3604a6bfca2096d512a627.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_25.jpg)
+
+[![](/media/archive/d371660d1bc1e37394852e51.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_26.jpg)
+
+[![](/media/archive/ca087a5ef9ac35c8e93faaa3.jpg)](https://www.freelug.org/IMG/jpg/BatmanAngryKittyAttack_27.jpg)
+
+* * *
+
+**AVIS :**
+
+Un petit set vraiment sympathique, construction rapide mais intéressante. De plus, avec les fig _Batman_ et _Super Angry Kitty_ exclusives au set, il serait vraiment dommage de se priver.
+
+**BONUS :**
+
+Voici un GIF animé réalisé avec la totalité des photos prises pour cette review (cliquez sur l’image pour lancer l’animation).
+
+![](/media/archive/b5010c8fdb22e9d8fa2899f4.gif)

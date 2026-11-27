@@ -1,0 +1,72 @@
+---
+title: "REVUE : CITY 60170 - La poursuite en moto tout-terrain"
+permalink: "/articles/revue-city-60170-la-poursuite-en-moto-tout-terrain/"
+section: "/themes/ville-city/"
+published_at: "2018-01-23T17:16:21Z"
+authors: [ "Mickael GOBLET", "Philippe ZYTKA" ]
+description: "Que peut-on avoir aujourd’hui pour 5,99€ dans un LEGO® Store ou
+  sur le Shop ? Autopsions rapidement ce petit set pour nous faire une idée..."
+source_id: 2819
+source_url: "https://www.freelug.org/spip.php?article2819"
+---
+
+Que peut-on avoir aujourd’hui pour 5,99€ dans un LEGO® Store ou sur le Shop ?
+
+Autopsions rapidement ce petit set pour nous faire une idée...
+
+-   Set N° : 60170 - La poursuite en moto tout-terrain
+-   Nombre de pièces : 37
+-   Prix : 5,99€
+-   Rapport prix/pièce : 16,2 cents/pièce
+-   Nombre de figs : 2
+
+Le relooking des boîtes City est toujours aussi plaisant et dynamique avec sa mise en relief.
+
+[![](/media/archive/985c84fddde22899ddf8212f.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60170_Poursuite_en_moto_tout-terrain_001.jpg)
+
+Un bandit poursuivi par un policier en moto, voici la promesse de la face avant.
+
+[![](/media/archive/1f8f451044dc6c2f603630f7.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60170_Poursuite_en_moto_tout-terrain_002.jpg)
+
+La face arrière spoile un peu l’histoire ;), mais rien ne vous empêche d’imaginer une fin alternative.
+
+[![](/media/archive/dbc00b4f5c26342c7859ee59.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60170_Poursuite_en_moto_tout-terrain_003.jpg)
+
+1 sachet de pièces, une notice et une planche de stickers...
+
+[![](/media/archive/bd2b1bf2fc277a192e9ca348.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60170_Poursuite_en_moto_tout-terrain_004.jpg)
+
+C’est certain, 37 pièces (planche de sticker incluse) et un livret, ça ne fait pas grand-chose une fois étalés sur la table.
+
+[![](/media/archive/826d8d31a338edcd93b5a374.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60170_Poursuite_en_moto_tout-terrain_005.jpg)
+
+![](/media/archive/223bcb3a7b9a98c79ab0a59b.jpg)
+
+Une fois montés les deux personnages et la moto, il ne reste qu’une quinzaine de pièces pour monter le petit bout de rocher dans lequel l’affreux avait caché son magot.
+
+Du côté des figs :  
+_Le bandit_
+
+![](/media/archive/849d70df92f8985b219a746b.jpg)
+
+Une casquette (mais ça peut aussi être un bonnet), mal rasé et avec une dentition mal entretenue, voilà à quoi on reconnait un méchant au Danemark semble t-il ;)  
+Par contre, à l’instar de la chemise à carreau de Madame Bandit dans le [set 60171](/articles/revue-city-60171-l-evasion-des-bandits-en-montagne/), j’aime beaucoup le design de veste trappeur à franges que je trouve vraiment réussi. Comme pour l’autre j’attends une version sans uniforme de prisonnier caché en dessous pour pouvoir en affubler certains personnages.
+
+_Le motard de la police_
+
+[![](/media/archive/6f8abf598bb0179977b9beda.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60170_Poursuite_en_moto_tout-terrain_009.jpg)
+
+Ce policier de la brigade des montagnes arbore le nouveau casque Dirt Bike en Dark-Blue (attention, il est référencé en bleu sur Bricklink), avec une visière allongée.  
+Jolie sérigraphie pour le blouson, les jambes en dark tan sont celles que l’on retrouve également dans certains sets du thème des mineurs.
+
+**Conclusion :**
+
+Il est certain que nous avons affaire là à un set d’entrée de gamme, le type de set que l’on achètera pour faire un cadeau à un enfant pour un anniversaire ou une autre occasion. Après 3 minutes de montage, l’enfant s’amusera à ouvrir la cache au diamant, et à mimer une poursuite entre le bandit et la moto (à moins que le bandit ne se fasse piquer par le serpent et trépasse dans d’atroces souffrances.... euhh... je m’égare là, mais les enfants peuvent être cruels parfois).
+
+Pour les adultes, ce set n’apportera pas grand chose, surtout avec son ratio prix-pièce assez élevé, et terminera sans doute dans le panier sous le coup d’un achat impulsif, "pour compléter la série, parce que bon 5,99€, ça va pas faire exploser le budget".
+
+Et rappelez-vous ce que disait ce bon Dr Jones : "Un X n’a jamais marqué l’emplacement d’un trésor."
+
+[![](/media/archive/bccc2c439cb868c98fd4bc3c.jpg)](https://www.freelug.org/IMG/jpg/2017-12-28_-_60170_Poursuite_en_moto_tout-terrain_007.jpg)
+
+Faudra revoir vos fiches professeur ;)

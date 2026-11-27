@@ -50,6 +50,7 @@ test('CMS-managed content has valid, non-circular section relationships', async 
   }
   const sections = new Map(documents.sections.map(section => [section.permalink, section]));
   for (const section of sections.values()) {
+    if (section.image) await access(path.join(root, ...section.image.split('/').filter(Boolean)));
     const visited = new Set([section.permalink]);
     let parent = section.parent;
     while (parent) {

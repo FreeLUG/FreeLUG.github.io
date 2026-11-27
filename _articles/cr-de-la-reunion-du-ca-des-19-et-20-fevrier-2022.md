@@ -1,0 +1,346 @@
+---
+title: "CR de la réunion du CA des 19 et 20 février 2022"
+permalink: "/articles/cr-de-la-reunion-du-ca-des-19-et-20-fevrier-2022/"
+section: "/association/reunions-evenements/reunions-du-conseil-d-administration\
+  -de-freelug/"
+published_at: "2022-04-24T14:57:10Z"
+authors: [ "Chrystelle AUBIN-MAQUET", "Sébastien HAMON" ]
+description: "CR de la réunion du CA des 19 et 20 février 2022"
+source_id: 3186
+source_url: "https://www.freelug.org/spip.php?article3186"
+---
+
+CR de la réunion du CA des 19 et 20 février 2022
+
+Présents (7) :  
+**–** Erik  
+**–** Chrystelle  
+**–** Emmanuel  
+**–** Pierre C  
+**–** Sébastien  
+**–** Pierre L  
+**–** Richard en distanciel
+
+Excusés (4) :  
+**–** Olivier  
+**–** Xavier  
+**–** François  
+**–** Stéphane
+
+Ordre du jour pour le week-end :
+
+**–** Préparation AG 2022  
+**–** Outils internet : forum, listes de discussion, discord, site principal, groupes Facebook...  
+**–** Courriel d’Olivier  
+**–** Organisation des Briqu’Expo  
+**–** Gestion et devenir des stocks encombrants (vitrines par exemple)  
+**–** Outils de vote pour accélérer nos procédures avec limite de temps de vote (Discourse ?)  
+**–** Utilisation d’une messagerie instantanée type Whatsapp pour faciliter la discussion (Discourse ?)  
+**–** Durée des réunions mensuelles réduite à 1h/1h30 maxi  
+**–** Mise en place de la boutique en ligne  
+**–** But de l’association, face aux multiples demandes d’animation en tout genre
+
+## **Samedi 19 février**
+
+Début de séance : 11h08
+
+_Il est décidé de ne pas forcément aborder les points dans l’ordre donné pour s’adapter au distanciel._
+
+Avant cette réunion, Olivier B nous a fait part de son mécontentement sur différents points :
+
+-   Attribution des boites en stock entre les CoR et le GFC
+-   Délai de retour des boites promises suite à la construction de la maquette LEGO City
+-   Suite de la synthèse sur la relecture des statuts des CoR
+
+En conclusion de courriel, il indique se poser la question de la poursuite ou non de son investissement dans l’association. Richard nous a également indiqué qu’il se posait la même question, d’autant plus qu’il arrive en fin de mandat.
+
+Nous commençons donc par aborder ces différents points.
+
+**Problème de la distribution des boites réservées à la fois pour le GFC et le CoR Nord**
+
+Olivier, en tant que coordinateur du CoR Nord Macleod, a fait une liste de choix de boîtes dans le stock de l’association en prévision des différentes actions qu’il envisageait pour l’année 2022. Par suite d’un cafouillage avec Sébastien, responsable matériel, et le GFC, ces boîtes n’ont pas été réservées sur l’outil informatique, si bien que le GFC en a utilisé une partie pour ces différents concours. Le CoR Nord Macleod se retrouve donc dans l’incapacité d’utiliser les boites qu’il a réservé, surtout que certaines ont déjà été attribuées lors d’un concours pour la galette des rois 2022.
+
+Pour remédier à ce problème, le CA propose le rattrapage par un remplacement au moins à l’équivalence à la fois par le GFC et par le Cor Nord. Il est décidé que le CoR Nord prend ses boîtes et le GFC referra un point dans le stock après.
+
+**Frais de transport de la maquette city**
+
+Olivier, étant un des principaux acteurs de la construction et de la coordination pour la construction de la maquette LEGO City, a demandé à être remboursé des différents frais de transport qu’il a eu : un aller-retour sur Orléans pour récupérer les sets à construire et un aller-retour sur Paris pour l’installation.
+
+Il a été convenu qu’il serait remboursé par des boites en provenance de LEGO. Mais cela a pris du temps suite en partie à des problèmes d’approvisionnement de la part de LEGO et d’autre part des problèmes de coordination du côté de FreeLUG.
+
+Il est proposé à Olivier ce qui suit :
+
+-   Les boites prévues (Modular et Minecraft)
+-   Le CA propose un complément par un équivalent de 30 € pour compenser le manque de points VIP et le prix AFOL Day. Une boîte de cette valeur sera rajouter
+
+**Synthèse de la relecture des statuts des CoR**
+
+Courant 2021, Olivier a réalisé un gros travail de synthèse des discussions qui ont eu lieu sur la révision des statuts des CoR. Arrivée en fin d’année il n’y a eu aucune action concrète du CA pour donner suite à cette synthèse.
+
+Il se pose la question de ce qu’il pourrait être fait pour relancer le sujet et accompagner Olivier dans la suite de cette synthèse et le responsable des CoR.
+
+Ce dernier a fait part par mail de son souci de manque de réponses à ces questions par les coordinateurs des CoR et du court-circuitage de son rôle par contact direct via certaines personnes du CA.
+
+Pierre C propose de mettre un outil de suivi (type To Do List) comme dans une société avec une date de début et une date de fin avec des points d’étape en début de CA.  
+Cela aura l’avantage de pouvoir faire plus facilement les ODJ des réunions du CA Ceci sera mis en place après la future AG car il peut y avoir le risque de remise en cause par le futur CA.  
+Afin de mettre en évidence le travail effectué, il est décidé d’insérer une diapo lors de la prochaine AG montrant qu’une synthèse a été faite pendant l’année écoulée avant la fin du rapport moral.
+
+**Devenir de la maquette LEGO City**
+
+Olivier pose la question du devenir de la maquette LEGO City car elle encombre son salon.
+
+Comme discuté lors de précédente réunion elle sera réutilisée pour la promotion des futures BE.
+
+Elle sera donc redescendue au local d’Orléans car la prochaine BE à l’utiliser est celle du Val de Loire. Ce transfert sera fait rapidement par Richard qui doit venir chercher des briques pour des mosaïques au salon Séries mania. Il en profitera également pour remonter les boites de compensation pour les participants à la maquette LEGO City du CoR Nord Macleod.
+
+En fin d’année un bilan sera fait sur l’utilisation de cette maquette sur l’année écoulée.
+
+**Fonctionnement des CoR**
+
+Concernant le stock des boites du CoR Massif Central, demande de JAC sur un réapprovisionnement de boites. Le CA demande à JAC de faire un point de ce qu’il est prévu de faire avec les boites déjà présentes en stock  
+Concernant la nomination d’un responsable, pourquoi se référer uniquement au règlement alors qu’il y a une personne volontaire ?  
+\- soit on s’y réfère car sinon le règlement ne sert à rien  
+\- soit le règlement n’est plus adapté —> proposition est faite de mettre ce point à la refonte des statuts des CoR.
+
+**Réponse au mail d’Olivier**
+
+Le CA fait la différence entre la forme et le fond.  
+Pour le fond le CA est OK pour les soucis soulevés mais la forme n’est pas appréciée par tout le monde.  
+En fait, c’est une cocotte minute qui a explosée. L’ensemble des présents du CA souhaite qu’Olivier et Richard restent au CA.
+
+Avant de répondre par écrit au mail d’Olivier, il est également fait état du grand nombre de mails reçus sur la liste CA et de la difficulté de faire le tri et d’y répondre plus rapidement.
+
+La rédaction de la réponse est commencée, il est toutefois décidé de ne pas l’envoyer tout de suite pour laisser la nuit pour réflexion si besoin.
+
+Fin de séance : 12h30
+
+Reprise de séance : 14h40
+
+Reprise des discussions suite au retour d’Olivier pendant le repas sur l’attribution des boites pendant la galette des rois. Les boites attribuées sont toutes disponibles pour le CoR Nord.
+
+Le mail de réponse par une fois ces boîtes validées.
+
+**Discussion et présentation de la comptabilité 2021**
+
+Le résultat est négatif en 2021 mais il est minimisé par la vente des minifigs, la non-distribution des cartes d’adhérents (frais affranchissement), et la fermeture du local de Saint Étienne.
+
+Le trésorier présente le bilan et propose une ventilation des dépenses pour 2022 afin de respecter l’actif = au passif.
+
+Le CA accepte à l’unanimité des présents de la répartition proposée par le trésorier.
+
+**Bureau et CA : organisation**
+
+Il est décidé d’arrêter les réunions bimensuelles, les membres du CA hors bureau n’étant pas présent à chaque ont des difficultés à comprendre et suivre les différents points. Il est également émis le souhait de traitement par sujets au lieu de fonction pour la prochaine mandature (ceci sera caler en fonction du souhait des potentiels nouveaux arrivant au CA après l’AG).
+
+Il est fait également état de la longueur des réunions mensuelles : on privilégiera des réunions d’1h30 maximum.
+
+Discussion sur qui participe au CA et sur l’intérêt des personnes au sein du CA et l’intérêt de l’association.
+
+Pour les votes, le CA souhaite avoir un outil de vote type loomio mais comment le remplacer : Belenios ou Loomio via framasoft ?
+
+Il est décidé d’utiliser framasoft.
+
+Proposition de passer par un système de messagerie instantanée. Pour être plus réactif sur les discussions et la rapidité utilisation de discord avec différents canaux.
+
+**Le Comité Opérationnel et Technique (COT)**
+
+Un point est fait pour rappeler le rôle du COT. Il est fait pour être un espace de partage d’information en premier lieu entre les acteurs principaux de l’association.
+
+Il est évoqué la possibilité d’avoir besoin d’un coordinateur/rapporteur pour remonter au CA les questions qui demandent des votes et engagent la responsabilité de l’association
+
+Le COT est composé des membres du CA, des organisateurs de Briqu’Expo, de l’ambassadeur, du responsable des CoR et du responsable du GFC. Cette liste pourra évoluer en fonction des besoins.
+
+Un exemple est donné pour montrer son rôle : un organisateur de BE souhaite faire venir une maquette de LEGO FR, la question se pose sur le COT comme ça les autres organisateurs pourront avoir l’information également car cela pourra les intéresser aussi. Un autre exemple est donné avec un diorama commun entre région/CoR
+
+**Utilisation des dotations LEGO DK FR**
+
+Erik fait un rappel de l’utilisation des supports suite questionnement de Manu.
+
+En 2020 et 2021 le CA a donné l’autorisation au GFC de prendre des boîtes sans limite car il n’y avait pas d’expo et d’activités régionales.
+
+En 2022 des difficultés apparaissent du fait du retour des expos et le souhait est de planifier les choses pour ne pas renouveler le souci rencontré avec les boîtes doublement distribuées par le CoR Nord et le GFC.
+
+La mise en place du nouvel outil de gestion du matériel nous permet depuis un an de savoir où et comment sont utilisées les boîtes.
+
+**Attribution des boîtes disponibles**
+
+Le CA propose de justifier les demandes de boites pour les CoR avec par exemple une liste des animations prévues.
+
+Le CA aura pour rôle de répartir les dotations de manière proportionnelle et arbitrairement selon les demandes en nombre de boîtes. Le CoR n’a pas à choisir directement dans la liste des boîtes disponibles.
+
+Le CA fera attention à bien répartir les boîtes entre les différentes entités (CoR et GFC)  
+Il sera demandé aux CoR de faire leur demande en même temps pour une date précise afin de répartir les boîtes entre les CoR. Il y en sera de même pour le GFC.
+
+Il reste la difficulté de la date de livraison de LEGO DK (2 fois dans l’année mais pas à date fixe), de la date des activités des CoR. et de comment faire parvenir ces boîtes dans les régions.
+
+Attention s’il n’y a pas eu d’activités pendant une période d’un an dans un CoR, il y aura demande de retour dans le stock commun.
+
+Le CA demandera à chaque CoR de faire un bilan de l’activité de l’année N-1 et les prévisions de l’année N pour la réunion de CA en présentiel.
+
+Attention également à ne pas oublier les besoins CA (membre de l’année, MOC de l’année, récompense pour personne quittant le CA).
+
+Comment faire transiter ce matériel ? Soit lors des rencontres entre personnes, CA, AG, REF, réunion présentielle de février (et potentiellement lors d’une seconde réunion présentielle).
+
+Cas des boites non utilisées, soit le CA fait un point avec le responsable du CoR (avec possibilité de faire des choses l’année suivante), si besoin de complément c’est possible, mais il n’y aura pas de remplacement pour avoir des boites récentes, soit s’il n’y a pas d’activité, il y aura un retour au commun sauf si un projet est prévu en face.
+
+**Rencontre Estivale FreeLUG 2022**
+
+Nous lançons l’idée d’une REF pour 2022 vu l’éclaircissement de la situation sanitaire.
+
+**Vitrines**
+
+Nous avons été contactés par un magasin de jouets de la région parisienne pour récupérer des petites vitrines (celles présentes en rayon sur les étagères). Il a été décidé de les récupérer pour ensuite les distribuer lors de la prochaine AG. Les modalités de distribution seront données ultérieurement avec le mail de convocation pour l’AG.
+
+Il reste également des grandes (équivalence d’une palette europe ou un peu plus grande) : la Star Wars, stockée chez Erik, partira dans le Nord pour la remise en état, les autres formes restent chez les adhérents qui les ont.
+
+En parallèle aux vitrines, il est fait état de ce qu’il reste au local d’Orléans et qui ne bouge pas.
+
+Il reste des panneaux de bois de la BE LVDB. Sébastien se dit intéressé, le CA présent sauf Sébastien donne son accord pour qu’il récupère le tout.  
+Il y a également une vitrine du local (palette europe). Chrystelle se dit intéressée, le CA sauf Chrystelle donne son accord
+
+Fin de séance : 19h20
+
+## **Dimanche 20 février**
+
+Début de séance : 9h
+
+Début de rédaction de mail de réponse à Olivier par Erik et Pierre C  
+Arrivée de Richard en audio à 9h45
+
+**But de l’association, face aux multiples demandes d’animation en tout genre**
+
+Nous recevons de plus en plus de demandes d’animations avec des devis et pour l’association ça n’est pas forcément notre but.
+
+Cela pose surtout des soucis pour des interventions dans une société, cependant pas de souci pour des écoles.  
+exemple :
+
+-   Maquette construite pour une société avec retour des briques pour FreeLUG -> ok
+-   Maquette construite pour une société avec non-retour des briques pour FreeLUG -> non
+
+Mais les exemples sont limités avec nos statuts car cela ressemble à du travail dissimulé.
+
+-   Si demande de prestation via société de com -> non
+-   Si autre société au cas par cas.
+
+**LUGBULK**
+
+Il y a peu de personnes qui ont râlé par suite des nouvelles règles pour 2022, les règles sont maintenues pour les prochains Bulk. Elles seront revues si nécessaire.
+
+Pour les cas litigieux, le jugement reste au CA avec une préparation des informations en avance par le responsable Bulk. Il sera prévu une réunion pour ne traiter que de ce sujet.
+
+**Bulk Event**
+
+2 projets peuvent faire l’objet d’un Bulk Event. Priorité est donnée au MILS car le quartier des affaires en a déjà bénéficié. les expositions concernées sont : le salon de train miniature d’Orléans et la BE Wavrin
+
+Au vu de la composition des éléments du MILS, il y aura probablement 1/3 MILS et 2/3 quartier des affaires.
+
+Richard se charge avec Manu de faire l’inventaire des pièces nécessaires par module de base (route droite, rails, paysages) pour le MILS.
+
+A l’issue de cet inventaire, un retour sera fait pour le quartier des affaires pour le reste disponible.
+
+A titre informatif, pour 1 module route droite il faut environ 8 références et pour 1 module paysage 16 références.
+
+Ce Bulk Event sera accessible uniquement aux personnes participantes à l’une et/ou l’autre des expos (Orléans/Wavrin).
+
+**Organisation des Briqu’Expo**
+
+Il est difficile pour un nouvel organisateur de ne pas avoir tous les éléments en main pour préparer cette exposition.
+
+Par exemple d’avoir une liste des adhérents d’un secteur, difficulté de retrouver les informations.
+
+Il faut finaliser l’aide-mémoire d’organisation d’une BE pour aider les prochains organisateurs (Pierre C, Chrystelle et Manu) après les BE des Loges et Val de Loire.
+
+**Préparation AG 2022**
+
+_a. Votes_
+
+Après discussion sur la faisabilité des choses, le CA prend la décision de ne faire que le vote en présentiel sur papier. Pour les personnes qui ne seront pas présentes, elles donnent procuration aux présents.
+
+L’audio est uniquement là pour assurer la présentation des diapos sous réserve de faisabilité.
+
+Ces décisions sont prises compte-tenu que nous ne connaissons pas la nouvelle salle.
+
+_b. Repas_  
+Samedi et dimanche midi : Buffet froid  
+Samedi soir : pizzas avec participation financière.
+
+_c. Carte de membres_
+
+Pas de finalisation à ce jour, proposition et acceptation de repousser d’une semaine la date d’échéance pour le vote du visuel.
+
+_d. Membres à l’honneur en 2022_
+
+Il est proposé de mettre les 2 personnes qui quittent le CA (Xavier et Pierre L) et JLB pour son rôle de webmaster (serveur) et la mise en place de nouveaux outils récemment, et la proposition du nom FreeLUG il y a 20 ans.
+
+_e. Concours_
+
+On demande au GFC de nous proposer un concours.  
+Vente de minifigs : oui
+
+_f. Divers_
+
+Rétroplanning à faire  
+Animation de vente des vitrines.  
+Sono : Manu  
+Vidéoprojecteur : se rapprocher de Pascal pour savoir s’il y en a un dans la salle.  
+Matériels nécessaire cuisine. se rapprocher de Pascal pour savoir ce qu’il y a de disponible.  
+Urne : pour le dépouillement. se rapprocher de Pascal pour disponibilité de l’urne  
+Rapatriement du matériel qui est chez Xavier. Xavier a fait part par mail de continuer à s’occuper de se rôle. Après discussion, il est décidé de lui laisser ce rôle même s’il quitte le CA car cela peut être fait ainsi avec l’outil de gestion des adhérents. Et également car il connaît le matériel utilisé.
+
+Fin de séance : 12h
+
+Reprise de séance : 13h37
+
+**Outils internet : forum, listes de discussion, discord, site principal, groupes Facebook...**
+
+Un point est fait car il y a un outil qui semble pouvoir convenir à nos souhaits : Discource. Avec cet outil il est possible de communiquer en version forum et/ou mailing list.
+
+Il y aura toutefois une subtilité dans les adresses mail car elles devront changer par rapport à ce que nous utilisons actuellement.
+
+Il est également possible, grâce aux applications téléphones d’avoir des notifications en mode push.
+
+Il peut être connecté assez facilement sur la gestion des adhérents pour régler les statuts adhérents, membres du CA, GFC, CoR et COT.
+
+Toutefois nous n’aurons pas la possibilité d’importer le forum actuel sur cet outil.
+
+La question se pose de l’avenir de notre site internet. La version actuelle ne sera plus maintenue à jour fin 2022 et la nouvelle version ne nous permet plus de garder les plugins que nous utilisons.
+
+Cela nous encourage à opter pour le nouvel outil. Le site deviendra une vitrine institutionnelle.
+
+Il est prévu de lancer le nouveau forum avant l’AG avec quelques volontaires choisis parmi les adhérents les plus actifs sur l’ancien forum et représentant un échantillon de nos adhérents.
+
+Nous prévoyons le lancement officiel du nouvel outil après l’AG.
+
+**Mise en place de la boutique en ligne**
+
+Il est évoqué la possibilité d’avoir une boutique en ligne dans la continuité de l’outil de gestion des adhérents et du matériel.
+
+Dans un premier temps, le CA remercie Erik pour le travail effectué.
+
+Erik indique qu’il lui faut encore un peu de temps pour finaliser la partie boutique
+
+L’idée est d’en finir avec les différents fichiers Excel qui se suivent et qui demandent plus d’actions des personnes gestionnaires.
+
+Il y aura la possibilité de finalisation de commande uniquement quand un objectif de quantité est atteint, c’est le cas pour les vêtements à l’effigie de FreeLUG
+
+Selon l’avancement une présentation du projet pourra être faite pour l’AG.
+
+En prévision des futures commandes possibles, Erik a contacté Briquestore pour l’impression des badges. En effet la personne nous ayant fait les derniers a arrêté son activité.
+
+Briquestore nous indique pouvoir imprime des badges au fur et à mesure des demandes mais nous indiques qu’il ne sera fourni aucun aimant avec les briques imprimées.
+
+Nous proposons de nous limiter à 3 articles pour lancer la boutique
+
+-   Des badges
+-   Des vêtements
+-   Des minifigs
+
+Les minifigs seront le premier article en vente et proviendront du stock que nous avons issus de certaines séries.
+
+**Idées pour les goodies 2023**
+
+2023 sera l’année des 20 ans de notre association, afin de préparer les festivités nous réfléchissons déjà aux goodies que nous pourrions faire, des exemples sont proposés : minifig, règle avec tenons (équerre), mugs ...
+
+Fin de réunion : 14h45
+
+Pour toute remarque ou commentaire, merci de contacter le CA : ca@freelug.org

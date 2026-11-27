@@ -1,0 +1,66 @@
+---
+title: "[REVIEW] LEGO 21003 – Seattle Space Needle (Architecture)"
+permalink: "/articles/review-lego-21003-seattle-space-needle-architecture/"
+section: "/themes/divers/"
+published_at: "2016-05-24T16:15:46Z"
+authors: [ "Jeremie DESCALIS" ]
+description: "Bonjour à tous, aujourd’hui je vous propose une review du set
+  21003 dans la gamme Architecture : Seattle Space Needle.Ce set sorti en 2009
+  est composé de 57 pièces et coûte 19,99 euros, soit un ratio prix/pièce de 35
+  centimes d’euros (outch !)."
+source_id: 2317
+source_url: "https://www.freelug.org/spip.php?article2317"
+---
+
+Bonjour à tous, aujourd’hui je vous propose une review du set 21003 dans la gamme _Architecture_ : **Seattle Space Needle**.  
+Ce set sorti en 2009 est composé de 57 pièces et coûte 19,99 euros, soit un ratio prix/pièce de 35 centimes d’euros (outch !).
+
+[![](/media/archive/276abee03466e517b8470059.png)](https://www.freelug.org/IMG/png/SeattleSpaceNeedle_box_recto.png)
+
+* * *
+
+Au recto, on retrouve la signature noire de la gamme _Architecture_ avec le set mis en avant sur des plans de construction.
+
+[![](/media/archive/560b909e649a0162b700b63d.jpg)](https://www.freelug.org/IMG/jpg/SeattleSpaceNeedle_01.jpg)
+
+Au verso, des photos de l’édifice, la taille du modèle _LEGO_ et des informations.
+
+[![](/media/archive/9b2eda90a1531f1f31c39781.jpg)](https://www.freelug.org/IMG/jpg/SeattleSpaceNeedle_02.jpg)
+
+La boite contient deux sachets, quatre tubes semi-rigides et une notice. Cette dernière est agrafée et non avec un dos carré comme sur le reste de la gamme.
+
+[![](/media/archive/2f48495f4509ec7c6ede6070.jpg)](https://www.freelug.org/IMG/jpg/SeattleSpaceNeedle_03.jpg)
+
+On commence la construction avec le socle qui portera l’édifice, avec la traditionnelle _tile_ noire sérigraphiée au nom du monument.
+
+[![](/media/archive/7796f17b3495d9e8a5d1a149.jpg)](https://www.freelug.org/IMG/jpg/SeattleSpaceNeedle_04.jpg)
+
+L’armature constituée d’une barre _Technic_.
+
+[![](/media/archive/3c26ff584bca61849c015e4c.jpg)](https://www.freelug.org/IMG/jpg/SeattleSpaceNeedle_05.jpg)
+
+Comme vous le voyez la construction est très simpliste.
+
+[![](/media/archive/ca8f5a7f3e90bd2ec9e24e5b.jpg)](https://www.freelug.org/IMG/jpg/SeattleSpaceNeedle_06.jpg)
+
+Pose de la deuxième pièce qui nous permettra d’installer les tubes semi-rigide.
+
+[![](/media/archive/d27b77ccea6ccec923971e31.jpg)](https://www.freelug.org/IMG/jpg/SeattleSpaceNeedle_07.jpg)
+
+Les tubes posés, on construit le haut de la tour où est situé le restaurant panoramique _[SkyCity](http://www.spaceneedle.com/information/)_.
+
+[![](/media/archive/71fe2f007080e22aedc4ffd6.jpg)](https://www.freelug.org/IMG/jpg/SeattleSpaceNeedle_08.jpg)
+
+Pour finir, on pose l’antenne.
+
+[![](/media/archive/4090fa0c599770db1e6c047a.jpg)](https://www.freelug.org/IMG/jpg/SeattleSpaceNeedle_09.jpg)
+
+**AVIS :**
+
+Set simpliste et très (trop) rapide à monter et un ratio prix/pièce énorme. Néanmoins le résultat final est, étonnement, plutôt réussi.
+
+**BONUS :**
+
+Voici un GIF animé réalisé avec les photos prise pour cette review (cliquez sur l’image pour lancer l’animation).
+
+![](/media/archive/1d192b8bf631547043b31456.gif)

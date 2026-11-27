@@ -1,0 +1,92 @@
+---
+title: "Xchat : en savoir plus..."
+permalink: "/articles/xchat-en-savoir-plus/"
+section: "/association/les-outils-informatiques/"
+published_at: "2003-01-17T23:00:00Z"
+authors: []
+description: "Maintenant que vous connaissez Xchat, vous vous posez plein de
+  questions. Comment je peux parler en prive ? Comment avoir un bip ? etc. Cet
+  article va essayer de reprendre les points qui m’ont deja ete demandes."
+source_id: 40
+source_url: "https://www.freelug.org/spip.php?article40"
+---
+
+Maintenant que vous connaissez Xchat, vous vous posez plein de questions. Comment je peux parler en prive ? Comment avoir un bip ? etc. Cet article va essayer de reprendre les points qui m’ont deja ete demandes.
+
+Je ne reviendrais pas sur "[Comment on installe Xchat](/articles/x-chat-installation-rapide-et-simple/)", puisque deja vu dans [l’article precedent](/articles/x-chat-installation-rapide-et-simple/).
+
+Je vais commencer par une liste de commandes propre a tout systeme IRC (Xchat mais aussi MIrc et autres). J’ai mis entre parentheses la commande en anglais, si besoin.
+
+Par defaut (si vous avez suivi le premier article), vous arrivez sur le canal #freelug. Channel ou chan sont deux autres facons de nommer un canal.
+
+**Comment puis-je changer mon nick ?**
+
+C’est relativement simple. Il suffit de taper un nouveau message commencant par /nick :
+
+```
+/nick MonNick
+```
+
+**Comment parler a quelqu’un en prive ?**
+
+Admettons que je veuille parler a LegoNick. A nouveau en tant que nouveau message :
+
+```
+/query LegoNick
+```
+
+Une nouvelle fenetre (tabulation) apparait en bas a gauche.
+
+**Et, comment je ferme cette nouvelle fenetre ?**
+
+Pour fermer un fenetre, il suffit de taper /close dans celle-ci. Ca fonctionne pour les dialogues en prive, mais aussi dans un chan, ou meme sur la fenetre avec le nom du server.
+
+**Est-ce que je peux aller dans d’autre chan ?**
+
+Bien sur ! Pour joindre un canal, il suffit de connaitre son nom (par ex #freelug) et de taper :
+
+```
+/join #freelug
+```
+
+J’ai creer un canal #khan, pour ceux qui veulent tester.
+
+Quelques commandes propres a Xchat.
+
+**Je voudrais avoir un bip a chaque nouveau message**
+
+La, il y a 2 facon de faire. Soit de maniere temporaire, dans ce cas, il suffit de cliquer sur l’icone |<|> _configuration_\->_IRC_ (_Settings_\->_setup_\-_IRC_) et valider les tick-box suivantes :
+
+```
+ * bip sur les messages privés
+ * bip sur les messages de canal
+```
+
+Le premier active les bips lors de message dans le cadre d’un /query. Le second active les bips pour tout message sur un canal.
+
+**Je voudrais avoir un bip que lorsque mon nick apparait dans une ligne**
+
+Malheureusement, ca c’est pas possible. Enfin je dirais que je n’ai pas (encore) trouve.
+
+**Comment ne pas avoir a retaper le nom de la personne a qui je veux parler ?**
+
+Une bonne regle sur IRC est de dire a qui l’on parle, surtout lorsqu’il y a du monde dans le canal. A nouveau, deux facons de faire.
+
+```
+ * taper la 1iere lettre puis la touche tab (celle avec 2 fleches a gauche du clavier)
+ * taper la premiere lettre puis :
+```
+
+Ca ne fonctionne pas ? Et a la place y’a 2 (ou plus) nick qui apparaissent ? ca veut dire qu’il faut mettre 2 letrres (ou plus), car les nicks commencent pareils.
+
+**Je voudrais faire disparaitre ce qui est affiche ?**
+
+Dans la cas ou vous venez de commander plus que vous auriez du et depense le budget familial et que la _direction_ pointe son nez, il peut etre interessant de faire un vide-ecran (clear screen). Pour cela, tapez :
+
+```
+/clear
+```
+
+Voila, je penses qu’avec ca, vous savez ce qu’il y a a savoir. Y’a evidement beaucoup plus de possibilites, mais je vous laisse les decouvrir. Si je me rend compte dans 2 ou 3 semaines qu’il y a des demandes pour d’autres infos, je posterai un nouveau message. N’hesitez pas a faire vos demandes soit via email, soit sur le chan.
+
+Gael / Khan sur le chan
