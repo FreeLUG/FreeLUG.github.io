@@ -45,6 +45,13 @@ La date, les auteurs et le résumé sont modifiables dans le même formulaire.
 L’éditeur propose un mode visuel et un mode source Markdown ; les images
 s’insèrent depuis la médiathèque.
 
+Les aperçus des articles dans les rubriques et les profils d’auteurs affichent
+automatiquement la première image du contenu Markdown, ou le logo FreeLUG si
+le contenu ne comporte aucune image. La vignette est redimensionnée sans
+recadrage ni déformation et chargée à la demande. Aucun champ supplémentaire
+n’est à maintenir dans Pages CMS ; modifier les images du contenu puis
+reconstruire le site suffit.
+
 Les listes d’articles, compteurs, sous-rubriques et fils d’Ariane sont calculés
 à partir des champs **Rubrique** et **Rubrique parente**. Il n’y a aucune liste
 d’identifiants à maintenir. Une nouvelle rubrique apparaît dans son parent ;
