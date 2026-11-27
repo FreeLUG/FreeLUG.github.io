@@ -93,6 +93,42 @@ test('SPIP footnotes remain linked using Markdown footnotes', () => {
   assert.doesNotMatch(markdown, /#nb1|#nh1/);
 });
 
+test('train-geometry matrices preserve dimensions, values, bold limits and red flags in narrow Markdown tables', () => {
+  const start = '<table class="spip"><tr><td colspan="2" rowspan="2"></td><td colspan="3"><strong>Largeur</strong></td></tr>' +
+    '<tr><td>6</td><td>8</td><td>10</td></tr>';
+  const simple = start + '<tr><td rowspan="2"><strong>Empattement</strong></td><td>18</td><td>1</td><td><strong>3</strong></td><td><span style="color: #FE0109">5</span></td></tr>' +
+    '<tr><td>19</td><td>2</td><td>3</td><td>5</td></tr></table>';
+  const markdown = toMarkdown(simple);
+  assert.match(markdown, /\| Empattement \| Largeur 6 \| Largeur 8 \| Largeur 10 \|/);
+  assert.match(markdown, /\| 18 \| 1 \| \*\*3\*\* \| 5 \(rouge\) \|/);
+  assert.match(markdown, /\| 19 \| 2 \| 3 \| 5 \|/);
+  assert.match(markdown, /signalement en rouge/);
+  const group = '<td colspan="7"><strong>6</strong></td><td></td><td colspan="7"><strong>8</strong></td><td></td><td colspan="7"><strong>10</strong></td>';
+  const overhang = Array.from({ length: 7 }, (_, index) => `<td>${index + 4}</td>`).join('');
+  const numbers = Array.from({ length: 7 }, (_, index) => `<td>${index}</td>`).join('');
+  const wide = start.replace('colspan="3"', 'colspan="23"').replace('<tr><td>6</td><td>8</td><td>10</td></tr>', `<tr>${group}</tr>`) +
+    `<tr><td colspan="2"><strong>Porte-à-faux</strong></td>${overhang}<td></td>${overhang}<td></td>${overhang}</tr>` +
+    `<tr><td rowspan="2"><strong>Empattement</strong></td><td>18</td>${numbers}<td></td>${numbers}<td></td>${numbers}</tr>` +
+    `<tr><td>19</td>${numbers}<td></td>${numbers}<td></td>${numbers}</tr></table>`;
+  const expanded = toMarkdown(wide);
+  assert.equal(expanded.match(/\| Empattement \|/g).length, 3);
+  assert.equal(expanded.match(/\| 18 \| 0 \| 1 \| 2 \| 3 \| 4 \| 5 \| 6 \|/g).length, 3);
+  for (const width of [6, 8, 10]) assert.ok(expanded.includes(`**Largeur : ${width}**`));
+  assert.match(expanded, /Porte-à-faux 4.*Porte-à-faux 10/);
+  const missing = wide.replace('<td>5</td><td>6</td></tr></table>',
+    '<td><span style="color: #FE0109">5</span><span style="color: #FE0109">6</span></td></tr></table>');
+  const retained = toMarkdown(missing);
+  assert.match(retained, /\| 19 \| 0 \| 1 \| 2 \| 3 \| 4 \| 56 \(rouge\) \| Cellule absente dans l’original \|/);
+  assert.match(retained, /valeurs existantes sont conservées sans correction/);
+  for (const invalid of [
+    simple.replace('rowspan="2"><strong>Empattement', 'rowspan="3"><strong>Empattement'),
+    simple.replace('<td>19</td>', '<td>21</td>'),
+    simple.replace('color: #FE0109', 'color: blue'),
+    missing.replace('<td>4</td><td><span style="color: #FE0109">5', '<td><span style="color: #FE0109">5'),
+    wide.replace('<td></td>' + numbers, '<td>Lost value</td>' + numbers)
+  ]) assert.throws(() => toMarkdown(invalid), /complex table/);
+});
+
 test('labelled tournament brackets preserve rounds and scores as Markdown lists', () => {
   const html = `<table class="classement"><caption>Tournoi</caption>
     <tr><th>Quart</th><td>A - B<br>4</td><td>C - D<br>0</td></tr>

@@ -128,6 +128,7 @@ export async function importEdgePage(file, destination = root) {
       editorial.appendChild(extra);
     }
   }
+  const originals = new Set();
   for (const player of Array.from(editorial.querySelectorAll('video, audio'))) {
     const sources = [...new Set([player.getAttribute('src'),
       ...Array.from(player.querySelectorAll('source[src]'), node => node.getAttribute('src'))].filter(Boolean))];
@@ -139,10 +140,14 @@ export async function importEdgePage(file, destination = root) {
     const paragraph = document.createElement('p');
     for (const raw of sources) {
       const url = new URL(raw, sourceUrl);
-      if (!['https:', 'http:'].includes(url.protocol) || url.hostname !== 'www.freelug.org' ||
-          url.username || url.password || !url.pathname.startsWith('/IMG/')) {
+      const publicMedia = ['https:', 'http:'].includes(url.protocol) && url.hostname === 'www.freelug.org' &&
+        !url.username && !url.password && url.pathname.startsWith('/IMG/');
+      const historicalTheora = player.nodeName === 'VIDEO' &&
+        raw === 'http://brickerik.free.fr/autre/muji_perforeuse.ogg';
+      if (!publicMedia && !historicalTheora) {
         throw new Error(`Article ${id} contains media requiring editorial migration: ${raw}`);
       }
+      if (historicalTheora) originals.add(raw);
       const link = document.createElement('a');
       link.setAttribute('href', url.href);
       link.textContent = player.nodeName === 'VIDEO' ? 'Vidéo de la publication d’origine' : 'Audio de la publication d’origine';
@@ -151,7 +156,6 @@ export async function importEdgePage(file, destination = root) {
     }
     container.replaceWith(paragraph);
   }
-  const originals = new Set();
   const videoLink = (player, url) => {
     const paragraph = document.createElement('p');
     const link = document.createElement('a');

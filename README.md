@@ -93,6 +93,10 @@ vide de la capture. Aucun contenu externe n’a été importé pour ces substitu
 Les lecteurs vidéo et audio natifs sont remplacés par des liens Markdown vers
 leurs fichiers publics sous `www.freelug.org/IMG/`, sans recopier les commandes
 du lecteur ni télécharger automatiquement les fichiers multimédias.
+La vidéo Theora historique `http://brickerik.free.fr/autre/muji_perforeuse.ogg`,
+explicitement présente dans sa capture, conserve également son URL exacte
+sous forme de lien Markdown. Aucun fichier externe n’est récupéré et aucune
+autre source multimédia externe n’est admise par cette exception.
 Les vignettes CSS reconnues des documents joints deviennent des images Markdown
 uniquement lorsque leurs fichiers sont présents dans la capture, sans supprimer
 les liens vers les documents.
@@ -110,6 +114,14 @@ sont pas acceptés. La variante HTTP ou HTTPS `?version=3&hl=fr_FR` conserve aus
 son URL exacte. Un objet contenant uniquement un lecteur avec une URL
 explicite reconnue peut être converti sans paramètre `movie`, mais les sources
 concurrentes et le texte de remplacement empêchent la conversion.
+Les tableaux de gabarit des trains reconnus par leurs dimensions **Largeur**,
+**Empattement** et **Porte-à-faux** deviennent des tableaux Markdown sans fusion.
+Les grands tableaux sont séparés par largeur ; les valeurs en gras sont conservées
+et les valeurs rouges portent la mention explicite `(rouge)`. Les dimensions,
+les espaces séparateurs et la continuité des lignes sont vérifiés avant conversion.
+Une cellule finale absente dans la source est signalée explicitement, sans lui
+attribuer de valeur. Les valeurs existantes, même celles issues d’une erreur
+de mise en forme de l’original, sont conservées sans correction.
 Les tableaux de tournoi `classement` avec une étiquette par ligne et des cellules
 fusionnées uniquement horizontalement deviennent des listes Markdown par tour,
 en conservant chaque équipe et score. Les autres tableaux complexes restent

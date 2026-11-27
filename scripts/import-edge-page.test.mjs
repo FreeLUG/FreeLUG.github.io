@@ -143,6 +143,24 @@ test('media without verified public source URLs remains unpublished', async t =>
   }
 });
 
+test('the explicitly recorded historical Theora video remains an exact Markdown link without fetching its source', async t => {
+  const { page, site, directory, html } = await fixture(t);
+  await writeFile(path.join(directory, 'article123_files', 'train.jpg'), 'fixture-image');
+  const url = 'http://brickerik.free.fr/autre/muji_perforeuse.ogg';
+  for (const raw of [url + '?extra=1', url.replace('free.fr', 'free.fr.evil.test'), url.replace('/autre/', '/other/')]) {
+    await writeFile(page, html.replace('La fin du récit.', `<video src="${raw}">Player fallback</video>`));
+    await assert.rejects(importEdgePage(page, site), /media requiring editorial migration/);
+  }
+  await writeFile(page, html.replace('La fin du récit.', `<p>Avant.</p><video src="${url}">Player fallback</video><p>Après.</p>`));
+  const result = await importEdgePage(page, site);
+  assert.ok(result.originalMediaLinks.includes(url));
+  const markdown = await readFile(path.join(site, '_articles', '123.md'), 'utf8');
+  assert.match(markdown, /\[Vidéo de la publication d’origine\]\(http:\/\/brickerik\.free\.fr\/autre\/muji_perforeuse\.ogg\)/);
+  assert.match(markdown, /Avant\./);
+  assert.match(markdown, /Après\./);
+  assert.doesNotMatch(markdown, /Player fallback|<video/);
+});
+
 test('pages saved from the excluded membership portal cannot be imported', async t => {
   const { page, site, html } = await fixture(t);
   await writeFile(page, html.replace('https://www.freelug.org/spip.php?article123 -->', 'https://adherents.freelug.org/adherer/FreeLUG -->'));
