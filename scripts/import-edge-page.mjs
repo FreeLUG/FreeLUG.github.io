@@ -12,14 +12,16 @@ const roots = { 1: '/regions/', 4: '/association/', 17: '/themes/' };
 const json = value => JSON.stringify(value, null, 2) + '\n';
 
 export function chromeArchive(text, pageKind = 'article') {
-  if (pageKind !== 'article' && pageKind !== 'author') throw new Error('Unsupported public archive page kind.');
+  if (!['article', 'author', 'section'].includes(pageKind)) throw new Error('Unsupported public archive page kind.');
   const normalized = text.replace(/\r\n/g, '\n');
   const headerEnd = normalized.indexOf('\n\n');
   const header = normalized.slice(0, headerEnd).replace(/\n[ \t]+/g, ' ');
   const sourceUrl = header.match(/^Snapshot-Content-Location: (.+)$/m)?.[1];
-  const sourcePattern = pageKind === 'article'
-    ? /^https:\/\/www\.freelug\.org\/spip\.php\?article\d+$/
-    : /^https:\/\/www\.freelug\.org\/spip\.php\?auteur[1-9]\d*$/;
+  const sourcePattern = {
+    article: /^https:\/\/www\.freelug\.org\/spip\.php\?article\d+$/,
+    author: /^https:\/\/www\.freelug\.org\/spip\.php\?auteur[1-9]\d*$/,
+    section: /^https:\/\/www\.freelug\.org\/spip\.php\?rubrique[1-9]\d*$/
+  }[pageKind];
   if (!sourcePattern.test(sourceUrl || '')) {
     throw new Error(`Expected a Chrome archive from the public https://www.freelug.org ${pageKind} source.`);
   }

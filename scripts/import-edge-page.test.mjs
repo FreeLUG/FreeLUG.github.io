@@ -5,6 +5,7 @@ import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { parse } from 'yaml';
 import { chromeArchive, importEdgePage } from './import-edge-page.mjs';
+import { importSectionThumbnail } from './import-section-thumbnail.mjs';
 
 async function fixture(t) {
   const directory = await mkdtemp(path.join(tmpdir(), 'freelug-edge-'));
@@ -116,6 +117,39 @@ test('a stale browser save cannot be mistaken for the requested article', async 
   await writeFile(page, html.replace('?article123 -->', '?article122 -->'));
   await assert.rejects(importEdgePage(page, site), /article 122, not expected article 123/);
   await assert.rejects(readFile(path.join(site, '_articles', '122.md')), /ENOENT/);
+});
+
+test('section captures require explicit opt-in and cannot enter the article importer', () => {
+  const source = 'https://www.freelug.org/spip.php?rubrique25';
+  const html = '<h1>Alsace</h1>';
+  const saved = `From: <Saved by Blink>\nSnapshot-Content-Location: ${source}\nContent-Type: multipart/related; boundary="section-test"\n\n--section-test\nContent-Type: text/html\nContent-Location: ${source}\nContent-Transfer-Encoding: base64\n\n${Buffer.from(html).toString('base64')}\n--section-test--\n`;
+  assert.equal(chromeArchive(saved, 'section').html.trim(), html);
+  assert.throws(() => chromeArchive(saved), /public .* article source/);
+  assert.throws(() => chromeArchive(saved.replaceAll('www.freelug.org', 'adherents.freelug.org'), 'section'), /public .* section source/);
+});
+
+test('regional section thumbnails import bundled originals without changing content or overriding editorial images', async t => {
+  const { directory, site } = await fixture(t);
+  const source = 'https://www.freelug.org/spip.php?rubrique25';
+  const image = 'https://www.freelug.org/local/cache-vignettes/L50xH97/rubon25-51739.png?123';
+  const html = `<div id="content"><header class="cartouche"><h1><img class="spip_logo" src="${image}">Alsace</h1></header></div>`;
+  const archive = `From: <Saved by Blink>\nSnapshot-Content-Location: ${source}\nContent-Type: multipart/related; boundary="region-test"\n\n--region-test\nContent-Type: text/html\nContent-Location: ${source}\nContent-Transfer-Encoding: base64\n\n${Buffer.from(html).toString('base64')}\n--region-test\nContent-Type: image/png\nContent-Location: ${image}\nContent-Transfer-Encoding: base64\n\n${Buffer.from('region-image').toString('base64')}\n--region-test--\n`;
+  const section = path.join(site, '_sections/regions-alsace.md');
+  const body = '\nActivités en Alsace.\n';
+  await writeFile(section, `---\ntitle: Alsace\nsource_id: 25\npermalink: /regions/alsace/\nparent: /regions/\n---\n${body}`);
+  const file = path.join(directory, 'rubrique25.mhtml');
+  await writeFile(file, archive.replace('Content-Location: ' + image, 'Content-Location: ' + image + '-missing'));
+  await assert.rejects(importSectionThumbnail(file, site), /missing from the archive/);
+  await writeFile(file, archive);
+  const result = await importSectionThumbnail(file, site);
+  assert.equal(result.image, '/media/regions/rubon25-51739.png');
+  const text = await readFile(section, 'utf8');
+  assert.equal(text.split('\n---\n')[1], body);
+  assert.equal(parse(text.match(/^---\n([\s\S]*?)\n---/)[1]).image_source, image);
+  assert.equal(await readFile(path.join(site, 'media/regions/rubon25-51739.png'), 'utf8'), 'region-image');
+  await importSectionThumbnail(file, site);
+  await writeFile(section, text.replace('/media/regions/rubon25-51739.png', '/media/editorial.png'));
+  await assert.rejects(importSectionThumbnail(file, site), /refusing to replace/);
 });
 
 test('native public media becomes editable source links without player controls', async t => {
