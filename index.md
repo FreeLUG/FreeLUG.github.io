@@ -30,7 +30,7 @@ highlights:
     description: Découvrez les grandes rubriques du forum et trouvez le bon endroit pour commencer à échanger autour de votre passion.
     url: https://forum.freelug.org/t/bienvenue-sur-le-forum-freelug/59
 membership_title: Envie de rejoindre l’association ?
-membership_description: Retrouvez le formulaire d’adhésion sur le portail FreeLUG. Si vous êtes déjà adhérent, votre espace personnel vous permet de suivre votre vie dans l’association.
+membership_description: Rejoignez les passionnés de FreeLUG et participez à la vie de l’association. Retrouvez le formulaire d’adhésion sur notre portail.
 ---
 
 ## Le plaisir de construire, le bonheur de partager

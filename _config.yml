@@ -2,8 +2,35 @@ title: FreeLUG
 lang: fr
 url: https://freelug.github.io
 baseurl: ""
+collections:
+  sections:
+    output: true
+  articles:
+    output: true
+  authors:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: sections
+    values:
+      layout: section
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: article
+  - scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
   - vendor
+  - scripts
+  - node_modules
+  - package.json
+  - package-lock.json

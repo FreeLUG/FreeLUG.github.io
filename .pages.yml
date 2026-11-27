@@ -21,6 +21,8 @@ content:
       - name: body
         label: Présentation de l’association
         type: rich-text
+        options:
+          format: markdown
       - name: activities
         label: Découvrir la communauté
         type: object
@@ -58,3 +60,232 @@ content:
       - name: membership_description
         label: Texte du bloc adhésion
         type: text
+  - name: sections
+    label: Rubriques
+    type: collection
+    path: _sections
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: title
+      fields: [title, parent, permalink]
+      sort: [title]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: title
+        label: Titre
+        type: string
+        required: true
+      - name: permalink
+        label: Adresse de la rubrique
+        type: string
+        required: true
+        description: "Adresse unique et stable, par exemple /rubriques/alsace/. Ne pas modifier après publication."
+        pattern: "^/([a-z0-9-]+/)+$"
+      - name: parent
+        label: Rubrique parente
+        type: reference
+        description: "Laisser vide pour une rubrique principale. Ne pas sélectionner cette rubrique ni l’une de ses sous-rubriques."
+        options:
+          collection: sections
+          value: "{fields.permalink}"
+          label: "{title}"
+      - name: description
+        label: Description pour les moteurs de recherche
+        type: text
+      - name: body
+        label: Présentation
+        type: rich-text
+        options:
+          format: markdown
+      - name: layout
+        type: string
+        hidden: true
+        default: section
+      - name: source_id
+        label: Identifiant historique
+        type: number
+        readonly: true
+      - name: source_url
+        label: Publication d’origine
+        type: string
+        readonly: true
+  - name: articles
+    label: Articles
+    type: collection
+    path: _articles
+    exclude: [".gitkeep"]
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: title
+      fields: [title, section, published_at]
+      sort: [published_at]
+      default:
+        sort: published_at
+        order: desc
+    fields:
+      - name: title
+        label: Titre
+        type: string
+        required: true
+      - name: permalink
+        label: Adresse de l’article
+        type: string
+        required: true
+        description: "Adresse unique et stable, par exemple /articles/ma-creation/. Ne pas modifier après publication."
+        pattern: "^/([a-z0-9-]+/)+$"
+      - name: section
+        label: Rubrique
+        type: reference
+        required: true
+        options:
+          collection: sections
+          value: "{fields.permalink}"
+          label: "{title}"
+      - name: published_at
+        label: Date de publication
+        type: date
+        default: ""
+        options:
+          time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssxxx"
+      - name: authors
+        label: Auteurs
+        type: string
+        list: true
+      - name: description
+        label: Résumé et description pour les moteurs de recherche
+        type: text
+      - name: body
+        label: Contenu
+        type: rich-text
+        options:
+          format: markdown
+      - name: layout
+        type: string
+        hidden: true
+        default: article
+      - name: source_id
+        label: Identifiant historique
+        type: number
+        readonly: true
+      - name: source_url
+        label: Publication d’origine
+        type: string
+        readonly: true
+  - name: authors
+    label: Auteurs
+    type: collection
+    path: _authors
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: title
+      fields: [title, permalink]
+      sort: [title]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: title
+        label: Nom public
+        type: string
+        required: true
+      - name: permalink
+        label: Adresse du profil
+        type: string
+        required: true
+        description: "Adresse unique et stable, par exemple /auteurs/mon-pseudo/. Ne pas modifier après publication."
+        pattern: "^/([a-z0-9-]+/)+$"
+      - name: image
+        label: Portrait
+        type: image
+      - name: description
+        label: Description pour les moteurs de recherche
+        type: text
+      - name: body
+        label: Présentation et liens publics
+        type: rich-text
+        options:
+          format: markdown
+      - name: articles
+        label: Articles de cet auteur
+        type: reference
+        description: "Sélectionner les articles présents dans cette archive. Les crédits textuels restent modifiables dans chaque article."
+        options:
+          collection: articles
+          multiple: true
+          value: "{fields.permalink}"
+          label: "{title}"
+      - name: layout
+        type: string
+        hidden: true
+        default: author
+      - name: source_names
+        label: Crédits historiques vérifiés
+        type: string
+        list: true
+        readonly: true
+      - name: source_id
+        label: Identifiant historique
+        type: number
+        readonly: true
+      - name: source_url
+        label: Profil public d’origine
+        type: string
+        readonly: true
+  - name: navigation
+    label: Navigation et cartes des rubriques
+    type: file
+    path: _data/navigation.yml
+    format: yaml
+    list: true
+    fields:
+      - name: title
+        label: Titre
+        type: string
+        required: true
+      - name: url
+        label: Rubrique
+        type: reference
+        required: true
+        options:
+          collection: sections
+          value: "{fields.permalink}"
+          label: "{title}"
+      - name: eyebrow
+        label: Surtitre
+        type: string
+      - name: description
+        label: Présentation
+        type: text
+  - name: not-found
+    label: Page introuvable
+    type: file
+    path: 404.md
+    fields:
+      - name: title
+        label: Titre
+        type: string
+      - name: eyebrow
+        label: Surtitre
+        type: string
+      - name: description
+        label: Description pour les moteurs de recherche
+        type: text
+      - name: body
+        label: Message
+        type: rich-text
+        options:
+          format: markdown
+      - name: layout
+        type: string
+        hidden: true
+        default: not-found
+      - name: permalink
+        type: string
+        hidden: true
+        default: /404.html

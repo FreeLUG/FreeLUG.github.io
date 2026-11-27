@@ -1,0 +1,22 @@
+<section class="archive-section" aria-labelledby="titre-articles" data-archive>
+  <div class="section-heading">
+    <h2 id="titre-articles">Les articles <span class="article-count">({{ include.articles.size }})</span></h2>
+    <div class="archive-search" hidden>
+      <label for="recherche-articles">{{ include.search_label | escape }}</label>
+      <input id="recherche-articles" type="search" placeholder="Un titre, une année, un auteur…" autocomplete="off">
+    </div>
+  </div>
+  <p class="archive-result visually-hidden" role="status" aria-live="polite"></p>
+  <div class="article-list">
+    {% for item in include.articles %}
+    <article class="archive-entry" data-entry>
+      {% if item.published_at and item.published_at != "" %}<time datetime="{{ item.published_at | escape }}">{% include date.html value=item.published_at %}</time>{% endif %}
+      <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
+      {% if item.authors.size > 0 %}<p class="article-authors">{{ item.authors | join: ", " | escape }}</p>{% endif %}
+      <p>{{ item.description | escape }}</p>
+    </article>
+    {% endfor %}
+  </div>
+  <p class="archive-empty" hidden>Aucun article ne correspond à votre recherche.</p>
+</section>
+<script src="{{ '/assets/js/archive.js' | relative_url }}" defer></script>

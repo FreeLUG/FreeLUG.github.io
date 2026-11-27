@@ -1,0 +1,5 @@
+{% if include.section.parent and include.section.parent != "" %}
+  {% assign ancestor = site.sections | where: "permalink", include.section.parent | first %}
+  {% if ancestor %}{% include section-trail.html section=ancestor %}{% endif %}
+{% endif %}
+<li><a href="{{ include.section.url | relative_url }}">{{ include.section.title | escape }}</a></li>

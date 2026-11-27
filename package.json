@@ -1,0 +1,14 @@
+{
+  "name": "freelug-content-migration",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test scripts/*.test.mjs"
+  },
+  "devDependencies": {
+    "@mixmark-io/domino": "^2.2.0",
+    "turndown": "^7.2.0",
+    "turndown-plugin-gfm": "^1.0.2",
+    "yaml": "^2.8.0"
+  }
+}

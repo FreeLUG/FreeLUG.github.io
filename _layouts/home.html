@@ -1,29 +1,6 @@
-<!doctype html>
-<html lang="{{ site.lang | escape }}">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
-    <meta name="description" content="{{ page.description | escape }}">
-    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
-  </head>
-  <body>
-    <a class="skip-link" href="#contenu">Aller au contenu</a>
-    <header class="site-header">
-      <div class="container header-inner">
-        <a class="brand" href="{{ '/' | relative_url }}" aria-label="FreeLUG, accueil">
-          <img class="brand-logo" src="{{ '/media/freelug-logo.png' | relative_url }}" alt="FreeLUG" width="100" height="77">
-          <span class="brand-tagline">La passion des briques,<br>ensemble.</span>
-        </a>
-        <nav aria-label="Navigation principale">
-          <a href="#association">L’association</a>
-          <a href="https://forum.freelug.org/">Le forum</a>
-          <a class="member-link" href="https://adherents.freelug.org/">Espace adhérents <span aria-hidden="true">↗</span></a>
-        </nav>
-      </div>
-    </header>
-
-    <main id="contenu">
+---
+layout: default
+---
       <section class="hero" aria-labelledby="titre-accueil">
         <div class="container hero-inner">
           <div class="hero-copy">
@@ -32,12 +9,33 @@
             <p class="hero-description">{{ page.description | escape }}</p>
             <div class="button-row">
               <a class="button button-primary" href="https://forum.freelug.org/">Rejoindre la discussion <span aria-hidden="true">→</span></a>
-              <a class="button button-secondary" href="#association">Découvrir l’association</a>
+              <a class="button button-secondary" href="{{ '/association/' | relative_url }}">Découvrir l’association</a>
             </div>
             <p class="hero-note">Créer. Partager. Se rencontrer.</p>
           </div>
           <div class="hero-art" aria-hidden="true">
             <img src="{{ '/media/materiel.png' | relative_url }}" alt="" width="600" height="443" fetchpriority="high">
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-muted" aria-labelledby="titre-rubriques">
+        <div class="container">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Explorez FreeLUG</p>
+              <h2 id="titre-rubriques">Une communauté, toute une histoire</h2>
+            </div>
+          </div>
+          <div class="category-grid">
+            {% for item in site.data.navigation %}
+            <article class="card">
+              <p class="eyebrow">{{ item.eyebrow | escape }}</p>
+              <h3><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
+              <p>{{ item.description | escape }}</p>
+              <a class="text-link card-link" href="{{ item.url | relative_url }}">Découvrir {{ item.title | escape }} <span aria-hidden="true">→</span></a>
+            </article>
+            {% endfor %}
           </div>
         </div>
       </section>
@@ -98,20 +96,5 @@
         </div>
         <div class="membership-actions">
           <a class="button button-primary" href="https://adherents.freelug.org/adherer/FreeLUG">Adhérer à FreeLUG <span aria-hidden="true">→</span></a>
-          <a href="https://adherents.freelug.org/">Déjà adhérent ? Mon espace personnel</a>
         </div>
       </section>
-    </main>
-
-    <footer class="site-footer">
-      <div class="container footer-inner">
-        <div><a class="footer-brand" href="{{ '/' | relative_url }}"><img src="{{ '/media/freelug-logo.png' | relative_url }}" alt="FreeLUG, accueil" width="100" height="77" loading="lazy"></a><p>La passion des briques, ensemble.</p></div>
-        <nav aria-label="Liens utiles">
-          <a href="https://forum.freelug.org/">Forum</a>
-          <a href="https://adherents.freelug.org/">Espace adhérents</a>
-          <a href="https://adherents.freelug.org/mentions-legales">Mentions légales</a>
-        </nav>
-      </div>
-    </footer>
-  </body>
-</html>

@@ -1,8 +1,10 @@
 # Site FreeLUG
 
 Site en français construit avec Jekyll et compatible avec GitHub Pages.
-Les contenus de l’accueil sont modifiables avec [Pages CMS](https://pagescms.org/docs/).
-Aucun serveur CMS ni JavaScript côté visiteur n’est nécessaire.
+Les contenus sont en Markdown avec métadonnées YAML et modifiables avec
+[Pages CMS](https://pagescms.org/docs/), sans écrire de HTML.
+Aucun serveur CMS n’est nécessaire. La recherche dans les rubriques est une
+amélioration JavaScript facultative ; tous les articles restent accessibles sans elle.
 
 ## Modifier les contenus
 
@@ -10,14 +12,211 @@ Aucun serveur CMS ni JavaScript côté visiteur n’est nécessaire.
 2. Ouvrir [app.pagescms.org](https://app.pagescms.org) et se connecter avec GitHub.
 3. Autoriser l’application GitHub Pages CMS pour `FreeLUG/FreeLUG.github.io`.
    L’approbation d’un propriétaire de l’organisation peut être nécessaire.
-4. Sélectionner le dépôt et la branche à modifier, puis **Accueil**.
-5. Modifier l’accroche, la présentation, les cartes, la sélection du forum ou le
-   bloc d’adhésion, puis enregistrer.
+4. Sélectionner le dépôt et la branche à modifier.
+5. Choisir **Accueil**, **Rubriques**, **Articles**, **Auteurs**,
+   **Navigation et cartes des rubriques** ou **Page introuvable**, puis enregistrer
+   les modifications.
 
-Les contenus sont dans [index.md](index.md), le schéma de l’éditeur dans
+L’accueil est dans [index.md](index.md), les rubriques dans `_sections/*.md`,
+les articles dans `_articles/*.md`, les profils publics dans `_authors/*.md`, la navigation dans
+[_data/navigation.yml](_data/navigation.yml), le schéma de l’éditeur dans
 [.pages.yml](.pages.yml) et les images téléversées dans [media](media/).
 Conserver `layout: home` dans les métadonnées de la page.
 La sélection du forum est éditoriale : elle n’est pas synchronisée automatiquement.
+
+Les vues des collections dans [.pages.yml](.pages.yml) utilisent `view.sort`
+comme liste de champs et `view.default.sort` / `view.default.order` pour le tri
+initial, conformément au [schéma Pages CMS](https://pagescms.org/docs/configuration/content/view/).
+Un `view.sort` scalaire ou un `view.order` directement dans la vue invalide la
+configuration et peut produire l’erreur trompeuse « items must be an array of
+content entries ». Après publication d’une correction sur la branche sélectionnée,
+recharger la configuration dans Pages CMS.
+
+### Créer une rubrique ou un article
+
+Dans **Rubriques**, ajouter un titre, une adresse unique terminée par `/`
+(par exemple `/rubriques/alsace/`), une rubrique parente et la présentation.
+Seules les rubriques principales n’ont pas de parent. Ne jamais choisir la
+rubrique elle-même ou l’un de ses descendants comme parent.
+
+Dans **Articles**, ajouter un titre, une adresse unique (par exemple
+`/articles/ma-creation/`), sélectionner la rubrique, puis rédiger le contenu.
+La date, les auteurs et le résumé sont modifiables dans le même formulaire.
+L’éditeur propose un mode visuel et un mode source Markdown ; les images
+s’insèrent depuis la médiathèque.
+
+Les listes d’articles, compteurs, sous-rubriques et fils d’Ariane sont calculés
+à partir des champs **Rubrique** et **Rubrique parente**. Il n’y a aucune liste
+d’identifiants à maintenir. Une nouvelle rubrique apparaît dans son parent ;
+pour l’ajouter à la navigation principale, modifier **Navigation et cartes des
+rubriques**. Conserver les adresses après publication : elles servent également
+aux relations entre les contenus. Avant de supprimer une rubrique, déplacer
+ses articles et ses sous-rubriques et retirer son éventuel lien de navigation.
+
+Les champs historiques sont en lecture seule et restent vides pour les nouveaux
+contenus. Les gabarits HTML dans [_layouts](_layouts/) sont réservés à la mise
+en page, pas à la rédaction.
+
+### Modifier les auteurs
+
+Dans **Auteurs**, modifier le nom public, le portrait, la présentation Markdown,
+les liens publics et la sélection **Articles de cet auteur**. Cette sélection
+alimente la liste du profil ; seuls les articles déjà présents dans cette
+archive sont proposés. Elle ne prétend pas reproduire tous les articles du
+site historique, dont certains sont hors périmètre ou encore en attente.
+
+Les crédits textuels des articles sont conservés sans changement. Un crédit
+devient un lien vers un profil uniquement si cet article y est sélectionné et
+si son texte correspond au nom public ou à un crédit historique vérifié.
+Les correspondances ambiguës restent du texte : aucune identité n’est déduite
+du seul nom. Pour un nouvel auteur, utiliser le même nom public dans le profil
+et dans les crédits de ses articles, puis sélectionner ces articles dans son
+profil. Les anciens noms vérifiés sont en lecture seule.
+
+### Importer le site historique
+
+L’import complet est en cours. La lecture page par page dans Edge ou Chrome permet de
+reprendre les contenus publics lorsque le navigateur intégré est bloqué.
+Seul `https://www.freelug.org` est à parcourir : ne pas consulter ni importer
+`https://adherents.freelug.org/`, même lorsqu’un ancien article y redirige.
+Les liens externes présents dans les textes ne constituent pas une autorisation
+de parcourir ou d’importer leurs destinations.
+Les 77 rubriques connues sont présentes, avec leurs descriptions et leur
+hiérarchie. Les articles sont ajoutés progressivement, avec leurs dates et
+auteurs ; une rubrique présente ne signifie pas que tous ses articles ont
+été repris. Le [plan public par rubrique](https://www.freelug.org/spip.php?page=plan&tri=par_rubrique),
+enregistré depuis Chrome, référence 1 841 articles dans ces 77 rubriques.
+Cette liste inclut les pages anciennes absentes des premières listes paginées ;
+son état et la source sont indiqués dans `_data/migration.json`.
+Les articles des autres branches du plan, notamment **Translation**, ne font
+pas partie des trois rubriques retenues.
+Les anciennes entrées qui redirigent hors du site sont conservées sous forme
+de notices Markdown, avec le titre et la date du plan public et un lien vers
+la publication d’origine. Le contenu des sites externes n’est pas recopié ;
+aucun auteur n’est déduit de ces liens.
+Les médias indisponibles font l’objet d’une note explicite dans le Markdown :
+l’article 418 conserve le texte alternatif de son icône d’aide absente, et
+l’article 1298 conserve le lien vidéo présent dans le texte à la place du lecteur
+vide de la capture. Aucun contenu externe n’a été importé pour ces substitutions.
+Les lecteurs vidéo et audio natifs sont remplacés par des liens Markdown vers
+leurs fichiers publics sous `www.freelug.org/IMG/`, sans recopier les commandes
+du lecteur ni télécharger automatiquement les fichiers multimédias.
+La vidéo Theora historique `http://brickerik.free.fr/autre/muji_perforeuse.ogg`,
+explicitement présente dans sa capture, conserve également son URL exacte
+sous forme de lien Markdown. Aucun fichier externe n’est récupéré et aucune
+autre source multimédia externe n’est admise par cette exception.
+Les vignettes CSS reconnues des documents joints deviennent des images Markdown
+uniquement lorsque leurs fichiers sont présents dans la capture, sans supprimer
+les liens vers les documents.
+Les lecteurs YouTube dont l’URL originale est explicitement conservée dans les
+métadonnées de la capture MHTML deviennent aussi des liens Markdown, avec leur
+identifiant de liste de lecture lorsqu’il est reconnu, sans accès au site externe.
+Les anciens lecteurs Flash YouTube, Dailymotion et `videos.freelug.org`
+reconnus conservent également leurs URL vidéo explicites sous forme de liens,
+sans importer ni exécuter le lecteur. Les sources ambiguës et les autres
+intégrations restent en attente de traitement éditorial.
+Les variantes historiques YouTube `&hl=fr_FR&fs=1`, `&hl=fr&fs=1`, `?hl=fr&fs=1` et
+`?fs=1&hl=fr_FR` conservent leur URL exacte, y compris le séparateur final `&`
+du premier format lorsqu’il est présent ; les paramètres supplémentaires ne
+sont pas acceptés. La variante HTTP ou HTTPS `?version=3&hl=fr_FR` conserve aussi
+son URL exacte. Un objet contenant uniquement un lecteur avec une URL
+explicite reconnue peut être converti sans paramètre `movie`, mais les sources
+concurrentes et le texte de remplacement empêchent la conversion.
+Les tableaux de gabarit des trains reconnus par leurs dimensions **Largeur**,
+**Empattement** et **Porte-à-faux** deviennent des tableaux Markdown sans fusion.
+Les grands tableaux sont séparés par largeur ; les valeurs en gras sont conservées
+et les valeurs rouges portent la mention explicite `(rouge)`. Les dimensions,
+les espaces séparateurs et la continuité des lignes sont vérifiés avant conversion.
+Une cellule finale absente dans la source est signalée explicitement, sans lui
+attribuer de valeur. Les valeurs existantes, même celles issues d’une erreur
+de mise en forme de l’original, sont conservées sans correction.
+Les tableaux de tournoi `classement` avec une étiquette par ligne et des cellules
+fusionnées uniquement horizontalement deviennent des listes Markdown par tour,
+en conservant chaque équipe et score. Les autres tableaux complexes restent
+en attente de traitement éditorial.
+Les 230 profils publics identifiés dans les signatures des articles capturés
+sont repris en Markdown, avec leurs portraits et leurs présentations lorsqu’elles
+existent. Les liens personnels sont conservés sans consulter leurs destinations.
+Un profil sans biographie garde un corps Markdown vide ; aucun texte n’est inventé.
+Le parseur MHTML accepte ces captures uniquement avec l’option explicite
+`chromeArchive(contenu, 'author')` et une URL publique exacte `?auteurID`.
+L’import des articles reste limité aux URL `?articleID` ; cette option ne publie
+pas de profil et n’autorise ni les redirections externes ni les espaces membres.
+Pour convertir un profil capturé et son entrée dans l’inventaire des signatures
+publiques vérifiées :
+
+```powershell
+node scripts\import-author-page.mjs C:\captures\auteur2.mhtml C:\captures\public-author-inventory.json
+```
+
+Cet inventaire associe chaque auteur à son `id`, son `source_url`, ses `names`
+et aux identifiants `articles` lus dans les signatures des sources sauvegardées,
+jamais aux seules listes paginées des profils. L’import préserve les médias
+embarqués, refuse d’écraser un profil existant et signale les associations dont
+l’article n’est pas encore publié. Après reprise de ces articles, les ajouter
+dans la sélection du profil via Pages CMS.
+
+La rubrique **Statuts** contient ses quatre documents. Le scan original du
+récépissé est conservé dans `media/archive/`. Les textes complets déjà capturés
+sans média manquant ont également été convertis ; les autres restent en attente
+dans les sources de travail, hors du dépôt.
+
+Pour une page ouverte individuellement dans Edge ou Chrome, choisir **Enregistrer sous >
+Page web complète**, puis convertir le fichier local :
+
+```shell
+node scripts\import-edge-page.mjs C:\chemin\article123.html
+```
+
+Chrome propose aussi **Page web, fichier unique (*.mhtml)**. Ce format contient
+la page et ses médias dans un seul fichier, sans dossier de ressources séparé :
+
+```shell
+node scripts\import-edge-page.mjs C:\chemin\article123.mhtml
+```
+
+Le résultat Markdown est le même ; l’import refuse une archive tronquée ou
+une image absente de l’archive.
+
+Attendre la fin de l’enregistrement avant de changer de page : Chrome peut
+annuler un téléchargement encore en cours lors de la navigation suivante.
+
+Cette commande ne fait aucune requête réseau. Elle conserve le texte, les
+crédits, les notes et les documents joints, ainsi que les images affichées
+enregistrées par le navigateur. Elle refuse d’écraser
+un article existant ou de publier un article dont une image enregistrée manque.
+Les notes SPIP, y compris les groupes numérotés, deviennent des notes Markdown
+avec leurs références et leur texte.
+Les liens vers des originaux haute définition sur le site historique sont
+conservés et signalés dans le résultat ; ils ne sont pas téléchargés implicitement.
+Les contenus incorporés et tableaux complexes nécessitent une reprise éditoriale.
+
+Les outils dans [scripts](scripts/) nécessitent Node.js et `npm ci`.
+Le générateur convertit les contenus capturés en fichiers Markdown, réécrit les
+liens internes et conserve les métadonnées d’origine. Il refuse un inventaire
+incomplet et les tableaux complexes qui nécessitent une adaptation éditoriale,
+plutôt que de conserver du HTML ou de perdre leur structure.
+
+```shell
+node scripts\import-site.mjs generate C:\chemin\capture-complete
+npm test
+```
+
+Le générateur est destiné à l’import initial : ne pas le relancer sur des
+contenus déjà modifiés dans Pages CMS sans comparer les changements.
+
+La collecte utilise une seule requête à la fois et attend cinq secondes avant
+chaque nouvelle requête au site source, y compris pour les médias et les liens
+de redirection. Les articles et médias déjà enregistrés sont réutilisés ;
+les pages hors périmètre et les médias définitivement absents sont mémorisés.
+Un point de reprise est enregistré après chaque nouvelle page ou média.
+
+La collecte s’arrête immédiatement en cas de réponse HTTP 401, 403, 429 ou 503,
+sans réessayer ni contourner les protections. Si le serveur fournit `Retry-After`,
+sa valeur est conservée dans le message d’erreur avant toute reprise manuelle.
+Ne pas relancer tant que l’accès n’est pas rétabli. L’appel
+`window.stopFreeLUGCapture()` dans la page de collecte permet également de
+demander une pause ; aucune nouvelle requête source ne démarre ensuite.
 
 ## Présentation
 
@@ -53,6 +252,7 @@ Le site sera disponible sur <https://freelug.github.io/>.
 
 Le workflow [pages.yml](.github/workflows/pages.yml) :
 
+- teste la conversion Markdown et la compatibilité des contenus avec le schéma CMS ;
 - construit le site avec les dépendances Jekyll officielles de GitHub Pages ;
 - vérifie la construction des pull requests vers `main`, sans les publier ;
 - publie automatiquement les modifications poussées sur `main`, y compris
