@@ -5,6 +5,8 @@ Les contenus sont en Markdown avec métadonnées YAML et modifiables avec
 [Pages CMS](https://pagescms.org/docs/), sans écrire de HTML.
 Aucun serveur CMS n’est nécessaire. La recherche dans les rubriques est une
 amélioration JavaScript facultative ; tous les articles restent accessibles sans elle.
+Le thème clair ou sombre suit automatiquement la préférence de l'appareil,
+sans JavaScript.
 
 ## Modifier les contenus
 
